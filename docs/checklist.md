@@ -14,6 +14,8 @@ Everything you need to *do* (not just read), consolidated into one checkable lis
   - **Turn marketing + email consent ON** in account settings — no consent = no birthday coupon (official FAQ).
   - ✅ Confirmed sent: coupon goes out **exactly 7 days before** each birthday; check **spam/promotions folders** too.
 - [ ] **KakaoTalk** installed on your US phone, US number verified.
+- [ ] Open the [**City Deal Checklist**](city-deal-checklist.md): choose the third city, save your hotel neighborhoods, and mark the Seoul/Busan deal rows you actually want to use.
+- [ ] For every rotating coupon, keep the **barcode + expiry + participating branch** together; do not treat a general channel membership as a guaranteed coupon.
 - [ ] Add brand channels (search in KakaoTalk): `@버거킹` · `@KFC코리아` · `@롯데리아` · `@배스킨라빈스` · `@던킨` · `@파리바게뜨` · `@뚜레쥬르` · `@네네치킨` · `@BBQ치킨` · `@맘스터치`
 - [ ] Bookmark **Klook / KKday / Creatrip** dining vouchers (BBQ, buffets, cakes) — buy in USD.
 
@@ -36,7 +38,7 @@ Everything you need to *do* (not just read), consolidated into one checkable lis
 
 - [ ] **Open the [Trip Calendar](trip-calendar.md)** — what's on today (promo resets, closures, festival windows)?
 - [ ] **Check KakaoTalk channel chats** — new monthly/seasonal coupon barcodes drop at month start.
-- [ ] **Decide meal plan** with the [Neighborhood Guide](neighborhood-guide.md) (or [Busan Guide](busan-guide.md) if south).
+- [ ] **Decide meal plan** with the [Neighborhood Guide](neighborhood-guide.md) (or [Busan Guide](busan-guide.md) if south), then update the matching row in the [City Deal Checklist](city-deal-checklist.md).
 - [ ] Carry: passport only on days you'll buy alcohol, use hypermarket tax refund, or redeem the IKEA tart.
 
 ### Arrival night — Oct 31 (Sat)

@@ -22,7 +22,8 @@ Every entry is sourced, dated, and verified against official releases and terms 
 | Doc | What's inside | Best for |
 | --- | --- | --- |
 | 🚀 [`docs/start-here.md`](docs/start-here.md) | 5-minute beginner's guide — the 2 rules, 3 deal types, app setup, Korean glossary, first-48-hours plan | Absolute beginners & last-minute prep |
-| ✅ [`docs/checklist.md`](docs/checklist.md) | **NEW:** Master to-do checklist (pre-trip deadlines + in-trip daily routine) with a fill-in **birthday schedule** table | Actually getting ready |
+| ✅ [`docs/checklist.md`](docs/checklist.md) | Master to-do checklist (pre-trip deadlines + in-trip daily routine) with a fill-in **birthday schedule** table | Actually getting ready |
+| 📍 [`docs/city-deal-checklist.md`](docs/city-deal-checklist.md) | **NEW:** Markable Seoul + Busan deal/coupon checklist, location reality, live-confirmation steps, and a safe template for the unnamed third city | Planning by city |
 | 🛬 [`docs/arrival-guide.md`](docs/arrival-guide.md) | **NEW:** K-ETA status, ICN arrival steps (WOWPASS/T-money/eSIM, AREX), airport tax-refund kiosks, first meals | Landing day & departure day |
 | 💳 [`docs/money-guide.md`](docs/money-guide.md) | **NEW:** Payment methods (WOWPASS vs T-money vs cards), best exchange rates, price index & daily budgets | Never overpaying |
 | 🗣️ [`docs/phrasebook.md`](docs/phrasebook.md) | **NEW:** 40 Korean phrases + deal-term glossary (kiosk, restaurant, market, delivery, tax refund) | Ordering & couponing in Korean |
@@ -42,6 +43,12 @@ Every entry is sourced, dated, and verified against official releases and terms 
 | 📊 [`data/deal-tracker.csv`](data/deal-tracker.csv) | **NEW:** CSV tracker (date, deal, price, savings, worked?) — one row per redemption | Counting your savings |
 
 ---
+
+## ✨ What's New (City deal audit — 2026-08-03)
+
+- **📍 City-first, markable plan:** [City Deal Checklist](docs/city-deal-checklist.md) separates **Seoul-only**, **Busan-only**, citywide, and third-city-to-be-chosen deals. Every row has Plan / Confirmed / Used boxes, exact location reality, and a live check step.
+- **🔎 Honest current-status pass:** standing benefits, official location systems, and source links were rechecked today. Rotating KakaoTalk, travel-platform, delivery, WOWPASS, department-store and festival offers are now explicitly **live-only** rather than promised months ahead; confirm their barcode/listing/partner and branch on the day.
+- **🧭 No guessed third city:** the guide now gives a repeatable city-selection checklist instead of asserting a branch exists somewhere you have not named.
 
 ## ✨ What's New (v3.2 — 2026-08-03)
 

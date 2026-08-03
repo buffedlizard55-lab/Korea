@@ -173,3 +173,19 @@ All 60+ links in this repo were re-checked on **2026-08-03**. Statuses:
 - **Dookki:** added 90-min limit + ₩3,000 environmental-fee rule from official site.
 - **Ashley Queens:** added weekend/holiday price ₩27,900.
 - **Myeongryun Jinsa Galbi:** added solo-dining restrictions note.
+
+
+---
+
+## City availability & live-offer audit — 2026-08-03
+
+| Claim / system | What was checked | Result / safe use | Source confidence |
+| --- | --- | --- | --- |
+| Dookki location availability | Official domestic store directory | Operating Seoul and Busan locations are listed (including Seoul Myeongdong and Busan Haeundae/Busan University listings). Use the live directory/Naver Map for a specific branch and hours. | 🟢 [Official directory](https://www.dookki.co.kr/store/domestic?page=6) |
+| Mom’s Touch city availability | Official store finder | The finder currently lists Seoul and Busan locations. Individual promotions can exclude branches, so menu availability is distinct from coupon eligibility. | 🟢 [Official finder](http://www.momstouch.co.kr/sub/store/store_01_list.html) |
+| IKEA city routing | Official customer-service store article + previously logged Family terms | IKEA has Seoul-metro/Busan routes; use the current store page before traveling. The tart’s D-7/consent terms are unchanged in this guide; it remains an ID-caveat benefit, not a zero-ID promise. | 🟢 [Official store information](https://www.ikea.com/kr/en/customer-service/knowledge/articles/06cg3965-5781-4163-bc3b-f858c52ggdgf.html) |
+| Convenience-store 1+1/2+1 | Official chain systems already logged; shelf offers are rotating | The promotional mechanism is current, but exact product, stock, combination and price must be read from the in-store shelf tag. It is not a pre-bookable coupon. | 🟢 official chain sites (logged above) |
+| KakaoTalk / platform / delivery / WOWPASS / department-store offers | Terms and availability are dynamic and often branch/date dependent | Do **not** label a future barcode, platform listing, first-order banner, cashback merchant, or visitor booklet as guaranteed. Confirm the live expiry, participating branch, price and conditions on the day. | Mixed; live-only |
+| Korea Sale Festa 2026 | Official 2026 event/partner list is not yet published | Not a current deal. Check the official site from late September; city checklist labels it unannounced. | 🟢 official domain / 🟡 past government coverage |
+
+The actionable result is [City Deal Checklist](city-deal-checklist.md): Seoul, Busan and the still-unnamed third city are separated, and each possible redemption has Plan / Confirmed / Used boxes.
