@@ -1,6 +1,6 @@
-# 🛍️ Tourist Promotions & Travel-Platform Dining Deals
+# 🛍️ Tourist Promotions, Airport Buffets & Travel-Platform Dining Deals
 
-Deals aimed specifically at **foreign visitors and US citizens**—no Korean Resident Registration Number (`RRN`), no Alien Registration Card (`ARC`), no `본인인증` phone verification, and **zero physical ID check** at the restaurant or kiosk.
+Deals aimed specifically at **foreign visitors and US citizens**—no Korean Resident Registration Number (`RRN`), no Alien Registration Card (`ARC`), no `본인인증` phone verification, and **zero physical ID check** at restaurant/kiosk cashiers (unless using boarding-pass/airport lounge perks as noted).
 
 > **Last verified: 2026-08-03**  
 > **🎯 Trip Timing:** Tailored for our **October 31 to November 22, 2026 itinerary**.
@@ -20,7 +20,43 @@ Your trip dates (Oct 31 – Nov 22) overlap directly with South Korea's official
 
 ---
 
-## ☕ 2. Department Store Foreign Visitor F&B Vouchers (Zero ARC Needed)
+## ✈️ 2. Airline Boarding Pass Dining Discounts (`탑승권 할인`)
+
+If you fly into Seoul via major Korean carriers, your boarding pass acts as a discount coupon for **7 days to 1 month after your arrival date**:
+
+### Asiana Airlines Magic Boarding Pass & Korean Air Excellent Boarding Pass
+- **What you get:** **10% to 20% off** at participating Seoul partner restaurants, traditional tea houses, airport transit lounges, and hotel buffets.
+- **How to claim:** Present your mobile or physical boarding pass before ordering.
+- 🪪 **ID Notice:** *Because boarding passes are tied to passenger names, staff may glance at your passport to verify your name matches the boarding pass.*
+- 🟢 [Asiana Magic Boarding Pass Official Terms](https://m.flyasiana.com/C/KR/EN/travel/mbp/main)
+
+---
+
+## 🛫 3. Airport Dining & Free Buffet Lounges (Incheon ICN / Gimpo / Gimhae)
+
+Don't overpay for airport food before your flight home. Use these tourist-accessible airport dining strategies:
+
+### Priority Pass / DragonPass Free Buffet Feasts (Matina Lounge & Sky Hub Lounge)
+- Many US travel credit cards (Chase Sapphire Reserve, Capital One Venture X, Amex Platinum, Citi Prestige) include Priority Pass or LoungeKey.
+- **Where to go:** At Incheon International Airport (ICN Terminal 1 & Terminal 2), skip standard food courts and head to **Matina Lounge (`마티나 라운지`)** or **Sky Hub Lounge (`스카이허브 라운지`)**.
+- **What's included:** A full-scale Korean buffet featuring build-your-own bibimbap, tteokbokki, fried chicken, bulgogi, cup noodles, salad bar, desserts, beer, and wine at zero cost.
+- 🟢 [Incheon Airport Lounge Guide](https://www.reddit.com/r/PriorityPass/comments/1ja701o/best_lounge_at_incheon_airport_seoul_south_korea/)
+
+### Klook Airport Meal Vouchers
+- For travelers without Priority Pass, Klook sells discounted meal vouchers for Incheon Airport food halls (`CJ Foodworld`, `Flavour 6`) in USD, saving ~10% below airport register prices.
+
+---
+
+## 🎫 4. City Tourist Passes: Discover Seoul Pass & Visit Busan Pass
+
+If you buy a city tourist pass for attractions, do not overlook their embedded restaurant and cafe discounts:
+- **Discover Seoul Pass (DSP):** Includes **10% to 20% discounts** at partner cafes, traditional Korean restaurants, Hard Rock Cafe Seoul, and N Seoul Tower dining.
+- **Visit Busan Pass (VBP):** Includes free coffee/dessert treats or 10–20% discounts at participating Busan ocean-view cafes and seafood restaurants.
+- 🟢 [Discover Seoul Pass Official](https://discoverseoulpass.valuecom.com/)
+
+---
+
+## ☕ 5. Department Store Foreign Visitor F&B Vouchers (Zero ARC Needed)
 
 Major Korean department stores offer exclusive dining and cafe vouchers to foreign visitors holding non-Korean passports:
 
@@ -35,7 +71,7 @@ Major Korean department stores offer exclusive dining and cafe vouchers to forei
 
 ---
 
-## 🎟️ 3. Travel-Platform Dining Vouchers (Buy in USD Before You Dine)
+## 🎟️ 6. Travel-Platform Dining Vouchers (Buy in USD Before You Dine)
 
 These platforms sell discounted Korean restaurant vouchers, celebratory birthday cakes, and buffet tickets in USD—saving you 10–30% below walk-in prices and avoiding foreign transaction fees.
 
@@ -52,8 +88,8 @@ These platforms sell discounted Korean restaurant vouchers, celebratory birthday
 
 ---
 
-## 💳 4. Payment-Layer Perks for Visitors
+## 💳 7. Payment-Layer & Hotel Loyalty Dining Perks
 
 - **WOWPASS:** Prepaid tourist debit card (KRW) sold at airport and station kiosks. The accompanying app features periodic **merchant cashback offers** at cafes and restaurants across Seoul and Busan. 🟢 <https://www.wowpass.io>
-- **Tax Refund (`즉시면세`):** Applies only to retail shopping (apparel, beauty, souvenirs), **never to restaurant meals or cafes**—do not budget tax refunds into food savings.
-- **Why Ignore Telecom Discounts (KT / SKT / LGU+):** Many Korean dining blogs list 5–15% telecom membership discounts at family restaurants. Because our group has **no Korean resident companion**, these telecom discounts are not accessible.
+- **Global Hotel Loyalty Programs (Marriott Bonvoy / Hilton Honors):** Even if you are not staying overnight, members of **Marriott Bonvoy** receive standing **10% to 20% F&B discounts** at participating Marriott/Sheraton/Westin/Josun hotel restaurants in Seoul and Busan simply by showing their digital membership number.
+- **Tax Refund (`즉시면세`):** Applies only to retail shopping (apparel, beauty, souvenirs) and hypermarket groceries ≥₩15,000, **never to restaurant meals or cafes**—do not budget tax refunds into restaurant savings.

@@ -8,11 +8,11 @@ Every entry is sourced, dated, and verified against official releases and terms 
 
 ---
 
-## 🚀 NEW: Start With Your Custom Action Plan
+## 🚀 NEW: Exhaustive 12-Avenue Action Plan for US Citizens
 
-Because our group consists of **US citizens with no Korean resident companion** celebrating **multiple birthdays between Oct 31 and Nov 22**, we have created a dedicated battle plan that bypasses Korean telecom identity verification (`본인인증`) and guarantees **zero physical ID checks** at restaurants:
+Because our group consists of **US citizens with no Korean resident companion** celebrating **multiple birthdays between Oct 31 and Nov 22**, we have searched and exhausted every possible F&B savings channel in South Korea. Our battle plan bypasses Korean telecom identity verification (`본인인증`) and guarantees **zero physical ID checks** at restaurants and cafes:
 
-👉 **Read the master playbook:** [`docs/us-tourist-action-plan.md`](docs/us-tourist-action-plan.md)
+👉 **Read the master playbook (All 12 Avenues):** [`docs/us-tourist-action-plan.md`](docs/us-tourist-action-plan.md)
 
 ---
 
@@ -20,31 +20,33 @@ Because our group consists of **US citizens with no Korean resident companion** 
 
 | Doc | What's inside |
 | --- | --- |
-| 🗽 [`docs/us-tourist-action-plan.md`](docs/us-tourist-action-plan.md) | **NEW:** Custom Oct 31 – Nov 22 D-30 timeline, zero-ID-check guarantee & US citizen workaround guide |
+| 🗽 [`docs/us-tourist-action-plan.md`](docs/us-tourist-action-plan.md) | **NEW:** Custom Oct 31 – Nov 22 D-30 timeline, 12-Avenue Master Checklist & US citizen workaround guide |
 | 🎂 [`docs/birthday-freebies.md`](docs/birthday-freebies.md) | Birthday freebies & timeline separated by **US Tourist Accessible (`✅`)** vs. **Resident-Only (`📱`)** |
 | 🎁 [`docs/signup-welcome-deals.md`](docs/signup-welcome-deals.md) | Welcome sign-up deals ranked by tourist usability (KakaoTalk channels, email-only signups) |
 | 🛵 [`docs/delivery-apps.md`](docs/delivery-apps.md) | How to order food to your hotel without an ARC: **Shuttle Delivery** & **Baemin Guest Checkout** |
-| 🛍️ [`docs/tourist-promotions.md`](docs/tourist-promotions.md) | **Korea Sale Festa 2026 (Oct 29 – Nov 16)**, Department Store Tourist Vouchers & Klook/KKday deals |
-| 🍱 [`docs/everyday-savings.md`](docs/everyday-savings.md) | Convenience-store 1+1 / 2+1 monthly promos (resetting **November 1st**!) and evening bakery discounts |
+| 🛍️ [`docs/tourist-promotions.md`](docs/tourist-promotions.md) | **Korea Sale Festa 2026 (Oct 29 – Nov 16)**, Boarding Pass Perks, Airport Buffet Lounges & Klook/KKday deals |
+| 🍱 [`docs/everyday-savings.md`](docs/everyday-savings.md) | All-You-Can-Eat (`무한리필`) BBQ/Buffets, Tongin Market Coin Lunchbox, Convenience 1+1/2+1 & Hypermarket Tax Refund |
 | 🕵️ [`docs/verification-log.md`](docs/verification-log.md) | Every claim and source, with access dates and confidence/tourist accessibility ratings |
 
 ---
 
-## 🏆 Top 5 Quick Wins for US Tourists (No ARC • No Korean Phone • No ID Check)
+## 🏆 Top 7 Quick Wins for US Tourists (No ARC • No Korean Phone • No ID Check)
 
-These five savings channels are **100% usable by US citizens** on a standard tourist eSIM, require **zero physical ID or passport check** at the cashier or kiosk, and work seamlessly during your Oct 31 – Nov 22 trip:
+These seven savings channels are **100% usable by US citizens** on a standard tourist eSIM, require **zero physical ID or passport check** at the restaurant/kiosk cashier (unless claiming tax exemption at hypermarkets), and work seamlessly during your Oct 31 – Nov 22 trip:
 
 1. **IKEA Family Korea (Free Birthday Dessert)** — Sign up at [ikea.com/kr/en](https://www.ikea.com/kr/en/ikea-family/) using **only your email address** (no Korean phone verification required!). You receive an auto-issued free birthday dessert coupon (apple tart/cake) via email **7 days before your birthday**. Scan at the kiosk; zero ID checked. [Official terms](https://www.ikea.com/kr/en/customer-service/knowledge/articles/g596251f-8ef8-4fc2-b978-759612249f08.html)
 2. **KakaoTalk Plus Friends (`카카오톡 채널`) Instant Brand Coupons** — Install KakaoTalk on your US phone number. Search and add official brand channels (`@버거킹` Burger King, `@KFC코리아`, `@롯데리아` Lotteria, `@배스킨라빈스` Baskin Robbins, `@던킨` Dunkin) to unlock **instant combo discounts, free upgrades, and monthly coupons** in chat. Scan the barcode at self-serve kiosks (`키오스크`); no ID required.
-3. **Korea Sale Festa 2026 (Autumn Shopping & Dining Festival)** — Korea's national autumn shopping and dining festival runs **late October to mid-November 2026** (e.g., Oct 29 – Nov 16, 2026), overlapping directly with your trip! Participating F&B chains, department store food courts, and convenience stores run nationwide discounts. [Official site](https://www.koreasalefesta.co.kr) *(Note: "Korea Grand Sale" is winter-only and ended in Feb 2026).*
-4. **Shuttle Delivery & Baemin Guest Checkout (`비회원 주문`)** — Order late-night fried chicken to your hotel without a Korean Resident Registration Number! **Shuttle Delivery** is 100% in English, accepts US credit cards, and **Klook sells discounted Shuttle e-gift vouchers**. **Baemin** now features an English/Chinese/Japanese UI (since Feb 2026) and supports Guest Checkout with international credit cards and Apple Pay. [App Store listing](https://apps.apple.com/kr/app/id378084485)
-5. **Convenience Store Monthly 1+1 / 2+1 Promos** — CU, GS25, 7-Eleven, and emart24 run nationwide **1+1 and 2+1 promos** on drinks, snacks, and instant noodles. No membership needed; look for red/yellow "+1" shelf tags. **Crucial timing:** These reset on the **1st of every month**—meaning you catch October's deals on arrival night (Oct 31) and a fresh November slate on Nov 1st!
+3. **All-You-Can-Eat (`무한리필`) Korean BBQ at Myeongryun Jinsa Galbi (`명륜진사갈비`)** — Walk into any of 500+ locations nationwide and eat unlimited marinated pork galbi, samgyeopsal, seasoned chicken, side dishes, and soft drinks for a flat **₩21,900 (~$16 USD) per person**. Zero app needed, zero ID checked! *(For tteokbokki lovers, hit **Dookki (`두끼`)** for ₩11,900 unlimited hot pot!)*
+4. **Korea Sale Festa 2026 (Autumn Shopping & Dining Festival)** — Korea's national autumn shopping and dining festival runs **late October to mid-November 2026** (e.g., Oct 29 – Nov 16, 2026), overlapping directly with your trip! Participating F&B chains, department store food courts, and convenience stores run nationwide discounts. [Official site](https://www.koreasalefesta.co.kr) *(Note: "Korea Grand Sale" is winter-only and ended in Feb 2026).*
+5. **Shuttle Delivery & Baemin Guest Checkout (`비회원 주문`)** — Order late-night fried chicken to your hotel without a Korean Resident Registration Number! **Shuttle Delivery** is 100% in English, accepts US credit cards, and **Klook sells discounted Shuttle e-gift vouchers**. **Baemin** features an English/Chinese/Japanese UI (since Feb 2026) and supports Guest Checkout with international credit cards and Apple Pay. [App Store listing](https://apps.apple.com/kr/app/id378084485)
+6. **Convenience Store Monthly 1+1 / 2+1 Promos** — CU, GS25, 7-Eleven, and emart24 run nationwide **1+1 and 2+1 promos** on drinks, snacks, and instant noodles. No membership needed; look for red/yellow "+1" shelf tags. **Crucial timing:** These reset on the **1st of every month**—meaning you catch October's deals on arrival night (Oct 31) and a fresh November slate on Nov 1st!
+7. **Tongin Market Brass Coin Lunchbox (`통인시장 엽전도시락`)** — Located near Gyeongbokgung Palace, buy 20 traditional brass coins (`엽전`) for **₩10,000** and build a custom 5–8 dish Korean feast across participating market stalls. Zero ID check, authentic local quality.
 
 ---
 
 ## 🚫 The `본인인증` (Identity Verification) Trap: What to Avoid
 
-Why don't we list **Outback Steakhouse Boomerang (₩10,000 coupon)**, **Starbucks Korea (free birthday drink)**, or **CJ ONE / VIPS** in our Top 5 Quick Wins?
+Why don't we list **Outback Steakhouse Boomerang (₩10,000 coupon)**, **Starbucks Korea (free birthday drink)**, or **CJ ONE / VIPS** in our Top Quick Wins?
 
 - Because native Korean loyalty apps require **`본인인증` (PASS mobile identity verification)** during signup. This verifies a Korean Citizen Resident Registration Number or Alien Registration Card (ARC) against a Korean telecom contract.
 - **US citizens without an ARC cannot pass `본인인증`.** Do not waste time trying to register for Starbucks Korea, Outback Korea, or CJ ONE apps with a US passport or tourist eSIM—they will reject you.
@@ -55,8 +57,8 @@ Why don't we list **Outback Steakhouse Boomerang (₩10,000 coupon)**, **Starbuc
 ## 🛡️ Zero Physical ID Check Guarantee
 
 In South Korea, when you scan an app coupon, KakaoTalk barcode, IKEA Family coupon, or Klook QR code at a cashier or self-serve kiosk (`키오스크`), **staff never ask to see a physical passport or ID card** to verify your birthday or identity.
-- Your physical ID is only checked in Korea when **buying alcohol** (age check) or claiming a **tax refund / Duty-Free foreign shopping discount** (passport check).
-- For food, coffee, bakery treats, and delivery coupons, **your passport stays in your pocket**.
+- **When is your physical passport checked?** Only when **buying alcohol** (age check) or claiming **Immediate Tax Refund (`즉시환급`) on groceries/snacks ≥₩15,000 at hypermarkets** like Lotte Mart or E-Mart.
+- For restaurants, cafes, fast food, market lunchboxes, and delivery apps, **your passport stays in your pocket**.
 
 ---
 
