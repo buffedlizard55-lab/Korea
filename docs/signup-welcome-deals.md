@@ -5,6 +5,8 @@ Ranked by usability for our **Oct 31 – Nov 22, 2026 US Citizen Itinerary**.
 
 > **Last verified: 2026-08-03**  
 > **🎯 US Citizen Guarantee:** Every deal in Section 1 requires **no Alien Registration Card (`ARC`), no Korean Resident Registration Number (`RRN`), no `본인인증` telecom verification, and no physical ID check** at the restaurant or kiosk.
+>
+> **🧭 Navigation:** [🏠 README](../README.md) · [🖨️ Cheat Sheet](cheat-sheet.md) · [📅 Calendar](trip-calendar.md) · [🗺️ Neighborhoods](neighborhood-guide.md) · [❓ FAQ](faq.md)
 
 ---
 
@@ -16,8 +18,11 @@ Instead of downloading native Korean apps that block US phone numbers with `본�
 - **KFC Korea (`@KFC코리아`):** Periodic chicken bucket discounts and combo upgrades.
 - **Lotteria (`@롯데리아`):** Discount barcodes for Bulgogi burger combos and shrimp burgers.
 - **Baskin Robbins (`@배스킨라빈스`) & Dunkin (`@던킨`):** Monthly discount coupons and 1+1 drink/donut promos.
+- **Nene Chicken (`@네네치킨`):** Official channel runs recurring coupon events — e.g., 2026 promos offered **₩3,000–7,000 off coupons** (including limited-collab sets). ⚠️ *Caveat: the biggest amounts target app members (미주문 회원); tourists should treat amounts as a bonus and rely on the walk-in menu. * [Official channel](https://pf.kakao.com/_xnWtrd)
+- **BBQ Chicken (`@BBQ치킨`):** Runs app-driven promos like "order a chicken, get half a chicken more" (May 2026); the KakaoTalk channel announces events — ⚠️ redemption may route through the BBQ app. [asiae news](https://www.asiae.co.kr/article/2026051321122045703)
+- **Mom's Touch (`@맘스터치`):** New-menu and combo coupons; the chain's Myeongdong/DDP/Gangnam/Hongdae branches are tourist-friendly anyway with the ~₩7,600 full set.
 - **How to use at store:** Tap the coupon in your KakaoTalk chat room, scan the barcode at the self-serve kiosk (`키오스크`), and pay with your US credit card. **Zero physical ID check required.**
-- 🟢 Official Brand Channels · [NamuWiki verification](https://en.namu.wiki/w/%EB%B2%84%EA%B1%B0%ED%82%B9/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD)
+- 🟢 Official Brand Channels (e.g., [Nene Chicken](https://pf.kakao.com/_xnWtrd)) · [NamuWiki verification](https://en.namu.wiki/w/%EB%B2%84%EA%B1%B0%ED%82%B9/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD) · 🟡 [BBQ app promo news (May 2026)](https://www.asiae.co.kr/article/2026051321122045703)
 
 ### 2. The Hyundai Seoul & Hyundai Dept. Store (`Café H`) — Free Welcome Drinks & Dining Coupons
 - **Free Welcome Drinks:** Present your passport at the Foreign Customer Service desk (B1 or 6F) or use the **H.Point Global app** to receive a tourist welcome barcode good for **2 free cups of Americano or tea at Café H** per visit.

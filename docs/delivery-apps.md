@@ -4,6 +4,8 @@ How to order late-night fried chicken, Korean Chinese food, and bakery items dir
 
 > **Last verified: 2026-08-03**  
 > **🎯 US Citizen Guarantee:** Both **Shuttle Delivery** and **Baemin Guest Checkout** accept US credit cards/Apple Pay and require **no ARC, no `본인인증` identity verification, and zero physical ID check** upon delivery.
+>
+> **🧭 Navigation:** [🏠 README](../README.md) · [🖨️ Cheat Sheet](cheat-sheet.md) · [📅 Calendar](trip-calendar.md) · [🗺️ Neighborhoods](neighborhood-guide.md) · [❓ FAQ](faq.md)
 
 ---
 

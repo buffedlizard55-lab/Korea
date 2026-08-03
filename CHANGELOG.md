@@ -1,5 +1,25 @@
 # Changelog
 
+## 2026-08-03 — v3.0.0 More Deals + User-Friendliness Overhaul
+- **New Deals Added (all verified & sourced):**
+  - **No Brand Burger (`노브랜드버거`):** Amazing Bulgogi burger **₩2,500** (launched Feb 2026; 70k sold week one — Shinsegae Food newsroom), grilled bulgogi ₩3,900, sets from ₩6,400; ~169 locations.
+  - **Mom's Touch (`맘스터치`):** Full set (burger + Cajun fries + cola) **~₩7,600**; tourist-friendly branches (Myeongdong flagship, DDP, Gangnam Station, Hongdae).
+  - **Gimbap Cheonguk (`김밥천국`)** rolls ₩2,500–4,000 + **Hong Kong Banjum (`홍콩반점0410`)** jjajangmyeon ₩7,000 (Myeongdong branch) — new "Budget Burger & Meal Chains" section.
+  - **More KakaoTalk channels:** `@네네치킨` (Nene Chicken), `@BBQ치킨`, `@맘스터치` added across action plan, birthday, and welcome-deal docs.
+  - **Myeongryun Jinsa Galbi:** upgraded to **600+ locations** + cheaper lunch specials (곤드레정식 + salad bar ₩7,000–8,000; galbi set ₩13,900); Dookki confirmed **₩11,900 on official site** with maratang/huoguo.
+  - **Discover Seoul Pass:** July 1, 2026 expansion (79 free + 140 coupon partners incl. No Brand & Traders; SPAREX/Aquafield/Seoul Cruise free entry; Pick 3 rule change; eSIM on card pass).
+  - **Visit Busan Pass:** concrete verified food discounts (Sulbing −10% Gwangbok, Mipochip −10% Haeundae, P.ARK Café ice cream).
+  - **Free water:** Arisu refill stations in Seoul subway stations (year-round) — bring a refillable bottle.
+  - **Calendar catches:** Tongin Market closed **Mon & 3rd Sunday → Sun Nov 15, 2026**; Nov 11 = Pepero Day (1+1 snack promos); Korea Sale Festa 2026 dates marked provisional (pattern: 2025 ran Oct 29 – Nov 16).
+- **User-Friendliness Overhaul:**
+  - **NEW `docs/cheat-sheet.md`** — one-page printable/screenshot summary of every deal + pre-flight 10-minute setup.
+  - **NEW `docs/trip-calendar.md`** — day-by-day Oct 31 – Nov 22 calendar with promo resets, closures, and daily windows.
+  - **NEW `docs/neighborhood-guide.md`** — deals mapped to Myeongdong, Jongno, Hongdae, Gangnam, Yeouido, Incheon, Busan.
+  - **NEW `docs/faq.md`** — ID checks, phones/eSIMs, payment, tipping, water, tax refunds, timing.
+  - **README overhaul:** "How to Use This Guide" 3-step path, expanded Guide Index, **Top 7 → Top 10 Quick Wins**, "What's New" section.
+  - **Navigation bar added to every doc** (README · Cheat Sheet · Calendar · Neighborhoods · FAQ).
+  - **Verification log expanded** with 13 new corroborated/official sources + 3 new unverified items + re-verification checklist additions.
+
 ## 2026-08-03 — v2.1.0 Exhaustive 12-Avenue Expansion for US Citizen Itinerary
 - **12-Avenue Master Checklist:** Expanded `docs/us-tourist-action-plan.md` to include an exhaustive 12-avenue master checklist covering every possible tourist-accessible F&B savings channel in South Korea.
 - **New Everyday Savings & Buffets Added:**

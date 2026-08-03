@@ -4,6 +4,8 @@ High-yield, everyday food savings across South Korea that require **no membershi
 
 > **Last verified: 2026-08-03**  
 > **🎯 Trip Timing:** Customized for our **October 31 to November 22, 2026 itinerary**.
+>
+> **🧭 Navigation:** [🏠 README](../README.md) · [🖨️ Cheat Sheet](cheat-sheet.md) · [📅 Calendar](trip-calendar.md) · [🗺️ Neighborhoods](neighborhood-guide.md) · [❓ FAQ](faq.md)
 
 ---
 
@@ -13,9 +15,11 @@ For massive appetites without breaking the budget, South Korea's standing **`무
 
 | Chain Name | Cuisine & What's Included | 2026 Adult Price | ID Required? | Why It's a Top Win |
 | --- | --- | --- | --- | --- |
-| **Myeongryun Jinsa Galbi (`명륜진사갈비`)** | **Unlimited Korean BBQ:** Marinated pork galbi, pork belly (`삼겹살`), seasoned chicken, pork rind (`돼지껍데기`), tteokbokki, fries, rice, side dishes & soft drinks | **₩21,900**<br>*(~ $16 USD)* | **No** | Over 500 locations nationwide. Unlimited meat and soda for the price of one single BBQ serving elsewhere. 🟢 [NamuWiki 2026 TOS](https://namu.wiki/w/%EB%AA%85%EB%A5%9C%EC%A7%84%EC%82%AC%EA%B0%88%EB%B9%84) |
-| **Dookki (`두끼`)** | **Unlimited Tteokbokki & Hot Pot:** 8 types of rice cakes, fish cakes, fried seaweed rolls (`김말이`), ramen noodles, DIY sauce bar, soft drinks & kimchi fried rice | **₩11,900**<br>*(~ $9 USD)* | **No** | Full self-service buffet. You control the spice level (from non-spicy `jjajang` to fiery red). 🟢 [NamuWiki 2026 TOS](https://en.namu.wiki/w/%EB%91%90%EB%81%BC%EB%96%A1%EB%B3%B6%EC%9D%B4) |
+| **Myeongryun Jinsa Galbi (`명륜진사갈비`)** | **Unlimited Korean BBQ:** Marinated pork galbi, pork belly (`삼겹살`), seasoned chicken, pork rind (`돼지껍데기`), tteokbokki, fries, rice, side dishes & soft drinks | **₩21,900**<br>*(~ $16 USD)* | **No** | Over **600 locations** nationwide. Unlimited meat and soda for the price of one single BBQ serving elsewhere. 🟢 [NamuWiki 2026 TOS](https://namu.wiki/w/%EB%AA%85%EB%A5%9C%EC%A7%84%EC%82%AC%EA%B0%88%EB%B9%84) · 🟡 [2026 pricing blog](https://m.blog.naver.com/j2j2486/224174336077) |
+| **Dookki (`두끼`)** | **Unlimited Tteokbokki & Hot Pot:** 8 types of rice cakes, fish cakes, fried seaweed rolls (`김말이`), ramen noodles, DIY sauce bar — **maratang/huoguo (마라탕/훠궈) options added**, kimchi fried rice & soft drinks | **₩11,900**<br>*(~ $9 USD)* | **No** | Official chain price confirmed on dookki.co.kr. Full self-service buffet; you control the spice level. 1.5-hour time limit. 🟢 [Official menu & prices](https://www.dookki.co.kr/menu/dookki) · [NamuWiki](https://en.namu.wiki/w/%EB%91%90%EB%81%BC%EB%96%A1%EB%B3%B6%EC%9D%B4) |
 | **Ashley Queens (`애슐리퀸즈`)** | **Western & Korean Buffet:** Salad bar, grill station, sushi, pasta, pizza, Korean hot dishes & dessert bar | **₩19,900** (Weekday Lunch)<br>**₩25,900** (Weekday Dinner) | **No** | Famous family buffet chain. *(Note: Food quality/selection can vary by branch—check Naver/Google reviews).* 🟡 [2026 Pricing](https://www.reddit.com/r/KoreanFood/comments/1pr706g/ashley_queens_koreas_most_popular_buffet_chain/) |
+
+> 💡 **Pro tip — the cheaper "lunch special" route:** Myeongryun Jinsa Galbi branches also serve a **곤드레정식 (arrowroot rice set) + salad bar for ₩7,000–8,000** and a **charcoal galbi + doenjang stew + salad bar set for ₩13,900** on the lunch menu — a full meal for less than half the unlimited price. Unlimited sessions are limited to **120 min weekdays / 100 min weekends**. 🟡 [2025/2026 branch menu reports](https://blog.naver.com/PostView.nhn?blogId=jin30811&logNo=223902750271)
 
 ---
 
@@ -77,7 +81,20 @@ Korean bakeries and department store basement food halls offer steep evening dis
 
 ---
 
-## ☕ 6. Low-Cost Coffee Chains (The ₩1,500 – ₩2,000 Americano)
+## 🍔 6. Budget Burger & Meal Chains (₩2,500 – ₩7,600 Full Meals)
+
+Korea's local fast-food and meal chains deliver **full meals under $6** with zero membership, zero app, zero ID check — just walk in and order at the kiosk:
+
+| Chain | What you get | Price | Locations & Notes |
+| --- | --- | --- | --- |
+| **No Brand Burger (`노브랜드버거`)** | **Amazing Bulgogi burger** — flame-grilled patty + bulgogi sauce (launched Feb 2026, 70,000 sold in week one) | **₩2,500** | ~169 stores (Shinsegae Food); many adjacent to E-Mart. Grilled bulgogi ₩3,900, signature set from ~₩6,400. 🟢 [Shinsegae Group newsroom](https://www.shinsegaegroupnewsroom.com/no-brand-burger-sells-70000-units-in-one-week/) · 🟡 [2026 menu prices](https://pocketo.co.kr/2026%EB%85%84-%EB%85%B8%EB%B8%8C%EB%9E%9C%EB%93%9C%EB%B2%84%EA%B1%B0-%ED%94%84%EB%9E%9C%EC%B0%A8%EC%9D%B4%EC%A6%88-%EB%A9%94%EB%89%B4-%EA%B0%80%EA%B2%A9-%EC%A0%95%EB%A6%AC/) |
+| **Mom's Touch (`맘스터치`)** | "The Correct Burger" (정답버거) — full set with Cajun fries + cola | **~₩7,600** | Korea's #1 local burger chain. **Tourist-friendly branches: Myeongdong flagship (3F, opened Jun 2024), DDP, Gangnam Station, Hongdae.** Also whole fried chicken (soy garlic / yangnyeom). 🟡 [insideseoul.app brand guide](https://insideseoul.app/brands/moms-touch) · [Myeongdong review](https://eatingseoul.com/restaurants/myeongdong/moms-touch-2) |
+| **Gimbap Cheonguk (`김밥천국`)** | Classic gimbap rolls, ramen, tteokbokki, bibimbap — the Korean diner | Gimbap **₩2,500–4,000**, ramen ₩3,500, bibimbap ₩6,500 | Thousands of locations incl. 24h branches near stations. 🟡 [2026 menu guide](https://23expo.com/gimbapcheonguk-menu/) · [Seoul gimbap guide](https://www.letseoul.com/ko/articles/seoul-gimbap-guide-2026) |
+| **Hong Kong Banjum (`홍콩반점0410`)** | Baek Jong-won's budget Chinese chain: jjajangmyeon, jjamppong, tangsuyuk | Jjajangmyeon **₩7,000** | **Myeongdong branch** (명동2가 3-2) + nationwide. Occasional 1-day ₩3,900 jjajangmyeon events (Black Day Apr 14 / winter sports festival). 🟡 [NamuWiki 2026 menu](https://namu.wiki/w/%ED%99%8D%EC%BD%A9%EB%B0%98%EC%A0%900410) · [Myeongdong branch](https://www.diningcode.com/profile.php?rid=LmTRQcn0ur9L) |
+
+> 🧂 **The fast-food rule:** walk in, order at the English-enabled kiosk (`키오스크`), pay with your US card. Prices on the kiosk are the final price — no tipping, no service charge.
+
+## ☕ 7. Low-Cost Coffee Chains (The ₩1,500 – ₩2,000 Americano)
 
 Instead of paying ₩4,500+ at international chains, South Korea's ubiquitous budget coffee chains serve massive 24oz iced Americanos for **₩1,500 to ₩2,000**:
 - **Top chains:** **Mega Coffee (`메가커피`)**, **Compose Coffee (`컴포즈커피`)**, **Paik's Coffee (`빽다방`)**, and **The Venti (`더벤티`)**.
@@ -85,7 +102,7 @@ Instead of paying ₩4,500+ at international chains, South Korea's ubiquitous bu
 
 ---
 
-## 🍽️ 7. Weekday Lunch Specials (`점심 특선`)
+## 🍽️ 8. Weekday Lunch Specials (`점심 특선`)
 
 Korean BBQ houses, hanjeongsik restaurants, and shabu-shabu spots offer **Weekday Lunch Specials (`점심 특선`)** between **11:00 AM and 2:00 PM**:
 - A meal that costs ₩35,000+ per person at dinner is often served as a lunch set (meat + stew + rice + side dishes) for **₩12,000 to ₩16,000**.
@@ -93,7 +110,7 @@ Korean BBQ houses, hanjeongsik restaurants, and shabu-shabu spots offer **Weekda
 
 ---
 
-## 🛒 8. Hypermarket Immediate Tax Refund (`즉시환급`) on Edible Gifts & Groceries
+## 🛒 9. Hypermarket Immediate Tax Refund (`즉시환급`) on Edible Gifts & Groceries
 
 While restaurant dining is not tax-exempt, buying packaged Korean food, snacks, tea, coffee, and edible souvenirs at major hypermarkets **IS tax-exempt**:
 - **Where it works:** **Lotte Mart** (Seoul Station Branch / Zettaplex), **E-Mart**, and **Homeplus**.
@@ -103,8 +120,17 @@ While restaurant dining is not tax-exempt, buying packaged Korean food, snacks, 
 
 ---
 
+## 💧 10. Free Water: Arisu Refill Stations (Subway & Tourist Spots)
+
+- **Seoul's tap water (`아리수` / Arisu)** is heavily filtered and tested — safe to drink, and **free refill stations are available in subway stations throughout the city** year-round. Bring a refillable bottle and never pay ₩1,500+ for bottled water again.
+- Restaurants always serve free water (usually cold) — ask for `물` (water) or just point at the cup.
+- 🟢 [Korea Times — Seoul's Arisu tap-water push (Jun 2026)](https://www.koreatimes.co.kr/amp/lifestyle/people-events/20260617/seouls-tap-water-gets-hip-riverside-makeover) · 🟡 [2026 Seoul budget guide](https://www.motoworldexplorer.com/2026/07/the-ultimate-budget-travel-guide-to.html)
+- *(Note: Seoul districts' free bottled-water machines are a summer heat program that ends mid-October — they won't be running during your Oct 31 – Nov 22 trip. Subway refill stations are the year-round option.)*
+
+---
+
 ## 🚫 Why We Ignore Telecom & Resident Card Perks
 
 - **Korean Telecom Carrier Discounts (KT / SKT / LGU+):** Offer 5–15% off at family restaurants and bakeries, but require a domestic resident mobile subscription.
 - **Korean Credit Card Points / Perks:** Offer dining discounts, but require a Korean bank account and Alien Registration Card (`ARC`).
-- Because our group has **no Korean resident companion**, skip these and use the 8 standing savings avenues above!
+- Because our group has **no Korean resident companion**, skip these and use the **10 standing savings avenues above**!

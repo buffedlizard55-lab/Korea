@@ -4,17 +4,19 @@ Deals aimed specifically at **foreign visitors and US citizens**—no Korean Res
 
 > **Last verified: 2026-08-03**  
 > **🎯 Trip Timing:** Tailored for our **October 31 to November 22, 2026 itinerary**.
+>
+> **🧭 Navigation:** [🏠 README](../README.md) · [🖨️ Cheat Sheet](cheat-sheet.md) · [📅 Calendar](trip-calendar.md) · [🗺️ Neighborhoods](neighborhood-guide.md) · [❓ FAQ](faq.md)
 
 ---
 
 ## 🏛️ 1. Korea Sale Festa 2026 (Late Oct – Mid Nov) — Your #1 Autumn Event!
 
 Your trip dates (Oct 31 – Nov 22) overlap directly with South Korea's official national autumn shopping and dining festival: **Korea Sale Festa (`코리아세일페스타`)**.
-- **Dates:** Late October to mid-November 2026 (2025 dates were Oct 29 – Nov 16; 2026 runs on an identical autumn schedule).
-- **What it covers:** Known as the Korean "Black Friday," ~1,800+ participating companies run nationwide promotions across F&B chains, department store food courts, convenience stores, and supermarkets.
+- **Dates (2026 provisional):** The festival is held **every autumn** with dates that shift year to year: **2024 ran Nov 9–30; 2025 ran Oct 29 – Nov 16 (19 days)**. The 2026 window is **expected to land late Oct – mid Nov** (matching your trip), but official dates are announced by the trade ministry around October — **check [`koreasalefesta.co.kr`](https://www.koreasalefesta.co.kr) in late September** before relying on it.
+- **What it covers:** Known as the Korean "Black Friday," **2,000+ participating companies** (2025) run nationwide promotions across F&B chains, department store food courts, convenience stores, and supermarkets.
 - **Tourist Benefits:** Special bundle meals, instant discount coupons at participating restaurants, and 1+1 / 2+1 grocery deals.
 - **How to claim:** Look for official **"Korea Sale Festa"** banners at restaurant entrances and food halls. Scan event barcodes at kiosks; **no ID required**.
-- 🟢 [Official site](https://www.koreasalefesta.co.kr) · [NamuWiki reference](https://en.namu.wiki/w/%EC%BD%94%EB%A6%AC%EC%95%84%20%EC%84%B8%EC%9D%BC%20%ED%8E%98%EC%8A%A4%ED%83%80)
+- 🟢 [Official site](https://www.koreasalefesta.co.kr) · [NamuWiki reference](https://en.namu.wiki/w/%EC%BD%94%EB%A6%AC%EC%95%84%20%EC%84%B8%EC%9D%BC%20%ED%8E%98%EC%8A%A4%ED%83%80) · 🟡 [2025 dates (Oct 29 – Nov 16) confirmed — Wikipedia](https://ko.wikipedia.org/wiki/%EC%BD%94%EB%A6%AC%EC%95%84%EC%84%B8%EC%9D%BC%ED%8E%98%EC%8A%A4%ED%83%80)
 
 > ⚠️ **Winter-Only Note (Korea Grand Sale):** Many travel blogs mention the government's *Korea Grand Sale* (which ended Feb 2026). Do not look for Korea Grand Sale coupons during your trip—that is a winter-only festival (Dec–Feb). Your autumn equivalent is **Korea Sale Festa**!
 
@@ -50,9 +52,20 @@ Don't overpay for airport food before your flight home. Use these tourist-access
 ## 🎫 4. City Tourist Passes: Discover Seoul Pass & Visit Busan Pass
 
 If you buy a city tourist pass for attractions, do not overlook their embedded restaurant and cafe discounts:
-- **Discover Seoul Pass (DSP):** Includes **10% to 20% discounts** at partner cafes, traditional Korean restaurants, Hard Rock Cafe Seoul, and N Seoul Tower dining.
-- **Visit Busan Pass (VBP):** Includes free coffee/dessert treats or 10–20% discounts at participating Busan ocean-view cafes and seafood restaurants.
-- 🟢 [Discover Seoul Pass Official](https://discoverseoulpass.valuecom.com/)
+
+### Discover Seoul Pass (DSP) — expanded July 1, 2026
+- **What you get (as of Jul 2026):** free admission to **79 attractions** + discount coupons at **140 partners** (219 total). Food-relevant perks include **discounts at partner cafes, traditional Korean restaurants, Hard Rock Cafe Seoul, and N Seoul Tower dining** — and the new partner list even includes **No Brand (Goyang/Hanam/Anseong SF branches) and Traders Wholesale Club**.
+- **Pass types/prices:** All-Inclusive 72h **₩90,000** / 120h **₩130,000**; Pick 3 Basic **₩49,000** / Pick 3 Theme Park **₩70,000** (mobile versions slightly cheaper via third parties). New for 2026: **SPAREX jjimjilbang saunas, Seoul Cruise, and Aquafield** are free-admission partners; the **Pick 3 system got more flexible** (pick any 3, not one-per-group).
+- **Bonus:** free 5-day unlimited-data **SKT eSIM** (now included with the card pass too, not just mobile), free AREX/tour bus, and T-money transit top-up on the card.
+- 🟢 [DSP official listing (Visit Korea)](https://english.visitkorea.or.kr/svc/thingsToGo/tvExhibit/tourGdsPrView.do?gdsId=2000048) · 🟡 [Travel+Leisure Asia — July 2026 expansion](https://www.travelandleisureasia.com/sea/news/south-korea-expands-its-discover-seoul-pass-adds-more-benefits-for-users/) · [Discover Seoul Pass Official](https://discoverseoulpass.valuecom.com/)
+
+### Visit Busan Pass (VBP) — verified food discounts
+- **What you get:** free entry to 30+ Busan attractions + **~50 discounted experiences** and concrete restaurant/cafe discounts, including:
+  - **Sulbing Busan Gwangbok (bingsu cafe, near Jagalchi)** — **10% off everything** (order from staff, not the auto-payment machine).
+  - **Mipochip (famous haemuljang / soy-marinated seafood, Haeundae)** — **10% off** (orders of 2+).
+  - **P.ARK Café & Bakery (Yeongdo, beside Arte Museum)** — discounted ice cream.
+- **Prices:** 24h **₩49,000** / 48h **₩69,000** (Klook sells the 24h pass from ~US$32).
+- 🟢 [Official app listing (Busan Tourism Org)](https://play.google.com/store/apps/details?id=com.busan.visitbusanpass&hl=en_US) · 🟡 [Trip.com community field report, Apr 2026](https://sg.trip.com/moments/detail/busan-432-144968511/)
 
 ---
 

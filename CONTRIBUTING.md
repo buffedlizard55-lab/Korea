@@ -21,10 +21,13 @@ blog lists at the airport.
 ## Structure
 - One markdown doc per category in `docs/` — keep tables readable, columns: Brand | Deal |
   Conditions | Validity | Trust | Access.
+- Cross-link docs with the shared navigation bar (README · Cheat Sheet · Calendar · Neighborhoods · FAQ).
+- New top-level pages to maintain: `docs/cheat-sheet.md` (one-page summary), `docs/trip-calendar.md`
+  (date-dependent deals), `docs/neighborhood-guide.md` (deals by area), `docs/faq.md` (common questions).
 - Put sources into `docs/verification-log.md`.
 - Note material changes in `CHANGELOG.md`.
 
 ## Nice-to-do later
-- Per-city sections (Seoul / Busan / Jeju) as the itinerary firms up
+- Jeju section (and deeper Busan) as the itinerary firms up
 - In-trip receipts/photos that confirm a deal actually worked → upgrade 🔴/🟡 to 🟢
 - A `deal-manage.csv` with cost per redeemed deal so we can see total savings
