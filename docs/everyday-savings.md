@@ -130,8 +130,29 @@ While restaurant dining is not tax-exempt, buying packaged Korean food, snacks, 
 
 ---
 
+## 🧭 11. Find Any Deal on the Map (Naver Map)
+
+Google Maps barely works for navigation in Korea — **use Naver Map** (free, English mode). Tap any of these search links to jump straight to the nearest branch:
+
+| Deal | Naver Map link |
+| --- | --- |
+| Myeongryun Jinsa Galbi (unlimited BBQ) | [map.naver.com/p/search/명륜진사갈비](https://map.naver.com/p/search/%EB%AA%85%EB%A5%9C%EC%A7%84%EC%82%AC%EA%B0%88%EB%B9%84) |
+| Dookki (unlimited tteokbokki) | [map.naver.com/p/search/두끼](https://map.naver.com/p/search/%EB%91%90%EB%81%BC) |
+| No Brand Burger | [map.naver.com/p/search/노브랜드버거](https://map.naver.com/p/search/%EB%85%B8%EB%B8%8C%EB%9E%9C%EB%93%9C%EB%B2%84%EA%B1%B0) |
+| Mom's Touch | [map.naver.com/p/search/맘스터치](https://map.naver.com/p/search/%EB%A7%98%EC%8A%A4%ED%84%B0%EC%B9%98) |
+| Gimbap Cheonguk | [map.naver.com/p/search/김밥천국](https://map.naver.com/p/search/%EA%B9%80%EB%B0%A5%EC%B2%9C%EA%B5%AD) |
+| Hong Kong Banjum (jjajangmyeon) | [map.naver.com/p/search/홍콩반점0410](https://map.naver.com/p/search/%ED%99%8D%EC%BD%A9%EB%B0%98%EC%A0%900410) |
+| Tongin Market (coin lunchbox) | [map.naver.com/p/search/통인시장](https://map.naver.com/p/search/%ED%86%B5%EC%9D%B8%EC%8B%9C%EC%9E%A5) |
+| Lotte Mart Seoul Station (tax refund) | [map.naver.com/p/search/롯데마트 서울역](https://map.naver.com/p/search/%EB%A1%AF%EB%8D%B0%EB%A7%88%ED%8A%B8%20%EC%84%9C%EC%9A%B8%EC%97%AD) |
+| The Hyundai Seoul (Café H, evening deals) | [map.naver.com/p/search/더현대서울](https://map.naver.com/p/search/%EB%8D%94%ED%98%84%EB%8C%80%EC%84%9C%EC%9A%B8) |
+| Mega / Compose / Paik's Coffee | [메가커피](https://map.naver.com/p/search/%EB%A9%94%EA%B0%80%EC%BB%A4%ED%94%BC) · [컴포즈커피](https://map.naver.com/p/search/%EC%BB%B4%ED%8F%AC%EC%A6%88%EC%BB%A4%ED%94%BC) · [빽다방](https://map.naver.com/p/search/%EB%B9%BD%EB%8B%A4%EB%B0%A9) |
+
+> 💡 **Tip:** in Naver Map, search in **Korean** for best results, then hit the **"Directions"** (길찾기) button. You can also copy a **Korean address** from Naver Map and paste it into Baemin for delivery.
+
+---
+
 ## 🚫 Why We Ignore Telecom & Resident Card Perks
 
 - **Korean Telecom Carrier Discounts (KT / SKT / LGU+):** Offer 5–15% off at family restaurants and bakeries, but require a domestic resident mobile subscription.
 - **Korean Credit Card Points / Perks:** Offer dining discounts, but require a Korean bank account and Alien Registration Card (`ARC`).
-- Because our group has **no Korean resident companion**, skip these and use the **10 standing savings avenues above**!
+- Because our group has **no Korean resident companion**, skip these and use the **11 standing savings avenues above**!

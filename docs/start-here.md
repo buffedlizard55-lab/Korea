@@ -26,6 +26,8 @@ Korean restaurants, cafes, kiosks, markets, and delivery apps **never** check ID
 
 **Best beginner combo:** 🚶 walk-in deals for everyday meals + 📲 KakaoTalk channels for fast food + 🎟️ one Klook voucher for your birthday dinner.
 
+**Finding everything:** Google Maps barely works in Korea — install **Naver Map** (English mode) and use the [tap-to-navigate links](../docs/everyday-savings.md) for every chain.
+
 ---
 
 ## 📱 Install These 5 Apps Before You Fly (10 minutes)
@@ -84,7 +86,11 @@ Starbucks Korea app · Outback Boomerang app · CJ ONE (VIPS) · Happy Point (Ba
 
 ## 🔗 Where to Go Next
 
+- **Actually getting ready → [Master Checklist](checklist.md)** — every to-do with dates + birthday schedule.
+- **Landing & departure → [Arrival Guide](arrival-guide.md)** — K-ETA, ICN steps, tax-refund kiosks.
+- **Paying & exchanging → [Money Guide](money-guide.md)** — WOWPASS vs T-money vs cards, budgets.
+- **Ordering in Korean → [Phrasebook](phrasebook.md)** — 40 phrases + glossary.
 - **Read the [One-Page Cheat Sheet](cheat-sheet.md)** — screenshot it for the flight.
 - **Plan your days with the [Deal Calendar](trip-calendar.md)** — promo resets, market closures, festival windows.
-- **Hungry now? → [Neighborhood Guide](neighborhood-guide.md)** — cheap eats by area.
+- **Hungry now? → [Neighborhood Guide](neighborhood-guide.md)** — cheap eats by area (or [Busan Guide](busan-guide.md)).
 - **Questions? → [FAQ](faq.md)** — ID checks, phones, payments, tipping, water, tax refunds.

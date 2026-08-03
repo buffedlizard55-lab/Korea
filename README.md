@@ -11,8 +11,9 @@ Every entry is sourced, dated, and verified against official releases and terms 
 ## 🧭 How to Use This Guide
 
 1. **5 minutes now →** read [**Start Here**](docs/start-here.md) (the beginner's guide: 3 deal types, 2 rules, what to install), then the [**One-Page Cheat Sheet**](docs/cheat-sheet.md) and do the "Before You Fly" list.
-2. **On the trip →** open the [**Day-by-Day Calendar**](docs/trip-calendar.md) for what's active each day, and the [**Neighborhood Guide**](docs/neighborhood-guide.md) for "what's cheap near me."
-3. **Confused? →** check the [**FAQ**](docs/faq.md) or the master [**Action Plan**](docs/us-tourist-action-plan.md).
+2. **Before you fly →** work through the [**Master Checklist**](docs/checklist.md) (dates + checkboxes + birthday schedule) and skim the [**Arrival Guide**](docs/arrival-guide.md) (K-ETA, ICN money/transport, tax-refund kiosks).
+3. **On the trip →** open the [**Day-by-Day Calendar**](docs/trip-calendar.md) each morning, the [**Neighborhood Guide**](docs/neighborhood-guide.md) when hungry, and the [**Phrasebook**](docs/phrasebook.md) when ordering.
+4. **Confused? →** check the [**FAQ**](docs/faq.md), the [**Money Guide**](docs/money-guide.md), or the master [**Action Plan**](docs/us-tourist-action-plan.md).
 
 ---
 
@@ -20,7 +21,12 @@ Every entry is sourced, dated, and verified against official releases and terms 
 
 | Doc | What's inside | Best for |
 | --- | --- | --- |
-| 🚀 [`docs/start-here.md`](docs/start-here.md) | **NEW:** 5-minute beginner's guide — the 2 rules, 3 deal types, app setup, Korean glossary, first-48-hours plan | Absolute beginners & last-minute prep |
+| 🚀 [`docs/start-here.md`](docs/start-here.md) | 5-minute beginner's guide — the 2 rules, 3 deal types, app setup, Korean glossary, first-48-hours plan | Absolute beginners & last-minute prep |
+| ✅ [`docs/checklist.md`](docs/checklist.md) | **NEW:** Master to-do checklist (pre-trip deadlines + in-trip daily routine) with a fill-in **birthday schedule** table | Actually getting ready |
+| 🛬 [`docs/arrival-guide.md`](docs/arrival-guide.md) | **NEW:** K-ETA status, ICN arrival steps (WOWPASS/T-money/eSIM, AREX), airport tax-refund kiosks, first meals | Landing day & departure day |
+| 💳 [`docs/money-guide.md`](docs/money-guide.md) | **NEW:** Payment methods (WOWPASS vs T-money vs cards), best exchange rates, price index & daily budgets | Never overpaying |
+| 🗣️ [`docs/phrasebook.md`](docs/phrasebook.md) | **NEW:** 40 Korean phrases + deal-term glossary (kiosk, restaurant, market, delivery, tax refund) | Ordering & couponing in Korean |
+| 🌊 [`docs/busan-guide.md`](docs/busan-guide.md) | **NEW:** Busan cheap eats by area (Seomyeon, Haeundae/Gwangalli, Jagalchi), dwaeji gukbap/milmyeon, VBP food deals | A Busan leg of the trip |
 | 🖨️ [`docs/cheat-sheet.md`](docs/cheat-sheet.md) | One-page printable/screenshot summary — everything worth knowing, on one screen | Pre-trip packing & in-country quick reference |
 | 📅 [`docs/trip-calendar.md`](docs/trip-calendar.md) | **NEW:** Day-by-day Oct 31 – Nov 22 calendar: promo resets, market closures, festival windows | Trip planning |
 | 🗺️ [`docs/neighborhood-guide.md`](docs/neighborhood-guide.md) | **NEW:** Deals mapped to Myeongdong, Hongdae, Gangnam, Yeouido, Incheon, Busan + golden rules | "Where am I, what's cheap?" |
@@ -31,9 +37,22 @@ Every entry is sourced, dated, and verified against official releases and terms 
 | 🛵 [`docs/delivery-apps.md`](docs/delivery-apps.md) | How to order food to your hotel without an ARC: **Shuttle Delivery** & **Baemin Guest Checkout** | Late-night delivery |
 | 🛍️ [`docs/tourist-promotions.md`](docs/tourist-promotions.md) | **Korea Sale Festa 2026 (autumn)**, Boarding Pass Perks, Airport Buffet Lounges, Discover Seoul Pass & Klook/KKday deals | Festivals & passes |
 | 🍱 [`docs/everyday-savings.md`](docs/everyday-savings.md) | All-You-Can-Eat (`무한리필`) BBQ/Buffets, **budget burger & meal chains**, Tongin Market Coin Lunchbox, Convenience 1+1/2+1 & Hypermarket Tax Refund | Everyday meals |
-| 🕵️ [`docs/verification-log.md`](docs/verification-log.md) | Every claim and source, with access dates and confidence/tourist accessibility ratings | Trust check |
+| 🕵️ [`docs/verification-log.md`](docs/verification-log.md) | Every claim and source, with access dates and confidence/tourist accessibility ratings + **Link Audit** | Trust check |
+| 📝 [`docs/field-notes.md`](docs/field-notes.md) | **NEW:** In-trip log template — track prices paid, ID checks, and what worked; upgrades 🔴/🟡 → 🟢 | During the trip |
+| 📊 [`data/deal-tracker.csv`](data/deal-tracker.csv) | **NEW:** CSV tracker (date, deal, price, savings, worked?) — one row per redemption | Counting your savings |
 
 ---
+
+## ✨ What's New (v3.2 — 2026-08-03)
+
+- **🗺️ Tap-to-navigate map links:** every chain deal now has a **Naver Map search link** (Google Maps is unreliable in Korea) — see [everyday-savings §11](docs/everyday-savings.md) and the neighborhood guide.
+- **✅ Master checklist:** [docs/checklist.md](docs/checklist.md) — all pre-trip to-dos with deadlines + in-trip daily routine + a fill-in **birthday schedule** table.
+- **🛬 Arrival guide:** [docs/arrival-guide.md](docs/arrival-guide.md) — K-ETA (US citizens exempt through Dec 31, 2026), ICN money/transport steps, and the **self-service tax-refund kiosks** at ICN T1/T2.
+- **💳 Money guide:** [docs/money-guide.md](docs/money-guide.md) — WOWPASS vs T-money vs cards, best exchange spots, a price index, and daily budgets.
+- **🗣️ Phrasebook:** [docs/phrasebook.md](docs/phrasebook.md) — 40 phrases for kiosks, restaurants, markets, delivery, and tax refunds + a deal-term glossary.
+- **🌊 Busan guide:** [docs/busan-guide.md](docs/busan-guide.md) — dwaeji gukbap/milmyeon, Seomyeon/Haeundae/Jagalchi cheap eats, VBP food discounts.
+- **🐔 More KakaoTalk channels** (Kyochon, Gong cha, Mega/Compose/Paik's) — full table in [signup-welcome-deals](docs/signup-welcome-deals.md) with honest 🟡 "verify in-app" notes.
+- **⚙️ Automation:** `scripts/check_links.py` (all URLs) + `scripts/check_docs.py` (tables/links/date stamps) + **issue/PR templates** + `data/deal-tracker.csv` + [field-notes template](docs/field-notes.md). *(A weekly GitHub Actions link-check workflow is ready at `.github/workflows/link-check.yml` — activate it by granting this repo's GitHub app the `workflows` permission, then push/merge it.)*
 
 ## ✨ What's New (v3.1 — 2026-08-03)
 
@@ -57,7 +76,7 @@ Every entry is sourced, dated, and verified against official releases and terms 
 
 These ten savings channels are **100% usable by US citizens** on a standard tourist eSIM, require **zero physical ID or passport check** at the restaurant/kiosk cashier (unless claiming tax exemption at hypermarkets), and work seamlessly during your Oct 31 – Nov 22 trip:
 
-1. **KakaoTalk Plus Friends (`카카오톡 채널`) Instant Brand Coupons** — Install KakaoTalk on your US phone number. Search and add official brand channels (`@버거킹` Burger King, `@KFC코리아`, `@롯데리아` Lotteria, `@배스킨라빈스` Baskin Robbins, `@던킨` Dunkin, `@네네치킨` Nene Chicken, `@BBQ치킨`, `@맘스터치` Mom's Touch) to unlock **instant combo discounts, free upgrades, and monthly coupons** in chat. Scan the barcode at self-serve kiosks (`키오스크`); no ID required.
+1. **KakaoTalk Plus Friends (`카카오톡 채널`) Instant Brand Coupons** — Install KakaoTalk on your US phone number. Search and add official brand channels (`@버거킹` Burger King, `@KFC코리아`, `@롯데리아` Lotteria, `@배스킨라빈스` Baskin Robbins, `@던킨` Dunkin, `@네네치킨` Nene Chicken, `@BBQ치킨`, `@맘스터치` Mom's Touch, plus Paris Baguette, Tous Les Jours, Kyochon, Gong cha, Mega/Compose/Paik's — [full table](docs/signup-welcome-deals.md)) to unlock **instant combo discounts, free upgrades, and monthly coupons** in chat. Scan the barcode at self-serve kiosks (`키오스크`); no ID required.
 2. **All-You-Can-Eat (`무한리필`) Korean BBQ at Myeongryun Jinsa Galbi (`명륜진사갈비`)** — Walk into any of **600+ locations** nationwide and eat unlimited marinated pork galbi, samgyeopsal, seasoned chicken, side dishes, and soft drinks for a flat **₩21,900 (~$16 USD) per person**. Zero app needed, zero ID checked! *(For tteokbokki lovers, hit **Dookki (`두끼`)** for ₩11,900 unlimited hot pot — maratang/huoguo included.)*
 3. **No Brand Burger (`노브랜드버거`) — Korea's ₩2,500 Burger** — E-Mart's Shinsegae Food chain sells the **Amazing Bulgogi burger for ₩2,500** (launched Feb 2026, 70,000 sold in week one) and grilled-bulgogi burgers from ₩3,900; sets from ₩6,400. ~169 locations, most near E-Mart stores. Walk in, order at the kiosk, pay with a US card. Zero membership, zero ID.
 4. **Mom's Touch (`맘스터치`) — the "Correct Burger" (정답버거)** — Korea's #1 local burger chain: a full set (burger + Cajun fries + cola) runs **~₩7,600 (~$5.50)**. Student favorite with tourist-friendly branches: **Myeongdong flagship** (3 floors, built for tourists), **DDP, Gangnam Station, Hongdae**.

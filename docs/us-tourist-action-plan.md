@@ -82,7 +82,7 @@ Follow this exact schedule to lock in your birthday rewards and food savings bef
   - *Why now?* IKEA emails the birthday **apple tart** coupon **exactly 7 days before** the registered birthday (official FAQ), and it's **not sent if consent is switched on after D-7**.
 - [ ] **Download KakaoTalk & Add Brand Channels:**
   - Install KakaoTalk and verify your US phone number.
-  - Add official brand channels: `@버거킹` (Burger King), `@KFC코리아`, `@롯데리아` (Lotteria), `@배스킨라빈스` (Baskin Robbins), `@던킨` (Dunkin), `@파리바게뜨` (Paris Baguette), `@뚜레쥬르` (Tous Les Jours), `@네네치킨` (Nene Chicken), `@BBQ치킨`, and `@맘스터치` (Mom's Touch).
+  - Add official brand channels: `@버거킹` (Burger King), `@KFC코리아`, `@롯데리아` (Lotteria), `@배스킨라빈스` (Baskin Robbins), `@던킨` (Dunkin), `@파리바게뜨` (Paris Baguette), `@뚜레쥬르` (Tous Les Jours), `@네네치킨` (Nene Chicken), `@BBQ치킨`, and `@맘스터치` (Mom's Touch), plus Kyochon/Gong cha/budget-coffee channels ([full table](signup-welcome-deals.md)).
 - [ ] **Bookmark Klook / KKday / Creatrip Dining Vouchers:**
   - Check prices for celebratory dinners (e.g., hanwoo beef BBQ, Seoul river cruise dining, or hotel buffets). Buy Klook's **Shuttle Delivery e-gift vouchers** at a discount if you plan to order late-night delivery.
 

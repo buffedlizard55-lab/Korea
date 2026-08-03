@@ -1,5 +1,21 @@
 # Changelog
 
+## 2026-08-03 — v3.2.0 Field Trip Kit, Automation & Content Expansion
+- **Field trip kit:**
+  - **NEW `docs/checklist.md`** — master to-do checklist with pre-trip deadlines (D-30/D-15/D-1), in-trip daily routine, arrival/departure day tasks, and a fill-in **birthday schedule** table (IKEA D-7 coupon due dates).
+  - **NEW `docs/arrival-guide.md`** — K-ETA status (**US citizens exempt through Dec 31, 2026**), ICN arrival steps (WOWPASS/T-money/eSIM, AREX, exchange), **self-service tax-refund kiosks at ICN T1/T2** (customs stamp first), first-meal options.
+  - **NEW `docs/money-guide.md`** — payment methods (WOWPASS vs T-money vs cards), best exchange spots, price index, daily budgets, "never do" list.
+  - **NEW `docs/phrasebook.md`** — 40 Korean phrases (kiosk, restaurant, market, delivery, tax refund, politeness) + deal-term glossary.
+  - **NEW `docs/busan-guide.md`** — Busan cheap eats by area (Seomyeon, Haeundae/Gwangalli, Jagalchi/Gukje, student districts), dwaeji gukbap/milmyeon, chain branches, VBP food discounts recap.
+  - **Naver Map tap-links** for every chain deal (new §11 in everyday-savings + links added to neighborhood guide rows) — Google Maps is unreliable in Korea.
+  - **NEW `docs/field-notes.md`** + **`data/deal-tracker.csv`** — in-trip logging template & cost tracker (per CONTRIBUTING nice-to-dos).
+- **Automation:**
+  - **NEW `scripts/check_links.py`** — checks every external URL in the repo (bot-blocked hosts handled as warnings).
+  - **NEW `scripts/check_docs.py`** — table integrity, internal links, "Last verified" date stamps (run locally: clean ✅).
+  - **NEW `.github/workflows/link-check.yml`** — weekly Monday run + manual dispatch; opens/updates an issue on broken links. *(File is ready but pending the GitHub app's `workflows` permission to be pushed/activated.)*
+  - **NEW GitHub issue templates** (broken link/deal changed, new deal) + **PR template** baking in CONTRIBUTING rules.
+- **Content updates:** full KakaoTalk channel table (added Kyochon, Gong cha, Mega/Compose/Paik's with honest 🟡 "verify in-app" notes) in signup-welcome-deals; FAQ gained K-ETA, Naver Map, and tax-refund-kiosk Q&As; README index + How-to-Use expanded; verification log updated with new sources (K-ETA guides, ICN tax kiosks, Busan HapsKorea).
+
 ## 2026-08-03 — v3.1.0 Link Audit, TOS Verification & Beginner UX
 - **Full link & TOS audit (all 60+ links re-checked 2026-08-03):**
   - **Fixed dead/hijacked links:** `koreasalefesta.co.kr` (hijacked → official `koreasalefesta.kr` + korea.kr gov source, noted offline between editions); IKEA's cited "TOS" article (wrong article → official birthday-coupon FAQ); dead Twosome FAQ (HTTP 500 → dasaja); dead Lotte English portal (`/en/main` → main site); "official" Discover Seoul Pass link was a coupon-aggregator → official `discoverseoulpass.com`.

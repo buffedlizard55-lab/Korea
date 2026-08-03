@@ -24,6 +24,26 @@ Instead of downloading native Korean apps that block US phone numbers with `본�
 - **How to use at store:** Tap the coupon in your KakaoTalk chat room, scan the barcode at the self-serve kiosk (`키오스크`), and pay with your US credit card. **Zero physical ID check required.**
 - 🟢 Official Brand Channels (e.g., [Nene Chicken](https://pf.kakao.com/_xnWtrd)) · [NamuWiki verification](https://en.namu.wiki/w/%EB%B2%84%EA%B1%B0%ED%82%B9/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD) · 🟡 [BBQ app promo news (May 2026)](https://www.asiae.co.kr/article/2026051321122045703)
 
+### Full Channel List (search these in KakaoTalk → `채널 추가`)
+
+| Brand | Search this in KakaoTalk | Coupon style | Confidence |
+| --- | --- | --- | --- |
+| Burger King | `@버거킹` | Combo upgrades, ₩1,000–3,000 off sets | 🟢 |
+| KFC Korea | `@KFC코리아` | Bucket discounts, combo upgrades | 🟢 |
+| Lotteria | `@롯데리아` | Bulgogi/shrimp burger barcodes | 🟢 |
+| Baskin Robbins | `@배스킨라빈스` | Monthly coupons, 1+1 scoops | 🟢 |
+| Dunkin | `@던킨` | 1+1 drinks/donuts | 🟢 |
+| Paris Baguette | `@파리바게뜨` | Bakery/cake discount coupons | 🟢 |
+| Tous Les Jours | `@뚜레쥬르` | Bakery discount coupons | 🟢 |
+| Nene Chicken | `@네네치킨` | ₩3,000–7,000 off events (app-member caveats) | 🟢 [channel](https://pf.kakao.com/_xnWtrd) |
+| BBQ Chicken | `@BBQ치킨` | App-driven "half chicken more" promos | 🟡 [asiae](https://www.asiae.co.kr/article/2026051321122045703) |
+| Mom's Touch | `@맘스터치` | New-menu/combos (walk-in set is cheap anyway) | 🟢 |
+| Kyochon Chicken | search `교촌치킨` | Seasonal chicken coupons | 🟡 (verify exact ID in-app) |
+| Gong cha | search `공차` | Drink coupons | 🟡 (verify exact ID in-app) |
+| Mega / Compose / Paik's Coffee | search `메가커피` / `컴포즈커피` / `빽다방` | Drink promos (prices are already ~₩1,500–2,000) | 🟡 (verify exact ID in-app) |
+
+> ⚠️ **Note:** brand channel IDs occasionally change. If a search doesn't find the exact `@` ID above, search the **brand name** (e.g., "교촌치킨") and pick the channel with the **verified (파란 체크) badge**. All channels work from a US KakaoTalk account — no Korean phone needed.
+
 ### 2. The Hyundai Seoul & Hyundai Dept. Store (`Café H`) — Free Welcome Drinks & Dining Coupons
 - **Free Welcome Drinks:** Present your passport at the Foreign Customer Service desk (B1 or 6F) or use the **H.Point Global app** to receive a tourist welcome barcode good for **2 free cups of Americano or tea at Café H** per visit.
 - **Food Court Dining Coupons:** Welcome booklets include **₩5,000 to ₩10,000 off vouchers** for basement food halls (`B1 Food Floor`) and 6F/5F restaurants.

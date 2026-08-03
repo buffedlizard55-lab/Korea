@@ -18,6 +18,7 @@ The entire guide condensed into **one page you can screenshot** or print for the
 | 5 | Install **H.Point Global** app (or note the B1 tourist desk) | App Store / Google Play | Free welcome drinks at The Hyundai Seoul Café H |
 | 6 | Bring a **refillable water bottle** | Packing | Free Arisu filtered water refill stations in Seoul subway stations |
 | 7 | Optional: get a **WOWPASS** prepaid card at the airport | wowpass.io | Cashback at GS25 (5%), Paik's Coffee (3%), Compose Coffee (5%), Dunkin (5%), Lotte Mart/E-Mart (2%) + T-money transit |
+| 8 | Install **Naver Map** (English mode) | App Store / Google Play | Google Maps barely works in Korea — [tap-to-navigate links](../docs/everyday-savings.md) for every chain |
 
 ---
 
@@ -68,6 +69,14 @@ The entire guide condensed into **one page you can screenshot** or print for the
 - **No tipping. No ID on delivery** (don't order alcohol — that triggers an age check).
 
 ---
+
+## 💳 Money Quick Rules
+
+- **Pay in KRW** (never let a merchant charge you in USD — bad rate).
+- **Cards** (Visa/MC) work at kiosks & chains; **cash** (₩50–100k) for markets & Tongin coins; **WOWPASS** = prepaid KRW + transit + cashback.
+- **No tipping. Ever.** Menu price is final.
+- **Restaurant meals are never tax-refundable** — only retail + hypermarket groceries ≥₩15,000.
+- See the [Money Guide](money-guide.md) for full details.
 
 ## 🪪 The ONLY Times You'll Show Your Passport
 

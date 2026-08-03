@@ -28,6 +28,12 @@ A: KakaoTalk, Shuttle Delivery, Baemin (switch to English UI), Klook + KKday + C
 **Q: Do I need a Korean SIM/eSIM with a Korean number?**
 A: No. A data-only tourist eSIM is enough. None of the ✅ deals require a Korean phone number. (Note: Baemin full account signup needs a Korean number, but Guest Checkout `비회원 주문` does not.)
 
+**Q: Do I need K-ETA or a visa as a US citizen?**
+A: No visa, and **no K-ETA through December 31, 2026** — the temporary US exemption is still in effect for your trip. Just a valid US passport (up to 90 days). Full details in the [Arrival Guide](arrival-guide.md).
+
+**Q: Google Maps keeps failing — what do I use?**
+A: **Naver Map** (free, has an English mode). Search in Korean for best results, hit "Directions" (길찾기). Every chain in this guide has a [tap-to-navigate Naver link](everyday-savings.md).
+
 ## 💳 Payment
 
 **Q: Will my US credit card work?**
@@ -71,6 +77,9 @@ A: No — meals and cafes are not tax-refundable. Tax refunds apply to retail sh
 
 **Q: What about duty-free?**
 A: Duty-free shopping (airport or downtown duty-free stores) works for souvenirs/beauty — show your passport and flight info. Not relevant to food, but pair it with your last-day shopping run.
+
+**Q: How do I actually claim my tax refund at Incheon Airport?**
+A: If a store only gave you a **Tax Free receipt** (not the immediate refund), do this on departure: (1) before security, get the **customs stamp/scan** on purchases + receipts + passport; (2) after security, use the **self-service refund kiosks at T1 & T2** — scan receipts, choose cash (KRW) or card. Kiosks have English. [Arrival Guide](arrival-guide.md) has the full flow.
 
 ## 🗓️ Timing
 

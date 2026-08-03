@@ -83,6 +83,9 @@ Every claim in this repository traces to an explicit primary or corroborated sec
 | **dasaja (`다사자`) June 2026 Birthday List** | Baskin Robbins 1+1 birthday coupon conditions; Burger King Whopper Jr.; Lotteria; IKEA apple tart timeline | Mixed (`✅` / `📱`) | [dasaja 2026 guide](https://dasaja.co.kr/saja_guide/152) |
 | **Ask Korea Travel / Latte in Seoul (read 2026-08-03)** | **Baemin Guest (`비회원`) ordering confirmed without ARC**; foreign cards via "Global Payments"; WeChat Pay/Alipay+; ⚠️ Latte in Seoul notes full **account signup needs a Korean phone for SMS** (use Guest); app language follows **phone OS**; lobby drop-off etiquette ("로비에 남겨주세요") | ✅ Tourist-friendly | [Ask Korea Travel (Apr 2026)](https://askkoreatravel.com/food-delivery-in-korea-essential-2026-guide/) · [Latte in Seoul (Mar 2026)](https://latteinseoul.com/how-to-use-baemin-in-korea-english-guide/) |
 | **Ashley Queens 2026 Pricing (Banksalad/NamuWiki)** | Weekday lunch **₩19,900** / weekday dinner **₩25,900** / weekends & holidays **₩27,900** (adult) | ✅ Tourist-friendly | [Banksalad (Dec 2025)](https://www.banksalad.com/articles/%EC%95%A0%EC%8A%90%EB%A6%AC%ED%80%B8%EC%A6%88-%ED%95%A0%EC%9D%B8-%EC%B9%B4%EB%93%9C-%EC%B6%94%EC%B2%9C) · [NamuWiki (Jul 2026)](https://namu.wiki/w/%EC%95%A0%EC%8A%90%EB%A6%AC(%ED%8C%A8%EB%B0%80%EB%A6%AC%20%EB%A0%88%EC%8A%A4%ED%86%A0%EB%9E%91)) |
+| **K-ETA US Exemption (multiple 2026 guides)** | US citizens are **exempt from K-ETA through Dec 31, 2026** (90-day visa-free stay); exemption expected to resume 2027 | ✅ Tourist-friendly | 🟡 [arrivekorea.com](https://arrivekorea.com/guides/k-eta) · [ketakorea.info](https://ketakorea.info/keta-korea-us-citizens/) · [mileasia.com](https://mileasia.com/korea/americans-k-eta-korea/) |
+| **Incheon Tax-Refund Kiosks (2026 guides)** | **Self-service refund kiosks at ICN T1 & T2** — customs stamp first, then kiosk (cash KRW or card; EN/CN/JA UI); Global Blue/Global Tax Free receipts accepted | ✅ Tourist-friendly | 🟡 [arirangbubu.com (Apr 2026)](https://arirangbubu.com/survival-guide-korea-tax-refund-tourists/) · [airport.online ICN](https://airport.online/seoul-incheon-airport/en/customs-and-tax-refund) |
+| **Busan Cheap Eats (HapsKorea, Nov 2025)** | Dwaeji gukbap ₩9–12k, milmyeon, gimbap+soup combos ₩6–8k in student/office districts, 한식부페 lunch buffets ₩6–8k, convenience-store meals <₩8k | ✅ Tourist-friendly | 🟡 [HapsKorea (Nov 2025)](https://www.hapskorea.com/eating-well-for-less-a-look-at-busans-affordable-spots/) · 🟡 [r/koreatravel thread](https://www.reddit.com/r/koreatravel/comments/1omb8jr/good_cheap_filling_eats_in_busan/) |
 | **hmkeconomy 2024 Fast Food Roundup** | Burger King / Lotteria native app birthday coupons | 📱 KR phone needed | [hmkeconomy](https://hmkeconomy.com/entry/%EA%B0%81%EC%A2%85-%EC%95%B1-%EB%AC%B4%EB%A3%8C-%EC%83%9D%EC%9D%BC%ED%98%9C%ED%83%9D-%EC%B4%9D%EC%A0%95%EB%A6%AC%EC%84%A0%ED%96%89%EC%A1%B0%EA%B1%B4-%EC%97%86%EB%8A%94-%ED%98%9C%ED%83%9D-%EC%9C%84%EC%A3%BC) |
 
 ---
@@ -109,6 +112,16 @@ Every claim in this repository traces to an explicit primary or corroborated sec
 - [ ] **Convenience Stores:** Check November 1st 1+1 / 2+1 promotional flyers for CU and GS25.
 - [ ] **Lotte Mart Tax Exemption:** Confirm Immediate Tax Refund minimum spend remains ₩15,000.
 - [ ] **A Twosome Place FAQ:** Their FAQ page returned HTTP 500 at last check — re-verify RED-tier cake coupon when it's back up.
+- [ ] **Automated:** `scripts/check_links.py` checks every URL locally. The weekly GitHub Actions workflow is ready but **not yet active** — it needs the repo's GitHub app to have the `workflows` permission (see ⚙️ below).
+
+---
+
+## ⚙️ Automation & Maintenance
+
+- **Link checker (local):** `python3 scripts/check_links.py` — checks every external URL; bot-blocked hosts (Reddit, TikTok, NamuWiki…) are reported as warnings.
+- **Docs checker (local):** `python3 scripts/check_docs.py` — tables, internal links, date stamps.
+- **Weekly workflow (pending activation):** `.github/workflows/link-check.yml` is written and ready but **could not be pushed** because this repo's GitHub app lacks the `workflows` permission. To activate: Settings → Applications → grant `workflows`, then push/merge the file. It will then run every Monday and open/update a "🔗 Link check failed" issue.
+- **After fixing links,** add a row to the Link Audit table below with the date and what changed.
 
 ---
 
