@@ -3,7 +3,7 @@
 ## 2026-08-03 — initial research sweep
 - Built full guide structure (`docs/` with 5 category docs + verification log)
 - Verified against official pages: Starbucks KR rewards, Outback Boomerang membership,
-  KFC membership, Twosome FAQ, KFC KR membares, Klook Shuttle voucher, Korea Grand Sale (gov),
+  KFC membership, Twosome FAQ, Klook Shuttle voucher, Korea Grand Sale (gov),
   Baemin App Store listing, Baemin multilingual launch news
 - Corroborated secondaries: Banksalad (VIPS), 다사자 June/April 2026 guides, ARTART 2026
   birthday roundup, Coupang Eats coupon aggregators, tourist delivery-app guides
