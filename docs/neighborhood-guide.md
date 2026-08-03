@@ -19,7 +19,7 @@
 ### 종로/광화문 Jongno · Gwanghwamun (Palaces & history)
 | Deal | What you get | Where |
 | --- | --- | --- |
-| **Tongin Market brass-coin lunchbox** | **₩10,000** = 20 coins + tray, build a 5–8 dish feast | 8 min walk from Gyeongbokgung; Tue–Sun 11:00–16:00; **closed Mon & Sun Nov 15** |
+| **Tongin Market brass-coin lunchbox** | **₩10,000** = 20 coins + tray, build a 5–8 dish feast | 8 min walk from Gyeongbokgung; Tue–Sun ~11:00–16:00 (hours differ by source — go 11:00–14:00); **closed Mon & Sun Nov 15** |
 | **Boarding-pass discounts** | 10–20% off traditional tea houses & restaurants | Show Asiana/Korean Air boarding pass (within validity window) |
 | **Gimbap Cheonguk / 24h diners** | Gimbap ₩2,500–4,000, ramen ₩3,500 | Dozens around Anguk/Insadong |
 
@@ -108,3 +108,4 @@
 1. **Tourist mega-zones** (Myeongdong main street, Gwangjang, Gangnam main drag) = inflated prices. Walk 5 minutes into a side street or one metro stop (Hongdae/Sinchon/Mangwon) and prices drop 20–30%.
 2. **Everywhere:** convenience-store 1+1/2+1 (resets Nov 1), budget coffee ₩1,500–2,000, free Arisu water in subway stations.
 3. **Check Naver Map** (English mode) for the nearest branch of any chain — Dookki, Myeongryun Jinsa Galbi, No Brand, Mom's Touch, Gimbap Cheonguk all have dozens of locations.
+4. **Pay with WOWPASS** for cashback at GS25 (5%), Compose/Paik's/The Venti coffee (3–5%), Dunkin (5%), Lotte Mart/E-Mart (2%) — verified Aug 2026.

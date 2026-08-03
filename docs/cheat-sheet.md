@@ -11,12 +11,13 @@ The entire guide condensed into **one page you can screenshot** or print for the
 
 | # | Action | Where | Why |
 | --- | --- | --- | --- |
-| 1 | Register **IKEA Family Korea** with your email (set real birthday) | ikea.com/kr/en/ikea-family/ | Free birthday dessert coupon auto-emailed **7 days before** your birthday |
+| 1 | Register **IKEA Family Korea** with your email (set real birthday, **turn marketing/email consent ON**) | ikea.com/kr/en/ikea-family/ | Free **apple tart** coupon emailed **exactly 7 days before** your birthday (no consent = no coupon) + free weekday hot drink |
 | 2 | Install **KakaoTalk**, add brand channels | App Store / Google Play | Instant fast-food coupons; search `@버거킹`, `@KFC코리아`, `@롯데리아`, `@배스킨라빈스`, `@던킨`, `@파리바게뜨`, `@네네치킨`, `@BBQ치킨`, `@맘스터치` |
-| 3 | Install **Shuttle Delivery** (English) + **Baemin** (switch to English UI) | App Store / Google Play | Hotel delivery without a Korean phone or ID |
+| 3 | Install **Shuttle Delivery** (English) + **Baemin** (English = set phone OS to English) | App Store / Google Play | Hotel delivery without a Korean phone or ID (use Guest Checkout `비회원 주문`) |
 | 4 | Bookmark **Klook / KKday / Creatrip** dining vouchers | App / Web | 10–30% off BBQ, buffets, cakes — buy in USD |
 | 5 | Install **H.Point Global** app (or note the B1 tourist desk) | App Store / Google Play | Free welcome drinks at The Hyundai Seoul Café H |
 | 6 | Bring a **refillable water bottle** | Packing | Free Arisu filtered water refill stations in Seoul subway stations |
+| 7 | Optional: get a **WOWPASS** prepaid card at the airport | wowpass.io | Cashback at GS25 (5%), Paik's Coffee (3%), Compose Coffee (5%), Dunkin (5%), Lotte Mart/E-Mart (2%) + T-money transit |
 
 ---
 
@@ -35,12 +36,13 @@ The entire guide condensed into **one page you can screenshot** or print for the
 
 ---
 
-## 🎂 Birthday Freebies (Zero ID Checked)
+## 🎂 Birthday Freebies
 
-| Deal | How | Timing |
-| --- | --- | --- |
-| **IKEA Family dessert coupon** (apple tart/cake) | Email coupon, scan at kiosk | Arrives D-7, valid ~30 days |
-| **KakaoTalk channel coupons** (BK, KFC, Lotteria, Baskin, Dunkin…) | Barcode in chat, scan at kiosk | Instant + monthly releases |
+| Deal | How | Timing | ID? |
+| --- | --- | --- | --- |
+| **IKEA Family birthday apple tart** (apple cake before Oct 2025) | Email coupon (consent must be ON); scan at restaurant | Emailed **exactly D-7**, per official FAQ | ⚠️ **ID may be asked** (Korean guides) — bring passport that day |
+| **IKEA Family free weekday hot drink** ☕ | Just scan your member QR at the restaurant | Every weekday | ✅ No ID |
+| **KakaoTalk channel coupons** (BK, KFC, Lotteria, Baskin, Dunkin…) | Barcode in chat, scan at kiosk | Instant + monthly releases | ✅ No ID |
 
 > ⚠️ **Skip:** Starbucks KR, Outback, CJ ONE, Happy Point apps — all require Korean identity verification (`본인인증`). Don't waste a minute.
 
@@ -52,16 +54,16 @@ The entire guide condensed into **one page you can screenshot** or print for the
 | --- | --- |
 | **Oct 31 (Sat, arrival)** | Grab October's convenience-store 1+1/2+1 deals tonight |
 | **Nov 1 (Sun)** | Fresh November promo slate at CU/GS25/7-Eleven/emart24 |
-| **Late Oct – mid Nov** | **Korea Sale Festa 2026** — look for festival banners at restaurants & food halls (2026 dates TBA, pattern: 2025 ran Oct 29 – Nov 16) |
+| **Late Oct – mid Nov** | **Korea Sale Festa 2026** — look for festival banners at restaurants & food halls (2026 dates TBA; 2024 ran Nov 9–30, 2025 ran Oct 29 – Nov 16; official site koreasalefesta.kr returns ~Sep/Oct) |
 | **Daily 19:30–20:30** | Department store B1 food halls: sushi/deli/bakery 20–40% off (The Hyundai Seoul, Lotte, Shinsegae) |
-| **Tue–Sun 11:00–16:00** | Tongin Market brass-coin lunchbox: **₩10,000 = 20 coins + tray** (closed Mondays & **Sun Nov 15**) |
+| **Tue–Sun ~11:00–16:00** | Tongin Market brass-coin lunchbox: **₩10,000 = 20 coins + tray** (closed Mondays & **Sun Nov 15**; hours differ by source — go 11:00–14:00 to be safe) |
 | **Any weekday 11:00–14:00** | `점심 특선` weekday lunch specials — fine dining at ½ price |
 
 ---
 
 ## 🛵 Delivery to Your Hotel (No ARC)
 
-- **Shuttle Delivery** — 100% English, US cards. Buy discounted e-gift vouchers on Klook first (~10–15% off).
+- **Shuttle Delivery** — 100% English, US cards. Buy discounted e-gift vouchers on Klook first (check the current % at booking).
 - **Baemin** — English UI + Guest Checkout (`비회원 주문`); first-order banner coupons ~₩10,000 off; US Visa/MC/Amex/Apple Pay.
 - **No tipping. No ID on delivery** (don't order alcohol — that triggers an age check).
 

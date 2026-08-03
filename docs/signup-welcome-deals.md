@@ -34,7 +34,7 @@ Instead of downloading native Korean apps that block US phone numbers with `본�
 - Built explicitly for international visitors and expats in South Korea (English-only interface).
 - **No Korean phone number or ARC required:** Register with your standard email address and US phone number.
 - **Payment:** Accepts all major US credit cards (Visa, Mastercard, Amex, Apple Pay) without Korean payment plugins.
-- **Welcome Hack:** Before ordering, buy **Shuttle Delivery e-gift vouchers at a discount on Klook** (e.g., buy a ₩20,000 voucher for ~10–15% off in USD) and apply it at checkout!
+- **Welcome Hack:** Before ordering, buy **Shuttle Delivery e-gift vouchers at an exclusive discount on Klook** (check the current % — it varies by promo) and apply the code at checkout!
 - 🔗 Official Shuttle Klook page: <https://www.klook.com/activity/120381-food-delivery-in-korea/>
 
 ### 4. Baemin (`배달의민족`) — English UI & Guest Checkout (`비회원 주문`) Welcome
@@ -43,10 +43,11 @@ Instead of downloading native Korean apps that block US phone numbers with `본�
 - **Welcome Discount:** New user promotions and first-order banners (often **₩10,000 off**) appear on the English home screen for first-time guest/app orders.
 - 🔗 Official App Store listing: <https://apps.apple.com/kr/app/id378084485> · 🟢 [English UI launch news (Feb 2026)](https://www.digitaltoday.co.kr/en/view/2972/baemin-starts-in-app-support-for-english-chinese-and-japanese)
 
-### 5. IKEA Family Korea — Welcome Dessert & Family Member Pricing
-- Register at [ikea.com/kr/en](https://www.ikea.com/kr/en/ikea-family/) using **only your email address**.
-- Unlocks instant IKEA Family member pricing on Swedish meatballs, breakfast plates, and bakery items at IKEA restaurant locations, plus auto-issued birthday dessert coupons.
-- 🟢 [Official TOS](https://www.ikea.com/kr/en/customer-service/knowledge/articles/g596251f-8ef8-4fc2-b978-759612249f08.html)
+### 5. IKEA Family Korea — Free Weekday Hot Drink & Member Pricing (+ Birthday Tart)
+- Register at [ikea.com/kr/en](https://www.ikea.com/kr/en/ikea-family/) using **only your email address** (no Korean phone verification).
+- **Instant, no-ID benefits:** member pricing on Swedish meatballs, breakfast plates, and bakery items, plus a **free hot coffee/tea at the weekday restaurant** — just scan your member QR.
+- **Birthday benefit:** a free **apple tart** coupon emailed **exactly 7 days before** your registered birthday (marketing/email consent must be ON). ⚠️ *Korean deal guides report ID may be requested for the tart — the hot drink and member prices need no ID.*
+- 🟢 [Official birthday-coupon FAQ (read 2026-08-03)](https://www.ikea.com/kr/ko/customer-service/knowledge/articles/fd4b29g9-7e76-4484-b1b5-5gf4e6fcb285.html) · [IKEA Family benefits](https://www.ikea.com/kr/ko/ikea-family/benefits/)
 
 ---
 

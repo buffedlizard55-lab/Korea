@@ -12,11 +12,12 @@ Deals aimed specifically at **foreign visitors and US citizens**—no Korean Res
 ## 🏛️ 1. Korea Sale Festa 2026 (Late Oct – Mid Nov) — Your #1 Autumn Event!
 
 Your trip dates (Oct 31 – Nov 22) overlap directly with South Korea's official national autumn shopping and dining festival: **Korea Sale Festa (`코리아세일페스타`)**.
-- **Dates (2026 provisional):** The festival is held **every autumn** with dates that shift year to year: **2024 ran Nov 9–30; 2025 ran Oct 29 – Nov 16 (19 days)**. The 2026 window is **expected to land late Oct – mid Nov** (matching your trip), but official dates are announced by the trade ministry around October — **check [`koreasalefesta.co.kr`](https://www.koreasalefesta.co.kr) in late September** before relying on it.
+- **Dates (2026 provisional):** The festival is held **every autumn** with dates that shift year to year: **2024 ran Nov 9–30; 2025 ran Oct 29 – Nov 16 (19 days)**. The 2026 window is **expected to land late Oct – mid Nov** (matching your trip), but official dates are announced by the trade ministry around October.
+- **⚠️ Official site status (checked 2026-08-03):** the festival's official site (`koreasalefesta.kr`, per MCST/Samsung/korea.kr) is **offline between editions** — the old `koreasalefesta.co.kr` domain now points to an unrelated login page. **Bookmark [`koreasalefesta.kr`](https://www.koreasalefesta.kr) and check it from late September** for the 2026 dates/partner list; until then, treat the window as provisional.
 - **What it covers:** Known as the Korean "Black Friday," **2,000+ participating companies** (2025) run nationwide promotions across F&B chains, department store food courts, convenience stores, and supermarkets.
 - **Tourist Benefits:** Special bundle meals, instant discount coupons at participating restaurants, and 1+1 / 2+1 grocery deals.
 - **How to claim:** Look for official **"Korea Sale Festa"** banners at restaurant entrances and food halls. Scan event barcodes at kiosks; **no ID required**.
-- 🟢 [Official site](https://www.koreasalefesta.co.kr) · [NamuWiki reference](https://en.namu.wiki/w/%EC%BD%94%EB%A6%AC%EC%95%84%20%EC%84%B8%EC%9D%BC%20%ED%8E%98%EC%8A%A4%ED%83%80) · 🟡 [2025 dates (Oct 29 – Nov 16) confirmed — Wikipedia](https://ko.wikipedia.org/wiki/%EC%BD%94%EB%A6%AC%EC%95%84%EC%84%B8%EC%9D%BC%ED%8E%98%EC%8A%A4%ED%83%80)
+- 🟢 [Official site (offline between editions)](https://www.koreasalefesta.kr) · 🟡 [Government coverage — 2024 edition (Nov 9–30)](https://www.korea.kr/news/policyNewsView.do?newsId=148935761) · [NamuWiki reference](https://en.namu.wiki/w/%EC%BD%94%EB%A6%AC%EC%95%84%20%EC%84%B8%EC%9D%BC%20%ED%8E%98%EC%8A%A4%ED%83%80) · [2025 dates (Oct 29 – Nov 16) — Wikipedia](https://ko.wikipedia.org/wiki/%EC%BD%94%EB%A6%AC%EC%95%84%EC%84%B8%EC%9D%BC%ED%8E%98%EC%8A%A4%ED%83%80)
 
 > ⚠️ **Winter-Only Note (Korea Grand Sale):** Many travel blogs mention the government's *Korea Grand Sale* (which ended Feb 2026). Do not look for Korea Grand Sale coupons during your trip—that is a winter-only festival (Dec–Feb). Your autumn equivalent is **Korea Sale Festa**!
 
@@ -40,9 +41,9 @@ Don't overpay for airport food before your flight home. Use these tourist-access
 
 ### Priority Pass / DragonPass Free Buffet Feasts (Matina Lounge & Sky Hub Lounge)
 - Many US travel credit cards (Chase Sapphire Reserve, Capital One Venture X, Amex Platinum, Citi Prestige) include Priority Pass or LoungeKey.
-- **Where to go:** At Incheon International Airport (ICN Terminal 1 & Terminal 2), skip standard food courts and head to **Matina Lounge (`마티나 라운지`)** or **Sky Hub Lounge (`스카이허브 라운지`)**.
-- **What's included:** A full-scale Korean buffet featuring build-your-own bibimbap, tteokbokki, fried chicken, bulgogi, cup noodles, salad bar, desserts, beer, and wine at zero cost.
-- 🟢 [Incheon Airport Lounge Guide](https://www.reddit.com/r/PriorityPass/comments/1ja701o/best_lounge_at_incheon_airport_seoul_south_korea/)
+- **Where to go:** At Incheon International Airport (ICN), skip standard food courts and head to **Matina Lounge** (T1 near gates 11 & 43, plus T2 near gate 252) or **Sky Hub Lounge** (T1 & T2 locations) — both accept Priority Pass.
+- **What's included:** A full Korean-flavored buffet — build-your-own bibimbap, kimchi jjigae, kalguksu, yangnyeom chicken, salad bar, desserts, beer and wine at zero cost. Open daily ~07:00–22:00 (food service ends ~21:30).
+- 🟡 [TravelMint — Priority Pass lounges at ICN](https://www.travelmint.com/lounges/priority-pass-lounges-at-incheon-international-airport/) · [LoungeReview — Sky Hub Lounge ICN](https://loungereview.com/lounges/skyhub-lounge-icn-gate-43/) · [Trip.com ICN lounge guide](https://sg.trip.com/guide/info/incheon-airport-lounge.html) · Community reports on [r/PriorityPass](https://www.reddit.com/r/PriorityPass/comments/1ja701o/best_lounge_at_incheon_airport_seoul_south_korea/)
 
 ### Klook Airport Meal Vouchers
 - For travelers without Priority Pass, Klook sells discounted meal vouchers for Incheon Airport food halls (`CJ Foodworld`, `Flavour 6`) in USD, saving ~10% below airport register prices.
@@ -57,7 +58,7 @@ If you buy a city tourist pass for attractions, do not overlook their embedded r
 - **What you get (as of Jul 2026):** free admission to **79 attractions** + discount coupons at **140 partners** (219 total). Food-relevant perks include **discounts at partner cafes, traditional Korean restaurants, Hard Rock Cafe Seoul, and N Seoul Tower dining** — and the new partner list even includes **No Brand (Goyang/Hanam/Anseong SF branches) and Traders Wholesale Club**.
 - **Pass types/prices:** All-Inclusive 72h **₩90,000** / 120h **₩130,000**; Pick 3 Basic **₩49,000** / Pick 3 Theme Park **₩70,000** (mobile versions slightly cheaper via third parties). New for 2026: **SPAREX jjimjilbang saunas, Seoul Cruise, and Aquafield** are free-admission partners; the **Pick 3 system got more flexible** (pick any 3, not one-per-group).
 - **Bonus:** free 5-day unlimited-data **SKT eSIM** (now included with the card pass too, not just mobile), free AREX/tour bus, and T-money transit top-up on the card.
-- 🟢 [DSP official listing (Visit Korea)](https://english.visitkorea.or.kr/svc/thingsToGo/tvExhibit/tourGdsPrView.do?gdsId=2000048) · 🟡 [Travel+Leisure Asia — July 2026 expansion](https://www.travelandleisureasia.com/sea/news/south-korea-expands-its-discover-seoul-pass-adds-more-benefits-for-users/) · [Discover Seoul Pass Official](https://discoverseoulpass.valuecom.com/)
+- 🟢 [Official DSP site (prices, partners, refund policy)](https://www.discoverseoulpass.com) · [DSP official listing (Visit Korea)](https://english.visitkorea.or.kr/svc/thingsToGo/tvExhibit/tourGdsPrView.do?gdsId=2000048) · 🟡 [Travel+Leisure Asia — July 2026 expansion](https://www.travelandleisureasia.com/sea/news/south-korea-expands-its-discover-seoul-pass-adds-more-benefits-for-users/)
 
 ### Visit Busan Pass (VBP) — verified food discounts
 - **What you get:** free entry to 30+ Busan attractions + **~50 discounted experiences** and concrete restaurant/cafe discounts, including:
@@ -80,7 +81,7 @@ Major Korean department stores offer exclusive dining and cafe vouchers to forei
 
 ### Lotte Department Store & Shinsegae Department Store
 - **What you get:** Tourist coupon books featuring **10% off F&B vouchers** for basement food halls and restaurant floors.
-- **How to claim:** Download digital tourist coupons from the [Lotte Department Store English portal](https://www.lotteshopping.com/en/main) or Shinsegae app before visiting.
+- **How to claim:** Look for tourist coupon booklets at the department store's foreign-customer/info desk, or check the [Lotte Department Store site](https://www.lotteshopping.com) / Shinsegae app. ⚠️ *The dedicated Lotte English portal (`/en/main`) was down at last check (2026-08-03) — the info desk or Klook/KKday listings are more reliable.*
 
 ---
 
@@ -90,7 +91,7 @@ These platforms sell discounted Korean restaurant vouchers, celebratory birthday
 
 | Platform | Food-Deal Highlights for US Citizens | Link | Trust & ID Check |
 | --- | --- | --- | --- |
-| **Klook** | • **Shuttle Delivery e-gift vouchers at a discount** (~10–15% off)<br>• Premium Korean BBQ (Hanwoo beef) & high-end seafood buffets<br>• Periodic app promo codes for first-time bookers | [Shuttle voucher](https://www.klook.com/activity/120381-food-delivery-in-korea/) · [Korea dining](https://www.klook.com/en-SG/destination/35-south-korea/) | 🟢 **100% Tourist**<br>*(Show QR code voucher; zero ID check)* |
+| **Klook** | • **Shuttle Delivery e-gift vouchers at an exclusive discount** (check current % at booking)<br>• Premium Korean BBQ (Hanwoo beef) & high-end seafood buffets<br>• Periodic app promo codes for first-time bookers | [Shuttle voucher](https://www.klook.com/activity/120381-food-delivery-in-korea/) · [Korea dining](https://www.klook.com/en-SG/destination/35-south-korea/) | 🟢 **100% Tourist**<br>*(Show QR code voucher; zero ID check)* |
 | **Creatrip** | • English food guides with exclusive partner-store discount coupons (Myeongdong, Hongdae, Gangnam cafes & BBQ spots) | <https://www.creatrip.com> | 🟡 Partner discounts |
 | **KKday** | • Discounted Seoul & Busan dining tickets; celebratory cake pre-orders | <https://www.kkday.com> | 🟡 QR code redemption |
 | **Trazy** | • Local food market experiences, brewery tours, and seasonal dining promotions | <https://www.trazy.com> | 🟡 English-first platform |
@@ -103,6 +104,6 @@ These platforms sell discounted Korean restaurant vouchers, celebratory birthday
 
 ## 💳 7. Payment-Layer & Hotel Loyalty Dining Perks
 
-- **WOWPASS:** Prepaid tourist debit card (KRW) sold at airport and station kiosks. The accompanying app features periodic **merchant cashback offers** at cafes and restaurants across Seoul and Busan. 🟢 <https://www.wowpass.io>
+- **WOWPASS:** Prepaid tourist debit card (KRW) sold at airport/station kiosks; works as T-money transit too. The app shows **partner cashback rewards** (verified Aug 2026): **GS25 5%**, **Compose Coffee 5%**, **Dunkin 5%**, **Paik's Coffee 3%**, **A Twosome Place 3%**, **The Venti 3%**, **Kyochon Chicken 2%**, **Lotte Mart 2%**, **E-Mart 2%**, Olive Young 4%, Daiso 5%. 🟢 <https://www.wowpass.io>
 - **Global Hotel Loyalty Programs (Marriott Bonvoy / Hilton Honors):** Even if you are not staying overnight, members of **Marriott Bonvoy** receive standing **10% to 20% F&B discounts** at participating Marriott/Sheraton/Westin/Josun hotel restaurants in Seoul and Busan simply by showing their digital membership number.
 - **Tax Refund (`즉시면세`):** Applies only to retail shopping (apparel, beauty, souvenirs) and hypermarket groceries ≥₩15,000, **never to restaurant meals or cafes**—do not budget tax refunds into restaurant savings.

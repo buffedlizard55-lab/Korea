@@ -54,7 +54,7 @@ A: For walk-in deals (Myeongryun Jinsa Galbi, Dookki, No Brand, Mom's Touch, Gim
 A: Because it needs `본인인증` (Korean ID verification). This guide only lists what actually works for US citizens without an ARC. If you find a new one that works, add it with a source (see CONTRIBUTING.md).
 
 **Q: Korea Sale Festa 2026 dates aren't published yet — what do I do?**
-A: The 2025 festival ran Oct 29 – Nov 16 (2024: Nov 9–30), so your trip window is in the expected zone. Check `koreasalefesta.co.kr` in late September/October for the official 2026 dates and partner list.
+A: The 2025 festival ran Oct 29 – Nov 16 (2024: Nov 9–30), so your trip window is in the expected zone. **Note: the festival's official site is offline between editions** — the official domain is `koreasalefesta.kr` (the old `.co.kr` now points to an unrelated page). Check `koreasalefesta.kr` from **late September** for 2026 dates/partners, or follow the [government announcement](https://www.korea.kr/news/policyNewsView.do?newsId=148935761).
 
 ## 🏨 Delivery & Hotels
 
@@ -78,4 +78,13 @@ A: Duty-free shopping (airport or downtown duty-free stores) works for souvenirs
 A: Convenience-store 1+1/2+1 promotions reset on the 1st of every month. You arrive Oct 31 (October's slate) and wake up Nov 1 to a fresh set — it's the rare trip where you catch two promo cycles in 24 hours.
 
 **Q: Tongin Market — what if my only free day is Monday?**
-A: It's closed Mondays and the 3rd Sunday (Nov 15). Use Mangwon Market (₩1,500 croquettes) or Namdaemun Market instead.
+A: It's closed Mondays and the 3rd Sunday (Nov 15). Use Mangwon Market (₩1,500 croquettes) or Namdaemun Market instead. *(Lunchbox counter hours differ by source — iVisitKorea says until 4pm weekdays/3pm weekends, older guides say the reverse. Go 11:00–14:00 to be safe.)*
+
+**Q: Does IKEA Korea really give a free birthday dessert? Does it need ID?**
+A: Yes — the official IKEA Korea FAQ confirms an annual birthday coupon (**apple tart** since Oct 17, 2025) emailed **exactly 7 days before** your registered birthday, but only if **marketing/email consent is ON** in your account. Honest caveat: Korean deal guides report the restaurant **may ask for ID (`신분증`) when redeeming the tart** — bring your passport that day. The other member perks — **free hot drink on weekdays** and member prices — need no ID at all.
+
+**Q: Baemin's English UI — where's the language setting?**
+A: There isn't an in-app toggle. Baemin's English/Chinese/Japanese UI (launched Feb 2026) follows your **phone's system language** — set your phone OS to English and the app shows English. Also use **Guest Checkout (`비회원 주문`)** rather than signing up, since full account creation can ask for a Korean phone number.
+
+**Q: Is WOWPASS worth it just for food?**
+A: If you'd carry a prepaid card anyway, yes — it doubles as T-money transit and earns partner cashback verified Aug 2026: **GS25 5%, Compose Coffee 5%, Dunkin 5%, Paik's Coffee 3%, A Twosome Place 3%, The Venti 3%, Kyochon 2%, Lotte Mart 2%, E-Mart 2%**. Grab one at the airport kiosk and top up with a US card.

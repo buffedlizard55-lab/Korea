@@ -41,9 +41,9 @@ We have searched and exhausted every possible F&B savings channel in South Korea
 
 | # | Avenue & Brand Name | What You Save / Claim | How US Citizens Access It (No ARC) | ID Required at Store? | Best Time to Use |
 | --- | --- | --- | --- | --- | --- |
-| **1** | **IKEA Family Korea**<br>*(Restaurant & Cafe)* | **Free Birthday Dessert Coupon** (Apple Tart/Cake) + standing Family meal discounts | Sign up at [ikea.com/kr/en](https://www.ikea.com/kr/en/ikea-family/) with an **email address only** (no KR phone needed). | **No** (Scan digital card at kiosk) | Birthday week (coupon arrives D-7) |
+| **1** | **IKEA Family Korea**<br>*(Restaurant & Cafe)* | **Free weekday hot drink** + member prices (no ID) + **free birthday apple tart** coupon by email | Sign up at [ikea.com/kr/en](https://www.ikea.com/kr/en/ikea-family/) with an **email address only** (no KR phone). Keep **marketing consent ON** — tart coupon emailed **exactly D-7**. | **No** for hot drink/member price; ⚠️ **ID may be asked** for the birthday tart | Birthday week (coupon arrives D-7) |
 | **2** | **KakaoTalk Plus Friends (`카카오톡 채널`)**<br>*(Burger King, KFC, Lotteria, Baskin Robbins, Dunkin, Nene Chicken, BBQ, Mom's Touch)* | **Instant Combo Discounts**, ₩1,000–₩3,000 off sets, and monthly celebration coupons | Install **KakaoTalk** on your US phone. Add official brand channels (`채널 추가`). Download barcodes in chat. | **No** (Scan barcode at self-serve kiosk) | Anytime before fast-food meals |
-| **3** | **Korea Sale Festa 2026**<br>*(National Autumn Festival)* | Nationwide F&B discounts, bundle meals & department store food hall promos | Overlaps your trip dates (**late Oct – mid Nov 2026**). Look for official banners at participating stores. | **No** (Scan promo barcode) | Oct 31 – Nov 16 across Seoul |
+| **3** | **Korea Sale Festa 2026**<br>*(National Autumn Festival)* | Nationwide F&B discounts, bundle meals & department store food hall promos | Expected to overlap your trip (**late Oct – mid Nov 2026**; 2024 ran Nov 9–30, 2025 ran Oct 29 – Nov 16). **2026 dates TBA** — official site `koreasalefesta.kr` returns ~Sep/Oct. Look for festival banners in stores. | **No** (Scan promo barcode) | Late Oct – mid Nov across Seoul |
 | **4** | **Shuttle Delivery & Baemin Guest Checkout** | Food & birthday cake delivery to your hotel without an ARC or KR ID | **Shuttle**: 100% English, US cards, discounted Klook e-gift vouchers.<br>**Baemin**: English UI + Guest Checkout (`비회원 주문`). | **No** (Contactless hotel delivery) | Late-night chicken & pizza |
 | **5** | **Convenience Stores**<br>*(CU, GS25, 7-Eleven, emart24)* | Monthly **1+1 & 2+1 promos** on drinks, snacks & noodles | Walk in and grab items with red/yellow "+1" shelf tags. No membership needed. | **No** (Except alcohol) | **Arrival night (Oct 31)** & **Nov 1st promo reset** |
 | **6** | **All-You-Can-Eat (`무한리필`) BBQ & Buffets** | Unlimited Korean BBQ at **Myeongryun Jinsa Galbi** (₩21,900, 600+ stores) or Tteokbokki at **Dookki** (₩11,900, now with maratang) | Walk in and eat unlimited meat, sides & soft drinks for a flat price. *(Cheaper lunch sets ₩7,000–13,900 at Myeongryun.)* | **No** | Big group dinners |
@@ -63,10 +63,10 @@ Since your trip covers late October and most of November, here is how your group
 
 | Birthday Deal / Brand | What You Get | How US Citizens Sign Up (No ARC) | ID Check? |
 | --- | --- | --- | --- |
-| **IKEA Family Korea (Restaurant & Café)** | **Free Birthday Dessert Coupon** (Apple Tart / Cake) auto-issued via email 7 days before your birthday + family dining discounts | Sign up at [ikea.com/kr/en](https://www.ikea.com/kr/en/ikea-family/) using a **standard email address**. No Korean phone verification required! (Use a separate email for each person's birthday). | **NO** (Scan digital card/coupon at restaurant cashier/kiosk) |
+| **IKEA Family Korea (Restaurant & Café)** | **Free weekday hot drink** + member prices + **free birthday apple tart** coupon emailed **exactly 7 days before** your birthday (official FAQ; consent must be ON) | Sign up at [ikea.com/kr/en](https://www.ikea.com/kr/en/ikea-family/) using a **standard email address**. No Korean phone verification required! (Use a separate email for each person's birthday). | **NO** for hot drink/member price; ⚠️ **ID may be requested** for the birthday tart (Korean guides) — bring passport that day |
 | **KakaoTalk Plus Friends (`카카오톡 채널`)**<br>*(Burger King KR, KFC KR, Lotteria, Baskin Robbins, Dunkin, Paris Baguette, Nene Chicken, BBQ, Mom's Touch)* | **Instant Discount Coupons**, free combo upgrades, 1+1 coffee, and seasonal celebration coupons | Install **KakaoTalk** on your US phone number. Search and add official brand channels as friends (`채널 추가`). Download barcodes directly in chat. | **NO** (Scan barcode at self-serve kiosk) |
 | **The Hyundai Seoul & Hyundai Dept. Store (`Café H`)** | **Free Welcome Drinks** (2 cups of Americano/Tea per visit) + **₩5,000–₩10,000 Food Court Vouchers** | Use the **H.Point Global app** or visit the Foreign Customer Service desk (B1/6F) to grab a tourist dining booklet. | **NO** at cafe/food court counter (Voucher barcode scanned) |
-| **Lotte & Shinsegae Dept. Store Food Halls** | **F&B Discount Vouchers** (10% off basement food halls and rooftop restaurants) | Download foreign visitor coupons from [Lotte Dept Store English portal](https://www.lotteshopping.com/en/main) or Shinsegae app. | **NO** (Show barcode at cashier) |
+| **Lotte & Shinsegae Dept. Store Food Halls** | **F&B Discount Vouchers** (10% off basement food halls and rooftop restaurants) | Ask the store's foreign-customer/info desk for tourist coupons, or check the [Lotte Dept Store site](https://www.lotteshopping.com) / Shinsegae app / Klook listings (English portal was down at last check). | **NO** (Show barcode at cashier) |
 | **Klook / KKday / Creatrip Celebration Dining** | **10%–30% Off** Korean BBQ feasts, high-end buffets, and bakery gifticons | Buy e-vouchers in USD using your US credit card before your birthday dinner. | **NO** (Show QR code voucher to server) |
 | **Shuttle Delivery & Baemin Guest Checkout** | Delivery birthday feast to your hotel/Airbnb with zero Korean ID required | **Shuttle**: English app, US cards, no Korean phone.<br>**Baemin**: Use English UI (launched Feb 2026) + Guest Checkout (`비회원 주문`) with US Visa/Mastercard/Apple Pay. | **NO** (Contactless delivery to hotel lobby/door) |
 
@@ -78,8 +78,8 @@ Follow this exact schedule to lock in your birthday rewards and food savings bef
 
 ### 1. By September 30, 2026 (D-30 before Trip Departure)
 - [ ] **Create IKEA Family Korea Accounts (Email Only):**
-  - Have each birthday traveler register an **IKEA Family Korea account** at `ikea.com/kr/en` using their US email address and setting their actual birthday.
-  - *Why now?* IKEA auto-sends the birthday dessert coupon **7 days before** the registered birthday.
+  - Have each birthday traveler register an **IKEA Family Korea account** at `ikea.com/kr/en` using their US email address, setting their actual birthday **and turning marketing/email consent ON** (no consent = no birthday coupon).
+  - *Why now?* IKEA emails the birthday **apple tart** coupon **exactly 7 days before** the registered birthday (official FAQ), and it's **not sent if consent is switched on after D-7**.
 - [ ] **Download KakaoTalk & Add Brand Channels:**
   - Install KakaoTalk and verify your US phone number.
   - Add official brand channels: `@버거킹` (Burger King), `@KFC코리아`, `@롯데리아` (Lotteria), `@배스킨라빈스` (Baskin Robbins), `@던킨` (Dunkin), `@파리바게뜨` (Paris Baguette), `@뚜레쥬르` (Tous Les Jours), `@네네치킨` (Nene Chicken), `@BBQ치킨`, and `@맘스터치` (Mom's Touch).
@@ -88,7 +88,7 @@ Follow this exact schedule to lock in your birthday rewards and food savings bef
 
 ### 2. By October 15–20, 2026 (D-15 to D-10)
 - [ ] **Check October/November Autumn Festival Deals:**
-  - **Korea Sale Festa 2026 (late Oct – mid Nov 2026):** Check participating F&B chains and department store food hall promos at `koreasalefesta.co.kr`. Your trip dates (Oct 31 – Nov 22) overlap directly with Korea's largest autumn shopping and dining event!
+  - **Korea Sale Festa 2026 (late Oct – mid Nov 2026):** Check participating F&B chains and department store food hall promos at the official site `koreasalefesta.kr` (⚠️ offline between editions — the old `.co.kr` is hijacked; check from late September). Your trip dates (Oct 31 – Nov 22) overlap directly with Korea's largest autumn shopping and dining event!
   - *Note:* Do not look for "Korea Grand Sale" coupons—that is a winter-only government festival (Dec–Feb) and is not active during autumn.
 - [ ] **Install Delivery Apps on US Phones:**
   - Download **Shuttle Delivery** (set up account in English).
@@ -112,7 +112,7 @@ Follow this exact schedule to lock in your birthday rewards and food savings bef
 
 | Brand / Platform | Promo / Freebie | US Citizen Access (No ARC) | ID Required at Store? | Why / How to Claim |
 | --- | --- | --- | --- | --- |
-| **IKEA Family Korea** | Free birthday dessert coupon + restaurant discounts | ✅ **100% Usable** | **No** | Sign up with email only; no Korean mobile verification required. |
+| **IKEA Family Korea** | Free weekday hot drink + member prices + birthday apple-tart coupon | ✅ **100% Usable** | **No** (hot drink/member price); ⚠️ ID may be asked for the tart | Sign up with email only; no Korean mobile verification required. Keep marketing consent ON for the D-7 tart email. |
 | **KakaoTalk Brand Channels** | Instant combo coupons, free set upgrades | ✅ **100% Usable** | **No** | Add channels (`채널 추가`) on US KakaoTalk account; scan kiosk barcode. |
 | **The Hyundai Seoul (`Café H`)** | Free welcome drinks + food court discount coupons | ✅ **100% Usable** | **No** | Get foreign visitor barcode from H.Point Global app or B1 tourist desk. |
 | **Korea Sale Festa 2026** | Nationwide autumn F&B & food court discounts | ✅ **100% Usable** | **No** | Active late Oct – mid Nov 2026 across department stores & restaurants. |

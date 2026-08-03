@@ -31,7 +31,7 @@ Built specifically for international visitors, English speakers, and expats in S
 - **Zero ID Check on Delivery:** Your food is dropped off at your hotel lobby or door with no passport or ID check.
 
 ### How to Save on Shuttle (Welcome Deals)
-- **Klook Discounted E-Gift Vouchers:** Before ordering, buy a Shuttle e-gift voucher on Klook in USD (often discounted 10–15% below face value) and redeem the code at checkout.
+- **Klook Discounted E-Gift Vouchers:** Before ordering, buy a Shuttle e-gift voucher on Klook in USD ("Chicken Delivery (BHC, BBQ, Kyochon)" listing) at an **exclusive discount** — you'll need the Shuttle app to redeem it. Check the current discount % on Klook at booking time.
 - 🔗 Official Shuttle Klook page: <https://www.klook.com/activity/120381-food-delivery-in-korea/>
 
 ---
@@ -41,12 +41,12 @@ Built specifically for international visitors, English speakers, and expats in S
 South Korea's #1 food delivery platform launched a **multi-language UI (English, Chinese, Japanese)** on February 4, 2026, and expanded international payment support.
 
 ### How US Citizens Bypass `본인인증` on Baemin
-While registering a *full verified account* on Baemin requires a Korean mobile number with `본인인증`, **US tourists can order without an account**:
+While registering a *full verified account* on Baemin may require a Korean mobile number, **US tourists can order as a Guest (`비회원`) without an ARC or Korean number** (confirmed by multiple 2026 tourist guides):
 1. Download **Baemin** from the App Store or Google Play.
-2. In the app settings, switch the interface language to **English**.
-3. When checking out, select **Guest Checkout (`비회원 주문`)**.
-4. Enter your hotel address (use Korean address string or landmark search).
-5. Pay using your **US Visa, Mastercard, Amex, Apple Pay, Alipay+, or WeChat Pay**.
+2. **Set your phone's system language to English** — Baemin's English/Chinese/Japanese UI follows the **OS language** (per Woowa Brothers' official Feb 2026 announcement; there is no in-app language toggle).
+3. **Skip the login screen** and order as a **Guest (`비회원 주문`)** — don't attempt full account signup (guides report it can ask for a Korean phone number for SMS).
+4. Enter your hotel address (paste the **Korean address** copied from Naver Map to avoid rider confusion; write "로비에 남겨주세요" = "leave at lobby" in the request box).
+5. At payment, choose **Foreign Card / Global Payments** and pay with your **US Visa, Mastercard, JCB, Apple Pay, Alipay+, or WeChat Pay**.
 
 ### Welcome / First-Order Deals
 - First-time guest orders often trigger home-screen banner coupons worth **₩10,000 off** (minimum spend ~₩15,000—a standard fried chicken order clears this easily).

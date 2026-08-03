@@ -1,5 +1,22 @@
 # Changelog
 
+## 2026-08-03 — v3.1.0 Link Audit, TOS Verification & Beginner UX
+- **Full link & TOS audit (all 60+ links re-checked 2026-08-03):**
+  - **Fixed dead/hijacked links:** `koreasalefesta.co.kr` (hijacked → official `koreasalefesta.kr` + korea.kr gov source, noted offline between editions); IKEA's cited "TOS" article (wrong article → official birthday-coupon FAQ); dead Twosome FAQ (HTTP 500 → dasaja); dead Lotte English portal (`/en/main` → main site); "official" Discover Seoul Pass link was a coupon-aggregator → official `discoverseoulpass.com`.
+  - **Sources read in full (TOS):** IKEA Family birthday FAQ (apple tart since 2025-10-17, emailed exactly D-7, marketing consent required), Dookki official (₩11,900, 90-min limit, ₩3,000 environmental fee, maratang), Starbucks KR rewards (welcome Americano next-day, Green-tier birthday drink), KFC KR membership (tier birthday coupons, 30-day validity, store-visit only, 본인인증 for level-up coupons), Outback membership (anniversary ₩10,000 premium-steak coupon = tomahawk/porterhouse only), Baemin App Store (₩10,000 first-order coupon) + DigitalToday (OS-language UI, foreign cards), WOWPASS (partner cashback list), Straits Times (Lotte Mart tax refund ≥₩15,000), iVisitKorea (Tongin hours).
+- **Honesty corrections:**
+  - **IKEA birthday apple tart may require ID** at the restaurant (per Korean guides) → re-ranked in README Quick Wins; free weekday hot drink + member prices highlighted as the zero-ID IKEA perks.
+  - **Baemin:** English UI follows the phone OS language (no in-app toggle); full signup may need a Korean number → use Guest (`비회원`) ordering.
+  - **Tongin Market:** dosirak hours differ by source → recommend 11:00–14:00.
+  - **Outback:** Boomerang details updated to current official terms (anniversary coupon limited to tomahawk/porterhouse).
+  - **Myeongryun Jinsa Galbi:** added solo-dining restrictions; **Ashley Queens:** added weekend price ₩27,900.
+- **Beginner UX:**
+  - **NEW `docs/start-here.md`** — 5-minute beginner's guide: the 2 rules (skip `본인인증`, passport stays in pocket), 3 deal types (🚶 walk-in / 📲 sign-up / 🎟️ platform), app setup, 6-word Korean glossary, first-48-hours plan, and "don't waste time" list.
+  - **README:** Start Here added to How-to-Use + Guide Index; Quick Wins reordered (zero-ID deals first); WOWPASS cashback added to Quick Win #7.
+  - **FAQ:** new Q&As (IKEA ID question, Baemin language setting, WOWPASS value, festival site status).
+  - **Cheat sheet:** corrected IKEA row, Baemin OS-language note, Tongin hours note, WOWPASS step.
+  - **Verification log:** new "Link Audit — 2026-08-03" section with ✅/🔧 status tables + expanded re-verification checklist.
+
 ## 2026-08-03 — v3.0.0 More Deals + User-Friendliness Overhaul
 - **New Deals Added (all verified & sourced):**
   - **No Brand Burger (`노브랜드버거`):** Amazing Bulgogi burger **₩2,500** (launched Feb 2026; 70k sold week one — Shinsegae Food newsroom), grilled bulgogi ₩3,900, sets from ₩6,400; ~169 locations.

@@ -29,7 +29,7 @@ Every deal that has a **date, day-of-week, or timing dependency** on your trip, 
 | **Nov 3** | Tue | Tongin Market open — best before 14:00 to beat the line. |
 | **Nov 4** | Wed | Weekday lunch-special day: hit a `점심 특선` BBQ/hanjeongsik spot 11:00–14:00 (₩12,000–16,000 vs ₩35,000+ dinner). |
 | **Nov 5** | Thu | KakaoTalk channels refresh monthly coupons — check chats for new barcodes. Evening: B1 food-hall clearance 19:30–20:30. |
-| **Nov 6** | Fri | 2025 Korea Sale Festa ran Oct 29–Nov 16 — if 2026 mirrors that window, festival banners/QR promos are live now. Check `koreasalefesta.co.kr`. |
+| **Nov 6** | Fri | 2025 Korea Sale Festa ran Oct 29–Nov 16 — if 2026 mirrors that window, festival banners/QR promos are live now. (Official site `koreasalefesta.kr` — offline between editions; check from late Sep.) |
 | **Nov 7** | Sat | BBQ/party night: Myeongryun Jinsa Galbi ₩21,900 unlimited. Weekends: 100-min limit (vs 120 min weekday). |
 
 ### Week 2 — Nov 8 (Sun) → Nov 14 (Sat)
