@@ -1,32 +1,68 @@
 # 🇰🇷 Korea Trip — Food Deals, Birthday Freebies & Sign-Up Coupons
 
 A living, fact-checked guide to eating cheaper (and free-er) on our upcoming South Korea trip.
-Every entry is sourced and dated. We re-verify before travel and as things change.
+Every entry is sourced, dated, and verified against official releases and terms of service.
 
+> **🎯 Trip Profile: Oct 31 – Nov 22, 2026 | US Citizens | No ARC / Korean Resident | Zero ID Check Guaranteed**  
 > **Last full verification sweep: 2026-08-03**
 
-## 📚 Guide index
+---
+
+## 🚀 NEW: Start With Your Custom Action Plan
+
+Because our group consists of **US citizens with no Korean resident companion** celebrating **multiple birthdays between Oct 31 and Nov 22**, we have created a dedicated battle plan that bypasses Korean telecom identity verification (`본인인증`) and guarantees **zero physical ID checks** at restaurants:
+
+👉 **Read the master playbook:** [`docs/us-tourist-action-plan.md`](docs/us-tourist-action-plan.md)
+
+---
+
+## 📚 Guide Index
 
 | Doc | What's inside |
 | --- | --- |
-| 🎂 [`docs/birthday-freebies.md`](docs/birthday-freebies.md) | Free food & drinks on/around your birthday, brand by brand |
-| 🎁 [`docs/signup-welcome-deals.md`](docs/signup-welcome-deals.md) | New-member and first-order coupons worth signing up for |
-| 🛵 [`docs/delivery-apps.md`](docs/delivery-apps.md) | Baemin / Coupang Eats / Yogiyo / Shuttle — what's usable as a tourist |
-| 🛍️ [`docs/tourist-promotions.md`](docs/tourist-promotions.md) | Government tourism festivals + travel-platform dining vouchers |
-| 🍱 [`docs/everyday-savings.md`](docs/everyday-savings.md) | Convenience-store promos and standing discounts that add up |
-| 🕵️ [`docs/verification-log.md`](docs/verification-log.md) | Every source, with access date and confidence rating |
+| 🗽 [`docs/us-tourist-action-plan.md`](docs/us-tourist-action-plan.md) | **NEW:** Custom Oct 31 – Nov 22 D-30 timeline, zero-ID-check guarantee & US citizen workaround guide |
+| 🎂 [`docs/birthday-freebies.md`](docs/birthday-freebies.md) | Birthday freebies & timeline separated by **US Tourist Accessible (`✅`)** vs. **Resident-Only (`📱`)** |
+| 🎁 [`docs/signup-welcome-deals.md`](docs/signup-welcome-deals.md) | Welcome sign-up deals ranked by tourist usability (KakaoTalk channels, email-only signups) |
+| 🛵 [`docs/delivery-apps.md`](docs/delivery-apps.md) | How to order food to your hotel without an ARC: **Shuttle Delivery** & **Baemin Guest Checkout** |
+| 🛍️ [`docs/tourist-promotions.md`](docs/tourist-promotions.md) | **Korea Sale Festa 2026 (Oct 29 – Nov 16)**, Department Store Tourist Vouchers & Klook/KKday deals |
+| 🍱 [`docs/everyday-savings.md`](docs/everyday-savings.md) | Convenience-store 1+1 / 2+1 monthly promos (resetting **November 1st**!) and evening bakery discounts |
+| 🕵️ [`docs/verification-log.md`](docs/verification-log.md) | Every claim and source, with access dates and confidence/tourist accessibility ratings |
 
-## 🏆 Quick wins (start here)
+---
 
-1. **Outback Boomerang Membership (free)** — sign up ≥1 day before visiting → ₩10,000 off coupon (min. ₩70,000 spend) lands *the next day*, plus wine 2-for-₩9,000 and a new-member menu benefit. Stacks with the "My Anniversary" ₩10,000-off premium-steak coupon. [Official terms](https://www.outback.co.kr/benefit/membershipBenefit.do?menuIdx=302)
-2. **Starbucks Korea — Welcome coupon** — register a (free) Starbucks Card in the KR app, make one purchase → free Tall Caffè Americano coupon next day. Separate program from the US/global Starbucks app. [Official terms](https://www.starbucks.co.kr/msr/msreward/level_benefit.do)
-3. **KFC Korea app** — instant sign-up coupons: ₩1,000 Zinger (store visit), ₩5,000 delivery discount, free Butter Biscuit via Zinger Bell order. [Official terms](https://www.kfckorea.com/service/membership)
-4. **Baemin (배달의민족)** — first-order ₩10,000 off coupon; now has English/中文/日本語 UI (since Feb 2026) and accepts foreign cards, Alipay+, WeChat Pay. [App Store listing](https://apps.apple.com/kr/app/id378084485)
-5. **Convenience stores** — CU / GS25 / 7-Eleven / emart24 run **1+1 and 2+1 promos monthly** on snacks, drinks and lunch boxes. No membership needed; look for the red/yellow "+1" tags. Details in [`everyday-savings.md`](docs/everyday-savings.md).
+## 🏆 Top 5 Quick Wins for US Tourists (No ARC • No Korean Phone • No ID Check)
 
-## 🔑 Labels used across this guide
+These five savings channels are **100% usable by US citizens** on a standard tourist eSIM, require **zero physical ID or passport check** at the cashier or kiosk, and work seamlessly during your Oct 31 – Nov 22 trip:
 
-**Source confidence**
+1. **IKEA Family Korea (Free Birthday Dessert)** — Sign up at [ikea.com/kr/en](https://www.ikea.com/kr/en/ikea-family/) using **only your email address** (no Korean phone verification required!). You receive an auto-issued free birthday dessert coupon (apple tart/cake) via email **7 days before your birthday**. Scan at the kiosk; zero ID checked. [Official terms](https://www.ikea.com/kr/en/customer-service/knowledge/articles/g596251f-8ef8-4fc2-b978-759612249f08.html)
+2. **KakaoTalk Plus Friends (`카카오톡 채널`) Instant Brand Coupons** — Install KakaoTalk on your US phone number. Search and add official brand channels (`@버거킹` Burger King, `@KFC코리아`, `@롯데리아` Lotteria, `@배스킨라빈스` Baskin Robbins, `@던킨` Dunkin) to unlock **instant combo discounts, free upgrades, and monthly coupons** in chat. Scan the barcode at self-serve kiosks (`키오스크`); no ID required.
+3. **Korea Sale Festa 2026 (Autumn Shopping & Dining Festival)** — Korea's national autumn shopping and dining festival runs **late October to mid-November 2026** (e.g., Oct 29 – Nov 16, 2026), overlapping directly with your trip! Participating F&B chains, department store food courts, and convenience stores run nationwide discounts. [Official site](https://www.koreasalefesta.co.kr) *(Note: "Korea Grand Sale" is winter-only and ended in Feb 2026).*
+4. **Shuttle Delivery & Baemin Guest Checkout (`비회원 주문`)** — Order late-night fried chicken to your hotel without a Korean Resident Registration Number! **Shuttle Delivery** is 100% in English, accepts US credit cards, and **Klook sells discounted Shuttle e-gift vouchers**. **Baemin** now features an English/Chinese/Japanese UI (since Feb 2026) and supports Guest Checkout with international credit cards and Apple Pay. [App Store listing](https://apps.apple.com/kr/app/id378084485)
+5. **Convenience Store Monthly 1+1 / 2+1 Promos** — CU, GS25, 7-Eleven, and emart24 run nationwide **1+1 and 2+1 promos** on drinks, snacks, and instant noodles. No membership needed; look for red/yellow "+1" shelf tags. **Crucial timing:** These reset on the **1st of every month**—meaning you catch October's deals on arrival night (Oct 31) and a fresh November slate on Nov 1st!
+
+---
+
+## 🚫 The `본인인증` (Identity Verification) Trap: What to Avoid
+
+Why don't we list **Outback Steakhouse Boomerang (₩10,000 coupon)**, **Starbucks Korea (free birthday drink)**, or **CJ ONE / VIPS** in our Top 5 Quick Wins?
+
+- Because native Korean loyalty apps require **`본인인증` (PASS mobile identity verification)** during signup. This verifies a Korean Citizen Resident Registration Number or Alien Registration Card (ARC) against a Korean telecom contract.
+- **US citizens without an ARC cannot pass `본인인증`.** Do not waste time trying to register for Starbucks Korea, Outback Korea, or CJ ONE apps with a US passport or tourist eSIM—they will reject you.
+- Check [`docs/us-tourist-action-plan.md`](docs/us-tourist-action-plan.md) and [`docs/birthday-freebies.md`](docs/birthday-freebies.md) for our clear breakdown of **✅ Tourist-Usable** vs. **📱 Resident-Only (`본인인증` required)** deals.
+
+---
+
+## 🛡️ Zero Physical ID Check Guarantee
+
+In South Korea, when you scan an app coupon, KakaoTalk barcode, IKEA Family coupon, or Klook QR code at a cashier or self-serve kiosk (`키오스크`), **staff never ask to see a physical passport or ID card** to verify your birthday or identity.
+- Your physical ID is only checked in Korea when **buying alcohol** (age check) or claiming a **tax refund / Duty-Free foreign shopping discount** (passport check).
+- For food, coffee, bakery treats, and delivery coupons, **your passport stays in your pocket**.
+
+---
+
+## 🔑 Labels Used Across This Guide
+
+**Source Confidence**
 
 | Badge | Meaning |
 | --- | --- |
@@ -34,22 +70,16 @@ Every entry is sourced and dated. We re-verify before travel and as things chang
 | 🟡 Corroborated | Multiple independent secondary sources (news, finance sites) agree, but we haven't seen the primary TOS |
 | 🔴 Unverified | Community/blog reports only — double-check in-app before counting on it |
 
-**Tourist accessibility**
+**Tourist Accessibility (For US Citizens / No ARC)**
 
 | Badge | Meaning |
 | --- | --- |
-| ✅ Tourist-friendly | Email/social login enough; foreign cards accepted |
-| 📱 Korean phone needed | Signup requires a Korean phone number (본인인증). Possible with a tourist SIM that supports identity verification — not guaranteed |
-| 🪪 Resident-tier | Realistically needs ARC/Korean resident status (e.g., Coupang Wow) |
+| ✅ Tourist-friendly | **100% Usable by US Citizens.** Email, KakaoTalk, or foreign card is enough; **no ARC, no Korean phone verification, and no physical ID check required.** |
+| 📱 Korean phone needed | **BLOCKED for standard US tourists.** Requires Korean telecom identity verification (`본인인증`). Do not waste time trying to sign up without an ARC. |
+| 🪪 Resident-tier | Realistically requires Korean resident status or domestic bank account (e.g., Coupang Wow, telecom carrier discounts). |
 
-## 🗓️ Standing rule of thumb
-
-Korean birthday coupons are usually **issued before** your birthday and only if you were
-already a member (often **30+ days** before). If a trip member has a birthday during the
-trip, the setup deadline is at least a month earlier — see the timeline in
-[`birthday-freebies.md`](docs/birthday-freebies.md).
+---
 
 ## 🤝 Contributing
 
-See [`CONTRIBUTING.md`](CONTRIBUTING.md). Found a deal or a dead link? Open an issue or PR —
-format and source rules are documented there.
+See [`CONTRIBUTING.md`](CONTRIBUTING.md). Found a deal or a dead link? Open an issue or PR — format and source rules are documented there.

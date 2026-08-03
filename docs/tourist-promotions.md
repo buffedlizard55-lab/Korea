@@ -1,41 +1,59 @@
-# 🛍️ Tourist promotions & travel-platform dining deals
+# 🛍️ Tourist Promotions & Travel-Platform Dining Deals
 
-Deals aimed specifically at *foreign visitors* — no Korean phone, resident ID, or
-local card required. These rotate seasonally, so check the weeks before departure.
+Deals aimed specifically at **foreign visitors and US citizens**—no Korean Resident Registration Number (`RRN`), no Alien Registration Card (`ARC`), no `본인인증` phone verification, and **zero physical ID check** at the restaurant or kiosk.
 
-> Last verified: 2026-08-03
+> **Last verified: 2026-08-03**  
+> **🎯 Trip Timing:** Tailored for our **October 31 to November 22, 2026 itinerary**.
 
-## 🏛️ Government tourism festivals
+---
 
-### Korea Grand Sale (annual, winter)
-- **2026 edition: Dec 17, 2025 → Feb 22, 2026** (68 days, largest ever — **~1,750 participating companies** incl. food & beverage). Ended Feb 2026; watch for the next edition if the trip lands in winter.
-- Historically includes **restaurant/F&B discount coupons** (past editions: ~300 eateries at up to 20% off; 2026 edition: free greeting drinks, welcome kits, membership upgrades; F&B as one of 5 experience themes).
-- On-ground Welcome Center in Myeongdong hands out coupon packs and freebies during the sale period.
-- 🟢 Official: <https://en.koreagrandsale.co.kr> · Gov. announcement: [korea.kr](https://www.korea.kr/news/reporterView.do?newsId=148957175) · [Korea JoongAng Daily](https://koreajoongangdaily.joins.com/news/2025-12-17/culture/lifeStyle/2026-Korea-Grand-Sale-the-countrys-iconic-shopping-tourism-event-returns-bigger-and-better-than-before/2480111)
-- 2026 extras: instant discounts/cashback up to 15% via **UnionPay and WOWPASS** partnerships.
+## 🏛️ 1. Korea Sale Festa 2026 (Late Oct – Mid Nov) — Your #1 Autumn Event!
 
-### Visit Korea (Visit Korea Committee + KTO)
-- Portal for foreign-visitor promos year-round; check the "Promotion/Benefits" pages close to the trip. 🟢 <https://english.visitkorea.or.kr>
-- Note: KTO's summer "travel discount" campaigns (e.g., July 2026 accommodation-voucher drives) are aimed at **domestic/Korean workers**, not inbound tourists — ignore headlines unless they say 외국인 관광객. 🟡 [Korea Times, Jul 2026](https://www.koreatimes.co.kr/amp/lifestyle/travel-food/20260729/kto-rolls-out-summer-travel-discounts-to-make-domestic-vacations-more-affordable)
+Your trip dates (Oct 31 – Nov 22) overlap directly with South Korea's official national autumn shopping and dining festival: **Korea Sale Festa (`코리아세일페스타`)**.
+- **Dates:** Late October to mid-November 2026 (2025 dates were Oct 29 – Nov 16; 2026 runs on an identical autumn schedule).
+- **What it covers:** Known as the Korean "Black Friday," ~1,800+ participating companies run nationwide promotions across F&B chains, department store food courts, convenience stores, and supermarkets.
+- **Tourist Benefits:** Special bundle meals, instant discount coupons at participating restaurants, and 1+1 / 2+1 grocery deals.
+- **How to claim:** Look for official **"Korea Sale Festa"** banners at restaurant entrances and food halls. Scan event barcodes at kiosks; **no ID required**.
+- 🟢 [Official site](https://www.koreasalefesta.co.kr) · [NamuWiki reference](https://en.namu.wiki/w/%EC%BD%94%EB%A6%AC%EC%95%84%20%EC%84%B8%EC%9D%BC%20%ED%8E%98%EC%8A%A4%ED%83%80)
 
-## 🎟️ Travel-platform dining vouchers (buy before you fly)
+> ⚠️ **Winter-Only Note (Korea Grand Sale):** Many travel blogs mention the government's *Korea Grand Sale* (which ended Feb 2026). Do not look for Korea Grand Sale coupons during your trip—that is a winter-only festival (Dec–Feb). Your autumn equivalent is **Korea Sale Festa**!
 
-These sell restaurant vouchers in USD/EUR/etc. — often 10–30% below list price, pay with
-your normal credit card, redeem by QR code.
+---
 
-| Platform | Food-deal highlights | Link | Trust |
+## ☕ 2. Department Store Foreign Visitor F&B Vouchers (Zero ARC Needed)
+
+Major Korean department stores offer exclusive dining and cafe vouchers to foreign visitors holding non-Korean passports:
+
+### The Hyundai Seoul & Hyundai Department Store (`Café H`)
+- **Free Welcome Drinks:** Visit the Foreign Customer Service desk (B1 or 6F at The Hyundai Seoul) or open the **H.Point Global app** to receive a tourist welcome barcode good for **2 free cups of Americano or tea at Café H** per visit.
+- **Food Court Coupons:** Receive a welcome booklet containing **₩5,000 to ₩10,000 off vouchers** for basement food halls (`B1 Food Floor`) and rooftop dining.
+- **ID check?** Passport is shown once at the B1 foreign desk to receive the voucher booklet; **zero ID check at the cafe or restaurant counter** when scanning your coupon.
+
+### Lotte Department Store & Shinsegae Department Store
+- **What you get:** Tourist coupon books featuring **10% off F&B vouchers** for basement food halls and restaurant floors.
+- **How to claim:** Download digital tourist coupons from the [Lotte Department Store English portal](https://www.lotteshopping.com/en/main) or Shinsegae app before visiting.
+
+---
+
+## 🎟️ 3. Travel-Platform Dining Vouchers (Buy in USD Before You Dine)
+
+These platforms sell discounted Korean restaurant vouchers, celebratory birthday cakes, and buffet tickets in USD—saving you 10–30% below walk-in prices and avoiding foreign transaction fees.
+
+| Platform | Food-Deal Highlights for US Citizens | Link | Trust & ID Check |
 | --- | --- | --- | --- |
-| **Klook** | Restaurant & café vouchers (buffets, BBQ houses, hanjeongsik), **Shuttle Delivery e-gift vouchers at a discount**, rotating promo codes (app-only codes commonly 3–10%) | [Shuttle voucher](https://www.klook.com/activity/120381-food-delivery-in-korea/) · <https://www.klook.com/en-SG/destination/35-south-korea/> | 🟢 listing exists; 🔴 promo codes rotate, community-verified only |
-| **Creatrip** | English food guides with partner-store coupons/discounts (Myeongdong, Hongdae spots) | <https://www.creatrip.com> | 🟡 |
-| **Trazy** | Food experience tours (markets, makgeolli) rather than coupons; watch seasonal sales | <https://www.trazy.com> | 🟡 |
-| **KKday** | Korea dining tickets; periodic promo codes | <https://www.kkday.com> | 🟡 |
+| **Klook** | • **Shuttle Delivery e-gift vouchers at a discount** (~10–15% off)<br>• Premium Korean BBQ (Hanwoo beef) & high-end seafood buffets<br>• Periodic app promo codes for first-time bookers | [Shuttle voucher](https://www.klook.com/activity/120381-food-delivery-in-korea/) · [Korea dining](https://www.klook.com/en-SG/destination/35-south-korea/) | 🟢 **100% Tourist**<br>*(Show QR code voucher; zero ID check)* |
+| **Creatrip** | • English food guides with exclusive partner-store discount coupons (Myeongdong, Hongdae, Gangnam cafes & BBQ spots) | <https://www.creatrip.com> | 🟡 Partner discounts |
+| **KKday** | • Discounted Seoul & Busan dining tickets; celebratory cake pre-orders | <https://www.kkday.com> | 🟡 QR code redemption |
+| **Trazy** | • Local food market experiences, brewery tours, and seasonal dining promotions | <https://www.trazy.com> | 🟡 English-first platform |
 
-### How to squeeze the platforms
-- Compare the same restaurant across Klook vs KKday vs Creatrip — price differences of 10–20% are common.
-- First-app-order promo codes (e.g., Klook's rotating app codes) stack with sale prices; codes are found in-app banners. 🔴 codes change constantly — don't trust blogged codes older than a few weeks.
-- Some duty-free / department-store programs give **buyer vouchers redeemable for food-court dining** during tourism festivals.
+### How to Maximize Platform Vouchers
+- **Compare prices:** Check the same BBQ restaurant or buffet across Klook, KKday, and Creatrip—prices often vary by 10–15%.
+- **Zero ID check:** When you arrive at the restaurant, simply show the server your digital **QR code voucher** on your phone.
 
-## 💳 Payment-layer perks for visitors
-- **WOWPASS** — prepaid tourist card (KRW) sold at airport/stations; app shows periodic merchant cashback offers including cafés and restaurants; officially partnered with Korea Grand Sale for up to 15% perks. 🟢 <https://www.wowpass.io>
-- Tax refund (즉시면세) applies to shopping, **not** restaurant meals — don't budget it into food savings.
-- Most Korean card/telecom deals (KT/SKT 5–15% at VIPS/Outback, card-issuer point burners) require **a Korean telecom account or card** — listed in `everyday-savings.md` for reference if a travel companion is a Korean resident.
+---
+
+## 💳 4. Payment-Layer Perks for Visitors
+
+- **WOWPASS:** Prepaid tourist debit card (KRW) sold at airport and station kiosks. The accompanying app features periodic **merchant cashback offers** at cafes and restaurants across Seoul and Busan. 🟢 <https://www.wowpass.io>
+- **Tax Refund (`즉시면세`):** Applies only to retail shopping (apparel, beauty, souvenirs), **never to restaurant meals or cafes**—do not budget tax refunds into food savings.
+- **Why Ignore Telecom Discounts (KT / SKT / LGU+):** Many Korean dining blogs list 5–15% telecom membership discounts at family restaurants. Because our group has **no Korean resident companion**, these telecom discounts are not accessible.
