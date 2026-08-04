@@ -35,6 +35,8 @@ blog lists at the airport.
 - Before pushing, run:
   - `python3 scripts/check_docs.py` — tables, internal links, "Last verified" stamps.
   - `python3 scripts/check_links.py` — external URLs (also runs weekly in CI via GitHub Actions).
+  - `python3 scripts/check_registry.py` — core deal IDs, status, dates, and live-check safeguards.
+  - `python3 scripts/check_source_confidence.py` — rejects aggregators/community sources mislabeled as official.
 - New deals/broken links: use the GitHub issue templates (`.github/ISSUE_TEMPLATE/`).
 - Track in-trip savings in `data/deal-tracker.csv` and upgrade badges via `docs/field-notes.md`.
 

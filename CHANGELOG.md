@@ -1,5 +1,9 @@
 # Changelog
 
+## 2026-08-04 — v4.2.0 Source-Confidence Linter
+- **NEW source policy + linter:** `data/source-policy.csv` and `scripts/check_source_confidence.py` distinguish official/operator/secondary/aggregator domains and fail unsafe official labels in the core deal registry.
+- **NEW `docs/source-confidence.md`:** documents the tiers, automated checks, and remaining human review process. Reclassified the Daejeon City Tour booking URL as operator rather than official.
+
 ## 2026-08-04 — v4.1.0 City-First Planning Board
 - **NEW `docs/city-planning-board.md`:** makes city planning the beginner default. Every Seoul, Busan, Cheonan, and Daejeon day follows Anchor → Transport → Food → One Live Benefit → Backup, with an end-of-day record.
 - **Navigation update:** README’s on-trip workflow now routes users to the City Planning Board before detailed category guides; the City Research Hub is explicitly positioned as deeper reference material.

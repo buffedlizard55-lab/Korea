@@ -31,7 +31,8 @@ Every entry is sourced, dated, and verified against official releases and terms 
 | 🧮 [`docs/pass-value-dashboard.md`](docs/pass-value-dashboard.md) | Break-even dashboard for Discover Seoul Pass, Climate Card, Visit Busan Pass, Busan Pay, Cheonan taxi, and KORAIL PASS | Never buying a pass blindly |
 | 🎫 [`docs/pass-rules.md`](docs/pass-rules.md) | **NEW:** Simple Includes / Excludes / Activation / Best use / Worst use cards for every major pass and payment product | Avoiding pass traps |
 | 🗃️ [`data/deals.csv`](data/deals.csv) | Normalized core deal registry (ID, city, status, source, expiry, access requirements) | One source of truth |
-| 🚦 [`docs/deal-status-board.md`](docs/deal-status-board.md) | **NEW:** Plain-English Active / Live Check / Future / Expired / Rejected board—what to use now and what to ignore | Avoiding stale deals |
+| 🚦 [`docs/deal-status-board.md`](docs/deal-status-board.md) | Plain-English Active / Live Check / Future / Expired / Rejected board—what to use now and what to ignore | Avoiding stale deals |
+| 🔍 [`docs/source-confidence.md`](docs/source-confidence.md) | **NEW:** How source tiers work and how the repo blocks aggregators/community pages from being called official | Trusting the research |
 | 🛬 [`docs/arrival-guide.md`](docs/arrival-guide.md) | **NEW:** K-ETA status, ICN arrival steps (WOWPASS/T-money/eSIM, AREX), airport tax-refund kiosks, first meals | Landing day & departure day |
 | 💳 [`docs/money-guide.md`](docs/money-guide.md) | **NEW:** Payment methods (WOWPASS vs T-money vs cards), best exchange rates, price index & daily budgets | Never overpaying |
 | 🗣️ [`docs/phrasebook.md`](docs/phrasebook.md) | **NEW:** 40 Korean phrases + deal-term glossary (kiosk, restaurant, market, delivery, tax refund) | Ordering & couponing in Korean |
@@ -55,6 +56,7 @@ Every entry is sourced, dated, and verified against official releases and terms 
 ## ✨ What's New (City deal audit — 2026-08-03)
 
 - **🗺️ City-first default workflow:** [City Planning Board](docs/city-planning-board.md) replaces deal-hunting overload with a five-step daily plan: anchor, transport, food, one live benefit, and a backup.
+- **🔍 Source-confidence guardrail:** [Source Confidence Rules](docs/source-confidence.md) + `scripts/check_source_confidence.py` stops an aggregator, community post, or unreviewed domain from becoming an “official” active deal.
 - **🎫 Pass rules at a glance:** [Pass & Payment Rules](docs/pass-rules.md) makes coverage, exclusions, activation triggers, and best/worst use cases explicit before you pay.
 - **🚦 Universal deal status:** [Deal Status Board](docs/deal-status-board.md) gives every core deal an honest Active / Live Check / Future / Expired / Rejected state. `scripts/check_registry.py` prevents invalid or undated registry entries.
 - **🧮 Pass-value dashboard:** [Pass & Payment Value Dashboard](docs/pass-value-dashboard.md) + `scripts/pass_value.py` calculates the real break-even point before buying a city/transit pass or payment product.
