@@ -208,3 +208,17 @@ Added [Deal Discovery System](deal-discovery-system.md) and its candidate queue.
 | **VISITKOREA Exclusive** | KTO’s 2026 official-partner hub: up to 20% department-store benefits, up to 50% activities, up to 60% theme parks, up to 30% performances, up to 20% selected stays, and up to ₩6,000 partner credits/points. | ✅ For international travelers; **maximums are not universal**. Individual live partner terms, city, date, payment and possible passport requirement apply. | 🟢 [KTO announcement](https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=177&vcontsId=1590182) · [live partner list](https://english.visitkorea.or.kr/svc/thingsToDo/alliance/allianceList.do?menuSn=607) |
 | **Incheon Airport+ / ICN Membership** | Airport’s official guide says membership offers facility coupons including duty-free shops, plus check-in/event points. | 🔄 App-controlled merchants, value and expiry; check after security rather than assuming a shop participates. | 🟢 [Incheon Airport official guide](https://www.airport.kr/ap_en/6636/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGYXBfZW4lMkY5MzclMkZhcnRjbFZpZXcuZG8lM0Y%3D) |
 | **Visit Busan Pass scope** | Visit Busan currently says 40+ paid facilities and 150+ discounts; it also describes 30 free affiliated attractions and City Tour Bus/subway benefits on applicable pass types. | ✅/🔄 Compare the current pass type and live partner list against your planned day; old restaurant-partner reports are leads, not a promise. | 🟢 [Visit Busan official guide](https://www.visitbusan.net/en/index.do?menuCd=DOM_000000303012007000) |
+
+
+---
+
+## Four-city research sources — 2026-08-04
+
+| City | Lead | Confirmed terms / guardrail | Source |
+| --- | --- | --- | --- |
+| Seoul | Discover Seoul Pass | Official Seoul overview lists current pass types, transport/eSIM features and live free/coupon lists. Calculate only against the attractions actually planned. | 🟢 [Visit Seoul](https://english.visitseoul.net/tour-pass) |
+| Busan | Visit Busan Pass | Official city guide: 40+ paid facilities and 150+ discount partners. Partner/menu/price must be checked live by selected pass type. | 🟢 [Visit Busan](https://www.visitbusan.net/en/index.do?menuCd=DOM_000000303012007000) |
+| Cheonan | Tourism Taxi | Official tourism home currently displays a 2026 **50% discount** promotion. Detailed validity and booking terms still require live confirmation. | 🟢 [Cheonan Culture & Tourism](https://www.cheonan.go.kr/tour.do) |
+| Cheonan | City Tour | City-operated tour accepts domestic/international visitors; adult ₩4,000, youth/military ₩3,000, child/senior ₩2,000; 20+ group 50% discount. Attraction fees/meals are separate. | 🟢 [City Tour terms](https://cheonan.go.kr/tour/sub02_01_01.do) |
+| Daejeon | 2026 City Tour | City notice says operation runs through **Nov. 29, 2026**, with reservation and route details on the linked booking page. Check the live November schedule/fare. | 🟢 [Daejeon city notice](https://daejeon.go.kr/its/ItsdjNormalboardView.do?menuSeq=5931&boardSeq=3747&boardGubun=itsdj01&pageIndex=1) |
+| Daejeon | Tourism ticket discounts | City has published time-limited/first-come attraction discounts; these are monitored as a source, not listed as a November deal unless a live offer appears. | 🟢 [Daejeon tourism news](https://www.daejeon.go.kr) |

@@ -1,5 +1,10 @@
 # Changelog
 
+## 2026-08-04 — v3.6.0 Four-City Research & Fast Refresh
+- **NEW `docs/city-research-hub.md`:** deep but separated search lanes for Seoul, Busan, **Cheonan** (assumed from “chaenon”), and Daejeon. Each has current official routes, Korean local-search prompts, a prioritized sequence, and a five-row daily card.
+- **NEW `data/city-source-registry.csv` + `scripts/deal_refresh.py`:** a maintained city/source registry and one-command, city-scoped refresh board. It focuses the next research sweep and explicitly requires a live terms check rather than faking automated coupon verification.
+- **New city leads with official terms:** Cheonan Tourism Taxi’s currently advertised 50% discount; Cheonan City Tour (international visitors, ₩4,000 adult fare); and Daejeon City Tour’s current 2026 operation through Nov. 29, including its bread route.
+
 ## 2026-08-03 — v3.5.0 Official 2026 Deal Discovery Results
 - **New verified, tourist-usable delivery credit:** Shuttle’s official VISITKOREA code **`VK2026`** gives **₩6,000** in app credit through **Dec. 31, 2026**; instructions and source added.
 - **New official live-offer sources:** added Korea Tourism Organization’s **VISITKOREA Exclusive** partner hub (department-store, activity, performance, stay, dining/delivery offers) and Incheon Airport+ / ICN Membership coupons. Every dynamic offer is explicitly subject to its live terms.
