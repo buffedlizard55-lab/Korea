@@ -17,6 +17,7 @@ It runs the checks that work without outside network access:
 1. `check_docs.py` — Markdown tables, internal links, and date stamps
 2. `check_registry.py` — core deal ID/status/date/source requirements
 3. `check_source_confidence.py` — prevents secondary/aggregator pages from being called official
+4. `check_staleness.py` — fails overdue Active/Live Check/Future/Candidate records and warns when rechecks are due within 14 days
 
 ## External URLs: two ways to verify
 

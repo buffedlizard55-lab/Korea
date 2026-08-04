@@ -59,6 +59,7 @@ Every entry is sourced, dated, and verified against official releases and terms 
 ## ✨ What's New (City deal audit — 2026-08-03)
 
 - **🗺️ City-first default workflow:** [City Planning Board](docs/city-planning-board.md) replaces deal-hunting overload with a five-step daily plan: anchor, transport, food, one live benefit, and a backup.
+- **⏰ Staleness guardrail:** `scripts/check_staleness.py` warns before a recheck deadline and fails after it, so Active/Live Check/Future records cannot quietly age out.
 - **🗃️ Registry migration:** [Core Deal Index](docs/core-deal-index.md) maps the main food, coupon, payment, and city claims to their canonical deal IDs; the structured registry controls status/source/recheck fields.
 - **🛟 Always have a backup:** [Normal Local Backup Plan](docs/backup-plan.md) gives every core deal a nearby, no-coupon fallback, so a failed offer never dictates the day.
 - **⚙️ One-command verification:** [Automation Runbook](docs/automation-runbook.md) + `scripts/verify_repo.py` runs all reliable local checks together and documents how to interpret link-check network failures.

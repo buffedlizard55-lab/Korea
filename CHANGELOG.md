@@ -1,5 +1,9 @@
 # Changelog
 
+## 2026-08-04 — v4.8.0 Staleness Guardrail
+- **NEW `scripts/check_staleness.py`:** checks core registry and discovery queue recheck deadlines; overdue Active/Live Check/Future/Candidate records fail verification while records due within 14 days warn.
+- **Verification integration:** the one-command suite, status board, runbook, and contributor rules now include the staleness check.
+
 ## 2026-08-04 — v4.7.0 Shared Deal Lifecycle
 - **One lifecycle vocabulary:** core registry and discovery queue now use `candidate`, `active`, `live-check`, `future`, `expired`, and `rejected`; legacy `lead`/`verified` queue values were migrated.
 - **NEW `scripts/check_discovery_queue.py`:** validates queue fields, ISO dates, and lifecycle values. The one-command verification suite now includes it.

@@ -54,8 +54,12 @@ This is the beginner-facing view of the registry’s status system. It prevents 
 5. A live coupon stays **live-check** until its current barcode, branch, and expiry are visible.
 6. Use **rejected** for resident-only deals and dead/unsupported claims. That is useful information because it stops wasted effort.
 
-Run the validator after edits:
+Run the validators after edits:
 
 ```bash
 python3 scripts/check_registry.py
+python3 scripts/check_discovery_queue.py
+python3 scripts/check_staleness.py
 ```
+
+`check_staleness.py` fails only when an Active/Live Check/Future/Candidate record has passed its recheck date; it warns when the date is within 14 days.
