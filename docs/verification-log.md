@@ -286,3 +286,10 @@ Added [Deal Discovery System](deal-discovery-system.md) and its candidate queue.
 | City | Deal | Confirmed terms / guardrail | Source |
 | --- | --- | --- | --- |
 | Daejeon | Citizen Marathon Class | City notice says free sessions run March–November at several venues, with no advance application—attend at the stated time/place. It is an early-morning local activity, not a general sightseeing substitute. | 🟢 [Daejeon city notice](https://www.daejeon.go.kr/its/ItsdjNormalboardView.do?menuSeq=&boardSeq=3722&boardGubun=itsdj01&searchCondition=BAL_MAIN) |
+
+
+### Ninth four-city sweep — 2026-08-04
+
+| City | Deal | Confirmed terms / guardrail | Source |
+| --- | --- | --- | --- |
+| Cheonan | Tourism Taxi — exact operating terms | Official tourism home advertises 2026 50%. Yonhap reports the resident-outside-Cheonan condition, first-come availability through Dec. 31, 4h regular ₩80k / subsidized ₩40k and 8h regular ₩160k / subsidized ₩80k; plus ₩20k per added hour. Booking/vehicle availability is live. | 🟢 [Cheonan official home](https://www.cheonan.go.kr/tour.do) · 🟡 [Yonhap](https://www.yna.co.kr/view/AKR20260224042200063) |
