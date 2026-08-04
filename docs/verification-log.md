@@ -222,3 +222,13 @@ Added [Deal Discovery System](deal-discovery-system.md) and its candidate queue.
 | Cheonan | City Tour | City-operated tour accepts domestic/international visitors; adult ₩4,000, youth/military ₩3,000, child/senior ₩2,000; 20+ group 50% discount. Attraction fees/meals are separate. | 🟢 [City Tour terms](https://cheonan.go.kr/tour/sub02_01_01.do) |
 | Daejeon | 2026 City Tour | City notice says operation runs through **Nov. 29, 2026**, with reservation and route details on the linked booking page. Check the live November schedule/fare. | 🟢 [Daejeon city notice](https://daejeon.go.kr/its/ItsdjNormalboardView.do?menuSeq=5931&boardSeq=3747&boardGubun=itsdj01&pageIndex=1) |
 | Daejeon | Tourism ticket discounts | City has published time-limited/first-come attraction discounts; these are monitored as a source, not listed as a November deal unless a live offer appears. | 🟢 [Daejeon tourism news](https://www.daejeon.go.kr) |
+
+
+### Second four-city sweep — 2026-08-04
+
+| City | Deal | Confirmed terms / guardrail | Source |
+| --- | --- | --- | --- |
+| Seoul | Climate Card Short-Term Pass | International visitors can buy/reload short passes with international Visa/Mastercard or mobile payment at designated vending machines. 1/2/3/5/7 days: ₩5k/8k/10k/15k/20k; activates on loading; ~3.7% international-card service fee. Excludes airport/intercity buses and some rail. | 🟢 [Seoul Metropolitan Government](https://english.seoul.go.kr/climate-cards-and-single-journey-transit-tickets-now-accepting-international-credit-cards-no-cash-needed/) |
+| Busan | Busan Pay | City’s Jan. 2026 guide says participating businesses offer 5–7% cashback; some QR payments add 3%; affiliated shops may pre-discount 3–10%; VBP purchases via Busan Pay get 5% cashback. No cashback at malls/duty-free. | 🟢 [Busan Metropolitan City](https://www.busan.go.kr/bige/daily-busan/view?dataNo=69959&curPage=2&bbsNo=10&srchCl=Daily+Busan) |
+| Cheonan | Tourism Taxi | Official 2026 50% offer remains displayed, but detailed promotion terms were not surfaced in the public search result. Keep as a live-check offer, not a budgeted guarantee until booking terms are opened. | 🟢 official tourism home / 🔄 live terms required |
+| Daejeon | City Tour | City’s current 2026 notice confirms operation through Nov. 29 and a flexible bread route. Exact November fare/timetable requires the booking page; historical fare pages were not used as 2026 proof. | 🟢 official city notice / 🔄 live booking required |

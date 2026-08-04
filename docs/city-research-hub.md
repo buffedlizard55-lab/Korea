@@ -27,14 +27,16 @@ The script does **not** claim a coupon is live. It tells a researcher exactly wh
 | --- | --- | --- |
 | **VISITKOREA Exclusive** | Official international-visitor partner feed: department stores, activities, shows, stays, dining/delivery | Filter to Seoul and open each live partner term; headline discounts are not universal. |
 | **Discover Seoul Pass** | Free-entry, coupon and transport/eSIM bundle | Do pass math only with attractions you will actually use inside its activation window. [Official overview](https://english.visitseoul.net/tour-pass) |
+| **Climate Card Short-Term Pass** | Unlimited eligible Seoul transit for short stays; foreign credit/debit cards are accepted at new vending machines | Current official short passes: 1/2/3/5/7 days = ₩5k/8k/10k/15k/20k. It activates when loaded; excludes airport/intercity buses and some rail. International-card purchases carry ~3.7% fee. [Official terms](https://english.seoul.go.kr/climate-cards-and-single-journey-transit-tickets-now-accepting-international-credit-cards-no-cash-needed/) |
 | **The Hyundai Seoul / department-store visitor desks** | Potential visitor booklet, food or shopping benefits | Ask the desk on arrival; use passport only if the current booklet requires it. |
 | **Local-value search** | Student districts and lunch specials often beat coupon hunting | Naver Map: `점심특선 홍대`, `가성비 식당 성수`, `백반 종로`; use current menu photos and reviews. |
 
 ### Seoul search order
-1. Official VISITKOREA partners and DSP list.
-2. Hotel-neighborhood Naver Map menus.
-3. KakaoTalk brand coupons for a branch already on the day’s route.
-4. Department-store desk only if already shopping nearby.
+1. Compare Climate Card Short-Term Pass against your expected eligible rides; buy/load only on the first travel day.
+2. Official VISITKOREA partners and DSP list.
+3. Hotel-neighborhood Naver Map menus.
+4. KakaoTalk brand coupons for a branch already on the day’s route.
+5. Department-store desk only if already shopping nearby.
 
 ---
 
@@ -46,7 +48,7 @@ The script does **not** claim a coupon is live. It tells a researcher exactly wh
 | --- | --- | --- |
 | **Visit Busan Pass** | Official scope: 40+ paid facilities and 150+ discount partners | Compare the live attractions/food partners and the exact selected pass price to your actual day. [Official guide](https://www.visitbusan.net/en/index.do?menuCd=DOM_000000303012007000) |
 | **VISITKOREA Exclusive** | Includes Busan-specific experience partners such as Yacht Tale, plus nationwide partners | Open individual live terms before booking. |
-| **Busan Pay** | Foreigner-oriented payment/local-currency route is a potential value layer | A lead only: verify foreign-card setup, cashback, current merchants and terms before relying on it. |
+| **Busan Pay** | Official foreign-visitor payment/local-currency route | ✅ Busan’s Jan. 2026 city guide says participating merchants offer 5–7% cashback, some QR payments add 3%, and affiliated businesses may add 3–10% pre-discounts; Visit Busan Pass purchases via it earn 5% cashback. 🔄 Merchant/rate/cap are live in app; malls/duty-free have no cashback. [Official terms](https://www.busan.go.kr/bige/daily-busan/view?dataNo=69959&curPage=2&bbsNo=10&srchCl=Daily+Busan) |
 | **Local-value search** | Dwaeji gukbap, milmyeon, student lunch and market choices are more dependable than a short coupon | Naver Map: `돼지국밥 서면`, `밀면 부산역`, `점심특선 해운대`; compare menus and service charges. |
 
 ### Busan search order
