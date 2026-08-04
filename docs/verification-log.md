@@ -242,3 +242,13 @@ Added [Deal Discovery System](deal-discovery-system.md) and its candidate queue.
 | Daejeon | National Science Museum | Permanent Science & Technology, Natural History, Human Evolution, Future Tech, Botanical Garden, outdoor and children’s exhibitions are free. Paid listed exhibits get 50% off on the last Wednesday (Culture Day); separate reservation may apply. | 🟢 [National Science Museum visitor information](https://science.go.kr/board?menuId=MENU00633&siteId=) |
 | Daejeon | English museum docent | Official museum page offers a free English guided program for foreign visitors, with phone reservation one day ahead, group limit 20, and availability caveat. | 🟢 [Official English docent terms](https://www.science.go.kr/board?menuId=MENU00634&siteId=null) |
 | Busan | Busan Pay clarification | Official Jan. 2026 city guide additionally confirms free prepaid cards at Gimhae Airport, Busan Station and selected tourist centers; foreign cards/WeChat/Alipay can top up. Current participating merchants and caps remain app-checked. | 🟢 [Busan Metropolitan City](https://www.busan.go.kr/bige/daily-busan/view?dataNo=69959&curPage=2&bbsNo=10&srchCl=Daily+Busan) |
+
+
+### Fourth four-city sweep — 2026-08-04
+
+| City | Deal | Confirmed terms / guardrail | Source |
+| --- | --- | --- | --- |
+| Seoul | Seoul Guided Walking Tour | Free multilingual city volunteer guides; online reservation at least 3 days ahead. Palace/experience entry is excluded and guide availability can prevent a booking. | 🟢 [Visit Seoul terms](https://english.visitseoul.net/walking-tour/General-Information/ENN015020) |
+| Seoul | Cheong Wa Dae | VISITKOREA lists admission as free but says reservation/on-site registration applies. Confirm the current entry process/hours before routing a day around it. | 🟢 [VISITKOREA](https://english.visitkorea.or.kr/svc/contents/infoHtmlView.do?vcontsId=136571) |
+| Daejeon | DMA Collection Highlights 2026 | Daejeon Museum of Art lists this collection exhibition as free through Dec. 20, 2026. This does not make separate special exhibitions free. | 🟢 [Daejeon city listing](https://daejeon.go.kr/dma/DmaExhibView.do?exType=01&menuSeq=6082&exSeq=106423&pageIndex=1) |
+| Daejeon | Currency Museum of Korea | VISITKOREA describes the nonprofit currency museum as free to general visitors; check Monday/holiday closure. | 🟢 [VISITKOREA](https://english.visitkorea.or.kr/enu/ATR/SI_EN_3_1_1_1.jsp?cid=1664932) |
