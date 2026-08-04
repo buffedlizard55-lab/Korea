@@ -16,6 +16,7 @@ ROOT = Path(__file__).resolve().parents[1]
 CHECKS = [
     ("Documentation", [sys.executable, "scripts/check_docs.py"]),
     ("Deal registry", [sys.executable, "scripts/check_registry.py"]),
+    ("Discovery queue", [sys.executable, "scripts/check_discovery_queue.py"]),
     ("Source confidence", [sys.executable, "scripts/check_source_confidence.py"]),
 ]
 

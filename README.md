@@ -32,7 +32,7 @@ Every entry is sourced, dated, and verified against official releases and terms 
 | 🎫 [`docs/pass-rules.md`](docs/pass-rules.md) | **NEW:** Simple Includes / Excludes / Activation / Best use / Worst use cards for every major pass and payment product | Avoiding pass traps |
 | 🗃️ [`data/deals.csv`](data/deals.csv) | Normalized core deal registry (ID, city, status, source, expiry, access requirements) | One source of truth |
 | 🔗 [`docs/core-deal-index.md`](docs/core-deal-index.md) | **NEW:** Plain-English map from main deal pages to canonical registry IDs | Avoiding claim drift |
-| 🚦 [`docs/deal-status-board.md`](docs/deal-status-board.md) | Plain-English Active / Live Check / Future / Expired / Rejected board—what to use now and what to ignore | Avoiding stale deals |
+| 🚦 [`docs/deal-status-board.md`](docs/deal-status-board.md) | Plain-English Candidate / Active / Live Check / Future / Expired / Rejected board—what to use now and what to ignore | Avoiding stale deals |
 | 🔍 [`docs/source-confidence.md`](docs/source-confidence.md) | How source tiers work and how the repo blocks aggregators/community pages from being called official | Trusting the research |
 | ⚙️ [`docs/automation-runbook.md`](docs/automation-runbook.md) | One-command verification, trustworthy link-check fallback, and GitHub Actions activation steps | Maintaining the guide |
 | 🛟 [`docs/backup-plan.md`](docs/backup-plan.md) | **NEW:** Immediate normal-local fallback for every city and core deal when a coupon/pass/booking fails | No wasted deal-chasing |

@@ -1,5 +1,9 @@
 # Changelog
 
+## 2026-08-04 — v4.7.0 Shared Deal Lifecycle
+- **One lifecycle vocabulary:** core registry and discovery queue now use `candidate`, `active`, `live-check`, `future`, `expired`, and `rejected`; legacy `lead`/`verified` queue values were migrated.
+- **NEW `scripts/check_discovery_queue.py`:** validates queue fields, ISO dates, and lifecycle values. The one-command verification suite now includes it.
+
 ## 2026-08-04 — v4.6.0 Core Deal Registry Migration
 - **Registry expansion:** migrated ten high-use food, coupon, delivery, payment, convenience-store, and market claims into `data/deals.csv`, each with status, source tier, live-check flag, recheck date, and local backup.
 - **NEW `docs/core-deal-index.md`:** maps beginner-facing food/payment/city pages to canonical deal IDs while the remaining narrative claims migrate. Added source-policy entries for every new registry domain.

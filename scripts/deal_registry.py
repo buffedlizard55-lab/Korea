@@ -19,7 +19,7 @@ REGISTRY = ROOT / "data" / "deals.csv"
 def main() -> int:
     parser = argparse.ArgumentParser(description="Filter the core Korea-deal registry.")
     parser.add_argument("--city", default="all", help="city name, Nationwide, or all")
-    parser.add_argument("--status", default="all", help="active, live-check, future, expired, rejected, or all")
+    parser.add_argument("--status", default="all", help="candidate, active, live-check, future, expired, rejected, or all")
     parser.add_argument("--backups", action="store_true", help="also print the normal local backup for each deal")
     args = parser.parse_args()
     with REGISTRY.open(encoding="utf-8", newline="") as f:

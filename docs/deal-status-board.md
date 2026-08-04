@@ -8,6 +8,7 @@ This is the beginner-facing view of the registry’s status system. It prevents 
 
 | Status | What it means | What to do |
 | --- | --- | --- |
+| 🟣 **CANDIDATE** | A newly found lead not yet promoted into the core registry | Verify source, access, city/branch, terms, and expiry before using or promoting it. |
 | 🟢 **ACTIVE** | A current program, standing benefit, or specific date-window offer with a source | Still perform its listed live check before spending. |
 | 🔄 **LIVE CHECK** | The system/brand is real, but price, partner, stock, barcode, or branch changes frequently | Open the current app/site or ask the desk on the day. Do not budget it in advance. |
 | 📅 **FUTURE** | Announced but not active yet | Put a recheck date on the calendar; do not buy/plan around it now. |
@@ -46,11 +47,12 @@ This is the beginner-facing view of the registry’s status system. It prevents 
 
 ## Rules for adding or changing status
 
-1. Every core deal requires a **stable deal ID**, source URL, source tier, city, access label, and recheck/expiry date in `data/deals.csv`.
-2. **ACTIVE never means permanent.** It must retain `live_check=yes` in the registry.
-3. When a date ends, change the status to **expired**—do not delete it or quietly leave it in beginner pages.
-4. A live coupon stays **live-check** until its current barcode, branch, and expiry are visible.
-5. Use **rejected** for resident-only deals and dead/unsupported claims. That is useful information because it stops wasted effort.
+1. Shared lifecycle: `candidate → active` or `live-check → future / expired / rejected` as evidence and dates change. Candidates live in `data/deal-discovery-queue.csv`; core records live in `data/deals.csv`.
+2. Every core deal requires a **stable deal ID**, source URL, source tier, city, access label, and recheck/expiry date in `data/deals.csv`.
+3. **ACTIVE never means permanent.** It must retain `live_check=yes` in the registry.
+4. When a date ends, change the status to **expired**—do not delete it or quietly leave it in beginner pages.
+5. A live coupon stays **live-check** until its current barcode, branch, and expiry are visible.
+6. Use **rejected** for resident-only deals and dead/unsupported claims. That is useful information because it stops wasted effort.
 
 Run the validator after edits:
 

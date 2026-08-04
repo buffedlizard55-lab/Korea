@@ -12,7 +12,7 @@ This is the repeatable research system for finding **new** Korea savings opportu
 ## The discovery loop
 
 1. **Search one channel** from the coverage map below using both English and Korean words.
-2. **Add candidates** to `data/deal-discovery-queue.csv` — even if they are not yet usable. Once verified, assign it a stable ID and promote it into `data/deals.csv`.
+2. **Add candidates** to `data/deal-discovery-queue.csv` with status `candidate` — even if they are not yet usable. Once verified, assign it a stable ID and promote it into `data/deals.csv` as `active` or `live-check`.
 3. **Verify the actual terms:** official brand/government/platform page first; then two independent recent sources if no primary terms exist.
 4. **Run the tourist filter:** no ARC/RRN/`본인인증`, no Korean domestic-card-only requirement, no resident companion, and no hidden mandatory subscription.
 5. **Assign a city:** Seoul, Busan, chosen third city, nationwide, airport, or online-only. Confirm a real operating branch with an official locator or Naver Map.
