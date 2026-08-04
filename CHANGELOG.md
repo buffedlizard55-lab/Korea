@@ -1,5 +1,9 @@
 # Changelog
 
+## 2026-08-04 — v3.8.0 Pass-Value Dashboard
+- **NEW `docs/pass-value-dashboard.md`:** one decision surface for Discover Seoul Pass, Climate Card, Visit Busan Pass, Busan Pay, Cheonan Tourism Taxi and KORAIL PASS. It captures activation windows, exclusions, break-even rules, and a final group decision record.
+- **NEW `data/pass-options.csv` + `scripts/pass_value.py`:** structured pass reference data and a generic calculator for live pass prices versus only the costs actually planned.
+
 ## 2026-08-04 — v3.7.0 Rail-Pass Math & Core Deal Registry
 - **KORAIL PASS decision tool:** NEW `docs/rail-pass-math.md` and `scripts/rail_pass_math.py` compare a live KORAIL PASS quote against the traveler’s actual individual KORAIL fares. It explicitly excludes SRT, metro and special tourist trains from the calculation.
 - **Single-source foundation:** NEW `data/deals.csv` assigns core verified/live-check deals an ID, city, status, source, expiry, tourist access and ID requirement; NEW `scripts/deal_registry.py` filters it by city/status. Existing prose remains intact while future updates migrate toward this registry.
