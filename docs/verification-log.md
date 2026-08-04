@@ -252,3 +252,13 @@ Added [Deal Discovery System](deal-discovery-system.md) and its candidate queue.
 | Seoul | Cheong Wa Dae | VISITKOREA lists admission as free but says reservation/on-site registration applies. Confirm the current entry process/hours before routing a day around it. | 🟢 [VISITKOREA](https://english.visitkorea.or.kr/svc/contents/infoHtmlView.do?vcontsId=136571) |
 | Daejeon | DMA Collection Highlights 2026 | Daejeon Museum of Art lists this collection exhibition as free through Dec. 20, 2026. This does not make separate special exhibitions free. | 🟢 [Daejeon city listing](https://daejeon.go.kr/dma/DmaExhibView.do?exType=01&menuSeq=6082&exSeq=106423&pageIndex=1) |
 | Daejeon | Currency Museum of Korea | VISITKOREA describes the nonprofit currency museum as free to general visitors; check Monday/holiday closure. | 🟢 [VISITKOREA](https://english.visitkorea.or.kr/enu/ATR/SI_EN_3_1_1_1.jsp?cid=1664932) |
+
+
+### Fifth four-city sweep — 2026-08-04
+
+| City | Deal | Confirmed terms / guardrail | Source |
+| --- | --- | --- | --- |
+| Busan | Museum of Art | Regular admission is free; special exhibitions can charge. | 🟢 [VISITKOREA](https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=91156) |
+| Busan | National Maritime Museum | Free general admission; 4D theater and paid special exhibitions excluded. | 🟢 [Visit Busan](https://www.visitbusan.net/en/index.do?menuCd=DOM_000000301001001000&uc_seq=257&lang_cd=en) |
+| Busan | Bokcheon Museum | Free; Monday/New Year closure. | 🟢 [VISITKOREA](http://english.visitkorea.or.kr/enu/ATR/SI_EN_3_1_1_1.jsp?cid=1635387) |
+| Busan | Marine Natural History Museum | Free; Monday/New Year closure, with Tuesday closure when Monday is a public holiday. | 🟢 [VISITKOREA](http://english.visitkorea.or.kr/enu/SI/SI_EN_3_1_1_1.jsp?cid=1251680) |

@@ -51,7 +51,17 @@ The script does **not** claim a coupon is live. It tells a researcher exactly wh
 | **Visit Busan Pass** | Official scope: 40+ paid facilities and 150+ discount partners | Compare the live attractions/food partners and the exact selected pass price to your actual day. [Official guide](https://www.visitbusan.net/en/index.do?menuCd=DOM_000000303012007000) |
 | **VISITKOREA Exclusive** | Includes Busan-specific experience partners such as Yacht Tale, plus nationwide partners | Open individual live terms before booking. |
 | **Busan Pay** | Official foreign-visitor payment/local-currency route | ✅ Busan’s Jan. 2026 city guide says participating merchants offer 5–7% cashback, some QR payments add 3%, and affiliated businesses may add 3–10% pre-discounts; Visit Busan Pass purchases via it earn 5% cashback. 🔄 Merchant/rate/cap are live in app; malls/duty-free have no cashback. [Official terms](https://www.busan.go.kr/bige/daily-busan/view?dataNo=69959&curPage=2&bbsNo=10&srchCl=Daily+Busan) |
+| **Free Busan museum cluster** | Indoor, no-entry-fee alternative to paid attractions | ✅ Busan Museum of Art (regular exhibitions), Bokcheon Museum, Busan Marine Natural History Museum, and National Maritime Museum permanent exhibitions are listed free. Check closures and special/4D paid exhibits. [Verified details below](#busan-free-culture-cluster) |
 | **Local-value search** | Dwaeji gukbap, milmyeon, student lunch and market choices are more dependable than a short coupon | Naver Map: `돼지국밥 서면`, `밀면 부산역`, `점심특선 해운대`; compare menus and service charges. |
+
+### Busan free-culture cluster
+
+| Place | Area | Confirmed saving / caveat |
+| --- | --- | --- |
+| **Busan Museum of Art** | Haeundae / APEC-ro | Regular admission free; special exhibitions may charge. [VISITKOREA](https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=91156) |
+| **National Maritime Museum of Korea** | Yeongdo | Free admission; 4D theater and paid special exhibitions excluded. [Visit Busan](https://www.visitbusan.net/en/index.do?menuCd=DOM_000000301001001000&uc_seq=257&lang_cd=en) |
+| **Bokcheon Museum** | Dongnae | Free; closed Mondays/New Year’s Day. [VISITKOREA](http://english.visitkorea.or.kr/enu/ATR/SI_EN_3_1_1_1.jsp?cid=1635387) |
+| **Busan Marine Natural History Museum** | Dongnae | Free; closed Mondays/New Year’s Day (Tuesday closure if Monday is public holiday). [VISITKOREA](http://english.visitkorea.or.kr/enu/SI/SI_EN_3_1_1_1.jsp?cid=1251680) |
 
 ### Busan search order
 1. Pass math for the day you want Haeundae/Songdo/attractions.
