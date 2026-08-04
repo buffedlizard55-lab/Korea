@@ -61,7 +61,7 @@ The itinerary names Seoul and Busan, but not the third city. Rather than guess a
 
 | Deal or coupon | Location reality | What is current today | Plan | Confirmed in app/store | Used |
 | --- | --- | --- | --- | --- | --- |
-| Visit Busan Pass | Busan attractions/partners only | 🔄 Check the live pass/app before purchase; food partners reported: Sulbing Gwangbok, Mipochip (2+ orders), P.ARK | ☐ | ☐ | ☐ |
+| Visit Busan Pass | Busan attractions/partners only | 🔄 Official scope: 40+ facilities + 150+ discount partners; check its live app/site before purchase. Earlier food-partner reports: Sulbing Gwangbok, Mipochip (2+ orders), P.ARK | ☐ | ☐ | ☐ |
 | IKEA Family | **IKEA Dongbusan**, Gijang (Busan metro) | ✅ Same membership terms; check restaurant opening hours before a special trip | ☐ | ☐ | ☐ |
 | Lotte Mart / E-Mart tax refund | Busan branches | ✅ Qualifying packaged goods ≥₩15,000; ⚠️ passport at checkout | ☐ | ☐ | ☐ |
 
@@ -76,7 +76,7 @@ The itinerary names Seoul and Busan, but not the third city. Rather than guess a
 | Budget coffee / convenience 1+1 | Citywide | ✅ Same nationwide systems; exact products, stock, and tagged price vary | ☐ | ☐ | ☐ |
 | KakaoTalk / Klook / KKday / Creatrip | Participating Busan branch/listing only | 🔄 Check branch, date, and coupon terms before buying | ☐ | ☐ | ☐ |
 | WOWPASS cashback | Participating Busan merchants | 🔄 Confirm the live app partner list before paying | ☐ | ☐ | ☐ |
-| Shuttle / Baemin guest order | Delivery-zone and restaurant dependent | 🔄 Enter the hotel address first; checkout availability, fees, and first-order banners are live-only | ☐ | ☐ | ☐ |
+| Shuttle / Baemin guest order | Delivery-zone and restaurant dependent | ✅ Shuttle: enter **`VK2026`** in My Account → Promotions for **₩6,000** VISITKOREA credit through Dec. 31, 2026; 🔄 then check hotel zone/fees. Baemin banners are live-only | ☐ | ☐ | ☐ |
 
 **Busan fallback meals (not coupons):** dwaeji gukbap, milmyeon, gimbap+soup, and `한식부페` are local price categories, not guaranteed fixed-price deals. Use [Busan Guide](busan-guide.md) to compare nearby menus.
 
@@ -88,6 +88,7 @@ The itinerary names Seoul and Busan, but not the third city. Rather than guess a
 | --- | --- | --- | --- | --- | --- |
 | Korea Sale Festa | Nationwide **only if officially announced** | ⚠️ 2026 dates/partners are not announced; check `koreasalefesta.kr` in late September | ☐ | ☐ | ☐ |
 | Incheon lounge via Priority Pass | ICN only | Verify your card’s current guest/visit rules plus the lounge’s same-day entry terms | ☐ | ☐ | ☐ |
+| Incheon Airport+ / ICN Membership | ICN only | 🔄 Official app offers facility/duty-free coupons; join and check live merchant/expiry after security | ☐ | ☐ | ☐ |
 | Airline boarding-pass perks | Participating partners only | Read the airline’s current partner list and validity window; may require boarding pass/passport | ☐ | ☐ | ☐ |
 | Convenience-store promo | Nationwide | Read the shelf tag and take the exact quantity shown | ☐ | ☐ | ☐ |
 

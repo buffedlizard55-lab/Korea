@@ -196,3 +196,15 @@ The actionable result is [City Deal Checklist](city-deal-checklist.md): Seoul, B
 ## Deal-discovery process — 2026-08-03
 
 Added [Deal Discovery System](deal-discovery-system.md) and its candidate queue. This is a research-control update, not a claim that new leads are already verified. It requires an official source (or two recent independent sources), tourist-access screening, city/branch confirmation, expiry/terms capture, and a live redemption check before any candidate is promoted into the guide.
+
+
+---
+
+## New official leads verified — 2026-08-03
+
+| Deal / source | Terms actually confirmed | Tourist use / caveat | Source |
+| --- | --- | --- | --- |
+| **Shuttle Delivery VISITKOREA credit** | **₩6,000** bonus credit through **Dec. 31, 2026**; enter `VK2026` in Shuttle → My Account → Promotions. Existing members are eligible; KTO labels service nationwide. | ✅ Tourist-facing app; confirm the credit loads and delivery zone/fees before checkout. | 🟢 [VISITKOREA / Korea Tourism Organization](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=1589790) |
+| **VISITKOREA Exclusive** | KTO’s 2026 official-partner hub: up to 20% department-store benefits, up to 50% activities, up to 60% theme parks, up to 30% performances, up to 20% selected stays, and up to ₩6,000 partner credits/points. | ✅ For international travelers; **maximums are not universal**. Individual live partner terms, city, date, payment and possible passport requirement apply. | 🟢 [KTO announcement](https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=177&vcontsId=1590182) · [live partner list](https://english.visitkorea.or.kr/svc/thingsToDo/alliance/allianceList.do?menuSn=607) |
+| **Incheon Airport+ / ICN Membership** | Airport’s official guide says membership offers facility coupons including duty-free shops, plus check-in/event points. | 🔄 App-controlled merchants, value and expiry; check after security rather than assuming a shop participates. | 🟢 [Incheon Airport official guide](https://www.airport.kr/ap_en/6636/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGYXBfZW4lMkY5MzclMkZhcnRjbFZpZXcuZG8lM0Y%3D) |
+| **Visit Busan Pass scope** | Visit Busan currently says 40+ paid facilities and 150+ discounts; it also describes 30 free affiliated attractions and City Tour Bus/subway benefits on applicable pass types. | ✅/🔄 Compare the current pass type and live partner list against your planned day; old restaurant-partner reports are leads, not a promise. | 🟢 [Visit Busan official guide](https://www.visitbusan.net/en/index.do?menuCd=DOM_000000303012007000) |

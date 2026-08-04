@@ -13,7 +13,7 @@ How to order late-night fried chicken, Korean Chinese food, and bakery items dir
 
 | App | US Tourist Usability | Language | Korean Phone Needed? | Foreign Cards / US Payment | Welcome / First-Order Deal |
 | --- | --- | --- | --- | --- | --- |
-| **Shuttle Delivery** | ✅ **Best for Tourists** | 100% English | **No** (Email sign-up) | All US credit cards, Apple Pay, PayPal | Discounted e-gift vouchers on Klook + referral promo codes |
+| **Shuttle Delivery** | ✅ **Best for Tourists** | 100% English | **No** (Email sign-up) | All US credit cards, Apple Pay, PayPal | **₩6,000 VISITKOREA credit: `VK2026` through Dec. 31, 2026** + compare Klook vouchers |
 | **Baemin (`배달의민족`)** | ✅ **Best Selection via Guest** | English, Chinese, Japanese | **No** (Via Guest Checkout `비회원 주문`) | Visa, Mastercard, Amex, Apple Pay, Alipay+ | First-order banner coupons (~₩10,000 off) |
 | **Coupang Eats (`쿠팡이츠`)** | 🚫 **Resident-Tier (`🪪`)** | Korean (Some EN translation) | **Yes** (`본인인증` required) | Inconsistent; usually requires KR card | Wow member discounts / invite packs |
 | **Yogiyo (`요기요`)** | 🚫 **Resident-Tier (`📱`)** | Korean only | **Yes** (`본인인증` required) | Requires domestic payment methods | Welcome coupon packs |
@@ -31,6 +31,7 @@ Built specifically for international visitors, English speakers, and expats in S
 - **Zero ID Check on Delivery:** Your food is dropped off at your hotel lobby or door with no passport or ID check.
 
 ### How to Save on Shuttle (Welcome Deals)
+- **🟢 Verified VISITKOREA credit:** In the Shuttle app, go to **My Account → Promotions** and enter **`VK2026`** for **₩6,000 bonus credits**. The Korea Tourism Organization lists this as valid **through Dec. 31, 2026**, nationwide, and says existing Shuttle members are eligible too. Confirm the credit appears before ordering. [Official VISITKOREA terms](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=1589790)
 - **Klook Discounted E-Gift Vouchers:** Before ordering, buy a Shuttle e-gift voucher on Klook in USD ("Chicken Delivery (BHC, BBQ, Kyochon)" listing) at an **exclusive discount** — you'll need the Shuttle app to redeem it. Check the current discount % on Klook at booking time.
 - 🔗 Official Shuttle Klook page: <https://www.klook.com/activity/120381-food-delivery-in-korea/>
 

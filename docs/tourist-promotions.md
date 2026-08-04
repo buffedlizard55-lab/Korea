@@ -9,6 +9,18 @@ Deals aimed specifically at **foreign visitors and US citizens**—no Korean Res
 
 ---
 
+## ⭐ Start Here: VISITKOREA Exclusive — Current Official Tourist-Deal Feed
+
+The Korea Tourism Organization’s **VISITKOREA Exclusive** hub is now the first page to check before booking a paid activity, hotel, delivery order, or department-store purchase. Its 2026 partner program is for international travelers and links to the **live** offer pages rather than relying on old travel-blog coupons.
+
+- **What it currently advertises:** department-store shopping vouchers/discounts up to 20%; activities up to 50%; theme parks up to 60%; performances up to 30%; selected accommodation up to 20%; and restaurant/delivery partners with up to **₩6,000** in credits/reward points.
+- **Relevant cities:** Seoul (department stores, Hangang experiences, performances), Busan (Yacht Tale), and nationwide/third-city options (SONO, Wehome, Shuttle, Catchtable and more).
+- **How to use it:** open the live [VISITKOREA Exclusive partner list](https://english.visitkorea.or.kr/svc/thingsToDo/alliance/allianceList.do?menuSn=607), choose the city/category, read the partner’s exact terms, and record the expiry and redemption code in the [City Deal Checklist](city-deal-checklist.md). Some benefits may ask for a passport.
+- ⚠️ The headline percentages are **maximums across partners**, not one universal coupon. Confirm the selected offer, city, booking date, minimum spend, cancellation rule and ID requirement before paying.
+- 🟢 [Korea Tourism Organization’s June 2026 announcement and terms](https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=177&vcontsId=1590182)
+
+---
+
 ## 🏛️ 1. Korea Sale Festa 2026 (Late Oct – Mid Nov) — Your #1 Autumn Event!
 
 Your trip dates (Oct 31 – Nov 22) overlap directly with South Korea's official national autumn shopping and dining festival: **Korea Sale Festa (`코리아세일페스타`)**.
@@ -46,7 +58,11 @@ Don't overpay for airport food before your flight home. Use these tourist-access
 - 🟡 [TravelMint — Priority Pass lounges at ICN](https://www.travelmint.com/lounges/priority-pass-lounges-at-incheon-international-airport/) · [LoungeReview — Sky Hub Lounge ICN](https://loungereview.com/lounges/skyhub-lounge-icn-gate-43/) · [Trip.com ICN lounge guide](https://sg.trip.com/guide/info/incheon-airport-lounge.html) · Community reports on [r/PriorityPass](https://www.reddit.com/r/PriorityPass/comments/1ja701o/best_lounge_at_incheon_airport_seoul_south_korea/)
 
 ### Klook Airport Meal Vouchers
-- For travelers without Priority Pass, Klook sells discounted meal vouchers for Incheon Airport food halls (`CJ Foodworld`, `Flavour 6`) in USD, saving ~10% below airport register prices.
+- For travelers without Priority Pass, Klook sells discounted meal vouchers for Incheon Airport food halls (`CJ Foodworld`, `Flavour 6`) in USD. Check the live listing/price before purchase; the discount is not fixed.
+
+### Incheon Airport+ App — Live Airport Coupons
+- Install **Incheon Airport+** before departure and join **ICN Membership** in the app. Incheon Airport’s official guide says membership provides **discount coupons for airport facilities, including duty-free shops**, and points from app check-ins/events.
+- 🔄 Coupon merchants, values, eligibility, and expiry are app-controlled. Open the app after clearing security and check the exact coupon before buying—not every airport shop participates. 🟢 [Incheon Airport official app guide](https://www.airport.kr/ap_en/6636/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGYXBfZW4lMkY5MzclMkYxMzgyMTclMkZhcnRjbFZpZXcuZG8lM0Y%3D)
 
 ---
 
@@ -60,13 +76,11 @@ If you buy a city tourist pass for attractions, do not overlook their embedded r
 - **Bonus:** free 5-day unlimited-data **SKT eSIM** (now included with the card pass too, not just mobile), free AREX/tour bus, and T-money transit top-up on the card.
 - 🟢 [Official DSP site (prices, partners, refund policy)](https://www.discoverseoulpass.com) · [DSP official listing (Visit Korea)](https://english.visitkorea.or.kr/svc/thingsToGo/tvExhibit/tourGdsPrView.do?gdsId=2000048) · 🟡 [Travel+Leisure Asia — July 2026 expansion](https://www.travelandleisureasia.com/sea/news/south-korea-expands-its-discover-seoul-pass-adds-more-benefits-for-users/)
 
-### Visit Busan Pass (VBP) — verified food discounts
-- **What you get:** free entry to 30+ Busan attractions + **~50 discounted experiences** and concrete restaurant/cafe discounts, including:
-  - **Sulbing Busan Gwangbok (bingsu cafe, near Jagalchi)** — **10% off everything** (order from staff, not the auto-payment machine).
-  - **Mipochip (famous haemuljang / soy-marinated seafood, Haeundae)** — **10% off** (orders of 2+).
-  - **P.ARK Café & Bakery (Yeongdo, beside Arte Museum)** — discounted ice cream.
-- **Prices:** 24h **₩49,000** / 48h **₩69,000** (Klook sells the 24h pass from ~US$32).
-- 🟢 [Official app listing (Busan Tourism Org)](https://play.google.com/store/apps/details?id=com.busan.visitbusanpass&hl=en_US) · 🟡 [Trip.com community field report, Apr 2026](https://sg.trip.com/moments/detail/busan-432-144968511/)
+### Visit Busan Pass (VBP) — rechecked official scope
+- **Current official scope:** Visit Busan says one pass covers **40+ paid facilities** and discounts at **150+** restaurants, shopping, activity, and accommodation partners; it also describes free entry at 30 affiliated tourist attractions and City Tour Bus/subway benefits on applicable card types. The exact entitlement depends on the time-limited or quantity-limited pass selected.
+- **Food leads, not permanent promises:** Sulbing Gwangbok, Mipochip (2+ orders), and P.ARK were reported as partners earlier in 2026. Check the **live VBP partner list in the app/site** before buying or traveling to a restaurant: partners, percentage, order rules, and prices can change.
+- **Value test:** build a same-day list of attractions plus food partners you will actually use, then compare total normal admission against the current pass price. Do not buy it for a single café discount.
+- 🟢 [Visit Busan official guide](https://www.visitbusan.net/en/index.do?menuCd=DOM_000000303012007000) · [Official VBP site](https://www.visitbusanpass.com/) · 🟡 [Apr. 2026 partner field report](https://sg.trip.com/moments/detail/busan-432-144968511/)
 
 ---
 

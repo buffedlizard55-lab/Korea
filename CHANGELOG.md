@@ -1,5 +1,11 @@
 # Changelog
 
+## 2026-08-03 — v3.5.0 Official 2026 Deal Discovery Results
+- **New verified, tourist-usable delivery credit:** Shuttle’s official VISITKOREA code **`VK2026`** gives **₩6,000** in app credit through **Dec. 31, 2026**; instructions and source added.
+- **New official live-offer sources:** added Korea Tourism Organization’s **VISITKOREA Exclusive** partner hub (department-store, activity, performance, stay, dining/delivery offers) and Incheon Airport+ / ICN Membership coupons. Every dynamic offer is explicitly subject to its live terms.
+- **Busan pass correction:** replaced stale fixed partner/count language with Visit Busan’s current official scope—40+ paid facilities and 150+ discount partners—and a live-list value test.
+- Logged all leads in the discovery queue and verification log; city checklist now includes the confirmed Shuttle code and airport-app check.
+
 ## 2026-08-03 — v3.3.0 City Deal Checklist & Current-Offer Guardrails
 - **NEW `docs/deal-discovery-system.md` + `data/deal-discovery-queue.csv`:** an 18-channel search coverage map, Korean search vocabulary, repeatable verification/tourist-access gates, recheck calendar, and a structured candidate log. It explicitly rejects the impossible claim that any static guide contains every future deal.
 - **NEW `docs/city-deal-checklist.md`:** a markable, city-first checklist for Seoul and Busan, plus a safe fill-in workflow for the still-unnamed third city. Every row has Plan / Confirmed / Used boxes and distinguishes city-specific passes from nationwide systems.
