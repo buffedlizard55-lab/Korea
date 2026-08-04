@@ -10,7 +10,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 PATH = ROOT / "data" / "deals.csv"
 ALLOWED_STATUSES = {"active", "live-check", "future", "expired", "rejected"}
-REQUIRED = {"deal_id", "city", "category", "title", "status", "expiry_or_recheck", "access", "source_tier", "source_url", "live_check"}
+REQUIRED = {"deal_id", "city", "category", "title", "status", "expiry_or_recheck", "access", "source_tier", "source_url", "live_check", "local_backup"}
 
 
 def main() -> int:

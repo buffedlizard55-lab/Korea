@@ -1,5 +1,9 @@
 # Changelog
 
+## 2026-08-04 — v4.4.0 Normal Local Backups
+- **Core fallback field:** every normalized core deal now carries a `local_backup` in `data/deals.csv`; registry validation enforces it and `deal_registry.py --backups` displays it.
+- **NEW `docs/backup-plan.md`:** 60-second reset rule, city-by-city local alternatives, and concrete fallbacks for pass, payment, taxi, delivery, and tax-refund failures—built for a couple rather than a large group.
+
 ## 2026-08-04 — v4.3.0 Verification Runbook & Reliable Fallback
 - **NEW `scripts/verify_repo.py`:** one command runs documentation, deal-registry, and source-confidence checks; optional `--links` is reserved for environments with outbound HTTPS.
 - **NEW `docs/automation-runbook.md`:** documents the correct interpretation of bot blocks/TLS failures, a human browser-verification fallback, and exact steps to activate the pending weekly GitHub Actions workflow once permission is granted.
