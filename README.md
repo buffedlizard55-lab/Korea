@@ -23,9 +23,11 @@ Every entry is sourced, dated, and verified against official releases and terms 
 | --- | --- | --- |
 | 🚀 [`docs/start-here.md`](docs/start-here.md) | 5-minute beginner's guide — the 2 rules, 3 deal types, app setup, Korean glossary, first-48-hours plan | Absolute beginners & last-minute prep |
 | ✅ [`docs/checklist.md`](docs/checklist.md) | Master to-do checklist (pre-trip deadlines + in-trip daily routine) with a fill-in **birthday schedule** table | Actually getting ready |
-| 📍 [`docs/city-deal-checklist.md`](docs/city-deal-checklist.md) | Markable Seoul + Busan deal/coupon checklist, location reality, live-confirmation steps, and a safe template for the unnamed third city | Planning by city |
+| 📍 [`docs/city-deal-checklist.md`](docs/city-deal-checklist.md) | Markable Seoul + Busan deal/coupon checklist, location reality, live-confirmation steps, and a filled-in **Cheonan** third-city plan | Planning by city |
 | 🔎 [`docs/deal-discovery-system.md`](docs/deal-discovery-system.md) | 18-channel, Korean-search, city-first system for finding and safely validating more deals; includes a recheck calendar and quality gates | Ongoing deal hunting without hype |
-| 🧭 [`docs/city-research-hub.md`](docs/city-research-hub.md) | **NEW:** Separate Seoul, Busan, Cheonan, and Daejeon research lanes plus a one-command refresh board | Deep research without overload |
+| 🧭 [`docs/city-research-hub.md`](docs/city-research-hub.md) | Separate Seoul, Busan, **Cheonan**, and Daejeon research lanes plus a one-command refresh board | Deep research without overload |
+| 🚆 [`docs/rail-pass-math.md`](docs/rail-pass-math.md) | **NEW:** KORAIL PASS decision worksheet + calculator—compare live individual fares before buying a pass | Intercity transport savings |
+| 🗃️ [`data/deals.csv`](data/deals.csv) | **NEW:** Normalized core deal registry (ID, city, status, source, expiry, access requirements) | One source of truth |
 | 🛬 [`docs/arrival-guide.md`](docs/arrival-guide.md) | **NEW:** K-ETA status, ICN arrival steps (WOWPASS/T-money/eSIM, AREX), airport tax-refund kiosks, first meals | Landing day & departure day |
 | 💳 [`docs/money-guide.md`](docs/money-guide.md) | **NEW:** Payment methods (WOWPASS vs T-money vs cards), best exchange rates, price index & daily budgets | Never overpaying |
 | 🗣️ [`docs/phrasebook.md`](docs/phrasebook.md) | **NEW:** 40 Korean phrases + deal-term glossary (kiosk, restaurant, market, delivery, tax refund) | Ordering & couponing in Korean |
@@ -48,7 +50,9 @@ Every entry is sourced, dated, and verified against official releases and terms 
 
 ## ✨ What's New (City deal audit — 2026-08-03)
 
-- **🧭 Four-city research + fast refresh:** [City Research Hub](docs/city-research-hub.md) splits official sources and search order across Seoul, Busan, Cheonan, and Daejeon. Run `python3 scripts/deal_refresh.py --city <City>` for only that city’s live-check board.
+- **🚆 Rail-pass math:** [Rail Pass Math](docs/rail-pass-math.md) + `scripts/rail_pass_math.py` stops us buying a KORAIL PASS unless it beats the live fares for the actual KORAIL legs.
+- **🗃️ Core deal registry:** `data/deals.csv` + `scripts/deal_registry.py` begins the single-source-of-truth migration—filter deals by city/status without hunting through prose.
+- **🧭 Four-city research + fast refresh:** [City Research Hub](docs/city-research-hub.md) splits official sources and search order across Seoul, Busan, **Cheonan**, and Daejeon. Run `python3 scripts/deal_refresh.py --city <City>` for only that city’s live-check board.
 - **🔎 Never-miss discovery system:** [Deal Discovery System](docs/deal-discovery-system.md) covers 18 places real offers hide—official brands, Korean searches, local maps, city sites, store shelves, travel platforms and in-person observations—plus a candidate queue and strict proof gates.
 - **📍 City-first, markable plan:** [City Deal Checklist](docs/city-deal-checklist.md) separates **Seoul-only**, **Busan-only**, citywide, and third-city-to-be-chosen deals. Every row has Plan / Confirmed / Used boxes, exact location reality, and a live check step.
 - **🔎 Honest current-status pass:** standing benefits, official location systems, and source links were rechecked today. Rotating KakaoTalk, travel-platform, delivery, WOWPASS, department-store and festival offers are now explicitly **live-only** rather than promised months ahead; confirm their barcode/listing/partner and branch on the day.

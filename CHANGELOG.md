@@ -1,5 +1,10 @@
 # Changelog
 
+## 2026-08-04 — v3.7.0 Rail-Pass Math & Core Deal Registry
+- **KORAIL PASS decision tool:** NEW `docs/rail-pass-math.md` and `scripts/rail_pass_math.py` compare a live KORAIL PASS quote against the traveler’s actual individual KORAIL fares. It explicitly excludes SRT, metro and special tourist trains from the calculation.
+- **Single-source foundation:** NEW `data/deals.csv` assigns core verified/live-check deals an ID, city, status, source, expiry, tourist access and ID requirement; NEW `scripts/deal_registry.py` filters it by city/status. Existing prose remains intact while future updates migrate toward this registry.
+- **Itinerary correction:** Cheonan is confirmed as the third city in README and checklists, replacing the previous unnamed-city placeholder.
+
 ## 2026-08-04 — v3.6.0 Four-City Research & Fast Refresh
 - **NEW `docs/city-research-hub.md`:** deep but separated search lanes for Seoul, Busan, **Cheonan** (assumed from “chaenon”), and Daejeon. Each has current official routes, Korean local-search prompts, a prioritized sequence, and a five-row daily card.
 - **NEW `data/city-source-registry.csv` + `scripts/deal_refresh.py`:** a maintained city/source registry and one-command, city-scoped refresh board. It focuses the next research sweep and explicitly requires a live terms check rather than faking automated coupon verification.

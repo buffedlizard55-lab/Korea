@@ -1,4 +1,4 @@
-# 📍 City Deal Checklist — Seoul, Busan & Your Third City
+# 📍 City Deal Checklist — Seoul, Busan & Cheonan
 
 A single trip-ready checklist for **where a deal can actually be used**. It deliberately separates a standing price/benefit from a changing coupon: a chain being present in a city does **not** promise that a particular app or KakaoTalk coupon will be available that day.
 
@@ -9,13 +9,13 @@ A single trip-ready checklist for **where a deal can actually be used**. It deli
 
 ---
 
-## First: choose the third city
+## Third city confirmed: Cheonan (`천안`)
 
-The itinerary names Seoul and Busan, but not the third city. Rather than guess and send you toward a closed or nonexistent branch, use this mini checklist once it is chosen.
+The group confirmed **Cheonan** as the third city. Keep the short verification checklist below: city-tour routes and the tourism taxi are dynamic, and the best branch/meal depends on the hotel.
 
 | Decision | Mark | Notes |
 | --- | --- | --- |
-| Third city: `________________` | ☐ | Write the city name here. |
+| Third city: **Cheonan (`천안`)** | ☑ | Change only if the itinerary changes. |
 | Hotel/neighborhood: `________________` | ☐ | Save it in Naver Map in Korean. |
 | Search the Korean chain names below in Naver Map | ☐ | Filter for **영업중** (open), then check hours and last orders. |
 | Save one breakfast/coffee, one cheap meal, and one dinner option | ☐ | Avoid depending on one coupon or one branch. |

@@ -5,14 +5,14 @@ This is the repeatable research system for finding **new** Korea savings opportu
 > **Last verified: 2026-08-03** · **Trip: Oct 31 – Nov 22, 2026**  
 > **Important:** no one can truthfully guarantee that they have found “every last deal.” Promotions change daily, branch menus change, and some offers appear only inside Korean apps. The goal is stronger: systematically cover every realistic **source channel**, log every candidate, and make a live check before spending money.
 
-**Use with:** [City Deal Checklist](city-deal-checklist.md) · [Verification Log](verification-log.md) · [Field Notes](field-notes.md) · [`data/deal-discovery-queue.csv`](../data/deal-discovery-queue.csv)
+**Use with:** [City Deal Checklist](city-deal-checklist.md) · [Verification Log](verification-log.md) · [Field Notes](field-notes.md) · [`data/deal-discovery-queue.csv`](../data/deal-discovery-queue.csv) · [`data/deals.csv`](../data/deals.csv)
 
 ---
 
 ## The discovery loop
 
 1. **Search one channel** from the coverage map below using both English and Korean words.
-2. **Add candidates** to `data/deal-discovery-queue.csv` — even if they are not yet usable.
+2. **Add candidates** to `data/deal-discovery-queue.csv` — even if they are not yet usable. Once verified, assign it a stable ID and promote it into `data/deals.csv`.
 3. **Verify the actual terms:** official brand/government/platform page first; then two independent recent sources if no primary terms exist.
 4. **Run the tourist filter:** no ARC/RRN/`본인인증`, no Korean domestic-card-only requirement, no resident companion, and no hidden mandatory subscription.
 5. **Assign a city:** Seoul, Busan, chosen third city, nationwide, airport, or online-only. Confirm a real operating branch with an official locator or Naver Map.
