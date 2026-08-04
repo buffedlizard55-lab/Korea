@@ -1,5 +1,9 @@
 # Changelog
 
+## 2026-08-04 — v4.6.0 Core Deal Registry Migration
+- **Registry expansion:** migrated ten high-use food, coupon, delivery, payment, convenience-store, and market claims into `data/deals.csv`, each with status, source tier, live-check flag, recheck date, and local backup.
+- **NEW `docs/core-deal-index.md`:** maps beginner-facing food/payment/city pages to canonical deal IDs while the remaining narrative claims migrate. Added source-policy entries for every new registry domain.
+
 ## 2026-08-04 — v4.5.0 Truthful Tracker & Claim Language
 - **Tracker integrity:** cleared fictional future redemptions from the live `data/deal-tracker.csv`; added an explicitly labeled format example at `data/examples/deal-tracker-example.csv`.
 - **Truthful-language sweep:** replaced broad “guaranteed,” “100%,” and “never” assertions in key beginner pages with tourist-screened/live-terms language; future Korea Sale Festa wording is now future/live-check rather than presumed active.
