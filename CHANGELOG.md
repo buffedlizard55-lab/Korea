@@ -1,5 +1,9 @@
 # Changelog
 
+## 2026-08-04 — v4.5.0 Truthful Tracker & Claim Language
+- **Tracker integrity:** cleared fictional future redemptions from the live `data/deal-tracker.csv`; added an explicitly labeled format example at `data/examples/deal-tracker-example.csv`.
+- **Truthful-language sweep:** replaced broad “guaranteed,” “100%,” and “never” assertions in key beginner pages with tourist-screened/live-terms language; future Korea Sale Festa wording is now future/live-check rather than presumed active.
+
 ## 2026-08-04 — v4.4.0 Normal Local Backups
 - **Core fallback field:** every normalized core deal now carries a `local_backup` in `data/deals.csv`; registry validation enforces it and `deal_registry.py --backups` displays it.
 - **NEW `docs/backup-plan.md`:** 60-second reset rule, city-by-city local alternatives, and concrete fallbacks for pass, payment, taxi, delivery, and tax-refund failures—built for a couple rather than a large group.

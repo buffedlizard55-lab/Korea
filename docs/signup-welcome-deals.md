@@ -4,7 +4,7 @@ Freebies and discount coupons you get just for joining a brand's channel or plac
 Ranked by usability for our **Oct 31 – Nov 22, 2026 US Citizen Itinerary**.
 
 > **Last verified: 2026-08-03**  
-> **🎯 US Citizen Guarantee:** Every deal in Section 1 requires **no Alien Registration Card (`ARC`), no Korean Resident Registration Number (`RRN`), no `본인인증` telecom verification, and no physical ID check** at the restaurant or kiosk.
+> **🎯 Tourist filter:** Section 1 is screened for no-ARC/no-`본인인증` use. Live barcode, branch, payment, and any stated ID terms still control at redemption.
 >
 > **🧭 Navigation:** [🏠 README](../README.md) · [🖨️ Cheat Sheet](cheat-sheet.md) · [📅 Calendar](trip-calendar.md) · [🗺️ Neighborhoods](neighborhood-guide.md) · [❓ FAQ](faq.md)
 

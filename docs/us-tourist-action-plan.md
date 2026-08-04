@@ -3,7 +3,7 @@
 A dedicated, customized battle plan for a group of **US citizens traveling South Korea from October 31 to November 22, 2026**, celebrating **multiple birthdays** during the trip, with **no Korean resident companion** and a strict requirement of **zero physical ID checks** at restaurants, cafes, and kiosks.
 
 > **Last verified: 2026-08-03**  
-> *All recommended deals below are guaranteed to work without a Korean Resident Registration Number (RRN), without an Alien Registration Card (ARC), without Korean carrier identity verification (`본인인증`), and without showing a passport or photo ID at the cashier (with the sole exception of hypermarket tax exemption as noted).*
+> *Deals below are screened for a no-ARC / no-Korean-carrier trip. They are not guarantees: read each current source, live-check rotating offers, and follow any stated passport/ID exception.*
 >
 > **🧭 Navigation:** [🏠 README](../README.md) · [🖨️ Cheat Sheet](cheat-sheet.md) · [📅 Calendar](trip-calendar.md) · [🗺️ Neighborhoods](neighborhood-guide.md) · [❓ FAQ](faq.md)
 
@@ -27,7 +27,7 @@ Almost every native Korean F&B membership app requires **`본인인증` (PASS mo
 You asked to make sure **you won't need to show ID to claim any promos or birthday rewards**.
 
 In South Korea:
-1. **Barcode / QR Code / Kiosk Redemption is 100% Anonymous:** Whether you are scanning a coupon at a self-serve kiosk (`키오스크`), showing a KakaoTalk barcode to a cashier, or presenting an e-voucher from Klook/Creatrip, **staff never ask for physical ID, passport, or proof of birthdate**.
+1. **Barcode / QR Code / Kiosk Redemption usually has no physical-ID step:** verify current coupon terms and keep exceptions (tax refund, alcohol, boarding pass, IKEA tart) in mind.
 2. **When IS an ID checked in Korea?**
    - **Buying alcohol** at a convenience store, bar, or restaurant (age verification).
    - **Tax refunds (`즉시면세` / `사후면세`)** or shopping at **Duty-Free foreign customer desks** and **Hypermarket checkouts** (requires physical passport).
@@ -112,17 +112,17 @@ Follow this exact schedule to lock in your birthday rewards and food savings bef
 
 | Brand / Platform | Promo / Freebie | US Citizen Access (No ARC) | ID Required at Store? | Why / How to Claim |
 | --- | --- | --- | --- | --- |
-| **IKEA Family Korea** | Free weekday hot drink + member prices + birthday apple-tart coupon | ✅ **100% Usable** | **No** (hot drink/member price); ⚠️ ID may be asked for the tart | Sign up with email only; no Korean mobile verification required. Keep marketing consent ON for the D-7 tart email. |
-| **KakaoTalk Brand Channels** | Instant combo coupons, free set upgrades | ✅ **100% Usable** | **No** | Add channels (`채널 추가`) on US KakaoTalk account; scan kiosk barcode. |
-| **The Hyundai Seoul (`Café H`)** | Free welcome drinks + food court discount coupons | ✅ **100% Usable** | **No** | Get foreign visitor barcode from H.Point Global app or B1 tourist desk. |
-| **Korea Sale Festa 2026** | Nationwide autumn F&B & food court discounts | ✅ **100% Usable** | **No** | Active late Oct – mid Nov 2026 across department stores & restaurants. |
-| **Shuttle Delivery** | English food delivery + discounted Klook e-gift cards | ✅ **100% Usable** | **No** | Email sign-up, accepts US credit cards, no Korean phone number needed. |
+| **IKEA Family Korea** | Free weekday hot drink + member prices + birthday apple-tart coupon | ✅ **Tourist-screened** | **No** (hot drink/member price); ⚠️ ID may be asked for the tart | Sign up with email only; no Korean mobile verification required. Keep marketing consent ON for the D-7 tart email. |
+| **KakaoTalk Brand Channels** | Instant combo coupons, free set upgrades | ✅ **Tourist-screened** | **No** | Add channels (`채널 추가`) on US KakaoTalk account; scan kiosk barcode. |
+| **The Hyundai Seoul (`Café H`)** | Free welcome drinks + food court discount coupons | ✅ **Tourist-screened** | **No** | Get foreign visitor barcode from H.Point Global app or B1 tourist desk. |
+| **Korea Sale Festa 2026** | Potential nationwide autumn F&B & food court discounts | 📅 **Future / live check** | Varies | 2026 dates/partners are not yet published; recheck in late September. |
+| **Shuttle Delivery** | English food delivery + discounted Klook e-gift cards | ✅ **Tourist-screened** | **No** | Email sign-up, accepts US credit cards, no Korean phone number needed. |
 | **Baemin (`배달의민족`)** | First-order / Guest Checkout delivery to hotel | ✅ **Usable via Guest** | **No** | English UI (Feb 2026); use Guest Checkout (`비회원 주문`) + foreign card/Apple Pay. |
-| **Convenience Stores (CU/GS25)** | Monthly 1+1 and 2+1 snack & drink deals | ✅ **100% Usable** | **No** | Walk in, grab items with "+1" tags, pay at register. Resets Nov 1st. |
-| **All-You-Can-Eat (`무한리필`)** | Unlimited BBQ (**Myeongryun Jinsa Galbi**) / Tteokbokki (**Dookki**) | ✅ **100% Usable** | **No** | Walk in, pay flat price (~₩11,900–₩21,900), eat unlimited. Zero app needed. |
-| **Tongin Market Coin Lunchbox** | 20 brass coins + tray for **₩10,000** custom feast | ✅ **100% Usable** | **No** | Buy brass coins on 2nd floor (open Tue–Sun 11–16). |
-| **Hypermarket Tax Exemption** | Instant ~6–7% tax refund on groceries/snacks ≥₩15,000 | ✅ **100% Usable** | **Yes (Passport)** | Present passport at Lotte Mart / E-Mart immediate tax checkout register. |
-| **Klook / KKday / Creatrip** | Discounted restaurant vouchers (10–30% off) | ✅ **100% Usable** | **No** | Buy in USD before dinner; scan QR code voucher at cashier. |
+| **Convenience Stores (CU/GS25)** | Monthly 1+1 and 2+1 snack & drink deals | ✅ **Tourist-screened** | **No** | Walk in, grab items with "+1" tags, pay at register. Resets Nov 1st. |
+| **All-You-Can-Eat (`무한리필`)** | Unlimited BBQ (**Myeongryun Jinsa Galbi**) / Tteokbokki (**Dookki**) | ✅ **Tourist-screened** | **No** | Walk in, pay flat price (~₩11,900–₩21,900), eat unlimited. Zero app needed. |
+| **Tongin Market Coin Lunchbox** | 20 brass coins + tray for **₩10,000** custom feast | ✅ **Tourist-screened** | **No** | Buy brass coins on 2nd floor (open Tue–Sun 11–16). |
+| **Hypermarket Tax Exemption** | Instant ~6–7% tax refund on groceries/snacks ≥₩15,000 | ✅ **Tourist-screened** | **Yes (Passport)** | Present passport at Lotte Mart / E-Mart immediate tax checkout register. |
+| **Klook / KKday / Creatrip** | Discounted restaurant vouchers (10–30% off) | ✅ **Tourist-screened** | **No** | Buy in USD before dinner; scan QR code voucher at cashier. |
 | **Outback Steakhouse KR App** | Boomerang ₩10,000 off + Anniversary coupon | 🚫 **BLOCKED (`📱`)** | No | Native app requires `본인인증` (ARC / Korean resident phone verification). |
 | **Starbucks Korea App** | Welcome Americano + Birthday handcrafted drink | 🚫 **BLOCKED (`📱`)** | No | Requires KR app membership verified via `본인인증`; US app does not work. |
 | **CJ ONE App (VIPS / Tous Les Jours)** | ₩10,000 birthday discount coupon | 🚫 **BLOCKED (`📱`)** | No | Requires Korean Resident Registration Number / ARC for CJ ONE account. |

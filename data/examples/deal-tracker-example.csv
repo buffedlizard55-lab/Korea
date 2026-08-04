@@ -1,0 +1,3 @@
+date,deal,location,planned_price_krw,paid_krw,savings_krw,id_checked,worked,notes
+YYYY-MM-DD,Example — convenience store 1+1 drink,Actual branch name,1500,1500,1500,no,yes,Record exact shelf rule and receipt total
+YYYY-MM-DD,Example — Tongin Market lunchbox,Actual market counter,10000,10000,0,no,yes,Record hours coins and any closure issue

@@ -3,7 +3,7 @@
 A living, fact-checked guide to eating cheaper (and free-er) on our upcoming South Korea trip.
 Every entry is sourced, dated, and verified against official releases and terms of service.
 
-> **🎯 Trip Profile: Oct 31 – Nov 22, 2026 | US Citizens | No ARC / Korean Resident | Zero ID Check Guaranteed**  
+> **🎯 Trip Profile: Oct 31 – Nov 22, 2026 | Two US Citizens | No ARC / Korean Resident | Physical-ID exceptions clearly flagged**
 > **Last full verification sweep: 2026-08-03**
 
 ---
@@ -51,7 +51,7 @@ Every entry is sourced, dated, and verified against official releases and terms 
 | 🍱 [`docs/everyday-savings.md`](docs/everyday-savings.md) | All-You-Can-Eat (`무한리필`) BBQ/Buffets, **budget burger & meal chains**, Tongin Market Coin Lunchbox, Convenience 1+1/2+1 & Hypermarket Tax Refund | Everyday meals |
 | 🕵️ [`docs/verification-log.md`](docs/verification-log.md) | Every claim and source, with access dates and confidence/tourist accessibility ratings + **Link Audit** | Trust check |
 | 📝 [`docs/field-notes.md`](docs/field-notes.md) | **NEW:** In-trip log template — track prices paid, ID checks, and what worked; upgrades 🔴/🟡 → 🟢 | During the trip |
-| 📊 [`data/deal-tracker.csv`](data/deal-tracker.csv) | **NEW:** CSV tracker (date, deal, price, savings, worked?) — one row per redemption | Counting your savings |
+| 📊 [`data/deal-tracker.csv`](data/deal-tracker.csv) | Blank live CSV tracker—one row per real redemption; see [`data/examples/deal-tracker-example.csv`](data/examples/deal-tracker-example.csv) for format | Counting your savings |
 
 ---
 
@@ -103,7 +103,7 @@ Every entry is sourced, dated, and verified against official releases and terms 
 
 ## 🏆 Top 10 Quick Wins for US Tourists (No ARC • No Korean Phone • No ID Check)
 
-These ten savings channels are **100% usable by US citizens** on a standard tourist eSIM, require **zero physical ID or passport check** at the restaurant/kiosk cashier (unless claiming tax exemption at hypermarkets), and work seamlessly during your Oct 31 – Nov 22 trip:
+These ten channels are the **best tourist-oriented starting points** for a standard tourist eSIM. Each still has its source, status, live-check step, and any passport/ID exception recorded—especially for tax refunds, alcohol, and the IKEA birthday tart.
 
 1. **KakaoTalk Plus Friends (`카카오톡 채널`) Instant Brand Coupons** — Install KakaoTalk on your US phone number. Search and add official brand channels (`@버거킹` Burger King, `@KFC코리아`, `@롯데리아` Lotteria, `@배스킨라빈스` Baskin Robbins, `@던킨` Dunkin, `@네네치킨` Nene Chicken, `@BBQ치킨`, `@맘스터치` Mom's Touch, plus Paris Baguette, Tous Les Jours, Kyochon, Gong cha, Mega/Compose/Paik's — [full table](docs/signup-welcome-deals.md)) to unlock **instant combo discounts, free upgrades, and monthly coupons** in chat. Scan the barcode at self-serve kiosks (`키오스크`); no ID required.
 2. **All-You-Can-Eat (`무한리필`) Korean BBQ at Myeongryun Jinsa Galbi (`명륜진사갈비`)** — Walk into any of **600+ locations** nationwide and eat unlimited marinated pork galbi, samgyeopsal, seasoned chicken, side dishes, and soft drinks for a flat **₩21,900 (~$16 USD) per person**. Zero app needed, zero ID checked! *(For tteokbokki lovers, hit **Dookki (`두끼`)** for ₩11,900 unlimited hot pot — maratang/huoguo included.)*
@@ -128,11 +128,12 @@ Why don't we list **Outback Steakhouse Boomerang (₩10,000 coupon)**, **Starbuc
 
 ---
 
-## 🛡️ Zero Physical ID Check Guarantee
+## 🛡️ Physical ID: Usual Practice & Exceptions
 
-In South Korea, when you scan an app coupon, KakaoTalk barcode, IKEA Family coupon, or Klook QR code at a cashier or self-serve kiosk (`키오스크`), **staff never ask to see a physical passport or ID card** to verify your birthday or identity.
-- **When is your physical passport checked?** Only when **buying alcohol** (age check) or claiming **Immediate Tax Refund (`즉시환급`) on groceries/snacks ≥₩15,000 at hypermarkets** like Lotte Mart or E-Mart.
-- **One nuance:** Korean deal guides report that **IKEA Korea's birthday apple-tart coupon** may require showing ID at the restaurant counter (신분증) to confirm your birthdate. The IKEA member benefits that *don't* need ID — free weekday hot drink, member prices — are unaffected. All other deals in this guide: **your passport stays in your pocket**.
+Most ordinary restaurant, kiosk, barcode, and QR-code redemptions do **not normally** involve a passport check. That is a practical expectation—not a guarantee.
+- **Bring your passport** for alcohol purchases, immediate tax refund (`즉시환급`) claims, boarding-pass/name-match benefits, and airport-lounge entry.
+- **IKEA birthday tart:** Korean deal guides report ID may be requested. The weekday hot drink/member prices are separate benefits, but confirm at the branch.
+- **Any live coupon:** read its current terms and do not argue with a branch that applies a stated ID or eligibility rule.
 
 ---
 
@@ -150,7 +151,7 @@ In South Korea, when you scan an app coupon, KakaoTalk barcode, IKEA Family coup
 
 | Badge | Meaning |
 | --- | --- |
-| ✅ Tourist-friendly | **100% Usable by US Citizens.** Email, KakaoTalk, or foreign card is enough; **no ARC, no Korean phone verification, and no physical ID check required.** |
+| ✅ Tourist-friendly | Screened for standard US visitors without ARC; still follow the current branch/app terms and any ID exception shown on the deal. |
 | 📱 Korean phone needed | **BLOCKED for standard US tourists.** Requires Korean telecom identity verification (`본인인증`). Do not waste time trying to sign up without an ARC. |
 | 🪪 Resident-tier | Realistically requires Korean resident status or domestic bank account (e.g., Coupang Wow, telecom carrier discounts). |
 
