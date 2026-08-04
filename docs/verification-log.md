@@ -270,3 +270,12 @@ Added [Deal Discovery System](deal-discovery-system.md) and its candidate queue.
 | --- | --- | --- | --- |
 | Daejeon | 2026 National-Heritage Program | City says 15 heritage-tour sessions run April–November and participation is **free**. Session timing, language, capacity and reservation still must be checked. | 🟢 [Daejeon city notice](https://www.daejeon.go.kr/its/ItsdjNormalboardView.do?menuSeq=5929&boardSeq=3756&boardGubun=itsdj01&pageIndex=1) |
 | Daejeon | 50% summer tourism tickets | Official city program has a fixed Oct. 31, 2026 use-by date and first-come inventory. It is logged **rejected for November**, not promoted as a trip deal. | 🟢 [Daejeon city notice](https://www.daejeon.go.kr/drh/depart/board/boardNormalView.do?boardId=normal_0189&menuSeq=1632&pageIndex=1&ntatcSeq=1487158746) |
+
+
+### Seventh four-city sweep — 2026-08-04
+
+| City | Deal | Confirmed terms / guardrail | Source |
+| --- | --- | --- | --- |
+| Seoul | 2026 Autumn Festival | Official city program runs Sept. 19–Nov. 29 with 204 events. It is a **live-calendar lead**: individual entries can be free or ticketed, so verify each event. | 🟢 [Seoul Metropolitan Government](https://english.seoul.go.kr/fun-seoul-a-365-day-festival-destination-elevating-seoul-as-a-global-cultural-hub/) |
+| Seoul | Hangang Drone Light Show | Official city overview describes a free event in first and second halves annually. Exact second-half date/location require live confirmation. | 🟢 [Seoul Metropolitan Government](https://english.seoul.go.kr/seoul-policy-archive/hangang-drone-light-show/) |
+| Cheonan | November Culture-Heritage City Tour | Official 2026 calendar includes a November heritage route. Weekend-route terms list the ₩4,000 adult city-tour fare and free safety/walnut-making activities on applicable routes; exact itinerary/capacity can change. | 🟢 [Cheonan City Tourism](http://www.cheonan.go.kr/tour/sub02_01_02_02.do) |
