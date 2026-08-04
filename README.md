@@ -27,7 +27,8 @@ Every entry is sourced, dated, and verified against official releases and terms 
 | 🔎 [`docs/deal-discovery-system.md`](docs/deal-discovery-system.md) | 18-channel, Korean-search, city-first system for finding and safely validating more deals; includes a recheck calendar and quality gates | Ongoing deal hunting without hype |
 | 🧭 [`docs/city-research-hub.md`](docs/city-research-hub.md) | Separate Seoul, Busan, **Cheonan**, and Daejeon research lanes plus a one-command refresh board | Deep research without overload |
 | 🚆 [`docs/rail-pass-math.md`](docs/rail-pass-math.md) | KORAIL PASS decision worksheet + calculator—compare live individual fares before buying a pass | Intercity transport savings |
-| 🧮 [`docs/pass-value-dashboard.md`](docs/pass-value-dashboard.md) | **NEW:** Break-even dashboard for Discover Seoul Pass, Climate Card, Visit Busan Pass, Busan Pay, Cheonan taxi, and KORAIL PASS | Never buying a pass blindly |
+| 🧮 [`docs/pass-value-dashboard.md`](docs/pass-value-dashboard.md) | Break-even dashboard for Discover Seoul Pass, Climate Card, Visit Busan Pass, Busan Pay, Cheonan taxi, and KORAIL PASS | Never buying a pass blindly |
+| 🎫 [`docs/pass-rules.md`](docs/pass-rules.md) | **NEW:** Simple Includes / Excludes / Activation / Best use / Worst use cards for every major pass and payment product | Avoiding pass traps |
 | 🗃️ [`data/deals.csv`](data/deals.csv) | Normalized core deal registry (ID, city, status, source, expiry, access requirements) | One source of truth |
 | 🚦 [`docs/deal-status-board.md`](docs/deal-status-board.md) | **NEW:** Plain-English Active / Live Check / Future / Expired / Rejected board—what to use now and what to ignore | Avoiding stale deals |
 | 🛬 [`docs/arrival-guide.md`](docs/arrival-guide.md) | **NEW:** K-ETA status, ICN arrival steps (WOWPASS/T-money/eSIM, AREX), airport tax-refund kiosks, first meals | Landing day & departure day |
@@ -52,6 +53,7 @@ Every entry is sourced, dated, and verified against official releases and terms 
 
 ## ✨ What's New (City deal audit — 2026-08-03)
 
+- **🎫 Pass rules at a glance:** [Pass & Payment Rules](docs/pass-rules.md) makes coverage, exclusions, activation triggers, and best/worst use cases explicit before you pay.
 - **🚦 Universal deal status:** [Deal Status Board](docs/deal-status-board.md) gives every core deal an honest Active / Live Check / Future / Expired / Rejected state. `scripts/check_registry.py` prevents invalid or undated registry entries.
 - **🧮 Pass-value dashboard:** [Pass & Payment Value Dashboard](docs/pass-value-dashboard.md) + `scripts/pass_value.py` calculates the real break-even point before buying a city/transit pass or payment product.
 - **🚆 Rail-pass math:** [Rail Pass Math](docs/rail-pass-math.md) + `scripts/rail_pass_math.py` stops us buying a KORAIL PASS unless it beats the live fares for the actual KORAIL legs.

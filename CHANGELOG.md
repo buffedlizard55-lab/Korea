@@ -1,5 +1,8 @@
 # Changelog
 
+## 2026-08-04 — v4.0.0 Pass Coverage Rules
+- **NEW `docs/pass-rules.md`:** each major pass/payment product now has explicit Includes, Does Not Include, Activation Trigger, Best Use Case, Worst Use Case, and pre-checkout list. This covers DSP, Climate Card, Visit Busan Pass, Busan Pay, KORAIL PASS, and Cheonan Tourism Taxi.
+
 ## 2026-08-04 — v3.9.0 Universal Deal Statuses
 - **NEW `docs/deal-status-board.md`:** puts every core deal into an unambiguous Active / Live Check / Future / Expired / Rejected state for beginners.
 - **Registry enforcement:** NEW `scripts/check_registry.py` validates IDs, required source/access fields, ISO dates, allowed statuses, and the rule that Active deals retain a live-check safeguard.

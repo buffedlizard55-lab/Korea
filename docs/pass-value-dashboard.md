@@ -2,7 +2,7 @@
 
 Use this **before buying a pass, transit product, or payment card**. A benefit only counts if you would have paid for it anyway, it fits the right city/day, and the live terms still allow you to use it.
 
-> **Last verified: 2026-08-04** · Live product data: [`data/pass-options.csv`](../data/pass-options.csv)
+> **Last verified: 2026-08-04** · Read the plain-English [Pass & Payment Rules](pass-rules.md) first · Live product data: [`data/pass-options.csv`](../data/pass-options.csv)
 
 ## Five rules that prevent tourist overspending
 
