@@ -1,0 +1,4 @@
+date_found,city,category,candidate_deal,regular_price_krw,claimed_saving,source_url,source_type,tourist_access,expiry_or_recheck_date,branch_or_location,status,notes
+2026-08-03,Seoul,restaurant,Dookki standing menu,11900,unlimited buffet,https://www.dookki.co.kr/menu/dookki,official,confirm branch hours,2026-10-17,check official locator,verified,Example verified standing deal; do not treat this as a coupon
+2026-08-03,Busan,city pass,Visit Busan Pass food partners,,,https://play.google.com/store/apps/details?id=com.busan.visitbusanpass&hl=en_US,official app listing,confirm live partner list,2026-10-17,Sulbing Gwangbok / Mipochip / P.ARK,live-check,Partner list and conditions can change
+YYYY-MM-DD,Seoul|Busan|Third city|Nationwide,food|transport|shopping|attraction|payment,add candidate here,,,,official|secondary|community,unknown|tourist|blocked,YYYY-MM-DD,exact branch or online,lead|verified|rejected,Record the condition that proves or rejects it

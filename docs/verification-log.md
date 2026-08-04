@@ -189,3 +189,10 @@ All 60+ links in this repo were re-checked on **2026-08-03**. Statuses:
 | Korea Sale Festa 2026 | Official 2026 event/partner list is not yet published | Not a current deal. Check the official site from late September; city checklist labels it unannounced. | 🟢 official domain / 🟡 past government coverage |
 
 The actionable result is [City Deal Checklist](city-deal-checklist.md): Seoul, Busan and the still-unnamed third city are separated, and each possible redemption has Plan / Confirmed / Used boxes.
+
+
+---
+
+## Deal-discovery process — 2026-08-03
+
+Added [Deal Discovery System](deal-discovery-system.md) and its candidate queue. This is a research-control update, not a claim that new leads are already verified. It requires an official source (or two recent independent sources), tourist-access screening, city/branch confirmation, expiry/terms capture, and a live redemption check before any candidate is promoted into the guide.

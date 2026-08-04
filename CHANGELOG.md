@@ -1,6 +1,7 @@
 # Changelog
 
 ## 2026-08-03 — v3.3.0 City Deal Checklist & Current-Offer Guardrails
+- **NEW `docs/deal-discovery-system.md` + `data/deal-discovery-queue.csv`:** an 18-channel search coverage map, Korean search vocabulary, repeatable verification/tourist-access gates, recheck calendar, and a structured candidate log. It explicitly rejects the impossible claim that any static guide contains every future deal.
 - **NEW `docs/city-deal-checklist.md`:** a markable, city-first checklist for Seoul and Busan, plus a safe fill-in workflow for the still-unnamed third city. Every row has Plan / Confirmed / Used boxes and distinguishes city-specific passes from nationwide systems.
 - **Location audit:** added current official Dookki and Mom’s Touch store-finder sources and IKEA routing; confirmed that the guide should route users to a live branch finder rather than promise a specific branch or its hours months in advance.
 - **Current-offer guardrails:** rotating KakaoTalk, travel-platform, delivery, WOWPASS, department-store and festival offers are now labeled live-only. The guide no longer treats a general channel, past promo, or future event as a guaranteed coupon; users must confirm barcode expiry, branch eligibility, price and terms on the day.
