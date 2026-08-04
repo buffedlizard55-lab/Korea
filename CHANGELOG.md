@@ -1,5 +1,10 @@
 # Changelog
 
+## 2026-08-04 — v3.9.0 Universal Deal Statuses
+- **NEW `docs/deal-status-board.md`:** puts every core deal into an unambiguous Active / Live Check / Future / Expired / Rejected state for beginners.
+- **Registry enforcement:** NEW `scripts/check_registry.py` validates IDs, required source/access fields, ISO dates, allowed statuses, and the rule that Active deals retain a live-check safeguard.
+- **Status migration:** seeded future Korea Sale Festa, expired Daejeon summer tickets, and rejected Twosome claim into the normalized registry rather than leaving stale claims in ordinary deal lists.
+
 ## 2026-08-04 — v3.8.0 Pass-Value Dashboard
 - **NEW `docs/pass-value-dashboard.md`:** one decision surface for Discover Seoul Pass, Climate Card, Visit Busan Pass, Busan Pay, Cheonan Tourism Taxi and KORAIL PASS. It captures activation windows, exclusions, break-even rules, and a final group decision record.
 - **NEW `data/pass-options.csv` + `scripts/pass_value.py`:** structured pass reference data and a generic calculator for live pass prices versus only the costs actually planned.
