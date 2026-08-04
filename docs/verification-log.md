@@ -279,3 +279,10 @@ Added [Deal Discovery System](deal-discovery-system.md) and its candidate queue.
 | Seoul | 2026 Autumn Festival | Official city program runs Sept. 19–Nov. 29 with 204 events. It is a **live-calendar lead**: individual entries can be free or ticketed, so verify each event. | 🟢 [Seoul Metropolitan Government](https://english.seoul.go.kr/fun-seoul-a-365-day-festival-destination-elevating-seoul-as-a-global-cultural-hub/) |
 | Seoul | Hangang Drone Light Show | Official city overview describes a free event in first and second halves annually. Exact second-half date/location require live confirmation. | 🟢 [Seoul Metropolitan Government](https://english.seoul.go.kr/seoul-policy-archive/hangang-drone-light-show/) |
 | Cheonan | November Culture-Heritage City Tour | Official 2026 calendar includes a November heritage route. Weekend-route terms list the ₩4,000 adult city-tour fare and free safety/walnut-making activities on applicable routes; exact itinerary/capacity can change. | 🟢 [Cheonan City Tourism](http://www.cheonan.go.kr/tour/sub02_01_02_02.do) |
+
+
+### Eighth four-city sweep — 2026-08-04
+
+| City | Deal | Confirmed terms / guardrail | Source |
+| --- | --- | --- | --- |
+| Daejeon | Citizen Marathon Class | City notice says free sessions run March–November at several venues, with no advance application—attend at the stated time/place. It is an early-morning local activity, not a general sightseeing substitute. | 🟢 [Daejeon city notice](https://www.daejeon.go.kr/its/ItsdjNormalboardView.do?menuSeq=&boardSeq=3722&boardGubun=itsdj01&searchCondition=BAL_MAIN) |
