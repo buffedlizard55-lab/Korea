@@ -1,6 +1,6 @@
 # 🧭 Four-City Deal Research Hub — Seoul, Busan, Cheonan & Daejeon
 
-This splits the long deal hunt into four separate lanes so a search for one city does not drown out the others. Check the [Deal Status Board](deal-status-board.md) before treating any lead as usable.
+This is the **research reference**, not the first page to plan from. Start with the [City Planning Board](city-planning-board.md), then use this hub only for the city you selected. Check the [Deal Status Board](deal-status-board.md) before treating any lead as usable.
 
 > **Last verified: 2026-08-04** · **Assumption:** “chaenon” means **Cheonan (`천안`)**. If you meant Chuncheon (`춘천`) or another city, say so before using the Cheonan results.
 

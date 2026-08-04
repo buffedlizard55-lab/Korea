@@ -1,5 +1,9 @@
 # Changelog
 
+## 2026-08-04 — v4.1.0 City-First Planning Board
+- **NEW `docs/city-planning-board.md`:** makes city planning the beginner default. Every Seoul, Busan, Cheonan, and Daejeon day follows Anchor → Transport → Food → One Live Benefit → Backup, with an end-of-day record.
+- **Navigation update:** README’s on-trip workflow now routes users to the City Planning Board before detailed category guides; the City Research Hub is explicitly positioned as deeper reference material.
+
 ## 2026-08-04 — v4.0.0 Pass Coverage Rules
 - **NEW `docs/pass-rules.md`:** each major pass/payment product now has explicit Includes, Does Not Include, Activation Trigger, Best Use Case, Worst Use Case, and pre-checkout list. This covers DSP, Climate Card, Visit Busan Pass, Busan Pay, KORAIL PASS, and Cheonan Tourism Taxi.
 

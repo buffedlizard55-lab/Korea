@@ -12,7 +12,7 @@ Every entry is sourced, dated, and verified against official releases and terms 
 
 1. **5 minutes now →** read [**Start Here**](docs/start-here.md) (the beginner's guide: 3 deal types, 2 rules, what to install), then the [**One-Page Cheat Sheet**](docs/cheat-sheet.md) and do the "Before You Fly" list.
 2. **Before you fly →** work through the [**Master Checklist**](docs/checklist.md) (dates + checkboxes + birthday schedule) and skim the [**Arrival Guide**](docs/arrival-guide.md) (K-ETA, ICN money/transport, tax-refund kiosks).
-3. **On the trip →** open the [**Day-by-Day Calendar**](docs/trip-calendar.md) each morning, the [**Neighborhood Guide**](docs/neighborhood-guide.md) when hungry, and the [**Phrasebook**](docs/phrasebook.md) when ordering.
+3. **Plan each city →** start with the [**City Planning Board**](docs/city-planning-board.md): choose an anchor, do transport/pass math, pick one local meal, check one live benefit, and save a backup. Then open the [**Day-by-Day Calendar**](docs/trip-calendar.md), [**Neighborhood Guide**](docs/neighborhood-guide.md), or [**Phrasebook**](docs/phrasebook.md) only as needed.
 4. **Confused? →** check the [**FAQ**](docs/faq.md), the [**Money Guide**](docs/money-guide.md), or the master [**Action Plan**](docs/us-tourist-action-plan.md).
 
 ---
@@ -25,6 +25,7 @@ Every entry is sourced, dated, and verified against official releases and terms 
 | ✅ [`docs/checklist.md`](docs/checklist.md) | Master to-do checklist (pre-trip deadlines + in-trip daily routine) with a fill-in **birthday schedule** table | Actually getting ready |
 | 📍 [`docs/city-deal-checklist.md`](docs/city-deal-checklist.md) | Markable Seoul + Busan deal/coupon checklist, location reality, live-confirmation steps, and a filled-in **Cheonan** third-city plan | Planning by city |
 | 🔎 [`docs/deal-discovery-system.md`](docs/deal-discovery-system.md) | 18-channel, Korean-search, city-first system for finding and safely validating more deals; includes a recheck calendar and quality gates | Ongoing deal hunting without hype |
+| 🗺️ [`docs/city-planning-board.md`](docs/city-planning-board.md) | **NEW:** Default five-step day planner for Seoul, Busan, Cheonan, and Daejeon—anchor, transport, food, one live deal, backup | Planning without overload |
 | 🧭 [`docs/city-research-hub.md`](docs/city-research-hub.md) | Separate Seoul, Busan, **Cheonan**, and Daejeon research lanes plus a one-command refresh board | Deep research without overload |
 | 🚆 [`docs/rail-pass-math.md`](docs/rail-pass-math.md) | KORAIL PASS decision worksheet + calculator—compare live individual fares before buying a pass | Intercity transport savings |
 | 🧮 [`docs/pass-value-dashboard.md`](docs/pass-value-dashboard.md) | Break-even dashboard for Discover Seoul Pass, Climate Card, Visit Busan Pass, Busan Pay, Cheonan taxi, and KORAIL PASS | Never buying a pass blindly |
@@ -53,6 +54,7 @@ Every entry is sourced, dated, and verified against official releases and terms 
 
 ## ✨ What's New (City deal audit — 2026-08-03)
 
+- **🗺️ City-first default workflow:** [City Planning Board](docs/city-planning-board.md) replaces deal-hunting overload with a five-step daily plan: anchor, transport, food, one live benefit, and a backup.
 - **🎫 Pass rules at a glance:** [Pass & Payment Rules](docs/pass-rules.md) makes coverage, exclusions, activation triggers, and best/worst use cases explicit before you pay.
 - **🚦 Universal deal status:** [Deal Status Board](docs/deal-status-board.md) gives every core deal an honest Active / Live Check / Future / Expired / Rejected state. `scripts/check_registry.py` prevents invalid or undated registry entries.
 - **🧮 Pass-value dashboard:** [Pass & Payment Value Dashboard](docs/pass-value-dashboard.md) + `scripts/pass_value.py` calculates the real break-even point before buying a city/transit pass or payment product.
