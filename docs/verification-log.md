@@ -262,3 +262,11 @@ Added [Deal Discovery System](deal-discovery-system.md) and its candidate queue.
 | Busan | National Maritime Museum | Free general admission; 4D theater and paid special exhibitions excluded. | 🟢 [Visit Busan](https://www.visitbusan.net/en/index.do?menuCd=DOM_000000301001001000&uc_seq=257&lang_cd=en) |
 | Busan | Bokcheon Museum | Free; Monday/New Year closure. | 🟢 [VISITKOREA](http://english.visitkorea.or.kr/enu/ATR/SI_EN_3_1_1_1.jsp?cid=1635387) |
 | Busan | Marine Natural History Museum | Free; Monday/New Year closure, with Tuesday closure when Monday is a public holiday. | 🟢 [VISITKOREA](http://english.visitkorea.or.kr/enu/SI/SI_EN_3_1_1_1.jsp?cid=1251680) |
+
+
+### Sixth four-city sweep — 2026-08-04
+
+| City | Deal | Confirmed terms / guardrail | Source |
+| --- | --- | --- | --- |
+| Daejeon | 2026 National-Heritage Program | City says 15 heritage-tour sessions run April–November and participation is **free**. Session timing, language, capacity and reservation still must be checked. | 🟢 [Daejeon city notice](https://www.daejeon.go.kr/its/ItsdjNormalboardView.do?menuSeq=5929&boardSeq=3756&boardGubun=itsdj01&pageIndex=1) |
+| Daejeon | 50% summer tourism tickets | Official city program has a fixed Oct. 31, 2026 use-by date and first-come inventory. It is logged **rejected for November**, not promoted as a trip deal. | 🟢 [Daejeon city notice](https://www.daejeon.go.kr/drh/depart/board/boardNormalView.do?boardId=normal_0189&menuSeq=1632&pageIndex=1&ntatcSeq=1487158746) |
