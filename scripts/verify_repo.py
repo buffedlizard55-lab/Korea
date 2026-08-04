@@ -18,6 +18,7 @@ CHECKS = [
     ("Deal registry", [sys.executable, "scripts/check_registry.py"]),
     ("Discovery queue", [sys.executable, "scripts/check_discovery_queue.py"]),
     ("Staleness", [sys.executable, "scripts/check_staleness.py"]),
+    ("Claim coverage", [sys.executable, "scripts/check_claim_coverage.py"]),
     ("Source confidence", [sys.executable, "scripts/check_source_confidence.py"]),
 ]
 

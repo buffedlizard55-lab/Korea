@@ -2,7 +2,7 @@
 
 This page is the bridge while the guide completes its migration from scattered prose to one structured source of truth.
 
-> **Last verified: 2026-08-04** · Canonical fields (status, source, recheck date, ID requirement, live-check flag, backup): [`data/deals.csv`](../data/deals.csv)
+> **Last verified: 2026-08-04** · Coverage mapping: [`data/claim-mapping.csv`](../data/claim-mapping.csv) · Canonical fields (status, source, recheck date, ID requirement, live-check flag, backup): [`data/deals.csv`](../data/deals.csv)
 
 ## How to use it
 
@@ -43,4 +43,15 @@ This page is the bridge while the guide completes its migration from scattered p
 
 ## Maintenance rule
 
-When adding a core deal, create its registry record first. Then add its ID to the relevant explanatory page and this index. This keeps prices/statuses/source confidence from drifting across the repo.
+When adding a core deal, create its registry record first. Then add its ID to the relevant explanatory page and this index, plus `data/claim-mapping.csv`. Run `python3 scripts/check_claim_coverage.py`; it fails if a core record is orphaned, an ID is invalid, or a mapped page no longer visibly names the ID. This keeps prices/statuses/source confidence from drifting across the repo.
+
+## Status-only / watch records
+
+These records are intentionally kept in the registry so future/expired/rejected claims cannot drift back into ordinary recommendations.
+
+| Registry ID | Current status | Where to read the rule |
+| --- | --- | --- |
+| `SEOUL-TOUR-TIGERBUS` | Active / live partner check | [City Research Hub](city-research-hub.md) |
+| `SEOUL-SALEFESTA` | Future | [Deal Status Board](deal-status-board.md) |
+| `DAEJEON-SUMMER50` | Expired for November trip dates | [Deal Status Board](deal-status-board.md) |
+| `NATIONWIDE-TWOSOME` | Rejected | [Deal Status Board](deal-status-board.md) |

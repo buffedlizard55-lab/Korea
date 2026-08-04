@@ -1,5 +1,9 @@
 # Changelog
 
+## 2026-08-04 — v4.9.0 Registry-to-Document Coverage
+- **NEW `data/claim-mapping.csv` + `scripts/check_claim_coverage.py`:** every core registry ID now has a visible beginner-facing index mapping; the checker fails orphaned records, unknown IDs, missing docs, and mappings where the ID is not named.
+- **Verification integration:** the all-in-one suite and contributor rules now enforce claim coverage.
+
 ## 2026-08-04 — v4.8.0 Staleness Guardrail
 - **NEW `scripts/check_staleness.py`:** checks core registry and discovery queue recheck deadlines; overdue Active/Live Check/Future/Candidate records fail verification while records due within 14 days warn.
 - **Verification integration:** the one-command suite, status board, runbook, and contributor rules now include the staleness check.
