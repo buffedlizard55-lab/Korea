@@ -67,6 +67,7 @@ The script does **not** claim a coupon is live. It tells a researcher exactly wh
 | --- | --- | --- |
 | **2026 Cheonan Tourism Taxi** | Cheonan’s official tourism home currently advertises **50% off** | Open the live promotion/booking details for validity dates, route, foreign-visitor eligibility and reservation instructions. [Official tourism home](https://www.cheonan.go.kr/tour.do) |
 | **Cheonan City Tour** | City-operated, explicitly for domestic and international visitors; adult fare **₩4,000**, youth/military ₩3,000, child/senior ₩2,000; 20+ group gets 50% off | Check the exact November route/date first. Attraction admission, meals and experiences are separate costs. [Official terms](https://cheonan.go.kr/tour/sub02_01_01.do) |
+| **Independence Hall of Korea** | Major Cheonan history stop with no general admission charge | ✅ The official institution records free admission; budget only for transport and, if driving, parking (small car ₩2,000/day). [Official visitor information](https://i815.or.kr/2018/tour/info.do) |
 | **Local-value search** | City tour stops and station/terminal areas can be paired with low-cost meals | Naver Map: `천안 가성비 맛집`, `천안 점심특선`, `천안 빵집`; verify current menu/operating hours. |
 
 ### Cheonan search order
@@ -84,6 +85,7 @@ The script does **not** claim a coupon is live. It tells a researcher exactly wh
 | --- | --- | --- |
 | **2026 Daejeon City Tour** | City source says it operates through **Nov. 29, 2026** and includes a bread-focused (`빵시투어`) route; booking is required | Check the November timetable, fare, seats and included/excluded costs. This can reduce repeated taxi rides between bakeries/attractions. [City notice](https://daejeon.go.kr/its/ItsdjNormalboardView.do?menuSeq=5931&boardSeq=3747&boardGubun=itsdj01&pageIndex=1) |
 | **Daejeon government tourism releases** | The city has run limited, first-come ticket discounts (including 50% attraction/experience offers) | Treat those as a monitored seasonal source—not a current November promise. Check the official city tourism-news lane weekly. |
+| **National Science Museum** | Big free base attraction near Expo/Yuseong; useful before paying for any add-on | ✅ Permanent halls, botanical garden, outdoor exhibits and children’s museum are free; planetarium/other listed exhibits are paid and Culture Day (last Wednesday) gives 50% off paid admissions. Free English docent tour is available with one-day-ahead phone reservation, subject to availability. [Official visitor terms](https://science.go.kr/board?menuId=MENU00633&siteId=) |
 | **Local-value search** | Daejeon’s bakery routes and university/office areas reward route planning | Naver Map: `대전 빵시투어`, `대전 점심특선`, `대전 가성비 맛집`; compare walk-in menu price with packaged experiences. |
 
 ### Daejeon search order

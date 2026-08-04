@@ -232,3 +232,13 @@ Added [Deal Discovery System](deal-discovery-system.md) and its candidate queue.
 | Busan | Busan Pay | City’s Jan. 2026 guide says participating businesses offer 5–7% cashback; some QR payments add 3%; affiliated shops may pre-discount 3–10%; VBP purchases via Busan Pay get 5% cashback. No cashback at malls/duty-free. | 🟢 [Busan Metropolitan City](https://www.busan.go.kr/bige/daily-busan/view?dataNo=69959&curPage=2&bbsNo=10&srchCl=Daily+Busan) |
 | Cheonan | Tourism Taxi | Official 2026 50% offer remains displayed, but detailed promotion terms were not surfaced in the public search result. Keep as a live-check offer, not a budgeted guarantee until booking terms are opened. | 🟢 official tourism home / 🔄 live terms required |
 | Daejeon | City Tour | City’s current 2026 notice confirms operation through Nov. 29 and a flexible bread route. Exact November fare/timetable requires the booking page; historical fare pages were not used as 2026 proof. | 🟢 official city notice / 🔄 live booking required |
+
+
+### Third four-city sweep — 2026-08-04
+
+| City | Deal | Confirmed terms / guardrail | Source |
+| --- | --- | --- | --- |
+| Cheonan | Independence Hall of Korea | The institution’s official history records free admission; official visitor page lists small-car parking at ₩2,000/day. Budget transport/parking, not an entry ticket. | 🟢 [Independence Hall visitor information](https://i815.or.kr/2018/tour/info.do) |
+| Daejeon | National Science Museum | Permanent Science & Technology, Natural History, Human Evolution, Future Tech, Botanical Garden, outdoor and children’s exhibitions are free. Paid listed exhibits get 50% off on the last Wednesday (Culture Day); separate reservation may apply. | 🟢 [National Science Museum visitor information](https://science.go.kr/board?menuId=MENU00633&siteId=) |
+| Daejeon | English museum docent | Official museum page offers a free English guided program for foreign visitors, with phone reservation one day ahead, group limit 20, and availability caveat. | 🟢 [Official English docent terms](https://www.science.go.kr/board?menuId=MENU00634&siteId=null) |
+| Busan | Busan Pay clarification | Official Jan. 2026 city guide additionally confirms free prepaid cards at Gimhae Airport, Busan Station and selected tourist centers; foreign cards/WeChat/Alipay can top up. Current participating merchants and caps remain app-checked. | 🟢 [Busan Metropolitan City](https://www.busan.go.kr/bige/daily-busan/view?dataNo=69959&curPage=2&bbsNo=10&srchCl=Daily+Busan) |
