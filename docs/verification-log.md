@@ -118,7 +118,8 @@ Every claim in this repository traces to an explicit primary or corroborated sec
 
 ## ⚙️ Automation & Maintenance
 
-- **Link checker (local):** `python3 scripts/check_links.py` — checks every external URL; bot-blocked hosts (Reddit, TikTok, NamuWiki…) are reported as warnings.
+- **One-command local suite:** `python3 scripts/verify_repo.py` — runs docs, registry and source-confidence checks without external network dependence.
+- **Link checker (networked environments):** `python3 scripts/verify_repo.py --links` — checks external URLs; bot-blocked hosts (Reddit, TikTok, NamuWiki…) are reported as warnings. In this sandbox, outbound TLS failures are an environment limitation; do not treat them as dead links.
 - **Docs checker (local):** `python3 scripts/check_docs.py` — tables, internal links, date stamps.
 - **Weekly workflow (pending activation):** `.github/workflows/link-check.yml` is written and ready but **could not be pushed** because this repo's GitHub app lacks the `workflows` permission. To activate: Settings → Applications → grant `workflows`, then push/merge the file. It will then run every Monday and open/update a "🔗 Link check failed" issue.
 - **After fixing links,** add a row to the Link Audit table below with the date and what changed.

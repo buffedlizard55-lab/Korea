@@ -1,5 +1,9 @@
 # Changelog
 
+## 2026-08-04 — v4.3.0 Verification Runbook & Reliable Fallback
+- **NEW `scripts/verify_repo.py`:** one command runs documentation, deal-registry, and source-confidence checks; optional `--links` is reserved for environments with outbound HTTPS.
+- **NEW `docs/automation-runbook.md`:** documents the correct interpretation of bot blocks/TLS failures, a human browser-verification fallback, and exact steps to activate the pending weekly GitHub Actions workflow once permission is granted.
+
 ## 2026-08-04 — v4.2.0 Source-Confidence Linter
 - **NEW source policy + linter:** `data/source-policy.csv` and `scripts/check_source_confidence.py` distinguish official/operator/secondary/aggregator domains and fail unsafe official labels in the core deal registry.
 - **NEW `docs/source-confidence.md`:** documents the tiers, automated checks, and remaining human review process. Reclassified the Daejeon City Tour booking URL as operator rather than official.
