@@ -11,7 +11,10 @@ ROOT = Path(__file__).resolve().parents[1]
 PATH = ROOT / "data" / "deals.csv"
 ALLOWED_STATUSES = {"candidate", "active", "live-check", "future", "expired", "rejected"}
 ALLOWED_TYPES = {"walk-in-value", "standing-benefit", "live-coupon", "city-pass", "transit-pass", "payment-layer", "free-attraction", "future-event", "expired-event", "rejected-claim"}
-REQUIRED = {"deal_id", "city", "category", "deal_type", "title", "status", "expiry_or_recheck", "access", "source_tier", "source_url", "live_check", "local_backup"}
+ALLOWED_EFFORT = {"low", "medium", "high"}
+ALLOWED_DETOUR = {"none", "low", "medium", "high"}
+ALLOWED_COUPLE_VALUE = {"strong", "conditional", "live-check"}
+REQUIRED = {"deal_id", "city", "category", "deal_type", "title", "status", "expiry_or_recheck", "access", "source_tier", "source_url", "live_check", "local_backup", "effort", "detour_risk", "couple_value"}
 
 
 def main() -> int:
@@ -29,6 +32,12 @@ def main() -> int:
         ids.add(deal_id)
         if row.get("deal_type") not in ALLOWED_TYPES:
             issues.append(f"line {number}: invalid deal_type '{row.get('deal_type')}'")
+        if row.get("effort") not in ALLOWED_EFFORT:
+            issues.append(f"line {number}: invalid effort '{row.get('effort')}'")
+        if row.get("detour_risk") not in ALLOWED_DETOUR:
+            issues.append(f"line {number}: invalid detour_risk '{row.get('detour_risk')}'")
+        if row.get("couple_value") not in ALLOWED_COUPLE_VALUE:
+            issues.append(f"line {number}: invalid couple_value '{row.get('couple_value')}'")
         if row.get("status") not in ALLOWED_STATUSES:
             issues.append(f"line {number}: invalid status '{row.get('status')}'")
         try:

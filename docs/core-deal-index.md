@@ -81,3 +81,14 @@ These records are intentionally kept in the registry so future/expired/rejected 
 | `INCHEON-LOUNGE` | Priority Pass airport lounge access | Live Check | [Arrival Guide](arrival-guide.md) |
 | `SEOUL-ASIANA-BOARDING` | Asiana Magic Boarding Pass partners | Live Check | [Tourist Promotions](tourist-promotions.md) |
 | `SEOUL-ARISU` | Arisu refill/water savings | Live Check | [Money Guide](money-guide.md) |
+
+## Final narrative-migration & value-score records
+
+| Registry ID | Deal | Status | Read with |
+| --- | --- | --- | --- |
+| `SEOUL-DEPT-CLEARANCE` | Department-store evening clearance | Live Check | [Everyday Savings](everyday-savings.md) |
+| `SEOUL-STUDENT-FOOD` | University-district local meals | Live Check | [Everyday Savings](everyday-savings.md) |
+| `SEOUL-MANGWON` | Mangwon Market value food | Live Check | [Everyday Savings](everyday-savings.md) |
+| `BUSAN-LOCAL-FOOD` | Busan local meal categories | Live Check | [Busan Guide](busan-guide.md) |
+| `INCHEON-AIRPORT-MEAL` | Airport meal voucher/platform listing | Live Check | [Arrival Guide](arrival-guide.md) |
+| `NATIONWIDE-PEPERO` | Pepero Day convenience offers | Future | [Trip Calendar](trip-calendar.md) |

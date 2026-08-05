@@ -37,6 +37,10 @@ The shell’s external TLS requests currently terminate before sites respond. A 
 - record the terms, access date, and exact caveat in `docs/verification-log.md`;
 - classify uncertain or app-only offers as **Live Check** rather than official guaranteed savings.
 
+## Couple budget and branch lock
+
+After hotels are booked, fill the [Hotel Neighborhood Template](hotel-neighborhood-template.md) and save exact options in `data/branch-options.csv`. During the trip, use the [Couple Budget Dashboard](couple-budget.md) instead of rough per-person estimates.
+
 ## D-14 trip lock
 
 Fourteen days before the trip, run:
