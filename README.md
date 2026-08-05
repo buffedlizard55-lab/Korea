@@ -3,8 +3,24 @@
 A living, fact-checked guide to eating cheaper (and free-er) on our upcoming South Korea trip.
 Every entry is sourced, dated, and verified against official releases and terms of service.
 
-> **🎯 Trip Profile: Oct 31 – Nov 22, 2026 | Two US Citizens | No ARC / Korean Resident | Physical-ID exceptions clearly flagged**
+> **🎯 Trip Profile: Oct 31 – Nov 22, 2026 | Two US Citizens | Cities: Incheon → Seoul → Busan → flexible Cheonan/Daejeon leg | No ARC / Korean Resident | Physical-ID exceptions clearly flagged**
 > **Last full verification sweep: 2026-08-03**
+
+---
+
+## 📍 Four-City Deal Summary — Start Here
+
+The guide is organized around the actual route: **Incheon arrival → Seoul → Busan → choose Cheonan or Daejeon for the flexible third-city leg**. Open the matching city board instead of hunting through every deal page.
+
+| City | Best reliable value anchors | Live deal to check | Start with |
+| --- | --- | --- | --- |
+| **Incheon** | Airport tax-refund process; airport-app facility coupons; arrival transport | ICN Membership coupons and any airport meal listing | [Arrival Guide](docs/arrival-guide.md) |
+| **Seoul** | Climate Card math, free guided walk, museums/parks, Tongin Market | Discover Seoul Pass / Kakao coupon / current festival partner | [Seoul board](docs/city-planning-board.md#seoul-day-board) |
+| **Busan** | Free museum cluster, coastal trails, local gukbap/milmyeon | Visit Busan Pass and Busan Pay merchant list | [Busan board](docs/city-planning-board.md#busan-day-board) |
+| **Cheonan** *(flex)* | Independence Hall, low-cost City Tour, Tourism Taxi split between two | Tourism Taxi availability/subsidy and November route | [Cheonan board](docs/city-planning-board.md#cheonan-day-board) |
+| **Daejeon** *(flex)* | National Science Museum, free heritage program, DMA/Currency Museum | City Tour/heritage-session seat and date | [Daejeon board](docs/city-planning-board.md#daejeon-day-board) |
+
+> **Flexible-city rule:** choose Cheonan when the Tourism Taxi/City Tour creates a good two-person route around Independence Hall and Byeongcheon; choose Daejeon when a free heritage session, City Tour, or science/museum day matches the date. Compare both live options before booking the intercity leg.
 
 ---
 

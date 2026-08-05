@@ -14,7 +14,7 @@ Everything you need to *do* (not just read), consolidated into one checkable lis
   - **Turn marketing + email consent ON** in account settings — no consent = no birthday coupon (official FAQ).
   - ✅ Confirmed sent: coupon goes out **exactly 7 days before** each birthday; check **spam/promotions folders** too.
 - [ ] **KakaoTalk** installed on your US phone, US number verified.
-- [ ] Open the [**City Deal Checklist**](city-deal-checklist.md): confirm **Cheonan** as the third city (or replace it), save your hotel neighborhoods, and mark the Seoul/Busan deal rows you actually want to use.
+- [ ] Open the [**City Deal Checklist**](city-deal-checklist.md): compare **Cheonan and Daejeon** for the flexible third-city leg, then save the chosen hotel neighborhood, and mark the Seoul/Busan deal rows you actually want to use.
 - [ ] For every rotating coupon, keep the **barcode + expiry + participating branch** together; do not treat a general channel membership as a guaranteed coupon.
 - [ ] Add brand channels (search in KakaoTalk): `@버거킹` · `@KFC코리아` · `@롯데리아` · `@배스킨라빈스` · `@던킨` · `@파리바게뜨` · `@뚜레쥬르` · `@네네치킨` · `@BBQ치킨` · `@맘스터치`
 - [ ] Bookmark **Klook / KKday / Creatrip** dining vouchers (BBQ, buffets, cakes) — buy in USD.

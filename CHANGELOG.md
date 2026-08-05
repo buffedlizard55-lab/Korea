@@ -1,5 +1,9 @@
 # Changelog
 
+## 2026-08-04 — v5.1.0 Four-City Route Summary
+- **Route-first summary:** README now opens with Incheon, Seoul, Busan, and flexible Cheonan/Daejeon value anchors, live checks, and direct city-board links.
+- **Flexible third-city correction:** checklists/planning pages no longer treat Cheonan as fixed; they require a live comparison of Cheonan Tourism Taxi/City Tour against Daejeon City Tour/heritage availability before booking.
+
 ## 2026-08-04 — v5.0.0 Deal-Type Clarity
 - **NEW `docs/deal-types.md`:** beginner-facing taxonomy distinguishes normal walk-in value, standing benefits, live coupons, city/transit passes, payment layers, free attractions, future/expired events, and rejected claims.
 - **Registry type enforcement:** every core deal has a controlled `deal_type`; the registry checker validates it and the registry CLI displays it.

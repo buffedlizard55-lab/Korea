@@ -1,6 +1,6 @@
 # 🗺️ City Planning Board — Build One Cheap, Low-Stress Day at a Time
 
-This is the **default planning surface** for the trip. Pick the city you will be in tomorrow, fill one row in each block, and stop. Do not open every deal page before you know your area, transport, and anchor activity.
+This is the **default planning surface** for the route: Incheon arrival, Seoul, Busan, and a flexible Cheonan/Daejeon third-city leg. Pick the city you will be in tomorrow, fill one row in each block, and stop. Do not open every deal page before you know your area, transport, and anchor activity.
 
 > **Last verified: 2026-08-04** · Deal-type guide: [Deal Types](deal-types.md) · Status guide: [Deal Status Board](deal-status-board.md) · Research detail: [City Research Hub](city-research-hub.md)
 
