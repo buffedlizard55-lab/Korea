@@ -40,6 +40,7 @@ FLAKY_HOSTS = {
     "www.motoworldexplorer.com", "smalltownofsuajjang.com",
     "www.smalltownofsuajjang.com", "travelandleisureasia.com",
     "www.travelandleisureasia.com", "travelmint.com", "www.travelmint.com",
+    "asiae.co.kr", "www.asiae.co.kr",
 }
 
 
@@ -59,6 +60,8 @@ def check(url: str, timeout: int) -> tuple[str, str, str]:
     """Return (url, status, detail)."""
     host = urllib.parse.urlsplit(url).netloc.lower()
     host = host[4:] if host.startswith("www.") else host
+    # The probe host is normalized without www; normalize the allowlist too.
+    flaky_hosts = {h[4:] if h.startswith("www.") else h for h in FLAKY_HOSTS}
     req = urllib.request.Request(
         url,
         headers={
@@ -70,16 +73,16 @@ def check(url: str, timeout: int) -> tuple[str, str, str]:
         with urllib.request.urlopen(req, timeout=timeout) as resp:
             return url, "OK", str(resp.status)
     except urllib.error.HTTPError as e:
-        if host in FLAKY_HOSTS:
+        if host in flaky_hosts:
             return url, "WARN", f"HTTP {e.code} (manual/browser verification host)"
         return url, "FAIL", f"HTTP {e.code}"
     except urllib.error.URLError as e:
         reason = getattr(e, "reason", e)
-        if host in FLAKY_HOSTS:
+        if host in flaky_hosts:
             return url, "WARN", f"network error (manual/browser verification host): {reason}"
         return url, "FAIL", f"network error: {reason}"
     except Exception as e:  # noqa: BLE001
-        if host in FLAKY_HOSTS:
+        if host in flaky_hosts:
             return url, "WARN", f"error (manual/browser verification host): {e}"
         return url, "FAIL", f"error: {e}"
 
