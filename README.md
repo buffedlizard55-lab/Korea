@@ -58,7 +58,13 @@ The guide is organized around the actual route: **Incheon arrival → Seoul → 
 | 🤖 [`docs/github-actions-setup.md`](docs/github-actions-setup.md) | Exact GitHub website/App-permission steps to activate weekly verification | Enabling Actions |
 | ⚖️ [`docs/effort-value-score.md`](docs/effort-value-score.md) | **NEW:** Couple-focused effort, detour, and value scoring—when to skip a marginal deal | Better real-world savings |
 | 📌 [`docs/branch-level-planner.md`](docs/branch-level-planner.md) | Exact branch-level plan and saved Naver Map options after hotels are booked | Neighborhood-level deals |
-| 🛒 [`docs/grocery-souvenir-plan.md`](docs/grocery-souvenir-plan.md) | **NEW:** City-aware one-stop grocery/gift plan, tax-refund reality check, and couple packing list | Avoiding tourist-zone shopping waste |
+| 🛒 [`docs/grocery-souvenir-plan.md`](docs/grocery-souvenir-plan.md) | City-aware one-stop grocery/gift plan, tax-refund reality check, and couple packing list | Avoiding tourist-zone shopping waste |
+| 🏨 [`docs/hotel-shortlist-scorecard.md`](docs/hotel-shortlist-scorecard.md) | **NEW:** Compare hotel/neighborhood candidates before booking using couple price, food, transit, and detour factors | Choosing hotels intelligently |
+| 🔀 [`docs/flexible-city-decision.md`](docs/flexible-city-decision.md) | **NEW:** Live-data decision engine for Cheonan versus Daejeon | Choosing the third city |
+| 🌙 [`docs/city-night-allocation.md`](docs/city-night-allocation.md) | **NEW:** Allocate nights, transfer days, and pass windows before detailed booking | Avoiding hotel-change waste |
+| 💳 [`docs/travel-wallet-checklist.md`](docs/travel-wallet-checklist.md) | **NEW:** Two-traveler card, cash, transit, lounge, and payment readiness sheet | Preventing payment failures |
+| 🧳 [`docs/action-packets.md`](docs/action-packets.md) | **NEW:** Compact D-30, D-14, arrival-day, and daily action packets | Last-minute prep |
+| 🚫 [`docs/what-not-to-buy.md`](docs/what-not-to-buy.md) | **NEW:** Anti-tourist-trap purchase rules for passes, promos, airport shopping, and detours | Avoiding bad deals |
 | 🛬 [`docs/arrival-guide.md`](docs/arrival-guide.md) | **NEW:** K-ETA status, ICN arrival steps (WOWPASS/T-money/eSIM, AREX), airport tax-refund kiosks, first meals | Landing day & departure day |
 | 💳 [`docs/money-guide.md`](docs/money-guide.md) | **NEW:** Payment methods (WOWPASS vs T-money vs cards), best exchange rates, price index & daily budgets | Never overpaying |
 | 🗣️ [`docs/phrasebook.md`](docs/phrasebook.md) | **NEW:** 40 Korean phrases + deal-term glossary (kiosk, restaurant, market, delivery, tax refund) | Ordering & couponing in Korean |
@@ -81,6 +87,8 @@ The guide is organized around the actual route: **Incheon arrival → Seoul → 
 
 ## ✨ What's New (City deal audit — 2026-08-03)
 
+- **🏨 Pre-booking kit:** [Hotel Scorecard](docs/hotel-shortlist-scorecard.md), [Cheonan vs. Daejeon](docs/flexible-city-decision.md), and [City-Night Allocation](docs/city-night-allocation.md) help decide the route before hotel prices and program seats disappear.
+- **🧳 Time-based packets:** [D-30 / D-14 / Arrival-Day Packets](docs/action-packets.md), [Travel Wallet](docs/travel-wallet-checklist.md), and [What Not to Buy](docs/what-not-to-buy.md) make the system usable without rereading the whole repo.
 - **🛒 Grocery/souvenir value:** [Grocery & Souvenir Plan](docs/grocery-souvenir-plan.md) turns retail/tax-refund info into one practical couple stop per route—not a reason to overspend or detour.
 - **⚖️ Real-world value scoring:** [Effort vs. Savings Score](docs/effort-value-score.md) prevents a small coupon or cashback offer from outweighing time, detours, and couple cost.
 - **💑 Couple budget + hotel upgrade:** [Couple Budget Dashboard](docs/couple-budget.md), `scripts/couple_budget.py`, and the [Hotel Neighborhood Template](docs/hotel-neighborhood-template.md) turn generic value research into real two-person decisions after booking.

@@ -1,5 +1,10 @@
 # Changelog
 
+## 2026-08-05 — v5.5.0 Pre-Booking & Anti-Trap Decision Kit
+- **NEW pre-booking tools:** hotel shortlist scorecard/data/CLI, Cheonan-vs-Daejeon engine, and city-night allocation planner.
+- **NEW readiness tools:** travel-wallet checklist, D-30/D-14/arrival action packets, and couple anti-tourist-trap guide.
+- **Registry final expansion:** added six remaining high-use city/value categories and enforced effort, detour-risk, and couple-value fields for all 46 core deals.
+
 ## 2026-08-05 — v5.4.0 CI Link-Audit Triage
 - **Link audit fixes:** replaced dead National Science Museum routes with the current official visitor page; removed two rate-limited K-ETA secondary links; removed the dead English-docent claim; fixed the accidental Naver placeholder URL.
 - **CI reliability:** classified known browser-verifiable bot/TLS/timeout hosts as manual-verification warnings while retaining hard failure for unknown 404/other errors.

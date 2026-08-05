@@ -92,3 +92,14 @@ These records are intentionally kept in the registry so future/expired/rejected 
 | `BUSAN-LOCAL-FOOD` | Busan local meal categories | Live Check | [Busan Guide](busan-guide.md) |
 | `INCHEON-AIRPORT-MEAL` | Airport meal voucher/platform listing | Live Check | [Arrival Guide](arrival-guide.md) |
 | `NATIONWIDE-PEPERO` | Pepero Day convenience offers | Future | [Trip Calendar](trip-calendar.md) |
+
+## Final city-value expansion records
+
+| Registry ID | Deal | Status | Read with |
+| --- | --- | --- | --- |
+| `SEOUL-DEPT-CLEARANCE` | Department-store evening clearance | Live Check | [Everyday Savings](everyday-savings.md) |
+| `SEOUL-STUDENT-FOOD` | University-district local meals | Live Check | [Everyday Savings](everyday-savings.md) |
+| `SEOUL-MANGWON` | Mangwon Market value food | Live Check | [Everyday Savings](everyday-savings.md) |
+| `BUSAN-LOCAL-FOOD` | Busan local meal categories | Live Check | [Busan Guide](busan-guide.md) |
+| `INCHEON-AIRPORT-MEAL` | Airport meal voucher/platform listing | Live Check | [Arrival Guide](arrival-guide.md) |
+| `NATIONWIDE-PEPERO` | Pepero Day convenience offers | Future | [Trip Calendar](trip-calendar.md) |
