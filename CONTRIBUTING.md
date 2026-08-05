@@ -40,6 +40,7 @@ blog lists at the airport.
   - `python3 scripts/check_discovery_queue.py` — candidate queue uses the same lifecycle vocabulary.
   - `python3 scripts/check_staleness.py` — active/live/future/candidate records have not passed their recheck deadline.
   - `python3 scripts/check_claim_coverage.py` — every core registry ID has a visible document mapping.
+- Keep new workflow files in `templates/github-actions/` until an owner enables GitHub workflow permission; see `docs/github-actions-setup.md`.
   - `python3 scripts/check_source_confidence.py` — rejects aggregators/community sources mislabeled as official.
 - Every core entry in `data/deals.csv` needs a `local_backup`: a normal, nearby, no-coupon alternative if the offer fails.
 - New deals/broken links: use the GitHub issue templates (`.github/ISSUE_TEMPLATE/`).

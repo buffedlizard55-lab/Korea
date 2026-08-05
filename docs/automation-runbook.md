@@ -37,11 +37,21 @@ The shell’s external TLS requests currently terminate before sites respond. A 
 - record the terms, access date, and exact caveat in `docs/verification-log.md`;
 - classify uncertain or app-only offers as **Live Check** rather than official guaranteed savings.
 
+## D-14 trip lock
+
+Fourteen days before the trip, run:
+
+```bash
+python3 scripts/trip_lock.py --as-of 2026-10-17
+```
+
+It prints only the city-sorted Active / Live Check / Future records that need browser/app confirmation, plus their source and normal backup. Complete that list before buying passes or booking the flexible Cheonan/Daejeon leg.
+
 ## Weekly GitHub Actions activation
 
 A weekly workflow exists locally at `.github/workflows/link-check.yml`, but it is deliberately ignored because the repository’s GitHub App has not granted workflow-writing permission.
 
-To activate it once GitHub permission is available:
+For exact click-by-click steps, see [Enable GitHub Actions](github-actions-setup.md). To activate it once GitHub permission is available:
 
 1. Grant the connected GitHub App the **`workflows`** permission.
 2. Remove the workflow line from `.gitignore`.

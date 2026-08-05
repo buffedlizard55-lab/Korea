@@ -20,6 +20,9 @@ Everything you need to *do* (not just read), consolidated into one checkable lis
 - [ ] Bookmark **Klook / KKday / Creatrip** dining vouchers (BBQ, buffets, cakes) — buy in USD.
 
 ### By October 15–20, 2026 (D-15)
+- [ ] Run `python3 scripts/trip_lock.py --as-of 2026-10-17` and complete the city-sorted source/app checks before buying a pass or choosing Cheonan/Daejeon.
+
+
 - [ ] Install **Shuttle Delivery** (English) — buy **discounted e-gift vouchers on Klook** first (needs the Shuttle app to redeem).
 - [ ] Install **Baemin** — set **phone OS language to English** (app follows the OS); plan to use **Guest Checkout (`비회원 주문`)**.
 - [ ] Install **Naver Map** (English mode) + **Papago** + **H.Point Global** + **WOWPASS** (if using).

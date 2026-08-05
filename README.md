@@ -52,7 +52,10 @@ The guide is organized around the actual route: **Incheon arrival → Seoul → 
 | 🚦 [`docs/deal-status-board.md`](docs/deal-status-board.md) | Plain-English Candidate / Active / Live Check / Future / Expired / Rejected board—what to use now and what to ignore | Avoiding stale deals |
 | 🔍 [`docs/source-confidence.md`](docs/source-confidence.md) | How source tiers work and how the repo blocks aggregators/community pages from being called official | Trusting the research |
 | ⚙️ [`docs/automation-runbook.md`](docs/automation-runbook.md) | One-command verification, trustworthy link-check fallback, and GitHub Actions activation steps | Maintaining the guide |
-| 🛟 [`docs/backup-plan.md`](docs/backup-plan.md) | **NEW:** Immediate normal-local fallback for every city and core deal when a coupon/pass/booking fails | No wasted deal-chasing |
+| 🛟 [`docs/backup-plan.md`](docs/backup-plan.md) | Immediate normal-local fallback for every city and core deal when a coupon/pass/booking fails | No wasted deal-chasing |
+| 💑 [`docs/couple-budget.md`](docs/couple-budget.md) | **NEW:** Two-person planned-vs-actual budget, savings tracker, and couple-specific rules | Managing actual trip costs |
+| 🏨 [`docs/hotel-neighborhood-template.md`](docs/hotel-neighborhood-template.md) | **NEW:** Fill-in hotel template that turns general deals into nearby, usable anchors | After hotels are booked |
+| 🤖 [`docs/github-actions-setup.md`](docs/github-actions-setup.md) | **NEW:** Exact GitHub website/App-permission steps to activate weekly verification | Enabling Actions |
 | 🛬 [`docs/arrival-guide.md`](docs/arrival-guide.md) | **NEW:** K-ETA status, ICN arrival steps (WOWPASS/T-money/eSIM, AREX), airport tax-refund kiosks, first meals | Landing day & departure day |
 | 💳 [`docs/money-guide.md`](docs/money-guide.md) | **NEW:** Payment methods (WOWPASS vs T-money vs cards), best exchange rates, price index & daily budgets | Never overpaying |
 | 🗣️ [`docs/phrasebook.md`](docs/phrasebook.md) | **NEW:** 40 Korean phrases + deal-term glossary (kiosk, restaurant, market, delivery, tax refund) | Ordering & couponing in Korean |
@@ -75,6 +78,9 @@ The guide is organized around the actual route: **Incheon arrival → Seoul → 
 
 ## ✨ What's New (City deal audit — 2026-08-03)
 
+- **💑 Couple budget + hotel upgrade:** [Couple Budget Dashboard](docs/couple-budget.md), `scripts/couple_budget.py`, and the [Hotel Neighborhood Template](docs/hotel-neighborhood-template.md) turn generic value research into real two-person decisions after booking.
+- **📅 D-14 trip lock:** run `python3 scripts/trip_lock.py --as-of 2026-10-17` to generate the final city-sorted live-check list; it never pretends to refresh sites automatically.
+- **🤖 GitHub Actions:** [Exact setup steps](docs/github-actions-setup.md) and a tracked [workflow template](templates/github-actions/link-check.yml) are ready for an owner/admin to enable.
 - **🗺️ City-first default workflow:** [City Planning Board](docs/city-planning-board.md) replaces deal-hunting overload with a five-step daily plan: anchor, transport, food, one live benefit, and a backup.
 - **🏷️ Deal-type clarity:** [Deal Types](docs/deal-types.md) distinguishes normal local value from coupons, passes, payment cashback, free anchors, and future/expired claims before you plan.
 - **🔗 Claim-coverage guardrail:** `scripts/check_claim_coverage.py` prevents core registry records from becoming undocumented/orphaned and catches mappings to removed pages or invalid IDs.

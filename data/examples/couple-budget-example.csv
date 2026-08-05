@@ -1,0 +1,3 @@
+date,city,category,description,planned_krw,actual_krw,saving_krw,deal_id,notes
+YYYY-MM-DD,Seoul,transit,Example Climate Card or T-money day,12000,10000,2000,SEOUL-TRANSIT-CLIMATE,Use real couple total not per-person price
+YYYY-MM-DD,Busan,food,Example local lunch for two,26000,23000,3000,NATIONWIDE-DOOKKI,Record the actual receipt total

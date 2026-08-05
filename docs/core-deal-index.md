@@ -55,3 +55,29 @@ These records are intentionally kept in the registry so future/expired/rejected 
 | `SEOUL-SALEFESTA` | Future | [Deal Status Board](deal-status-board.md) |
 | `DAEJEON-SUMMER50` | Expired for November trip dates | [Deal Status Board](deal-status-board.md) |
 | `NATIONWIDE-TWOSOME` | Rejected | [Deal Status Board](deal-status-board.md) |
+
+## Expanded food, payment & airport records
+
+| Registry ID | Deal | Status | Read with |
+| --- | --- | --- | --- |
+| `NATIONWIDE-ASHLEY` | Ashley Queens weekday buffet | Live Check | [Everyday Savings](everyday-savings.md) |
+| `NATIONWIDE-HKB` | Hong Kong Banjum jjajangmyeon | Live Check | [Everyday Savings](everyday-savings.md) |
+| `NATIONWIDE-GIMBAP` | Gimbap Cheonguk budget meal | Live Check | [Everyday Savings](everyday-savings.md) |
+| `NATIONWIDE-BUDGETCOFFEE` | Budget coffee chains | Live Check | [Everyday Savings](everyday-savings.md) |
+| `SEOUL-HYUNDAI-DESK` | The Hyundai Seoul visitor desk | Live Check | [Tourist Promotions](tourist-promotions.md) |
+| `INCHEON-LOUNGE` | Priority Pass lounge access | Live Check | [Arrival Guide](arrival-guide.md) |
+| `SEOUL-ASIANA-BOARDING` | Asiana Magic Boarding Pass partners | Live Check | [Tourist Promotions](tourist-promotions.md) |
+| `SEOUL-ARISU` | Arisu refill/water savings | Live Check | [Money Guide](money-guide.md) |
+
+## Quality/quantity migration — newly structured records
+
+| Registry ID | Deal | Status | Read with |
+| --- | --- | --- | --- |
+| `NATIONWIDE-ASHLEY` | Ashley Queens weekday buffet | Live Check | [Everyday Savings](everyday-savings.md) |
+| `NATIONWIDE-HKB` | Hong Kong Banjum jjajangmyeon | Live Check | [Everyday Savings](everyday-savings.md) |
+| `NATIONWIDE-GIMBAP` | Gimbap Cheonguk budget meal | Live Check | [Everyday Savings](everyday-savings.md) |
+| `NATIONWIDE-BUDGETCOFFEE` | Budget coffee chains | Live Check | [Everyday Savings](everyday-savings.md) |
+| `SEOUL-HYUNDAI-DESK` | The Hyundai Seoul visitor desk | Live Check | [Tourist Promotions](tourist-promotions.md) |
+| `INCHEON-LOUNGE` | Priority Pass airport lounge access | Live Check | [Arrival Guide](arrival-guide.md) |
+| `SEOUL-ASIANA-BOARDING` | Asiana Magic Boarding Pass partners | Live Check | [Tourist Promotions](tourist-promotions.md) |
+| `SEOUL-ARISU` | Arisu refill/water savings | Live Check | [Money Guide](money-guide.md) |

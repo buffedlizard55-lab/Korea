@@ -1,5 +1,11 @@
 # Changelog
 
+## 2026-08-04 — v5.2.0 Targeted Deal Quality & Quantity Kit
+- **Registry expansion:** migrated Ashley, Hong Kong Banjum, Gimbap Cheonguk, budget coffee, The Hyundai desk, Incheon lounge, Asiana boarding pass, and Arisu into the core registry with honest statuses/sources/backups.
+- **NEW couple tools:** `docs/couple-budget.md`, blank `data/couple-budget.csv`, format example, and `scripts/couple_budget.py` track actual two-person spending and savings.
+- **NEW D-14 trip lock:** `scripts/trip_lock.py` prints only city-sorted records that require live confirmation, sources, and backups.
+- **NEW hotel template + Actions setup:** adds post-booking neighborhood anchors, a tracked workflow template, and exact GitHub Actions enablement instructions.
+
 ## 2026-08-04 — v5.1.0 Four-City Route Summary
 - **Route-first summary:** README now opens with Incheon, Seoul, Busan, and flexible Cheonan/Daejeon value anchors, live checks, and direct city-board links.
 - **Flexible third-city correction:** checklists/planning pages no longer treat Cheonan as fixed; they require a live comparison of Cheonan Tourism Taxi/City Tour against Daejeon City Tour/heritage availability before booking.
