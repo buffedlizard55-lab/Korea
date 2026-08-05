@@ -31,7 +31,8 @@ Every entry is sourced, dated, and verified against official releases and terms 
 | 🧮 [`docs/pass-value-dashboard.md`](docs/pass-value-dashboard.md) | Break-even dashboard for Discover Seoul Pass, Climate Card, Visit Busan Pass, Busan Pay, Cheonan taxi, and KORAIL PASS | Never buying a pass blindly |
 | 🎫 [`docs/pass-rules.md`](docs/pass-rules.md) | **NEW:** Simple Includes / Excludes / Activation / Best use / Worst use cards for every major pass and payment product | Avoiding pass traps |
 | 🗃️ [`data/deals.csv`](data/deals.csv) | Normalized core deal registry (ID, city, status, source, expiry, access requirements) | One source of truth |
-| 🔗 [`docs/core-deal-index.md`](docs/core-deal-index.md) | **NEW:** Plain-English map from main deal pages to canonical registry IDs | Avoiding claim drift |
+| 🔗 [`docs/core-deal-index.md`](docs/core-deal-index.md) | Plain-English map from main deal pages to canonical registry IDs | Avoiding claim drift |
+| 🏷️ [`docs/deal-types.md`](docs/deal-types.md) | **NEW:** Distinguishes walk-in value, live coupon, pass, payment, free attraction, future event, and rejected claim | No more coupon confusion |
 | 🚦 [`docs/deal-status-board.md`](docs/deal-status-board.md) | Plain-English Candidate / Active / Live Check / Future / Expired / Rejected board—what to use now and what to ignore | Avoiding stale deals |
 | 🔍 [`docs/source-confidence.md`](docs/source-confidence.md) | How source tiers work and how the repo blocks aggregators/community pages from being called official | Trusting the research |
 | ⚙️ [`docs/automation-runbook.md`](docs/automation-runbook.md) | One-command verification, trustworthy link-check fallback, and GitHub Actions activation steps | Maintaining the guide |
@@ -59,6 +60,7 @@ Every entry is sourced, dated, and verified against official releases and terms 
 ## ✨ What's New (City deal audit — 2026-08-03)
 
 - **🗺️ City-first default workflow:** [City Planning Board](docs/city-planning-board.md) replaces deal-hunting overload with a five-step daily plan: anchor, transport, food, one live benefit, and a backup.
+- **🏷️ Deal-type clarity:** [Deal Types](docs/deal-types.md) distinguishes normal local value from coupons, passes, payment cashback, free anchors, and future/expired claims before you plan.
 - **🔗 Claim-coverage guardrail:** `scripts/check_claim_coverage.py` prevents core registry records from becoming undocumented/orphaned and catches mappings to removed pages or invalid IDs.
 - **⏰ Staleness guardrail:** `scripts/check_staleness.py` warns before a recheck deadline and fails after it, so Active/Live Check/Future records cannot quietly age out.
 - **🗃️ Registry migration:** [Core Deal Index](docs/core-deal-index.md) maps the main food, coupon, payment, and city claims to their canonical deal IDs; the structured registry controls status/source/recheck fields.

@@ -34,10 +34,10 @@ def main() -> int:
     if not rows:
         print("No registry entries matched. Check city/status spelling.")
         return 1
-    print("CITY        STATUS      DEAL                                      SAVING / PRICE       RECHECK")
-    print("----------- ----------- ----------------------------------------- -------------------- ----------")
+    print("CITY        STATUS      TYPE             DEAL                                      SAVING / PRICE       RECHECK")
+    print("----------- ----------- ---------------- ----------------------------------------- -------------------- ----------")
     for row in rows:
-        print(f"{row['city'][:11]:11} {row['status'][:11]:11} {row['title'][:41]:41} {row['price_or_saving_krw'][:20]:20} {row['expiry_or_recheck']}")
+        print(f"{row['city'][:11]:11} {row['status'][:11]:11} {row['deal_type'][:16]:16} {row['title'][:41]:41} {row['price_or_saving_krw'][:20]:20} {row['expiry_or_recheck']}")
         if args.backups:
             print(f"  backup → {row['local_backup']}")
     print(f"\n{len(rows)} deal(s). Open the linked source and perform every live check before spending.")

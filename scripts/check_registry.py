@@ -10,7 +10,8 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 PATH = ROOT / "data" / "deals.csv"
 ALLOWED_STATUSES = {"candidate", "active", "live-check", "future", "expired", "rejected"}
-REQUIRED = {"deal_id", "city", "category", "title", "status", "expiry_or_recheck", "access", "source_tier", "source_url", "live_check", "local_backup"}
+ALLOWED_TYPES = {"walk-in-value", "standing-benefit", "live-coupon", "city-pass", "transit-pass", "payment-layer", "free-attraction", "future-event", "expired-event", "rejected-claim"}
+REQUIRED = {"deal_id", "city", "category", "deal_type", "title", "status", "expiry_or_recheck", "access", "source_tier", "source_url", "live_check", "local_backup"}
 
 
 def main() -> int:
@@ -26,6 +27,8 @@ def main() -> int:
         if deal_id in ids:
             issues.append(f"line {number}: duplicate deal_id {deal_id}")
         ids.add(deal_id)
+        if row.get("deal_type") not in ALLOWED_TYPES:
+            issues.append(f"line {number}: invalid deal_type '{row.get('deal_type')}'")
         if row.get("status") not in ALLOWED_STATUSES:
             issues.append(f"line {number}: invalid status '{row.get('status')}'")
         try:

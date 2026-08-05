@@ -1,5 +1,9 @@
 # Changelog
 
+## 2026-08-04 — v5.0.0 Deal-Type Clarity
+- **NEW `docs/deal-types.md`:** beginner-facing taxonomy distinguishes normal walk-in value, standing benefits, live coupons, city/transit passes, payment layers, free attractions, future/expired events, and rejected claims.
+- **Registry type enforcement:** every core deal has a controlled `deal_type`; the registry checker validates it and the registry CLI displays it.
+
 ## 2026-08-04 — v4.9.0 Registry-to-Document Coverage
 - **NEW `data/claim-mapping.csv` + `scripts/check_claim_coverage.py`:** every core registry ID now has a visible beginner-facing index mapping; the checker fails orphaned records, unknown IDs, missing docs, and mappings where the ID is not named.
 - **Verification integration:** the all-in-one suite and contributor rules now enforce claim coverage.
