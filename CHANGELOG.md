@@ -4,6 +4,7 @@
 - **Registry coverage expansion:** added remaining high-use narrative categories—department clearance, university food, Mangwon, Busan local meals, airport meal listing, and Pepero Day—to the 46-record core registry.
 - **NEW effort score:** `docs/effort-value-score.md` and required `effort`, `detour_risk`, `couple_value` registry fields make two-person time/detour tradeoffs explicit.
 - **NEW branch planner:** `docs/branch-level-planner.md`, blank branch data, example, and CLI are ready for exact hotel-neighborhood options after booking.
+- **NEW grocery/souvenir plan:** city-aware one-stop store guidance, immediate tax-refund reality checks, couple packing list, and no-detour fallback.
 
 ## 2026-08-04 — v5.2.0 Targeted Deal Quality & Quantity Kit
 - **Registry expansion:** migrated Ashley, Hong Kong Banjum, Gimbap Cheonguk, budget coffee, The Hyundai desk, Incheon lounge, Asiana boarding pass, and Arisu into the core registry with honest statuses/sources/backups.

@@ -25,7 +25,7 @@ Add one row to `data/couple-budget.csv` for:
 - delivery,
 - groceries/souvenirs where a tax refund or promotion actually worked.
 
-Keep it simple: if there is no receipt or clear saving, enter the actual total and set saving to `0`.
+Keep it simple: if there is no receipt or clear saving, enter the actual total and set saving to `0`. Use the [Grocery & Souvenir Plan](grocery-souvenir-plan.md) for the planned store run.
 
 ## View totals
 

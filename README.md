@@ -57,7 +57,8 @@ The guide is organized around the actual route: **Incheon arrival → Seoul → 
 | 🏨 [`docs/hotel-neighborhood-template.md`](docs/hotel-neighborhood-template.md) | **NEW:** Fill-in hotel template that turns general deals into nearby, usable anchors | After hotels are booked |
 | 🤖 [`docs/github-actions-setup.md`](docs/github-actions-setup.md) | Exact GitHub website/App-permission steps to activate weekly verification | Enabling Actions |
 | ⚖️ [`docs/effort-value-score.md`](docs/effort-value-score.md) | **NEW:** Couple-focused effort, detour, and value scoring—when to skip a marginal deal | Better real-world savings |
-| 📌 [`docs/branch-level-planner.md`](docs/branch-level-planner.md) | **NEW:** Exact branch-level plan and saved Naver Map options after hotels are booked | Neighborhood-level deals |
+| 📌 [`docs/branch-level-planner.md`](docs/branch-level-planner.md) | Exact branch-level plan and saved Naver Map options after hotels are booked | Neighborhood-level deals |
+| 🛒 [`docs/grocery-souvenir-plan.md`](docs/grocery-souvenir-plan.md) | **NEW:** City-aware one-stop grocery/gift plan, tax-refund reality check, and couple packing list | Avoiding tourist-zone shopping waste |
 | 🛬 [`docs/arrival-guide.md`](docs/arrival-guide.md) | **NEW:** K-ETA status, ICN arrival steps (WOWPASS/T-money/eSIM, AREX), airport tax-refund kiosks, first meals | Landing day & departure day |
 | 💳 [`docs/money-guide.md`](docs/money-guide.md) | **NEW:** Payment methods (WOWPASS vs T-money vs cards), best exchange rates, price index & daily budgets | Never overpaying |
 | 🗣️ [`docs/phrasebook.md`](docs/phrasebook.md) | **NEW:** 40 Korean phrases + deal-term glossary (kiosk, restaurant, market, delivery, tax refund) | Ordering & couponing in Korean |
@@ -80,6 +81,7 @@ The guide is organized around the actual route: **Incheon arrival → Seoul → 
 
 ## ✨ What's New (City deal audit — 2026-08-03)
 
+- **🛒 Grocery/souvenir value:** [Grocery & Souvenir Plan](docs/grocery-souvenir-plan.md) turns retail/tax-refund info into one practical couple stop per route—not a reason to overspend or detour.
 - **⚖️ Real-world value scoring:** [Effort vs. Savings Score](docs/effort-value-score.md) prevents a small coupon or cashback offer from outweighing time, detours, and couple cost.
 - **💑 Couple budget + hotel upgrade:** [Couple Budget Dashboard](docs/couple-budget.md), `scripts/couple_budget.py`, and the [Hotel Neighborhood Template](docs/hotel-neighborhood-template.md) turn generic value research into real two-person decisions after booking.
 - **📅 D-14 trip lock:** run `python3 scripts/trip_lock.py --as-of 2026-10-17` to generate the final city-sorted live-check list; it never pretends to refresh sites automatically.
