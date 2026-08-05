@@ -1,5 +1,9 @@
 # Changelog
 
+## 2026-08-05 — v5.4.0 CI Link-Audit Triage
+- **Link audit fixes:** replaced dead National Science Museum routes with the current official visitor page; removed two rate-limited K-ETA secondary links; removed the dead English-docent claim; fixed the accidental Naver placeholder URL.
+- **CI reliability:** classified known browser-verifiable bot/TLS/timeout hosts as manual-verification warnings while retaining hard failure for unknown 404/other errors.
+
 ## 2026-08-04 — v5.3.0 Complete Targeted Value Layer
 - **Registry coverage expansion:** added remaining high-use narrative categories—department clearance, university food, Mangwon, Busan local meals, airport meal listing, and Pepero Day—to the 46-record core registry.
 - **NEW effort score:** `docs/effort-value-score.md` and required `effort`, `detour_risk`, `couple_value` registry fields make two-person time/detour tradeoffs explicit.

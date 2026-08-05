@@ -11,7 +11,7 @@ Everything between landing and your first Korean meal — verified for **US citi
 | Item | Status for US citizens | Notes |
 | --- | --- | --- |
 | **Visa** | ❌ Not needed | US-Korea visa waiver: up to **90 days** for tourism |
-| **K-ETA** | ❌ **Not required through Dec 31, 2026** | Temporary exemption for US citizens extended through end of 2026. (Expected to resume 2027 — irrelevant for this trip.) 🟡 [arrivekorea.com](https://arrivekorea.com/guides/k-eta) · [ketakorea.info](https://ketakorea.info/keta-korea-us-citizens/) |
+| **K-ETA** | ❌ **Not required through Dec 31, 2026** | Temporary exemption for US citizens extended through end of 2026. (Expected to resume 2027 — irrelevant for this trip.) 🟡 [ketakorea.info](https://ketakorea.info/keta-korea-us-citizens/) |
 | **Passport** | ✅ Required | Valid for your stay; immigration stamps on arrival |
 | **Arrival card** | 📝 Fill out on the plane | Name, address (hotel), flight no. — keep a pen handy |
 | **Vaccination** | No requirement | Standard travel insurance recommended |

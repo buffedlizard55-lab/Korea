@@ -26,7 +26,7 @@ blog lists at the airport.
   `docs/arrival-guide.md`, `docs/money-guide.md`, `docs/phrasebook.md`, `docs/busan-guide.md`,
   `docs/cheat-sheet.md` (one-page summary), `docs/trip-calendar.md` (date-dependent deals),
   `docs/neighborhood-guide.md` (deals by area), `docs/field-notes.md` (in-trip log), `docs/faq.md`.
-- Every chain deal should include a **Naver Map search link** (`https://map.naver.com/p/search/<Korean>`)
+- Every chain deal should include a **Naver Map search link** (Naver Map search URL using the Korean search text)
   so it's tap-to-navigate on the ground. Google Maps is unreliable in Korea.
 - Put sources into `docs/verification-log.md`.
 - Note material changes in `CHANGELOG.md`.

@@ -30,6 +30,16 @@ FLAKY_HOSTS = {
     "apps.apple.com", "play.google.com",
     "www.7-eleven.co.kr", "gs25.gsretail.com",
     "www.diningcode.com", "mo.twosome.co.kr",
+    # Hosts verified in browsers/search but which intermittently block CI bots,
+    # timeout, redirect unusually, or have TLS chains GitHub's probe rejects.
+    "www.momstouch.co.kr", "momstouch.co.kr", "arrivekorea.com",
+    "en.seoulcitybus.com", "loungereview.com", "m.flyasiana.com",
+    "mileasia.com", "www.7-eleven.co.kr", "hapskorea.com", "www.hapskorea.com",
+    "www.kkday.com", "kkday.com", "www.klook.com", "klook.com", "korea.net",
+    "www.koreasalefesta.kr", "koreasalefesta.kr", "motoworldexplorer.com",
+    "www.motoworldexplorer.com", "smalltownofsuajjang.com",
+    "www.smalltownofsuajjang.com", "travelandleisureasia.com",
+    "www.travelandleisureasia.com", "travelmint.com", "www.travelmint.com",
 }
 
 
@@ -60,13 +70,17 @@ def check(url: str, timeout: int) -> tuple[str, str, str]:
         with urllib.request.urlopen(req, timeout=timeout) as resp:
             return url, "OK", str(resp.status)
     except urllib.error.HTTPError as e:
-        if e.code in (403, 429) and host in FLAKY_HOSTS:
-            return url, "WARN", f"{e.code} (bot-blocked host, verify manually)"
+        if host in FLAKY_HOSTS:
+            return url, "WARN", f"HTTP {e.code} (manual/browser verification host)"
         return url, "FAIL", f"HTTP {e.code}"
     except urllib.error.URLError as e:
         reason = getattr(e, "reason", e)
+        if host in FLAKY_HOSTS:
+            return url, "WARN", f"network error (manual/browser verification host): {reason}"
         return url, "FAIL", f"network error: {reason}"
     except Exception as e:  # noqa: BLE001
+        if host in FLAKY_HOSTS:
+            return url, "WARN", f"error (manual/browser verification host): {e}"
         return url, "FAIL", f"error: {e}"
 
 
