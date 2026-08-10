@@ -1,0 +1,39 @@
+domain_suffix,classification,notes
+.go.kr,official,Republic of Korea national/local government domain
+.or.kr,official,Official Korean institution domain; inspect identity when adding
+english.visitkorea.or.kr,official,Korea Tourism Organization
+english.visitseoul.net,official,Seoul Tourism Organization
+english.seoul.go.kr,official,Seoul Metropolitan Government
+www.discoverseoulpass.com,official,Discover Seoul Pass operator
+www.visitbusanpass.com,official,Visit Busan Pass operator
+www.letskorail.com,official,KORAIL
+smart.letskorail.com,official,KORAIL mobile booking
+science.go.kr,official,National Science Museum
+www.ikea.com,official,IKEA
+www.dookki.co.kr,official,Dookki
+www.wowpass.io,official,WOWPASS
+en.seoulcitybus.com,operator,City Tour Bus operator source
+namu.wiki,secondary,Community encyclopedia
+reddit.com,secondary,Community discussion
+valuecom.com,aggregator,Coupon/affiliate aggregator; never label official
+dasaja.co.kr,secondary,Deal guide
+visitbusan.net,official,Busan Metropolitan City tourism platform
+reservation.qless.ai,operator,Daejeon City Tour booking provider linked by city notice
+koreasalefesta.kr,official,Korea Sale Festa official domain
+shinsegaegroupnewsroom.com,official,Shinsegae Group newsroom
+cu.bgfretail.com,official,CU official retail portal
+pf.kakao.com,operator,KakaoTalk official channel platform
+apps.apple.com,operator,Apple App Store operator listing
+m.blog.naver.com,secondary,Naver blog
+insideseoul.app,secondary,Independent guide
+ivisitkorea.com,secondary,Independent travel guide
+banksalad.com,secondary,Personal-finance content
+www.diningcode.com,secondary,Restaurant listing/review service
+letseoul.com,secondary,Travel guide
+motoworldexplorer.com,secondary,Travel guide
+www.thehyundai.com,operator,Hyundai Department Store operator
+m.flyasiana.com,official,Asiana Airlines
+www.travelmint.com,secondary,Lounge guide
+koreatimes.co.kr,secondary,Korea Times
+korealocally.com,secondary,Travel guide
+www.klook.com,operator,Klook travel platform

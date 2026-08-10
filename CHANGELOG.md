@@ -1,5 +1,158 @@
 # Changelog
 
+## 2026-08-05 — v5.5.0 Pre-Booking & Anti-Trap Decision Kit
+- **NEW pre-booking tools:** hotel shortlist scorecard/data/CLI, Cheonan-vs-Daejeon engine, and city-night allocation planner.
+- **NEW readiness tools:** travel-wallet checklist, D-30/D-14/arrival action packets, and couple anti-tourist-trap guide.
+- **Registry final expansion:** added six remaining high-use city/value categories and enforced effort, detour-risk, and couple-value fields for all 46 core deals.
+
+## 2026-08-05 — v5.4.0 CI Link-Audit Triage
+- **Link audit fixes:** replaced dead National Science Museum routes with the current official visitor page; removed two rate-limited K-ETA secondary links; removed the dead English-docent claim; fixed the accidental Naver placeholder URL.
+- **CI reliability:** classified known browser-verifiable bot/TLS/timeout hosts as manual-verification warnings while retaining hard failure for unknown 404/other errors.
+
+## 2026-08-04 — v5.3.0 Complete Targeted Value Layer
+- **Registry coverage expansion:** added remaining high-use narrative categories—department clearance, university food, Mangwon, Busan local meals, airport meal listing, and Pepero Day—to the 46-record core registry.
+- **NEW effort score:** `docs/effort-value-score.md` and required `effort`, `detour_risk`, `couple_value` registry fields make two-person time/detour tradeoffs explicit.
+- **NEW branch planner:** `docs/branch-level-planner.md`, blank branch data, example, and CLI are ready for exact hotel-neighborhood options after booking.
+- **NEW grocery/souvenir plan:** city-aware one-stop store guidance, immediate tax-refund reality checks, couple packing list, and no-detour fallback.
+
+## 2026-08-04 — v5.2.0 Targeted Deal Quality & Quantity Kit
+- **Registry expansion:** migrated Ashley, Hong Kong Banjum, Gimbap Cheonguk, budget coffee, The Hyundai desk, Incheon lounge, Asiana boarding pass, and Arisu into the core registry with honest statuses/sources/backups.
+- **NEW couple tools:** `docs/couple-budget.md`, blank `data/couple-budget.csv`, format example, and `scripts/couple_budget.py` track actual two-person spending and savings.
+- **NEW D-14 trip lock:** `scripts/trip_lock.py` prints only city-sorted records that require live confirmation, sources, and backups.
+- **NEW hotel template + Actions setup:** adds post-booking neighborhood anchors, a tracked workflow template, and exact GitHub Actions enablement instructions.
+
+## 2026-08-04 — v5.1.0 Four-City Route Summary
+- **Route-first summary:** README now opens with Incheon, Seoul, Busan, and flexible Cheonan/Daejeon value anchors, live checks, and direct city-board links.
+- **Flexible third-city correction:** checklists/planning pages no longer treat Cheonan as fixed; they require a live comparison of Cheonan Tourism Taxi/City Tour against Daejeon City Tour/heritage availability before booking.
+
+## 2026-08-04 — v5.0.0 Deal-Type Clarity
+- **NEW `docs/deal-types.md`:** beginner-facing taxonomy distinguishes normal walk-in value, standing benefits, live coupons, city/transit passes, payment layers, free attractions, future/expired events, and rejected claims.
+- **Registry type enforcement:** every core deal has a controlled `deal_type`; the registry checker validates it and the registry CLI displays it.
+
+## 2026-08-04 — v4.9.0 Registry-to-Document Coverage
+- **NEW `data/claim-mapping.csv` + `scripts/check_claim_coverage.py`:** every core registry ID now has a visible beginner-facing index mapping; the checker fails orphaned records, unknown IDs, missing docs, and mappings where the ID is not named.
+- **Verification integration:** the all-in-one suite and contributor rules now enforce claim coverage.
+
+## 2026-08-04 — v4.8.0 Staleness Guardrail
+- **NEW `scripts/check_staleness.py`:** checks core registry and discovery queue recheck deadlines; overdue Active/Live Check/Future/Candidate records fail verification while records due within 14 days warn.
+- **Verification integration:** the one-command suite, status board, runbook, and contributor rules now include the staleness check.
+
+## 2026-08-04 — v4.7.0 Shared Deal Lifecycle
+- **One lifecycle vocabulary:** core registry and discovery queue now use `candidate`, `active`, `live-check`, `future`, `expired`, and `rejected`; legacy `lead`/`verified` queue values were migrated.
+- **NEW `scripts/check_discovery_queue.py`:** validates queue fields, ISO dates, and lifecycle values. The one-command verification suite now includes it.
+
+## 2026-08-04 — v4.6.0 Core Deal Registry Migration
+- **Registry expansion:** migrated ten high-use food, coupon, delivery, payment, convenience-store, and market claims into `data/deals.csv`, each with status, source tier, live-check flag, recheck date, and local backup.
+- **NEW `docs/core-deal-index.md`:** maps beginner-facing food/payment/city pages to canonical deal IDs while the remaining narrative claims migrate. Added source-policy entries for every new registry domain.
+
+## 2026-08-04 — v4.5.0 Truthful Tracker & Claim Language
+- **Tracker integrity:** cleared fictional future redemptions from the live `data/deal-tracker.csv`; added an explicitly labeled format example at `data/examples/deal-tracker-example.csv`.
+- **Truthful-language sweep:** replaced broad “guaranteed,” “100%,” and “never” assertions in key beginner pages with tourist-screened/live-terms language; future Korea Sale Festa wording is now future/live-check rather than presumed active.
+
+## 2026-08-04 — v4.4.0 Normal Local Backups
+- **Core fallback field:** every normalized core deal now carries a `local_backup` in `data/deals.csv`; registry validation enforces it and `deal_registry.py --backups` displays it.
+- **NEW `docs/backup-plan.md`:** 60-second reset rule, city-by-city local alternatives, and concrete fallbacks for pass, payment, taxi, delivery, and tax-refund failures—built for a couple rather than a large group.
+
+## 2026-08-04 — v4.3.0 Verification Runbook & Reliable Fallback
+- **NEW `scripts/verify_repo.py`:** one command runs documentation, deal-registry, and source-confidence checks; optional `--links` is reserved for environments with outbound HTTPS.
+- **NEW `docs/automation-runbook.md`:** documents the correct interpretation of bot blocks/TLS failures, a human browser-verification fallback, and exact steps to activate the pending weekly GitHub Actions workflow once permission is granted.
+
+## 2026-08-04 — v4.2.0 Source-Confidence Linter
+- **NEW source policy + linter:** `data/source-policy.csv` and `scripts/check_source_confidence.py` distinguish official/operator/secondary/aggregator domains and fail unsafe official labels in the core deal registry.
+- **NEW `docs/source-confidence.md`:** documents the tiers, automated checks, and remaining human review process. Reclassified the Daejeon City Tour booking URL as operator rather than official.
+
+## 2026-08-04 — v4.1.0 City-First Planning Board
+- **NEW `docs/city-planning-board.md`:** makes city planning the beginner default. Every Seoul, Busan, Cheonan, and Daejeon day follows Anchor → Transport → Food → One Live Benefit → Backup, with an end-of-day record.
+- **Navigation update:** README’s on-trip workflow now routes users to the City Planning Board before detailed category guides; the City Research Hub is explicitly positioned as deeper reference material.
+
+## 2026-08-04 — v4.0.0 Pass Coverage Rules
+- **NEW `docs/pass-rules.md`:** each major pass/payment product now has explicit Includes, Does Not Include, Activation Trigger, Best Use Case, Worst Use Case, and pre-checkout list. This covers DSP, Climate Card, Visit Busan Pass, Busan Pay, KORAIL PASS, and Cheonan Tourism Taxi.
+
+## 2026-08-04 — v3.9.0 Universal Deal Statuses
+- **NEW `docs/deal-status-board.md`:** puts every core deal into an unambiguous Active / Live Check / Future / Expired / Rejected state for beginners.
+- **Registry enforcement:** NEW `scripts/check_registry.py` validates IDs, required source/access fields, ISO dates, allowed statuses, and the rule that Active deals retain a live-check safeguard.
+- **Status migration:** seeded future Korea Sale Festa, expired Daejeon summer tickets, and rejected Twosome claim into the normalized registry rather than leaving stale claims in ordinary deal lists.
+
+## 2026-08-04 — v3.8.0 Pass-Value Dashboard
+- **NEW `docs/pass-value-dashboard.md`:** one decision surface for Discover Seoul Pass, Climate Card, Visit Busan Pass, Busan Pay, Cheonan Tourism Taxi and KORAIL PASS. It captures activation windows, exclusions, break-even rules, and a final group decision record.
+- **NEW `data/pass-options.csv` + `scripts/pass_value.py`:** structured pass reference data and a generic calculator for live pass prices versus only the costs actually planned.
+
+## 2026-08-04 — v3.7.0 Rail-Pass Math & Core Deal Registry
+- **KORAIL PASS decision tool:** NEW `docs/rail-pass-math.md` and `scripts/rail_pass_math.py` compare a live KORAIL PASS quote against the traveler’s actual individual KORAIL fares. It explicitly excludes SRT, metro and special tourist trains from the calculation.
+- **Single-source foundation:** NEW `data/deals.csv` assigns core verified/live-check deals an ID, city, status, source, expiry, tourist access and ID requirement; NEW `scripts/deal_registry.py` filters it by city/status. Existing prose remains intact while future updates migrate toward this registry.
+- **Itinerary correction:** Cheonan is confirmed as the third city in README and checklists, replacing the previous unnamed-city placeholder.
+
+## 2026-08-04 — v3.6.0 Four-City Research & Fast Refresh
+- **NEW `docs/city-research-hub.md`:** deep but separated search lanes for Seoul, Busan, **Cheonan** (assumed from “chaenon”), and Daejeon. Each has current official routes, Korean local-search prompts, a prioritized sequence, and a five-row daily card.
+- **NEW `data/city-source-registry.csv` + `scripts/deal_refresh.py`:** a maintained city/source registry and one-command, city-scoped refresh board. It focuses the next research sweep and explicitly requires a live terms check rather than faking automated coupon verification.
+- **New city leads with official terms:** Cheonan Tourism Taxi’s currently advertised 50% discount; Cheonan City Tour (international visitors, ₩4,000 adult fare); and Daejeon City Tour’s current 2026 operation through Nov. 29, including its bread route.
+
+## 2026-08-03 — v3.5.0 Official 2026 Deal Discovery Results
+- **New verified, tourist-usable delivery credit:** Shuttle’s official VISITKOREA code **`VK2026`** gives **₩6,000** in app credit through **Dec. 31, 2026**; instructions and source added.
+- **New official live-offer sources:** added Korea Tourism Organization’s **VISITKOREA Exclusive** partner hub (department-store, activity, performance, stay, dining/delivery offers) and Incheon Airport+ / ICN Membership coupons. Every dynamic offer is explicitly subject to its live terms.
+- **Busan pass correction:** replaced stale fixed partner/count language with Visit Busan’s current official scope—40+ paid facilities and 150+ discount partners—and a live-list value test.
+- Logged all leads in the discovery queue and verification log; city checklist now includes the confirmed Shuttle code and airport-app check.
+
+## 2026-08-03 — v3.3.0 City Deal Checklist & Current-Offer Guardrails
+- **NEW `docs/deal-discovery-system.md` + `data/deal-discovery-queue.csv`:** an 18-channel search coverage map, Korean search vocabulary, repeatable verification/tourist-access gates, recheck calendar, and a structured candidate log. It explicitly rejects the impossible claim that any static guide contains every future deal.
+- **NEW `docs/city-deal-checklist.md`:** a markable, city-first checklist for Seoul and Busan, plus a safe fill-in workflow for the still-unnamed third city. Every row has Plan / Confirmed / Used boxes and distinguishes city-specific passes from nationwide systems.
+- **Location audit:** added current official Dookki and Mom’s Touch store-finder sources and IKEA routing; confirmed that the guide should route users to a live branch finder rather than promise a specific branch or its hours months in advance.
+- **Current-offer guardrails:** rotating KakaoTalk, travel-platform, delivery, WOWPASS, department-store and festival offers are now labeled live-only. The guide no longer treats a general channel, past promo, or future event as a guaranteed coupon; users must confirm barcode expiry, branch eligibility, price and terms on the day.
+- **Workflow:** the master checklist and README now point to the city checklist; the verification log records the audit and exact safe-use rules.
+
+## 2026-08-03 — v3.2.0 Field Trip Kit, Automation & Content Expansion
+- **Field trip kit:**
+  - **NEW `docs/checklist.md`** — master to-do checklist with pre-trip deadlines (D-30/D-15/D-1), in-trip daily routine, arrival/departure day tasks, and a fill-in **birthday schedule** table (IKEA D-7 coupon due dates).
+  - **NEW `docs/arrival-guide.md`** — K-ETA status (**US citizens exempt through Dec 31, 2026**), ICN arrival steps (WOWPASS/T-money/eSIM, AREX, exchange), **self-service tax-refund kiosks at ICN T1/T2** (customs stamp first), first-meal options.
+  - **NEW `docs/money-guide.md`** — payment methods (WOWPASS vs T-money vs cards), best exchange spots, price index, daily budgets, "never do" list.
+  - **NEW `docs/phrasebook.md`** — 40 Korean phrases (kiosk, restaurant, market, delivery, tax refund, politeness) + deal-term glossary.
+  - **NEW `docs/busan-guide.md`** — Busan cheap eats by area (Seomyeon, Haeundae/Gwangalli, Jagalchi/Gukje, student districts), dwaeji gukbap/milmyeon, chain branches, VBP food discounts recap.
+  - **Naver Map tap-links** for every chain deal (new §11 in everyday-savings + links added to neighborhood guide rows) — Google Maps is unreliable in Korea.
+  - **NEW `docs/field-notes.md`** + **`data/deal-tracker.csv`** — in-trip logging template & cost tracker (per CONTRIBUTING nice-to-dos).
+- **Automation:**
+  - **NEW `scripts/check_links.py`** — checks every external URL in the repo (bot-blocked hosts handled as warnings).
+  - **NEW `scripts/check_docs.py`** — table integrity, internal links, "Last verified" date stamps (run locally: clean ✅).
+  - **NEW `.github/workflows/link-check.yml`** — weekly Monday run + manual dispatch; opens/updates an issue on broken links. *(File is ready but pending the GitHub app's `workflows` permission to be pushed/activated.)*
+  - **NEW GitHub issue templates** (broken link/deal changed, new deal) + **PR template** baking in CONTRIBUTING rules.
+- **Content updates:** full KakaoTalk channel table (added Kyochon, Gong cha, Mega/Compose/Paik's with honest 🟡 "verify in-app" notes) in signup-welcome-deals; FAQ gained K-ETA, Naver Map, and tax-refund-kiosk Q&As; README index + How-to-Use expanded; verification log updated with new sources (K-ETA guides, ICN tax kiosks, Busan HapsKorea).
+
+## 2026-08-03 — v3.1.0 Link Audit, TOS Verification & Beginner UX
+- **Full link & TOS audit (all 60+ links re-checked 2026-08-03):**
+  - **Fixed dead/hijacked links:** `koreasalefesta.co.kr` (hijacked → official `koreasalefesta.kr` + korea.kr gov source, noted offline between editions); IKEA's cited "TOS" article (wrong article → official birthday-coupon FAQ); dead Twosome FAQ (HTTP 500 → dasaja); dead Lotte English portal (`/en/main` → main site); "official" Discover Seoul Pass link was a coupon-aggregator → official `discoverseoulpass.com`.
+  - **Sources read in full (TOS):** IKEA Family birthday FAQ (apple tart since 2025-10-17, emailed exactly D-7, marketing consent required), Dookki official (₩11,900, 90-min limit, ₩3,000 environmental fee, maratang), Starbucks KR rewards (welcome Americano next-day, Green-tier birthday drink), KFC KR membership (tier birthday coupons, 30-day validity, store-visit only, 본인인증 for level-up coupons), Outback membership (anniversary ₩10,000 premium-steak coupon = tomahawk/porterhouse only), Baemin App Store (₩10,000 first-order coupon) + DigitalToday (OS-language UI, foreign cards), WOWPASS (partner cashback list), Straits Times (Lotte Mart tax refund ≥₩15,000), iVisitKorea (Tongin hours).
+- **Honesty corrections:**
+  - **IKEA birthday apple tart may require ID** at the restaurant (per Korean guides) → re-ranked in README Quick Wins; free weekday hot drink + member prices highlighted as the zero-ID IKEA perks.
+  - **Baemin:** English UI follows the phone OS language (no in-app toggle); full signup may need a Korean number → use Guest (`비회원`) ordering.
+  - **Tongin Market:** dosirak hours differ by source → recommend 11:00–14:00.
+  - **Outback:** Boomerang details updated to current official terms (anniversary coupon limited to tomahawk/porterhouse).
+  - **Myeongryun Jinsa Galbi:** added solo-dining restrictions; **Ashley Queens:** added weekend price ₩27,900.
+- **Beginner UX:**
+  - **NEW `docs/start-here.md`** — 5-minute beginner's guide: the 2 rules (skip `본인인증`, passport stays in pocket), 3 deal types (🚶 walk-in / 📲 sign-up / 🎟️ platform), app setup, 6-word Korean glossary, first-48-hours plan, and "don't waste time" list.
+  - **README:** Start Here added to How-to-Use + Guide Index; Quick Wins reordered (zero-ID deals first); WOWPASS cashback added to Quick Win #7.
+  - **FAQ:** new Q&As (IKEA ID question, Baemin language setting, WOWPASS value, festival site status).
+  - **Cheat sheet:** corrected IKEA row, Baemin OS-language note, Tongin hours note, WOWPASS step.
+  - **Verification log:** new "Link Audit — 2026-08-03" section with ✅/🔧 status tables + expanded re-verification checklist.
+
+## 2026-08-03 — v3.0.0 More Deals + User-Friendliness Overhaul
+- **New Deals Added (all verified & sourced):**
+  - **No Brand Burger (`노브랜드버거`):** Amazing Bulgogi burger **₩2,500** (launched Feb 2026; 70k sold week one — Shinsegae Food newsroom), grilled bulgogi ₩3,900, sets from ₩6,400; ~169 locations.
+  - **Mom's Touch (`맘스터치`):** Full set (burger + Cajun fries + cola) **~₩7,600**; tourist-friendly branches (Myeongdong flagship, DDP, Gangnam Station, Hongdae).
+  - **Gimbap Cheonguk (`김밥천국`)** rolls ₩2,500–4,000 + **Hong Kong Banjum (`홍콩반점0410`)** jjajangmyeon ₩7,000 (Myeongdong branch) — new "Budget Burger & Meal Chains" section.
+  - **More KakaoTalk channels:** `@네네치킨` (Nene Chicken), `@BBQ치킨`, `@맘스터치` added across action plan, birthday, and welcome-deal docs.
+  - **Myeongryun Jinsa Galbi:** upgraded to **600+ locations** + cheaper lunch specials (곤드레정식 + salad bar ₩7,000–8,000; galbi set ₩13,900); Dookki confirmed **₩11,900 on official site** with maratang/huoguo.
+  - **Discover Seoul Pass:** July 1, 2026 expansion (79 free + 140 coupon partners incl. No Brand & Traders; SPAREX/Aquafield/Seoul Cruise free entry; Pick 3 rule change; eSIM on card pass).
+  - **Visit Busan Pass:** concrete verified food discounts (Sulbing −10% Gwangbok, Mipochip −10% Haeundae, P.ARK Café ice cream).
+  - **Free water:** Arisu refill stations in Seoul subway stations (year-round) — bring a refillable bottle.
+  - **Calendar catches:** Tongin Market closed **Mon & 3rd Sunday → Sun Nov 15, 2026**; Nov 11 = Pepero Day (1+1 snack promos); Korea Sale Festa 2026 dates marked provisional (pattern: 2025 ran Oct 29 – Nov 16).
+- **User-Friendliness Overhaul:**
+  - **NEW `docs/cheat-sheet.md`** — one-page printable/screenshot summary of every deal + pre-flight 10-minute setup.
+  - **NEW `docs/trip-calendar.md`** — day-by-day Oct 31 – Nov 22 calendar with promo resets, closures, and daily windows.
+  - **NEW `docs/neighborhood-guide.md`** — deals mapped to Myeongdong, Jongno, Hongdae, Gangnam, Yeouido, Incheon, Busan.
+  - **NEW `docs/faq.md`** — ID checks, phones/eSIMs, payment, tipping, water, tax refunds, timing.
+  - **README overhaul:** "How to Use This Guide" 3-step path, expanded Guide Index, **Top 7 → Top 10 Quick Wins**, "What's New" section.
+  - **Navigation bar added to every doc** (README · Cheat Sheet · Calendar · Neighborhoods · FAQ).
+  - **Verification log expanded** with 13 new corroborated/official sources + 3 new unverified items + re-verification checklist additions.
+
 ## 2026-08-03 — v2.1.0 Exhaustive 12-Avenue Expansion for US Citizen Itinerary
 - **12-Avenue Master Checklist:** Expanded `docs/us-tourist-action-plan.md` to include an exhaustive 12-avenue master checklist covering every possible tourist-accessible F&B savings channel in South Korea.
 - **New Everyday Savings & Buffets Added:**

@@ -21,10 +21,32 @@ blog lists at the airport.
 ## Structure
 - One markdown doc per category in `docs/` — keep tables readable, columns: Brand | Deal |
   Conditions | Validity | Trust | Access.
+- Cross-link docs with the shared navigation bar (README · Cheat Sheet · Calendar · Neighborhoods · FAQ).
+- New top-level pages to maintain: `docs/start-here.md` (beginner), `docs/checklist.md` (to-dos),
+  `docs/arrival-guide.md`, `docs/money-guide.md`, `docs/phrasebook.md`, `docs/busan-guide.md`,
+  `docs/cheat-sheet.md` (one-page summary), `docs/trip-calendar.md` (date-dependent deals),
+  `docs/neighborhood-guide.md` (deals by area), `docs/field-notes.md` (in-trip log), `docs/faq.md`.
+- Every chain deal should include a **Naver Map search link** (Naver Map search URL using the Korean search text)
+  so it's tap-to-navigate on the ground. Google Maps is unreliable in Korea.
 - Put sources into `docs/verification-log.md`.
 - Note material changes in `CHANGELOG.md`.
 
+## Tooling
+- Before pushing, run:
+  - `python3 scripts/verify_repo.py` — runs docs, registry, and source-confidence checks together.
+  - `python3 scripts/check_docs.py` — tables, internal links, "Last verified" stamps.
+  - `python3 scripts/check_links.py` — external URLs (also runs weekly in CI via GitHub Actions).
+  - `python3 scripts/check_registry.py` — core deal IDs, shared lifecycle status, dates, and live-check safeguards.
+  - `python3 scripts/check_discovery_queue.py` — candidate queue uses the same lifecycle vocabulary.
+  - `python3 scripts/check_staleness.py` — active/live/future/candidate records have not passed their recheck deadline.
+  - `python3 scripts/check_claim_coverage.py` — every core registry ID has a visible document mapping.
+- Keep new workflow files in `templates/github-actions/` until an owner enables GitHub workflow permission; see `docs/github-actions-setup.md`.
+  - `python3 scripts/check_source_confidence.py` — rejects aggregators/community sources mislabeled as official.
+- Every core entry in `data/deals.csv` needs a `local_backup`: a normal, nearby, no-coupon alternative if the offer fails.
+- New deals/broken links: use the GitHub issue templates (`.github/ISSUE_TEMPLATE/`).
+- Track in-trip savings in `data/deal-tracker.csv` and upgrade badges via `docs/field-notes.md`.
+
 ## Nice-to-do later
-- Per-city sections (Seoul / Busan / Jeju) as the itinerary firms up
+- Jeju section (and deeper Busan) as the itinerary firms up
 - In-trip receipts/photos that confirm a deal actually worked → upgrade 🔴/🟡 to 🟢
-- A `deal-manage.csv` with cost per redeemed deal so we can see total savings
+- A `deal-manage.csv` with cost per redeemed deal so we can see total savings → **started: `data/deal-tracker.csv`**

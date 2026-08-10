@@ -4,7 +4,9 @@ Freebies and discount coupons you get just for joining a brand's channel or plac
 Ranked by usability for our **Oct 31 – Nov 22, 2026 US Citizen Itinerary**.
 
 > **Last verified: 2026-08-03**  
-> **🎯 US Citizen Guarantee:** Every deal in Section 1 requires **no Alien Registration Card (`ARC`), no Korean Resident Registration Number (`RRN`), no `본인인증` telecom verification, and no physical ID check** at the restaurant or kiosk.
+> **🎯 Tourist filter:** Section 1 is screened for no-ARC/no-`본인인증` use. Live barcode, branch, payment, and any stated ID terms still control at redemption.
+>
+> **🧭 Navigation:** [🏠 README](../README.md) · [🖨️ Cheat Sheet](cheat-sheet.md) · [📅 Calendar](trip-calendar.md) · [🗺️ Neighborhoods](neighborhood-guide.md) · [❓ FAQ](faq.md)
 
 ---
 
@@ -16,8 +18,31 @@ Instead of downloading native Korean apps that block US phone numbers with `본�
 - **KFC Korea (`@KFC코리아`):** Periodic chicken bucket discounts and combo upgrades.
 - **Lotteria (`@롯데리아`):** Discount barcodes for Bulgogi burger combos and shrimp burgers.
 - **Baskin Robbins (`@배스킨라빈스`) & Dunkin (`@던킨`):** Monthly discount coupons and 1+1 drink/donut promos.
+- **Nene Chicken (`@네네치킨`):** Official channel runs recurring coupon events — e.g., 2026 promos offered **₩3,000–7,000 off coupons** (including limited-collab sets). ⚠️ *Caveat: the biggest amounts target app members (미주문 회원); tourists should treat amounts as a bonus and rely on the walk-in menu. * [Official channel](https://pf.kakao.com/_xnWtrd)
+- **BBQ Chicken (`@BBQ치킨`):** Runs app-driven promos like "order a chicken, get half a chicken more" (May 2026); the KakaoTalk channel announces events — ⚠️ redemption may route through the BBQ app. [asiae news](https://www.asiae.co.kr/article/2026051321122045703)
+- **Mom's Touch (`@맘스터치`):** New-menu and combo coupons; the chain's Myeongdong/DDP/Gangnam/Hongdae branches are tourist-friendly anyway with the ~₩7,600 full set.
 - **How to use at store:** Tap the coupon in your KakaoTalk chat room, scan the barcode at the self-serve kiosk (`키오스크`), and pay with your US credit card. **Zero physical ID check required.**
-- 🟢 Official Brand Channels · [NamuWiki verification](https://en.namu.wiki/w/%EB%B2%84%EA%B1%B0%ED%82%B9/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD)
+- 🟢 Official Brand Channels (e.g., [Nene Chicken](https://pf.kakao.com/_xnWtrd)) · [NamuWiki verification](https://en.namu.wiki/w/%EB%B2%84%EA%B1%B0%ED%82%B9/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD) · 🟡 [BBQ app promo news (May 2026)](https://www.asiae.co.kr/article/2026051321122045703)
+
+### Full Channel List (search these in KakaoTalk → `채널 추가`)
+
+| Brand | Search this in KakaoTalk | Coupon style | Confidence |
+| --- | --- | --- | --- |
+| Burger King | `@버거킹` | Combo upgrades, ₩1,000–3,000 off sets | 🟢 |
+| KFC Korea | `@KFC코리아` | Bucket discounts, combo upgrades | 🟢 |
+| Lotteria | `@롯데리아` | Bulgogi/shrimp burger barcodes | 🟢 |
+| Baskin Robbins | `@배스킨라빈스` | Monthly coupons, 1+1 scoops | 🟢 |
+| Dunkin | `@던킨` | 1+1 drinks/donuts | 🟢 |
+| Paris Baguette | `@파리바게뜨` | Bakery/cake discount coupons | 🟢 |
+| Tous Les Jours | `@뚜레쥬르` | Bakery discount coupons | 🟢 |
+| Nene Chicken | `@네네치킨` | ₩3,000–7,000 off events (app-member caveats) | 🟢 [channel](https://pf.kakao.com/_xnWtrd) |
+| BBQ Chicken | `@BBQ치킨` | App-driven "half chicken more" promos | 🟡 [asiae](https://www.asiae.co.kr/article/2026051321122045703) |
+| Mom's Touch | `@맘스터치` | New-menu/combos (walk-in set is cheap anyway) | 🟢 |
+| Kyochon Chicken | search `교촌치킨` | Seasonal chicken coupons | 🟡 (verify exact ID in-app) |
+| Gong cha | search `공차` | Drink coupons | 🟡 (verify exact ID in-app) |
+| Mega / Compose / Paik's Coffee | search `메가커피` / `컴포즈커피` / `빽다방` | Drink promos (prices are already ~₩1,500–2,000) | 🟡 (verify exact ID in-app) |
+
+> ⚠️ **Note:** brand channel IDs occasionally change. If a search doesn't find the exact `@` ID above, search the **brand name** (e.g., "교촌치킨") and pick the channel with the **verified (파란 체크) badge**. All channels work from a US KakaoTalk account — no Korean phone needed.
 
 ### 2. The Hyundai Seoul & Hyundai Dept. Store (`Café H`) — Free Welcome Drinks & Dining Coupons
 - **Free Welcome Drinks:** Present your passport at the Foreign Customer Service desk (B1 or 6F) or use the **H.Point Global app** to receive a tourist welcome barcode good for **2 free cups of Americano or tea at Café H** per visit.
@@ -29,7 +54,7 @@ Instead of downloading native Korean apps that block US phone numbers with `본�
 - Built explicitly for international visitors and expats in South Korea (English-only interface).
 - **No Korean phone number or ARC required:** Register with your standard email address and US phone number.
 - **Payment:** Accepts all major US credit cards (Visa, Mastercard, Amex, Apple Pay) without Korean payment plugins.
-- **Welcome Hack:** Before ordering, buy **Shuttle Delivery e-gift vouchers at a discount on Klook** (e.g., buy a ₩20,000 voucher for ~10–15% off in USD) and apply it at checkout!
+- **Welcome Hack:** Before ordering, buy **Shuttle Delivery e-gift vouchers at an exclusive discount on Klook** (check the current % — it varies by promo) and apply the code at checkout!
 - 🔗 Official Shuttle Klook page: <https://www.klook.com/activity/120381-food-delivery-in-korea/>
 
 ### 4. Baemin (`배달의민족`) — English UI & Guest Checkout (`비회원 주문`) Welcome
@@ -38,10 +63,11 @@ Instead of downloading native Korean apps that block US phone numbers with `본�
 - **Welcome Discount:** New user promotions and first-order banners (often **₩10,000 off**) appear on the English home screen for first-time guest/app orders.
 - 🔗 Official App Store listing: <https://apps.apple.com/kr/app/id378084485> · 🟢 [English UI launch news (Feb 2026)](https://www.digitaltoday.co.kr/en/view/2972/baemin-starts-in-app-support-for-english-chinese-and-japanese)
 
-### 5. IKEA Family Korea — Welcome Dessert & Family Member Pricing
-- Register at [ikea.com/kr/en](https://www.ikea.com/kr/en/ikea-family/) using **only your email address**.
-- Unlocks instant IKEA Family member pricing on Swedish meatballs, breakfast plates, and bakery items at IKEA restaurant locations, plus auto-issued birthday dessert coupons.
-- 🟢 [Official TOS](https://www.ikea.com/kr/en/customer-service/knowledge/articles/g596251f-8ef8-4fc2-b978-759612249f08.html)
+### 5. IKEA Family Korea — Free Weekday Hot Drink & Member Pricing (+ Birthday Tart)
+- Register at [ikea.com/kr/en](https://www.ikea.com/kr/en/ikea-family/) using **only your email address** (no Korean phone verification).
+- **Instant, no-ID benefits:** member pricing on Swedish meatballs, breakfast plates, and bakery items, plus a **free hot coffee/tea at the weekday restaurant** — just scan your member QR.
+- **Birthday benefit:** a free **apple tart** coupon emailed **exactly 7 days before** your registered birthday (marketing/email consent must be ON). ⚠️ *Korean deal guides report ID may be requested for the tart — the hot drink and member prices need no ID.*
+- 🟢 [Official birthday-coupon FAQ (read 2026-08-03)](https://www.ikea.com/kr/ko/customer-service/knowledge/articles/fd4b29g9-7e76-4484-b1b5-5gf4e6fcb285.html) · [IKEA Family benefits](https://www.ikea.com/kr/ko/ikea-family/benefits/)
 
 ---
 

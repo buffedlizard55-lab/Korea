@@ -1,0 +1,19 @@
+city,search_lane,priority,source_name,source_url,refresh_cadence,tourist_access,what_to_check,last_checked,status
+Seoul,official tourist deals,1,VISITKOREA Exclusive,https://english.visitkorea.or.kr/svc/thingsToDo/alliance/allianceList.do?menuSn=607,weekly,tourist,Live partner city filters expiry passport rules and terms,2026-08-04,active
+Seoul,transit pass,1,Climate Card Short-Term Pass,https://english.seoul.go.kr/climate-cards-and-single-journey-transit-tickets-now-accepting-international-credit-cards-no-cash-needed/,weekly,tourist,Eligible-route coverage short-pass price activation and international-card fee,2026-08-04,active
+Seoul,city pass,1,Discover Seoul Pass,https://www.discoverseoulpass.com,weekly,tourist,Pass price free attraction and coupon list activation rules,2026-08-04,active
+Seoul,city tour,2,Seoul City Tour Tiger Bus,https://en.seoulcitybus.com/,weekly,tourist,Same-day partner offers route price and exclusions,2026-08-04,active
+Seoul,department store,2,The Hyundai Seoul foreign desk,https://www.thehyundai.com,arrival-day,passport-needed,Current visitor booklet cafe food and shopping coupons,2026-08-04,live-in-person
+Seoul,local food,2,Naver Map Seoul searches,https://map.naver.com,weekly,tourist,점심특선 and 가성비 menu photos within planned neighborhood,2026-08-04,active
+Busan,city pass,1,Visit Busan Pass,https://www.visitbusanpass.com/,weekly,tourist,Current pass type price free attractions and food discount partners,2026-08-04,active
+Busan,official tourism,1,Visit Busan,https://www.visitbusan.net/en/,weekly,tourist,Events partner promotions and foreign visitor notices,2026-08-04,active
+Busan,city payment,1,Busan Pay,https://www.busan.go.kr/bige/daily-busan/view?dataNo=69959&curPage=2&bbsNo=10&srchCl=Daily+Busan,weekly,tourist,Live merchant cashback cap QR discount and Visit Busan Pass purchase terms,2026-08-04,active
+Busan,local food,2,Naver Map Busan searches,https://map.naver.com,weekly,tourist,돼지국밥 밀면 and 점심특선 menus near hotel,2026-08-04,active
+Cheonan,official tourism,1,Cheonan Culture & Tourism,https://www.cheonan.go.kr/tour.do,weekly,tourist,2026 tourism taxi 50 percent offer city tour dates and booking availability,2026-08-04,active
+Cheonan,city tour,1,Cheonan City Tour,https://cheonan.go.kr/tour/sub02_01_01.do,weekly,tourist,Route schedule adult fare and booking; attraction fees are separate,2026-08-04,active
+Cheonan,local food,2,Naver Map Cheonan searches,https://map.naver.com,weekly,tourist,천안 가성비 점심특선 and local bakery menu photos,2026-08-04,active
+Daejeon,city tour,1,Daejeon City Tour,https://reservation.qless.ai/b/daejeoncitytour,weekly,tourist,2026 operating dates route fare and seats; current page through Nov 29,2026-08-04,active
+Daejeon,city government deals,1,Daejeon City tourism news,https://www.daejeon.go.kr,weekly,tourist,0 oclock festival Tour Pass Mall and seasonal ticket offers; reject expired promotions,2026-08-04,active
+Daejeon,local food,1,Naver Map Daejeon searches,https://map.naver.com,weekly,tourist,빵시투어 성심당 and local lunch menu photos,2026-08-04,active
+Nationwide,official tourist deals,1,VISITKOREA Exclusive,https://english.visitkorea.or.kr/svc/thingsToDo/alliance/allianceList.do?menuSn=607,weekly,tourist,City-specific partner offers and changes,2026-08-04,active
+Nationwide,delivery,1,Shuttle VISITKOREA credit,https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=1589790,monthly,tourist,VK2026 expiry credit and delivery zone,2026-08-04,active
