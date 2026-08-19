@@ -89,7 +89,7 @@ If you buy a city tourist pass for attractions, do not overlook their embedded r
 Major Korean department stores offer exclusive dining and cafe vouchers to foreign visitors holding non-Korean passports:
 
 ### The Hyundai Seoul & Hyundai Department Store (`Café H`)
-- **Free Welcome Drinks:** Visit the Foreign Customer Service desk (B1 or 6F at The Hyundai Seoul) or open the **H.Point Global app** to receive a tourist welcome barcode good for **2 free cups of Americano or tea at Café H** per visit.
+- **Free Welcome Drinks:** ⚠️ **Unverified (2026-08-18 audit)** — the "2 free cups at Café H" figure has no official Hyundai source. Visit the Foreign Customer Service desk (B1 or 6F at The Hyundai Seoul) or open the **H.Point Global app** and ask what is currently offered.
 - **Food Court Coupons:** Receive a welcome booklet containing **₩5,000 to ₩10,000 off vouchers** for basement food halls (`B1 Food Floor`) and rooftop dining.
 - **ID check?** Passport is shown once at the B1 foreign desk to receive the voucher booklet; **zero ID check at the cafe or restaurant counter** when scanning your coupon.
 

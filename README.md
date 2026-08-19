@@ -80,6 +80,7 @@ The guide is organized around the actual route: **Incheon arrival → Seoul → 
 | 🛍️ [`docs/tourist-promotions.md`](docs/tourist-promotions.md) | **Korea Sale Festa 2026 (autumn)**, Boarding Pass Perks, Airport Buffet Lounges, Discover Seoul Pass & Klook/KKday deals | Festivals & passes |
 | 🍱 [`docs/everyday-savings.md`](docs/everyday-savings.md) | All-You-Can-Eat (`무한리필`) BBQ/Buffets, **budget burger & meal chains**, Tongin Market Coin Lunchbox, Convenience 1+1/2+1 & Hypermarket Tax Refund | Everyday meals |
 | 🕵️ [`docs/verification-log.md`](docs/verification-log.md) | Every claim and source, with access dates and confidence/tourist accessibility ratings + **Link Audit** | Trust check |
+| 🔍 [`docs/audit-2026-08-18.md`](docs/audit-2026-08-18.md) | **Independent external audit** — line-by-line re-verification against primary sources; 6 corrections, 1 downgrade, 1 structural fix | Verify the verifier |
 | 📝 [`docs/field-notes.md`](docs/field-notes.md) | **NEW:** In-trip log template — track prices paid, ID checks, and what worked; upgrades 🔴/🟡 → 🟢 | During the trip |
 | 📊 [`data/deal-tracker.csv`](data/deal-tracker.csv) | Blank live CSV tracker—one row per real redemption; see [`data/examples/deal-tracker-example.csv`](data/examples/deal-tracker-example.csv) for format | Counting your savings |
 

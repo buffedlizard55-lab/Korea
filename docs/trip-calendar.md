@@ -38,7 +38,7 @@ Every deal that has a **date, day-of-week, or timing dependency** on your trip, 
 | --- | --- | --- |
 | **Nov 8** | Sun | Brunch buffet day: Ashley Queens weekday lunch ₩19,900 doesn't apply (Sun) — check weekend pricing or pick Dookki ₩11,900 instead. |
 | **Nov 9** | Mon | ⚠️ Tongin Market **closed** (Monday). Bakery clearance 20:30–21:30 at Paris Baguette/Tous Les Jours. |
-| **Nov 10** | Tue | Tongin Market lunchbox day (₩10,000 / 20 coins + tray). Combine with Gyeongbokgung morning. |
+| **Nov 10** | Tue | Tongin Market lunchbox day (₩500/coin; 10-coin ₩5,000 minimum, ₩10,000 = 20 coins + tray). Combine with Gyeongbokgung morning. |
 | **Nov 11** | Wed | 🛍️ **Nov 11 = Pepero Day** — convenience stores & bakeries run 1+1/2+1 Pepero promos; great cheap gifts to bring home. |
 | **Nov 12** | Thu | Weekday lunch special + department store evening clearance combo day. |
 | **Nov 13** | Fri | Check KakaoTalk chats for weekend coupon drops (BK/KFC weekend combos). |

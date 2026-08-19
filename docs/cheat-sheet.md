@@ -26,9 +26,9 @@ The entire guide condensed into **one page you can screenshot** or print for the
 
 | Deal | Price | Where / When |
 | --- | --- | --- |
-| **Myeongryun Jinsa Galbi** — unlimited Korean BBQ (meat + sides + soda) | **₩21,900** (~$16) | 600+ locations; weekday lunch special "곤드레정식 + salad bar" **₩7,000–8,000** |
+| **Myeongryun Jinsa Galbi** — unlimited Korean BBQ (meat + sides + soda) | **₩21,900** (~$16) | Nationwide; **weekday 120 min / weekend 100 min**. Weekday lunch specials exist but the menu and price vary by branch (₩7,000–11,900 reported) — confirm at the branch |
 | **Dookki** — unlimited tteokbokki hotpot (now with maratang/huoguo) | **₩11,900** (~$9) | Nationwide; 1.5 hr limit |
-| **No Brand Burger** — Amazing Bulgogi burger | **₩2,500** (sets from ₩6,400) | ~169 locations (many near E-Mart) |
+| **No Brand Burger** — Amazing Bulgogi burger | **₩2,500** (Amazing Bulgogi set **₩4,500**) | Nationwide (many near E-Mart) |
 | **Mom's Touch** — full burger set (burger+fries+cola) | **~₩7,600** | Myeongdong flagship, DDP, Gangnam Station, Hongdae |
 | **Gimbap Cheonguk** — gimbap + ramen meal | **₩2,500–4,000 / ₩3,500** | Everywhere, 24h branches common |
 | **Hong Kong Banjum** — jjajangmyeon | **₩7,000** | Myeongdong & nationwide (Baek Jong-won chain) |
@@ -57,7 +57,7 @@ The entire guide condensed into **one page you can screenshot** or print for the
 | **Nov 1 (Sun)** | Fresh November promo slate at CU/GS25/7-Eleven/emart24 |
 | **Late Oct – mid Nov** | **Korea Sale Festa 2026** — look for festival banners at restaurants & food halls (2026 dates TBA; 2024 ran Nov 9–30, 2025 ran Oct 29 – Nov 16; official site koreasalefesta.kr returns ~Sep/Oct) |
 | **Daily 19:30–20:30** | Department store B1 food halls: sushi/deli/bakery 20–40% off (The Hyundai Seoul, Lotte, Shinsegae) |
-| **Tue–Sun ~11:00–16:00** | Tongin Market brass-coin lunchbox: **₩10,000 = 20 coins + tray** (closed Mondays & **Sun Nov 15**; hours differ by source — go 11:00–14:00 to be safe) |
+| **Tue–Sun ~11:00–16:00** | Tongin Market brass-coin lunchbox: **₩10,000 = 20 coins (₩500 each) + tray; ₩5,000/10-coin minimum also sold** (closed Mondays & **Sun Nov 15**; hours differ by source — go 11:00–14:00 to be safe) |
 | **Any weekday 11:00–14:00** | `점심 특선` weekday lunch specials — fine dining at ½ price |
 
 ---

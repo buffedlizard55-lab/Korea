@@ -45,7 +45,7 @@ Instead of downloading native Korean apps that block US phone numbers with `본�
 > ⚠️ **Note:** brand channel IDs occasionally change. If a search doesn't find the exact `@` ID above, search the **brand name** (e.g., "교촌치킨") and pick the channel with the **verified (파란 체크) badge**. All channels work from a US KakaoTalk account — no Korean phone needed.
 
 ### 2. The Hyundai Seoul & Hyundai Dept. Store (`Café H`) — Free Welcome Drinks & Dining Coupons
-- **Free Welcome Drinks:** Present your passport at the Foreign Customer Service desk (B1 or 6F) or use the **H.Point Global app** to receive a tourist welcome barcode good for **2 free cups of Americano or tea at Café H** per visit.
+- **Free Welcome Drinks:** ⚠️ **Unverified (2026-08-18 audit).** Widely blogged as "2 free cups of Americano or tea at Café H," but no Hyundai/H.Point source confirms the quantity or that it is still running. Ask at the Foreign Customer Service desk (B1 or 6F) with your passport, or check the H.Point Global app — do not budget on it.
 - **Food Court Dining Coupons:** Welcome booklets include **₩5,000 to ₩10,000 off vouchers** for basement food halls (`B1 Food Floor`) and 6F/5F restaurants.
 - **How to use:** Present the barcode at the cashier or Cafe H counter. **No ID checked at the cafe counter** (only shown once at the B1 foreign customer desk to receive the booklet).
 - 🟢 Official Department Store Tourist Service

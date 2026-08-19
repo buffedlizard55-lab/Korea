@@ -19,7 +19,7 @@
 ### 종로/광화문 Jongno · Gwanghwamun (Palaces & history)
 | Deal | What you get | Where |
 | --- | --- | --- |
-| **Tongin Market brass-coin lunchbox** | **₩10,000** = 20 coins + tray, build a 5–8 dish feast | 8 min walk from Gyeongbokgung; Tue–Sun ~11:00–16:00 (hours differ by source — go 11:00–14:00); **closed Mon & Sun Nov 15** · [Naver Map](https://map.naver.com/p/search/%ED%86%B5%EC%9D%B8%EC%8B%9C%EC%9E%A5) |
+| **Tongin Market brass-coin lunchbox** | **₩500 per coin** (10-coin ₩5,000 minimum; ₩10,000 = 20 coins + tray), build a 5–8 dish feast | 8 min walk from Gyeongbokgung; Tue–Sun ~11:00–16:00 (hours differ by source — go 11:00–14:00); **closed Mon & Sun Nov 15** · [Naver Map](https://map.naver.com/p/search/%ED%86%B5%EC%9D%B8%EC%8B%9C%EC%9E%A5) |
 | **Boarding-pass discounts** | 10–20% off traditional tea houses & restaurants | Show Asiana/Korean Air boarding pass (within validity window) |
 | **Gimbap Cheonguk / 24h diners** | Gimbap ₩2,500–4,000, ramen ₩3,500 | Dozens around Anguk/Insadong |
 
