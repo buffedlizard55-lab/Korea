@@ -370,3 +370,41 @@ Twenty new core registry records were added only after the official page was ope
 - **`BUSAN-MUSEUM-ART` main building remains closed**; only Lee Ufan Space is open.
 - **`busan.go.kr/sea/onguide` returned an error on 2026-08-19.** Marine Natural History Museum was sourced from the live VISITKOREA listing instead.
 - **No new official product-level BOGO** for November 2026 could be verified. Do not invent 1+1 SKUs.
+
+---
+
+## Second official Seoul/Busan expansion — 2026-08-19
+
+Twenty more records. Donuimun was added as **expired** because the official annex page says it is closed through 2026-12-31.
+
+| Registry ID | Exact terms copied from the official page | Manual verification link |
+| --- | --- | --- |
+| `SEOUL-HANYANG-WALL` | 관람료무료. 09:00–18:00 last entry 17:30. Closed Mondays and Jan 1. | 🟢 [한양도성박물관 관람안내](https://museum.seoul.go.kr/scwm/hanyangMuseum/watchGuide.jsp) |
+| `SEOUL-LIVING-HISTORY` | 관람료 무료. 09:00–18:00 last entry 17:30. Nowon. | 🟢 [서울생활사박물관 관람안내](https://museum.seoul.go.kr/www/intro/annexIntro/annex_urbanlife/annex_urbanlife_01.jsp?sso=ok) |
+| `SEOUL-DONGDAEMUN-HIST` | 관람료 무료. 10:00–18:00 last entry 17:30; closed 12:00–13:00. Closed Mondays Jan 1 Seollal Chuseok. | 🟢 [동대문역사관·운동장기념관](https://museum.seoul.go.kr/www/intro/annexIntro/annex_18/annex_18_01.jsp?sso=ok) |
+| `SEOUL-SEMA` | 관람료 무료, 특별전 유료. Tue–Thu 10:00–20:00; Fri 10:00–21:00; weekends Mar–Oct 10:00–19:00 / Nov–Feb 10:00–18:00. | 🟢 [SeMA 서소문본관](https://sema.seoul.go.kr/kr/visit/seosomun) |
+| `SEOUL-SEMA-BUK` | 관람료 무료, 특별전 유료. Same weekday/weekend pattern. Nowon. | 🟢 [SeMA 북서울미술관](https://sema.seoul.go.kr/kr/visit/bukseoul) |
+| `SEOUL-SEMA-NAM` | 관람료 무료. Tue–Fri 10:00–20:00; Sat/Sun/holidays 10:00–18:00. Sadang. | 🟢 [SeMA 남서울미술관](https://sema.seoul.go.kr/kr/visit/namseoul) |
+| `SEOUL-BAEKINJE` | 관람요금 무료. Outdoor free viewing; inner rooms only with reserved commentary. | 🟢 [백인제가옥](https://museum.seoul.go.kr/www/intro/annexIntro/annex_22/annex_22_01.jsp?sso=ok) |
+| `SEOUL-DILKUSHA` | 관람요금 무료. Tue–Sun 09:00–18:00 last entry 17:30. | 🟢 [딜쿠샤](https://museum.seoul.go.kr/www/intro/annexIntro/annex_dilkusha/annex_dilkusha_01.jsp?sso=ok) |
+| `SEOUL-GONGPYEONG` | 관람료 무료. Jonggak Centropolis B1. | 🟢 [공평도시유적전시관](https://museum.seoul.go.kr/www/intro/annexIntro/annex_gongpyeong/annex_gongpyeong_01.jsp?sso=ok) |
+| `SEOUL-GUNGISI` | 관람료 무료. Nov–Feb 09:00–20:00; Mar–Oct 09:00–21:00. Closed Sundays. City Hall B1. | 🟢 [군기시유적전시실](https://museum.seoul.go.kr/www/intro/annexIntro/annex_gun/annex_gun_01.jsp?sso=ok) |
+| `SEOUL-DONUIMUN` | Admission would be free, but official page: closed 2025-09-01 through 2026-12-31. | 🟢 [돈의문역사관](https://museum.seoul.go.kr/www/intro/annexIntro/annex_donuimoon/annex_donuimoon_01.jsp?sso=ok) |
+| `BUSAN-MODERN-HIST` | 관람료 무료. 09:00–18:00 last entry 17:00. Closed Mondays and Jan 1. | 🟢 [부산근현대역사관](https://www.busan.go.kr/mmch/mdview) |
+| `BUSAN-TEMP-CAPITAL` | 관람료 무료. Tue–Sun 09:00–18:00. Closed Mondays and Jan 1. | 🟢 [임시수도기념관](https://www.busan.go.kr/monument/index) |
+| `BUSAN-FORCED-LABOR` | 관람료 및 주차 무료. 09:30–17:30. Homepage also shows 상시 전시해설 currently closed. | 🟢 [국립일제강제동원역사관](https://museum.ilje.or.kr/kor/Main.do) |
+| `BUSAN-NURIMARU` | 관람료 무료. Daily 09:00–18:00 last entry 17:00. Closed first Monday of each month. | 🟢 [누리마루 APEC 하우스](https://www.busan.go.kr/nurimaru/Design/sub0101.jsp) |
+| `BUSAN-ORYUKDO` | 이용요금 무료. 09:00–18:00 last entry 17:50. Weather/maintenance closures. | 🟢 [Visit Busan 3 skywalks](https://www.visitbusan.net/index.do?menuCd=DOM_000000201001001000&uc_seq=49&lang_cd=ko) |
+| `BUSAN-SONGDO-WALK` | 이용요금 무료. 06:00–23:00. Cable car is separate. | 🟢 [same Visit Busan page](https://www.visitbusan.net/index.do?menuCd=DOM_000000201001001000&uc_seq=49&lang_cd=ko) |
+| `BUSAN-CHEONGSAPO` | 이용요금 무료. 09:00–18:00 (Jun–Aug 20:00). Overshoes at entrance. | 🟢 [same Visit Busan page](https://www.visitbusan.net/index.do?menuCd=DOM_000000201001001000&uc_seq=49&lang_cd=ko) |
+| `SEOUL-SHINSEGAE-DF` | Mar 5–Dec 31 2026. Gold membership up to 15% off; vouchers up to ₩120,000 by spend. Myeongdong + ICN. | 🟢 [Shinsegae Duty Free VISITKOREA](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=1589569) |
+| `SEOUL-COCORY` | Through Dec 31 2026. 10% off personal color analysis; book online and show VISITKOREA coupon. | 🟢 [COCORY COLOR Exclusive](https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=607&vcontsId=1589972) |
+
+### Still not added as priced trip deals
+
+| Lead | Why |
+| --- | --- |
+| Yacht Tale 50% | Still no 2026 partner page with a Yacht Tale percentage. |
+| The Painters 2026 30% | Hub category maximum only. |
+| November CU/GS25 1+1 SKUs | Official November catalogs still unpublished. |
+| Busan Cinema Center free outdoor movies | Official pages found were **2021** programs, not 2026. |

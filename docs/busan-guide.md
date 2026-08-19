@@ -70,6 +70,10 @@ Busan is Korea's second city — seafood capital, coastal scenery, and food pric
 | **UN Memorial Cemetery** | Nam-gu / UN Rotary | No admission fee; 365 days; winter Oct–Apr 09:00–17:00 last entry 16:45; no food; no slippers | `BUSAN-UNMCK` |
 | **National Maritime Museum** | Yeongdo | Permanent exhibitions free; 4D/special exhibitions paid | `BUSAN-MUSEUM-MARITIME` |
 | **Bokcheon Museum** | Dongnae | Free; closed Mondays/New Year | `BUSAN-MUSEUM-BOKCHEON` |
+| **Busan Modern History Museum** | Jung-gu / Nampo | Official city page: free; 09:00–18:00 last entry 17:00; closed Mondays and Jan 1 | `BUSAN-MODERN-HIST` |
+| **Temporary Capital Memorial Hall** | Seo-gu | Official city home: free; Tue–Sun 09:00–18:00 | `BUSAN-TEMP-CAPITAL` |
+| **Nurimaru APEC House** | Dongbaekseom | Official city page: free; 09:00–18:00 last entry 17:00; closed first Monday of each month | `BUSAN-NURIMARU` |
+| **Oryukdo / Songdo / Cheongsapo skywalks** | Nam-gu / Seo-gu / Haeundae | Official Visit Busan listing: 이용요금 무료; weather/maintenance closures | `BUSAN-ORYUKDO` `BUSAN-SONGDO-WALK` `BUSAN-CHEONGSAPO` |
 
 ⚠️ Busan Museum of Art’s **main building is closed** for renovation. Only the free Lee Ufan Space is open until the museum confirms an autumn 2026 reopening. `BUSAN-MUSEUM-ART`
 

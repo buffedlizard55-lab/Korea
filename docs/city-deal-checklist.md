@@ -67,6 +67,7 @@ The final third-city leg is flexible between **Cheonan and Daejeon**. Do not com
 | --- | --- | --- | --- | --- | --- |
 | Visit Busan Pass | Busan attractions/partners only | 🔄 Official scope: 40+ facilities + 150+ discount partners; check its live app/site before purchase. Earlier food-partner reports: Sulbing Gwangbok, Mipochip (2+ orders), P.ARK | ☐ | ☐ | ☐ |
 | Busan Museum / Marine Natural History Museum / UN Memorial Cemetery | Nam-gu Daeyeon and Dongnae | ✅ Official pages: admission free. UNMCK winter hours Oct–Apr 09:00–17:00 last entry 16:45; no food/slippers. `BUSAN-MUSEUM` `BUSAN-MARINE-NHM` `BUSAN-UNMCK` | ☐ | ☐ | ☐ |
+| Modern History Museum / Temporary Capital / Nurimaru / skywalks | Nampo, Seo-gu, Dongbaekseom, Oryukdo/Songdo/Cheongsapo | ✅ Official city and Visit Busan pages: admission/use free. Nurimaru closed first Monday of each month. `BUSAN-MODERN-HIST` `BUSAN-TEMP-CAPITAL` `BUSAN-NURIMARU` `BUSAN-ORYUKDO` | ☐ | ☐ | ☐ |
 | Busan Pay | Participating Busan merchants | ✅ Official city guide: 5–7% cashback at participating merchants; some QR payments add 3%; VBP purchase earns 5%. 🔄 Verify merchant/rate/cap in app; no cashback at malls/duty-free | ☐ | ☐ | ☐ |
 | IKEA Family | **IKEA Dongbusan**, Gijang (Busan metro) | ✅ Same membership terms; check restaurant opening hours before a special trip | ☐ | ☐ | ☐ |
 | Lotte Mart / E-Mart tax refund | Busan branches | ✅ Qualifying packaged goods ≥₩15,000; ⚠️ passport at checkout | ☐ | ☐ | ☐ |

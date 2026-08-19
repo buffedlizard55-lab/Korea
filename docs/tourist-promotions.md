@@ -33,6 +33,8 @@ These are **live coupons**, not standing walk-in prices. Open the partner page o
 | Golden Blue Marina | Through Dec 31 2026 | Up to 50% Hangang yacht activities; 50% private rental **09:00–14:00 only** | `SEOUL-GOLDENBLUE` |
 | CATCHTABLE | Through Dec 31 2026 | Reservation discounts and complimentary welcome drink/food/gift at participating restaurants; email + foreign card; no Korean phone | `NATIONWIDE-CATCHTABLE` |
 | Culture Day (`문화가 있는 날`) | Every Wednesday from Apr 1 2026 | Venue-specific free/discount; movie ₩10,000 evening price is 2nd and last Wednesday 17:00–21:00 only | `NATIONWIDE-CULTUREDAY` |
+| Shinsegae Duty Free | Mar 5 – Dec 31 2026 | Gold membership up to 15% off; vouchers up to ₩120,000 by spend; Myeongdong + ICN | `SEOUL-SHINSEGAE-DF` |
+| COCORY COLOR | Through Dec 31 2026 | 10% off in-shop personal color analysis; book online and show VISITKOREA coupon | `SEOUL-COCORY` |
 
 ---
 

@@ -130,3 +130,30 @@ Twenty new core records were promoted only after an official government, museum,
 | `NATIONWIDE-CATCHTABLE` | CATCHTABLE VISITKOREA restaurant offers | Live Check | [Tourist Promotions](tourist-promotions.md) |
 | `NATIONWIDE-CULTUREDAY` | Culture Day every Wednesday | Live Check | [Tourist Promotions](tourist-promotions.md) |
 | `SEOUL-AUTUMN-FEST` | 2026 Seoul Autumn Festival calendar | Future | [Deal Status Board](deal-status-board.md) |
+
+## 2026-08-19 second official Seoul/Busan expansion
+
+Twenty more records were promoted only after official city, museum, Visit Busan, or Korea Tourism Organization pages were opened. Manual links are in [Verification Log](verification-log.md#second-official-seoulbusan-expansion--2026-08-19).
+
+| Registry ID | Deal | Status | Read with |
+| --- | --- | --- | --- |
+| `SEOUL-HANYANG-WALL` | Hanyangdoseong Museum | Active | [City Research Hub](city-research-hub.md) |
+| `SEOUL-LIVING-HISTORY` | Seoul Living History Museum | Active | [City Research Hub](city-research-hub.md) |
+| `SEOUL-DONGDAEMUN-HIST` | Dongdaemun History Museum and Sports Memorial | Active | [City Research Hub](city-research-hub.md) |
+| `SEOUL-SEMA` | SeMA Seosomun regular admission | Active | [City Research Hub](city-research-hub.md) |
+| `SEOUL-SEMA-BUK` | SeMA Buk-Seoul regular admission | Active | [City Research Hub](city-research-hub.md) |
+| `SEOUL-SEMA-NAM` | SeMA Nam-Seoul admission | Active | [City Research Hub](city-research-hub.md) |
+| `SEOUL-BAEKINJE` | Baek In-je House outdoor visit | Active | [City Research Hub](city-research-hub.md) |
+| `SEOUL-DILKUSHA` | Dilkusha historic house | Active | [City Research Hub](city-research-hub.md) |
+| `SEOUL-GONGPYEONG` | Gongpyeong Historic Site Museum | Active | [City Research Hub](city-research-hub.md) |
+| `SEOUL-GUNGISI` | Gungisi Relics Exhibition Room | Active | [City Research Hub](city-research-hub.md) |
+| `SEOUL-DONUIMUN` | Donuimun History Museum | Expired through 2026-12-31 | [Deal Status Board](deal-status-board.md) |
+| `BUSAN-MODERN-HIST` | Busan Modern History Museum | Active | [Busan Guide](busan-guide.md) |
+| `BUSAN-TEMP-CAPITAL` | Temporary Capital Memorial Hall | Active | [Busan Guide](busan-guide.md) |
+| `BUSAN-FORCED-LABOR` | National Forced Mobilization Memorial | Live Check | [Busan Guide](busan-guide.md) |
+| `BUSAN-NURIMARU` | Nurimaru APEC House | Active | [Busan Guide](busan-guide.md) |
+| `BUSAN-ORYUKDO` | Oryukdo Skywalk | Active | [Busan Guide](busan-guide.md) |
+| `BUSAN-SONGDO-WALK` | Songdo Cloud Walk | Active | [Busan Guide](busan-guide.md) |
+| `BUSAN-CHEONGSAPO` | Cheongsapo Daritdol Observatory | Active | [Busan Guide](busan-guide.md) |
+| `SEOUL-SHINSEGAE-DF` | Shinsegae Duty Free VISITKOREA offers | Live Check | [Tourist Promotions](tourist-promotions.md) |
+| `SEOUL-COCORY` | COCORY COLOR 10% analysis | Live Check | [Tourist Promotions](tourist-promotions.md) |

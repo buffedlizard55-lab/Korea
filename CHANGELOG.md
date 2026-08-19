@@ -1,5 +1,9 @@
 # Changelog
 
+## 2026-08-19 — v5.6.1 Second official Seoul/Busan expansion (20 more records)
+- **20 additional official records:** SeMA branches, Seoul History Museum annexes, Busan Modern History / Temporary Capital / Forced Mobilization / Nurimaru, three Visit Busan free skywalks, Shinsegae Duty Free VISITKOREA, and COCORY COLOR 10%.
+- **Donuimun History Museum** logged as expired for this trip (official closure through 2026-12-31).
+
 ## 2026-08-19 — v5.6.0 Official Seoul/Busan Expansion (20 verified records)
 - **20 new core registry records** added only after official government, museum, or Korea Tourism Organization pages were opened. Twelve are free Seoul/Busan admissions; eight are dated promotional discounts or live calendars.
 - **Not added:** Hangang drone second-half dates are only planned Sep–Oct; Yacht Tale/The Painters headline percentages lacked a current partner page; Seoulland is outside Seoul/Busan; no November convenience 1+1 SKU list exists yet.

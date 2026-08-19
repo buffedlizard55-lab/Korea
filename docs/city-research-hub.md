@@ -35,7 +35,8 @@ The script does **not** claim a coupon is live. It tells a researcher exactly wh
 | **Hangang Drone Light Show** | Free only if a published date lands | ⚠️ First-half 2026 dates Apr 10–Jun 5 are over. Official SMG only plans more shows Sep–Oct, which may miss Nov trip days. Recheck [seouldroneshow.com](https://www.seouldroneshow.com/). [SMG release](https://english.seoul.go.kr/2026-hangang-drone-light-show-festival-to-illuminate-the-night-sky/) |
 | **The Hyundai Seoul / department-store visitor desks** | Potential visitor booklet, food or shopping benefits | Ask the desk on arrival; use passport only if the current booklet requires it. |
 | **Free national museums** | No-admission indoor anchors in Yongsan/Gwanghwamun | ✅ Permanent halls at the National Museum of Korea, War Memorial, National Folk Museum, National Palace Museum, and National Museum of Korean Contemporary History are free on the official visitor pages. Palace grounds and special exhibitions remain paid. `SEOUL-MUSEUM-NMK` `SEOUL-WARMEMO` `SEOUL-FOLK` `SEOUL-PALACE-MUSEUM` `SEOUL-MUCH` |
-| **Seoul History Museum annexes** | Small free houses/museums on existing walks | ✅ Official annex pages list Gyeonggyojang, Cheonggyecheon Museum, and Seoul Museum of Korean Folk Music as free. `SEOUL-GYEONGGYOJANG` `SEOUL-CHEONGGYECHEON-MUSEUM` `SEOUL-URI-SORI` |
+| **Seoul History Museum annexes** | Small free houses/museums on existing walks | ✅ Official annex pages list Gyeonggyojang, Cheonggyecheon Museum, Seoul Museum of Korean Folk Music, Hanyangdoseong, Dongdaemun History, Gongpyeong, Gungisi, Dilkusha, and Baek In-je outdoor visit as free. Donuimun is **closed through 2026-12-31**. `SEOUL-GYEONGGYOJANG` `SEOUL-HANYANG-WALL` `SEOUL-DONGDAEMUN-HIST` `SEOUL-GONGPYEONG` `SEOUL-DONUIMUN` |
+| **SeMA city museums** | Free regular admission at Seosomun, Buk-Seoul, and Nam-Seoul | ✅ Official visitor pages: regular admission free; Seosomun/Buk special exhibitions can be paid. `SEOUL-SEMA` `SEOUL-SEMA-BUK` `SEOUL-SEMA-NAM` |
 | **MMCA Seoul late hours** | Official free window instead of a daytime ticket | 🔄 Official English visitor page: free Wed/Sat 18:00–21:00. Daytime exhibitions remain paid. `SEOUL-MMCA-LATE` |
 | **Local-value search** | Student districts and lunch specials often beat coupon hunting | Naver Map: `점심특선 홍대`, `가성비 식당 성수`, `백반 종로`; use current menu photos and reviews. |
 
@@ -70,6 +71,9 @@ The script does **not** claim a coupon is live. It tells a researcher exactly wh
 | **Busan Marine Natural History Museum** | Dongnae | Free; 09:00–18:00 last admission 1 hour before close; closed Mondays/New Year’s Day (Tuesday if Monday is a public holiday). [VISITKOREA](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=87811&menuSn=351) `BUSAN-MARINE-NHM` |
 | **Busan Museum** | Nam-gu / Daeyeon | Official English page: admission free; Tue–Sun 09:00–18:00; closed Mondays and Jan 1. [Busan Museum](https://museum.busan.go.kr/eng/bsminfo01) `BUSAN-MUSEUM` |
 | **UN Memorial Cemetery** | Nam-gu / UN Rotary | Official FAQ: no admission fee; 365 days; winter Oct–Apr 09:00–17:00 last entry 16:45; no food; no slippers. [UNMCK FAQ](https://www.unmck.or.kr/kor/05_board/?mcode=0405050000) `BUSAN-UNMCK` |
+| **Busan Modern History Museum** | Jung-gu / Nampo | Official city page: free; 09:00–18:00 last entry 17:00. [부산근현대역사관](https://www.busan.go.kr/mmch/mdview) `BUSAN-MODERN-HIST` |
+| **Nurimaru APEC House** | Dongbaekseom | Official city page: free; closed first Monday of each month. [누리마루](https://www.busan.go.kr/nurimaru/Design/sub0101.jsp) `BUSAN-NURIMARU` |
+| **Oryukdo / Songdo / Cheongsapo** | Nam-gu / Seo-gu / Haeundae | Official Visit Busan listing: 이용요금 무료. [3 skywalks](https://www.visitbusan.net/index.do?menuCd=DOM_000000201001001000&uc_seq=49&lang_cd=ko) `BUSAN-ORYUKDO` |
 
 ### Busan search order
 1. Pass math for the day you want Haeundae/Songdo/attractions.
