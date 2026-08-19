@@ -2,7 +2,7 @@
 
 This page is the bridge while the guide completes its migration from scattered prose to one structured source of truth.
 
-> **Last verified: 2026-08-04** · Coverage mapping: [`data/claim-mapping.csv`](../data/claim-mapping.csv) · Canonical fields (status, source, recheck date, ID requirement, live-check flag, backup): [`data/deals.csv`](../data/deals.csv)
+> **Last verified: 2026-08-19** · Coverage mapping: [`data/claim-mapping.csv`](../data/claim-mapping.csv) · Canonical fields (status, source, recheck date, ID requirement, live-check flag, backup): [`data/deals.csv`](../data/deals.csv)
 
 ## How to use it
 
@@ -36,8 +36,8 @@ This page is the bridge while the guide completes its migration from scattered p
 
 | City | Registry IDs | Read with |
 | --- | --- | --- |
-| Seoul | `SEOUL-TRANSIT-CLIMATE`, `SEOUL-PASS-DSP`, `SEOUL-TOUR-WALK`, `SEOUL-TOUR-CHEONGWADAE`, `SEOUL-TONGIN` | [City Planning Board](city-planning-board.md) |
-| Busan | `BUSAN-PAY`, `BUSAN-PASS-VBP`, `BUSAN-MUSEUM-ART`, `BUSAN-MUSEUM-MARITIME`, `BUSAN-MUSEUM-BOKCHEON` | [Busan Guide](busan-guide.md) |
+| Seoul | `SEOUL-TRANSIT-CLIMATE`, `SEOUL-PASS-DSP`, `SEOUL-TOUR-WALK`, `SEOUL-TOUR-CHEONGWADAE`, `SEOUL-TONGIN`, `SEOUL-MUSEUM-NMK`, `SEOUL-WARMEMO`, `SEOUL-FOLK` | [City Planning Board](city-planning-board.md) |
+| Busan | `BUSAN-PAY`, `BUSAN-PASS-VBP`, `BUSAN-MUSEUM-ART`, `BUSAN-MUSEUM-MARITIME`, `BUSAN-MUSEUM-BOKCHEON`, `BUSAN-MUSEUM`, `BUSAN-MARINE-NHM`, `BUSAN-UNMCK` | [Busan Guide](busan-guide.md) |
 | Cheonan | `CHEONAN-TAXI`, `CHEONAN-CITYTOUR`, `CHEONAN-INDEPENDENCE` | [City Research Hub](city-research-hub.md) |
 | Daejeon | `DAEJEON-CITYTOUR`, `DAEJEON-HERITAGE`, `DAEJEON-SCIENCE`, `DAEJEON-DMA` | [City Research Hub](city-research-hub.md) |
 
@@ -103,3 +103,30 @@ These records are intentionally kept in the registry so future/expired/rejected 
 | `BUSAN-LOCAL-FOOD` | Busan local meal categories | Live Check | [Busan Guide](busan-guide.md) |
 | `INCHEON-AIRPORT-MEAL` | Airport meal voucher/platform listing | Live Check | [Arrival Guide](arrival-guide.md) |
 | `NATIONWIDE-PEPERO` | Pepero Day convenience offers | Future | [Trip Calendar](trip-calendar.md) |
+
+## 2026-08-19 official Seoul/Busan expansion
+
+Twenty new core records were promoted only after an official government, museum, or Korea Tourism Organization page was opened. Manual verification links are in [Verification Log](verification-log.md#official-seoulbusan-expansion--2026-08-19).
+
+| Registry ID | Deal | Status | Read with |
+| --- | --- | --- | --- |
+| `SEOUL-MUSEUM-NMK` | National Museum of Korea permanent halls | Active | [City Research Hub](city-research-hub.md) |
+| `SEOUL-WARMEMO` | War Memorial of Korea | Active | [City Research Hub](city-research-hub.md) |
+| `SEOUL-FOLK` | National Folk Museum of Korea | Active | [City Research Hub](city-research-hub.md) |
+| `SEOUL-PALACE-MUSEUM` | National Palace Museum of Korea | Active | [City Research Hub](city-research-hub.md) |
+| `SEOUL-MUCH` | National Museum of Korean Contemporary History | Active | [City Research Hub](city-research-hub.md) |
+| `SEOUL-GYEONGGYOJANG` | Gyeonggyojang historic house | Active | [City Research Hub](city-research-hub.md) |
+| `SEOUL-CHEONGGYECHEON-MUSEUM` | Cheonggyecheon Museum | Active | [City Research Hub](city-research-hub.md) |
+| `SEOUL-URI-SORI` | Seoul Museum of Korean Folk Music | Active | [City Research Hub](city-research-hub.md) |
+| `SEOUL-MMCA-LATE` | MMCA Seoul late-hour free admission | Live Check | [City Research Hub](city-research-hub.md) |
+| `BUSAN-MUSEUM` | Busan Museum | Active | [Busan Guide](busan-guide.md) |
+| `BUSAN-MARINE-NHM` | Busan Marine Natural History Museum | Active | [Busan Guide](busan-guide.md) |
+| `BUSAN-UNMCK` | UN Memorial Cemetery in Korea | Active | [Busan Guide](busan-guide.md) |
+| `NATIONWIDE-VISITKOREA-EXCLUSIVE` | VISITKOREA Exclusive partner hub | Live Check | [Tourist Promotions](tourist-promotions.md) |
+| `NATIONWIDE-SHINSEGAE-VK` | Shinsegae x VISITKOREA vouchers | Live Check | [Tourist Promotions](tourist-promotions.md) |
+| `SEOUL-HYUNDAI-VK` | Hyundai x VISITKOREA visitor benefits | Live Check | [Tourist Promotions](tourist-promotions.md) |
+| `NATIONWIDE-LOTTE-VK` | Lotte x VISITKOREA gift voucher | Live Check | [Tourist Promotions](tourist-promotions.md) |
+| `SEOUL-GOLDENBLUE` | Golden Blue Marina VISITKOREA yacht offers | Live Check | [Tourist Promotions](tourist-promotions.md) |
+| `NATIONWIDE-CATCHTABLE` | CATCHTABLE VISITKOREA restaurant offers | Live Check | [Tourist Promotions](tourist-promotions.md) |
+| `NATIONWIDE-CULTUREDAY` | Culture Day every Wednesday | Live Check | [Tourist Promotions](tourist-promotions.md) |
+| `SEOUL-AUTUMN-FEST` | 2026 Seoul Autumn Festival calendar | Future | [Deal Status Board](deal-status-board.md) |

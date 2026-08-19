@@ -2,7 +2,7 @@
 
 This is the beginner-facing view of the registry’s status system. It prevents a past promotion, a future announcement, or a source with unknown terms from being treated as a usable trip deal.
 
-> **Last verified: 2026-08-04** · Data source: [`data/deals.csv`](../data/deals.csv) · Quick filter: `python3 scripts/deal_registry.py --status active`
+> **Last verified: 2026-08-19** · Data source: [`data/deals.csv`](../data/deals.csv) · Quick filter: `python3 scripts/deal_registry.py --status active`
 
 ## Status meanings
 
@@ -19,8 +19,8 @@ This is the beginner-facing view of the registry’s status system. It prevents 
 
 ### 🟢 Active — worth putting on a draft itinerary
 
-- **Seoul:** Climate Card short-term passes; Seoul Guided Walking Tour; Tiger Bus same-day partner offer.
-- **Busan:** free regular museum admissions; Visit Busan Pass and Busan Pay systems *(both require live partner/merchant checks)*.
+- **Seoul:** Climate Card short-term passes; Seoul Guided Walking Tour; Tiger Bus same-day partner offer; National Museum of Korea; War Memorial; National Folk Museum; National Palace Museum; National Museum of Korean Contemporary History; Gyeonggyojang; Cheonggyecheon Museum; Seoul Museum of Korean Folk Music.
+- **Busan:** free regular museum admissions including Busan Museum, Marine Natural History Museum, and UN Memorial Cemetery; Visit Busan Pass and Busan Pay systems *(both require live partner/merchant checks)*.
 - **Cheonan:** Tourism Taxi (through Dec. 31, first-come), City Tour, Independence Hall.
 - **Daejeon:** City Tour (through Nov. 29), free heritage program (through Nov.), National Science Museum, DMA Collection Highlights (through Dec. 20).
 - **Nationwide:** Shuttle `VK2026` ₩6,000 credit (through Dec. 31); immediate tax-refund system at qualifying stores.
@@ -39,6 +39,7 @@ This is the beginner-facing view of the registry’s status system. It prevents 
 | Deal | Status | Why |
 | --- | --- | --- |
 | Korea Sale Festa 2026 | 📅 Future | Official dates and partners are not published yet. Recheck in late September. |
+| 2026 Seoul Autumn Festival | 📅 Future until Sep 19 | Official SMG window is Sep 19–Nov 29; individual events may be free or ticketed. |
 | Daejeon 2026 summer 50% attraction tickets | ⛔ Expired for the trip | Use-by date is Oct. 31; it cannot cover November dates. |
 | Resident app birthday benefits (Starbucks KR, Outback, KFC KR, CJ ONE, etc.) | 🚫 Rejected | Standard US tourists without ARC/`본인인증` cannot reliably claim them. |
 | Dead Twosome FAQ benefit claim | 🚫 Rejected | Former source is dead; no current official terms captured. |

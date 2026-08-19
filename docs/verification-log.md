@@ -2,7 +2,7 @@
 
 Every claim in this repository traces to an explicit primary or corroborated secondary source, categorized by **source confidence tier** and **tourist accessibility tier** for our **Oct 31 – Nov 22, 2026 US Citizen Itinerary**.
 
-> **Last full verification sweep: 2026-08-03**  
+> **Last full verification sweep: 2026-08-19**  
 > *Next scheduled re-verification sweep: late September 2026 (D-30 before Oct 31 departure).*
 >
 > **🧭 Navigation:** [🏠 README](../README.md) · [🖨️ Cheat Sheet](cheat-sheet.md) · [📅 Calendar](trip-calendar.md) · [🗺️ Neighborhoods](neighborhood-guide.md) · [❓ FAQ](faq.md)
@@ -320,3 +320,53 @@ A single audit cannot make rotating coupons, in-app merchants, future festivals,
 | City | Deal | Confirmed terms / guardrail | Source |
 | --- | --- | --- | --- |
 | Seoul | City Tour Tiger Bus partner offers | Operator’s English site currently advertises same-day ticket partner offers; one stated offer is 20% off Baby Shark The Experience through Dec. 19, 2026. Bus-route value and current partner exclusions must be checked before purchase. | 🟡 [Seoul City Tour operator](https://en.seoulcitybus.com/) |
+
+---
+
+## Official Seoul/Busan expansion — 2026-08-19
+
+Twenty new core registry records were added only after the official page was opened and the terms below were copied from that page. Headline percentages that could not be tied to a current partner page were **not** promoted.
+
+### Added after official-page read
+
+| Registry ID | Exact terms copied from the official page | Manual verification link |
+| --- | --- | --- |
+| `SEOUL-MUSEUM-NMK` | 관람료 **무료** (유료 기획전시 제외). Mon/Tue/Thu/Fri/Sun 09:30–17:30 last entry 17:00; Wed/Sat 09:30–21:00 last entry 20:30. Closed 2026-01-01, Seollal 2026-02-17, Chuseok 2026-09-25. | 🟢 [국립중앙박물관 관람 안내](https://www.museum.go.kr/MUSEUM/contents/M0101000000.do) |
+| `SEOUL-WARMEMO` | 관람료 **무료** (대관전시 별도). 09:30–17:40 last entry 17:00. Closed Mondays, Jan 1, Seollal, Chuseok. | 🟢 [전쟁기념관 관람안내](https://www.warmemo.or.kr:8443/Home/H10000/H10100/html) |
+| `SEOUL-FOLK` | 입장료 **무료**. ※ 경복궁 관람은 유료. Nov–Feb 09:00–17:00 last entry 1 hour before close. No reservation. | 🟢 [국립민속박물관 본관 관람안내](https://www.nfm.go.kr/home/subIndex/1239.do) |
+| `SEOUL-PALACE-MUSEUM` | 별도의 안내가 있기 전까지 **무료관람**. Mon–Fri/Sun 09:30–17:30; Sat and last Wednesday 09:30–21:00. Closed Jan 1, Seollal, Chuseok, last Monday of month. | 🟢 [국립고궁박물관 관람안내](https://www.gogung.go.kr/gogung/main/contents.do?menuNo=800011) |
+| `SEOUL-MUCH` | **무료 관람**. Mon/Tue/Thu/Fri/Sun 10:00–18:00; Wed/Sat 10:00–21:00; last entry 30 min before close. Closed Jan 1, Seollal, Chuseok. | 🟢 [대한민국역사박물관 관람안내](https://www.much.go.kr/MUCH/contents/M01020100000.do) |
+| `SEOUL-GYEONGGYOJANG` | 관람료 **무료**. Tue–Sun 09:00–18:00 last entry 17:30. Closed Mondays except public holidays and Jan 1. No reservation. | 🟢 [서울역사박물관 경교장 운영안내](https://museum.seoul.go.kr/www/intro/annexIntro/annex_21/annex_21_01.jsp?sso=ok) |
+| `SEOUL-CHEONGGYECHEON-MUSEUM` | 관람료 **무료**. | 🟢 [서울역사박물관 청계천박물관 관람안내](https://museum.seoul.go.kr/www/intro/annexIntro/annex_19/annex_19_01.jsp?sso=ok) |
+| `SEOUL-URI-SORI` | 관람료 **무료**. Tue–Sun 09:00–18:00 last entry 17:30. Closed Mondays and Jan 1. | 🟢 [서울우리소리박물관 관람안내](https://museum.seoul.go.kr/www/intro/annexIntro/sekm/sekm1.jsp?sso=ok) |
+| `SEOUL-MMCA-LATE` | Free admission Wed and Sat 18:00–21:00. Free admission day is the last Wednesday of every month. Daytime paid-exhibition tickets vary. | 🟢 [MMCA Seoul visiting information](https://www.mmca.go.kr/eng/visitingInfo/seoulInfo.do) |
+| `BUSAN-MUSEUM` | **Admission fee: Free**. Tue–Sun 09:00–18:00. Closed Jan 1 and every Monday (next weekday if Monday is a holiday). | 🟢 [Busan Museum Service Information](https://museum.busan.go.kr/eng/bsminfo01) |
+| `BUSAN-MARINE-NHM` | **Fees: Free**. 09:00–18:00 last admission 1 hour before closing. Closed New Year’s Day and Mondays (Tuesday if Monday is a public holiday). | 🟢 [VISITKOREA listing](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=87811&menuSn=351) |
+| `BUSAN-UNMCK` | 입장료를 받지 않습니다. Open 365 days. Winter (Oct–Apr) 09:00–17:00 last entry 16:45. No food inside. Slippers/flip-flops not allowed. | 🟢 [UNMCK official FAQ](https://www.unmck.or.kr/kor/05_board/?mcode=0405050000) |
+| `NATIONWIDE-VISITKOREA-EXCLUSIVE` | Official 2026 partner hub for international travelers. Category maximums: shopping up to 20%; activities up to 50%; theme parks up to 60%; performances up to 30%; stays up to 20%; gourmet up to ₩6,000 credits. Passport may be required. | 🟢 [KTO announcement](https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=177&vcontsId=1590182) · [live partner list](https://english.visitkorea.or.kr/svc/thingsToDo/alliance/allianceList.do?menuSn=607) |
+| `NATIONWIDE-SHINSEGAE-VK` | Promo period Apr 1–Dec 31 2026. 1 drink voucher per person / 2 drinks; beauty samples; ₩10,000 off fashion & cosmetics; ₩5,000 off F&B & Food Market. Seoul Myeongdong/Gangnam/Times Square and Busan Centum City. | 🟢 [Shinsegae VISITKOREA page](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=1589559) |
+| `SEOUL-HYUNDAI-VK` | Through Dec 31 2026. Sheet-mask pack 1/person; 3 monthly 5% coupons over ₩100,000; 2 drink coupons/month. H.Point Global required. Redeem at listed Global Service Desks including THE HYUNDAI Seoul 6F. | 🟢 [Hyundai VISITKOREA page](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=1590104) |
+| `NATIONWIDE-LOTTE-VK` | Through Dec 31 2026. Spend ₩100,000+ at one participating brand for a one-time ₩5,000 Lotte gift voucher. Luxury/watch brands excluded, including named Seoul and Busan Main Store exclusions. | 🟢 [Lotte VISITKOREA page](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=1590144) |
+| `SEOUL-GOLDENBLUE` | Through Dec 31 2026. Up to 50% off Hangang yacht activities. Private rental 50% off 09:00–14:00 only. Picnic package and brunch listed. Some Sevit / Banpo. | 🟢 [Golden Blue Marina VISITKOREA Exclusive](https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=607&vcontsId=1589855) |
+| `NATIONWIDE-CATCHTABLE` | Through Dec 31 2026. Reservation discounts; complimentary welcome drink/food/gift; special events. Email + international card; no Korean phone. Seoul and Busan listed. | 🟢 [CATCHTABLE VISITKOREA page](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=1589778) |
+| `NATIONWIDE-CULTUREDAY` | From 2026-04-01 every Wednesday. Participating museums/galleries/cinemas/theaters may discount or free-open. Movie ₩10,000 evening price is 2nd and last Wednesday 17:00–21:00, not every Wednesday. | 🟢 [문화가 있는 날 소개](https://www.culture.go.kr/local/wday/cltrDay.do) · 🟢 [korea.kr MCST notice](https://www.korea.kr/news/policyNewsView.do?newsId=148961892) |
+| `SEOUL-AUTUMN-FEST` | Official SMG: Sep 19–Nov 29 2026; 204 public/private performances citywide including Hangang. Individual events may be free or ticketed. | 🟢 [SMG Fun Seoul / Autumn Festival release](https://english.seoul.go.kr/the-fun-seoul-seoul-to-become-global-cultural-hub-hosting-festivals-all-year-round/) |
+
+### Flagged and not added as priced trip deals
+
+| Lead | Why it was not promoted | Source |
+| --- | --- | --- |
+| Hangang Drone Light Show | First-half 2026 dates are Apr 10–Jun 5 and are over. Official SMG only plans additional shows **September–October**, which may miss Oct 31–Nov 22 trip days. Kept in the discovery queue. | 🟢 [SMG drone-show release](https://english.seoul.go.kr/2026-hangang-drone-light-show-festival-to-illuminate-the-night-sky/) |
+| Yacht Tale “50% off” | Named on the 2026 hub under the activities category maximum. No 2026 partner page stating a Yacht Tale percentage was found. | 🟢 [KTO hub](https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=177&vcontsId=1590182) |
+| The Painters 50% evening tickets | The detailed 50% offer ran Oct 1–Dec 31 **2025**. The 2026 hub only states a performances category maximum of 30%. | 🟢 [2025 event page](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=222420) · [2026 hub](https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=177&vcontsId=1590182) |
+| Seoulland up to 60% | Gwacheon, Gyeonggi-do — outside Seoul/Busan scope. | 🟢 [KTO hub](https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=177&vcontsId=1590182) |
+| New November convenience 1+1 SKUs | Official November product lists are not published yet. Existing `NATIONWIDE-CONVENIENCE` remains the BOGO channel. | CU/GS25 monthly catalogs |
+| National Hangeul Museum as a general free museum | Official pages confirm the **한글놀이터** kids gallery is free with reservation for families with young children. A general adult permanent-exhibition fee page was not captured, so it was not added. | [hangeul.go.kr reservation guide](https://www.hangeul.go.kr/viewing/privateReservGuide.do) |
+
+### Existing-list irregularities flagged in this sweep
+
+- **`DAEJEON-SCIENCE` last-Wednesday note may be stale.** Official Culture Day expanded to **every Wednesday** on 2026-04-01. The Daejeon Science Museum page was not re-fetched in this Seoul/Busan sweep.
+- **`SEOUL-HYUNDAI-DESK` remains a live-desk check** with no official 2-cup / ₩5,000–₩10,000 source. The new `SEOUL-HYUNDAI-VK` record is the official 2026 replacement.
+- **`BUSAN-MUSEUM-ART` main building remains closed**; only Lee Ufan Space is open.
+- **`busan.go.kr/sea/onguide` returned an error on 2026-08-19.** Marine Natural History Museum was sourced from the live VISITKOREA listing instead.
+- **No new official product-level BOGO** for November 2026 could be verified. Do not invent 1+1 SKUs.

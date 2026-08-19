@@ -2,7 +2,7 @@
 
 Deals aimed specifically at **foreign visitors and US citizens**—no Korean Resident Registration Number (`RRN`), no Alien Registration Card (`ARC`), no `본인인증` phone verification, and **zero physical ID check** at restaurant/kiosk cashiers (unless using boarding-pass/airport lounge perks as noted).
 
-> **Last verified: 2026-08-03**  
+> **Last verified: 2026-08-19**  
 > **🎯 Trip Timing:** Tailored for our **October 31 to November 22, 2026 itinerary**.
 >
 > **🧭 Navigation:** [🏠 README](../README.md) · [🖨️ Cheat Sheet](cheat-sheet.md) · [📅 Calendar](trip-calendar.md) · [🗺️ Neighborhoods](neighborhood-guide.md) · [❓ FAQ](faq.md)
@@ -18,6 +18,21 @@ The Korea Tourism Organization’s **VISITKOREA Exclusive** hub is now the first
 - **How to use it:** open the live [VISITKOREA Exclusive partner list](https://english.visitkorea.or.kr/svc/thingsToDo/alliance/allianceList.do?menuSn=607), choose the city/category, read the partner’s exact terms, and record the expiry and redemption code in the [City Deal Checklist](city-deal-checklist.md). Some benefits may ask for a passport.
 - ⚠️ The headline percentages are **maximums across partners**, not one universal coupon. Confirm the selected offer, city, booking date, minimum spend, cancellation rule and ID requirement before paying.
 - 🟢 [Korea Tourism Organization’s June 2026 announcement and terms](https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=177&vcontsId=1590182)
+
+Registry IDs: `NATIONWIDE-VISITKOREA-EXCLUSIVE`, `NATIONWIDE-SHINSEGAE-VK`, `SEOUL-HYUNDAI-VK`, `NATIONWIDE-LOTTE-VK`, `SEOUL-GOLDENBLUE`, `NATIONWIDE-CATCHTABLE`.
+
+### Current official partner pages (read 2026-08-19)
+
+These are **live coupons**, not standing walk-in prices. Open the partner page on the day and confirm membership, branch, and exclusions.
+
+| Partner | Official 2026 window | What the KTO page actually says | Registry ID |
+| --- | --- | --- | --- |
+| Shinsegae Department Store | Apr 1 – Dec 31 2026 | 1 drink voucher/person for 2 drinks; beauty samples; ₩10,000 off fashion/cosmetics; ₩5,000 off F&B & Food Market; Seoul Myeongdong/Gangnam/Times Square and Busan Centum City | `NATIONWIDE-SHINSEGAE-VK` |
+| Hyundai Department Store | Through Dec 31 2026 | Sheet-mask pack 1/person; 3 monthly 5% coupons over ₩100,000; 2 drink coupons/month; H.Point Global required; THE HYUNDAI Seoul 6F desk listed | `SEOUL-HYUNDAI-VK` |
+| Lotte Department Store | Through Dec 31 2026 | One-time ₩5,000 gift voucher after ₩100,000 at one participating brand; luxury/watch brands excluded | `NATIONWIDE-LOTTE-VK` |
+| Golden Blue Marina | Through Dec 31 2026 | Up to 50% Hangang yacht activities; 50% private rental **09:00–14:00 only** | `SEOUL-GOLDENBLUE` |
+| CATCHTABLE | Through Dec 31 2026 | Reservation discounts and complimentary welcome drink/food/gift at participating restaurants; email + foreign card; no Korean phone | `NATIONWIDE-CATCHTABLE` |
+| Culture Day (`문화가 있는 날`) | Every Wednesday from Apr 1 2026 | Venue-specific free/discount; movie ₩10,000 evening price is 2nd and last Wednesday 17:00–21:00 only | `NATIONWIDE-CULTUREDAY` |
 
 ---
 
@@ -88,8 +103,13 @@ If you buy a city tourist pass for attractions, do not overlook their embedded r
 
 Major Korean department stores offer exclusive dining and cafe vouchers to foreign visitors holding non-Korean passports:
 
-### The Hyundai Seoul & Hyundai Department Store (`Café H`)
-- **Free Welcome Drinks:** ⚠️ **Unverified (2026-08-18 audit)** — the "2 free cups at Café H" figure has no official Hyundai source. Visit the Foreign Customer Service desk (B1 or 6F at The Hyundai Seoul) or open the **H.Point Global app** and ask what is currently offered.
+### Official 2026 VISITKOREA department-store offers (use these first)
+- **Shinsegae (`NATIONWIDE-SHINSEGAE-VK`):** Apr 1–Dec 31 2026 drink voucher, beauty samples, ₩10,000 fashion/cosmetics and ₩5,000 F&B vouchers. Seoul Myeongdong/Gangnam/Times Square and Busan Centum City. 🟢 [KTO page](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=1589559)
+- **Hyundai (`SEOUL-HYUNDAI-VK`):** through Dec 31 2026 sheet-mask, 5% coupons over ₩100,000, 2 drink coupons/month. H.Point Global required. Redeem at listed Global Service Desks including THE HYUNDAI Seoul 6F. 🟢 [KTO page](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=1590104)
+- **Lotte (`NATIONWIDE-LOTTE-VK`):** through Dec 31 2026 one-time ₩5,000 gift voucher after ₩100,000 at one participating brand. Luxury/watch brands excluded. 🟢 [KTO page](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=1590144)
+
+### The Hyundai Seoul desk (`SEOUL-HYUNDAI-DESK`) — still a live ask, not a numbered promise
+- **Free Welcome Drinks:** ⚠️ **Unverified (2026-08-18 audit)** — the "2 free cups at Café H" figure has no official Hyundai source. Visit the Foreign Customer Service desk (B1 or 6F at The Hyundai Seoul) or open the **H.Point Global app** and ask what is currently offered. Use `SEOUL-HYUNDAI-VK` above when the official VISITKOREA terms still apply.
 - **Food Court Coupons:** Receive a welcome booklet containing **₩5,000 to ₩10,000 off vouchers** for basement food halls (`B1 Food Floor`) and rooftop dining.
 - **ID check?** Passport is shown once at the B1 foreign desk to receive the voucher booklet; **zero ID check at the cafe or restaurant counter** when scanning your coupon.
 

@@ -2,7 +2,7 @@
 
 Busan is Korea's second city — seafood capital, coastal scenery, and food prices often *lower* than Seoul. Every item below is US-tourist usable (✅), no ARC, no `본인인증`.
 
-> **Last verified: 2026-08-03** · If your itinerary extends south (e.g., Nov 17–22). Also see: [Neighborhood Guide (Seoul)](neighborhood-guide.md) · [Visit Busan Pass section](tourist-promotions.md)
+> **Last verified: 2026-08-19** · If your itinerary extends south (e.g., Nov 17–22). Also see: [Neighborhood Guide (Seoul)](neighborhood-guide.md) · [Visit Busan Pass section](tourist-promotions.md)
 
 ---
 
@@ -58,6 +58,20 @@ Busan is Korea's second city — seafood capital, coastal scenery, and food pric
 | **Dookki** (`두끼`) | Branch right by Sasang terminal (good pre-bus meal) | ₩11,900 |
 | **No Brand Burger / Mom's Touch / Gimbap Cheonguk / Hong Kong Banjum** | Multiple branches; check Naver Map | ₩2,500–7,600 |
 | **Budget coffee** (Mega/Compose/Paik's/The Venti) | Everywhere; WOWPASS cashback applies | ₩1,500–2,000 |
+
+---
+
+## 🆓 Free indoor / memorial anchors (official pages)
+
+| Place | Area | Official terms | Registry ID |
+| --- | --- | --- | --- |
+| **Busan Museum** | Nam-gu / Daeyeon | Admission free; Tue–Sun 09:00–18:00; closed Mondays and Jan 1 | `BUSAN-MUSEUM` |
+| **Marine Natural History Museum** | Dongnae | Fees free; 09:00–18:00 last admission 1 hour before close; closed Mondays/New Year (Tuesday if Monday is a holiday) | `BUSAN-MARINE-NHM` |
+| **UN Memorial Cemetery** | Nam-gu / UN Rotary | No admission fee; 365 days; winter Oct–Apr 09:00–17:00 last entry 16:45; no food; no slippers | `BUSAN-UNMCK` |
+| **National Maritime Museum** | Yeongdo | Permanent exhibitions free; 4D/special exhibitions paid | `BUSAN-MUSEUM-MARITIME` |
+| **Bokcheon Museum** | Dongnae | Free; closed Mondays/New Year | `BUSAN-MUSEUM-BOKCHEON` |
+
+⚠️ Busan Museum of Art’s **main building is closed** for renovation. Only the free Lee Ufan Space is open until the museum confirms an autumn 2026 reopening. `BUSAN-MUSEUM-ART`
 
 ---
 

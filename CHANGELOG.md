@@ -1,5 +1,10 @@
 # Changelog
 
+## 2026-08-19 — v5.6.0 Official Seoul/Busan Expansion (20 verified records)
+- **20 new core registry records** added only after official government, museum, or Korea Tourism Organization pages were opened. Twelve are free Seoul/Busan admissions; eight are dated promotional discounts or live calendars.
+- **Not added:** Hangang drone second-half dates are only planned Sep–Oct; Yacht Tale/The Painters headline percentages lacked a current partner page; Seoulland is outside Seoul/Busan; no November convenience 1+1 SKU list exists yet.
+- **Docs:** verification log now carries a line-by-line source table with manual-check URLs; city research hub, tourist promotions, status board, and claim coverage updated.
+
 ## 2026-08-05 — v5.5.0 Pre-Booking & Anti-Trap Decision Kit
 - **NEW pre-booking tools:** hotel shortlist scorecard/data/CLI, Cheonan-vs-Daejeon engine, and city-night allocation planner.
 - **NEW readiness tools:** travel-wallet checklist, D-30/D-14/arrival action packets, and couple anti-tourist-trap guide.
