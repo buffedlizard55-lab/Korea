@@ -15,6 +15,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 CHECKS = [
     ("Documentation", [sys.executable, "scripts/check_docs.py"]),
+    ("Structure", [sys.executable, "scripts/check_structure.py"]),
     ("Deal registry", [sys.executable, "scripts/check_registry.py"]),
     ("Discovery queue", [sys.executable, "scripts/check_discovery_queue.py"]),
     ("Staleness", [sys.executable, "scripts/check_staleness.py"]),

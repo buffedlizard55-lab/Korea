@@ -36,7 +36,7 @@ The final third-city leg is flexible between **Cheonan and Daejeon**. Do not com
 | The Hyundai Seoul Café H / visitor booklet | Yeouido, Seoul only | 🔄 Ask the foreign-customer desk before relying on the drinks or food vouchers; passport is needed to receive a visitor booklet | ☐ | ☐ | ☐ |
 | Discover Seoul Pass | Seoul attractions/partners only | 🔄 Buy only after checking the live partner list and the attractions you will use | ☐ | ☐ | ☐ |
 | Climate Card Short-Term Pass | Eligible Seoul transit only | ✅ 1/2/3/5/7 days: ₩5k/8k/10k/15k/20k; load only on first travel day. ⚠️ Excludes airport/intercity buses/some rail; international-card machine purchases add ~3.7% fee | ☐ | ☐ | ☐ |
-| Tongin Market coin lunchbox | Jongno, Seoul only | ✅ ₩10,000/20 coins; go 11:00–14:00; closed Monday and **Sun Nov 15** | ☐ | ☐ | ☐ |
+| Tongin Market coin lunchbox | Jongno, Seoul only | ✅ ₩10,000/20 coins (₩500 each; ₩5,000/10-coin minimum); go 11:00–14:00; closed Monday and **Sun Nov 15** | ☐ | ☐ | ☐ |
 | Lotte Mart Seoul Station tax refund | Seoul Station | ✅ For qualifying packaged goods ≥₩15,000; ⚠️ passport at checkout | ☐ | ☐ | ☐ |
 
 ### Eat / redeem while in Seoul
