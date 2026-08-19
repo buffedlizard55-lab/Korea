@@ -56,14 +56,43 @@ def extract_urls(path: Path) -> list[str]:
     return urls
 
 
+def to_ascii_url(url: str) -> str:
+    """Return an ASCII-safe (IDNA + percent-encoded) form of `url`.
+
+    Non-ASCII URLs are legal in markdown but urllib cannot put them on the
+    wire. Encode the host with IDNA and percent-encode the path/query so the
+    probe reflects whether the page exists, not whether Python can encode it.
+    """
+    if url.isascii():
+        return url
+    parts = urllib.parse.urlsplit(url)
+    try:
+        netloc = parts.netloc.encode("idna").decode("ascii")
+    except (UnicodeError, ValueError):
+        netloc = parts.netloc
+    return urllib.parse.urlunsplit(
+        (
+            parts.scheme,
+            netloc,
+            urllib.parse.quote(parts.path),
+            urllib.parse.quote(parts.query, safe="=&"),
+            parts.fragment,
+        )
+    )
+
+
 def check(url: str, timeout: int) -> tuple[str, str, str]:
     """Return (url, status, detail)."""
     host = urllib.parse.urlsplit(url).netloc.lower()
     host = host[4:] if host.startswith("www.") else host
     # The probe host is normalized without www; normalize the allowlist too.
     flaky_hosts = {h[4:] if h.startswith("www.") else h for h in FLAKY_HOSTS}
+    # Percent-encode non-ASCII URLs (e.g. Korean Wikipedia titles). urllib emits
+    # raw bytes into the request line and dies with a UnicodeEncodeError on
+    # these, which would otherwise be reported as a bogus broken link.
+    probe_url = to_ascii_url(url)
     req = urllib.request.Request(
-        url,
+        probe_url,
         headers={
             "User-Agent": "Mozilla/5.0 (compatible; KoreaDealsLinkCheck/1.0; +https://github.com/buffedlizard55-lab/Korea)",
             "Accept": "text/html,application/xhtml+xml,*/*;q=0.8",
