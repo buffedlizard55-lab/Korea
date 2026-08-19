@@ -1,5 +1,18 @@
 # Changelog
 
+## 2026-08-19 — v5.6.2 Third official Seoul/Busan expansion (20 more records)
+- **20 additional official records:** remaining SeMA venues, Seoul History Museum 본관, Gyeonghuigung, Craft Art Museum, Hall of Urbanism, Seosomun Shrine Museum, Gugak Museum, Starfield Library, Aviation Museum, BOK Money Museum, Seoul Science Museum, Seoul Library, UN Peace Memorial, Fisheries Science Museum, Citizens Park History Hall, and two Dongnae halls.
+- **Not added:** National Hangeul Museum is closed through late 2028 on the official Visit Seoul page; Unhyeongung fee was not captured on the operator page; no November convenience 1+1 SKUs; no Yacht Tale/The Painters 2026 percentages.
+
+## 2026-08-19 — v5.6.1 Second official Seoul/Busan expansion (20 more records)
+- **20 additional official records:** SeMA branches, Seoul History Museum annexes, Busan Modern History / Temporary Capital / Forced Mobilization / Nurimaru, three Visit Busan free skywalks, Shinsegae Duty Free VISITKOREA, and COCORY COLOR 10%.
+- **Donuimun History Museum** logged as expired for this trip (official closure through 2026-12-31).
+
+## 2026-08-19 — v5.6.0 Official Seoul/Busan Expansion (20 verified records)
+- **20 new core registry records** added only after official government, museum, or Korea Tourism Organization pages were opened. Twelve are free Seoul/Busan admissions; eight are dated promotional discounts or live calendars.
+- **Not added:** Hangang drone second-half dates are only planned Sep–Oct; Yacht Tale/The Painters headline percentages lacked a current partner page; Seoulland is outside Seoul/Busan; no November convenience 1+1 SKU list exists yet.
+- **Docs:** verification log now carries a line-by-line source table with manual-check URLs; city research hub, tourist promotions, status board, and claim coverage updated.
+
 ## 2026-08-05 — v5.5.0 Pre-Booking & Anti-Trap Decision Kit
 - **NEW pre-booking tools:** hotel shortlist scorecard/data/CLI, Cheonan-vs-Daejeon engine, and city-night allocation planner.
 - **NEW readiness tools:** travel-wallet checklist, D-30/D-14/arrival action packets, and couple anti-tourist-trap guide.

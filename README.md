@@ -4,7 +4,7 @@ A living, fact-checked guide to eating cheaper (and free-er) on our upcoming Sou
 Every entry is sourced, dated, and verified against official releases and terms of service.
 
 > **🎯 Trip Profile: Oct 31 – Nov 22, 2026 | Two US Citizens | Cities: Incheon → Seoul → Busan → flexible Cheonan/Daejeon leg | No ARC / Korean Resident | Physical-ID exceptions clearly flagged**
-> **Last full verification sweep: 2026-08-03**
+> **Last full verification sweep: 2026-08-19**
 
 ---
 
@@ -15,8 +15,8 @@ The guide is organized around the actual route: **Incheon arrival → Seoul → 
 | City | Best reliable value anchors | Live deal to check | Start with |
 | --- | --- | --- | --- |
 | **Incheon** | Airport tax-refund process; airport-app facility coupons; arrival transport | ICN Membership coupons and any airport meal listing | [Arrival Guide](docs/arrival-guide.md) |
-| **Seoul** | Climate Card math, free guided walk, museums/parks, Tongin Market | Discover Seoul Pass / Kakao coupon / current festival partner | [Seoul board](docs/city-planning-board.md#seoul-day-board) |
-| **Busan** | Free museum cluster, coastal trails, local gukbap/milmyeon | Visit Busan Pass and Busan Pay merchant list | [Busan board](docs/city-planning-board.md#busan-day-board) |
+| **Seoul** | Climate Card math, free guided walk, free national museums (NMK/War Memorial/Folk/Palace/MUCH), Tongin Market | Discover Seoul Pass / VISITKOREA Exclusive / Kakao coupon / Autumn Festival calendar | [Seoul board](docs/city-planning-board.md#seoul-day-board) |
+| **Busan** | Free museum cluster (Busan Museum, Marine Natural History, UN Memorial Cemetery, Maritime), coastal trails, local gukbap/milmyeon | Visit Busan Pass and Busan Pay merchant list | [Busan board](docs/city-planning-board.md#busan-day-board) |
 | **Cheonan** *(flex)* | Independence Hall, low-cost City Tour, Tourism Taxi split between two | Tourism Taxi availability/subsidy and November route | [Cheonan board](docs/city-planning-board.md#cheonan-day-board) |
 | **Daejeon** *(flex)* | National Science Museum, free heritage program, DMA/Currency Museum | City Tour/heritage-session seat and date | [Daejeon board](docs/city-planning-board.md#daejeon-day-board) |
 
@@ -85,6 +85,12 @@ The guide is organized around the actual route: **Incheon arrival → Seoul → 
 | 📊 [`data/deal-tracker.csv`](data/deal-tracker.csv) | Blank live CSV tracker—one row per real redemption; see [`data/examples/deal-tracker-example.csv`](data/examples/deal-tracker-example.csv) for format | Counting your savings |
 
 ---
+
+## ✨ What's New (Official Seoul/Busan expansion — 2026-08-19)
+
+- **20 new core registry records** were added only after official government, museum, or Korea Tourism Organization pages were opened. Twelve are free Seoul/Busan admissions; eight are dated promotional discounts or live calendars. Manual-check URLs are in the [Verification Log](docs/verification-log.md#official-seoulbusan-expansion--2026-08-19).
+- **Third official sweep (20 more records):** remaining SeMA venues, Seoul History Museum 본관, Gyeonghuigung, Craft Art Museum, Hall of Urbanism, Seosomun Shrine Museum, Gugak Museum, Starfield Library, Aviation Museum, BOK Money Museum, Seoul Science Museum, Seoul Library, UN Peace Memorial, Fisheries Science Museum, Citizens Park History Hall, and two Dongnae halls. Manual-check URLs are in the [Verification Log](docs/verification-log.md#third-official-seoulbusan-expansion--2026-08-19).
+- **Not invented:** no November convenience 1+1 SKU list, no Yacht Tale/The Painters 2026 percentage, and no Hangang drone date inside the Oct 31–Nov 22 window were published as trip deals. National Hangeul Museum was not added because the official Visit Seoul page says it is closed through late 2028.
 
 ## ✨ What's New (City deal audit — 2026-08-03)
 

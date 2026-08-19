@@ -2,7 +2,7 @@
 
 A single trip-ready checklist for **where a deal can actually be used**. It deliberately separates a standing price/benefit from a changing coupon: a chain being present in a city does **not** promise that a particular app or KakaoTalk coupon will be available that day.
 
-> **Last verified: 2026-08-03** · **Current-location and deal audit: 2026-08-03** · **Trip: Oct 31 – Nov 22, 2026**  
+> **Last verified: 2026-08-19** · **Current-location and deal audit: 2026-08-19** · **Trip: Oct 31 – Nov 22, 2026**  
 > **How to mark this page:** `☐` = not checked yet · `☑` = you confirmed it in the app/store · `—` = not applicable. Do not mark a changing coupon as confirmed until its barcode and expiry are visible.
 
 **Legend:** ✅ standing benefit/price or nationwide system confirmed · 🔄 variable promotion—check at redemption · 📍 city-specific · ⚠️ needs passport or has another caveat · ❓ third city not chosen yet.
@@ -36,6 +36,12 @@ The final third-city leg is flexible between **Cheonan and Daejeon**. Do not com
 | The Hyundai Seoul Café H / visitor booklet | Yeouido, Seoul only | 🔄 Ask the foreign-customer desk before relying on the drinks or food vouchers; passport is needed to receive a visitor booklet | ☐ | ☐ | ☐ |
 | Discover Seoul Pass | Seoul attractions/partners only | 🔄 Buy only after checking the live partner list and the attractions you will use | ☐ | ☐ | ☐ |
 | Climate Card Short-Term Pass | Eligible Seoul transit only | ✅ 1/2/3/5/7 days: ₩5k/8k/10k/15k/20k; load only on first travel day. ⚠️ Excludes airport/intercity buses/some rail; international-card machine purchases add ~3.7% fee | ☐ | ☐ | ☐ |
+| National Museum of Korea / War Memorial / Folk / Palace / Contemporary History | Yongsan and Gwanghwamun | ✅ Official visitor pages: permanent halls free; special exhibitions and Gyeongbokgung grounds remain paid. `SEOUL-MUSEUM-NMK` `SEOUL-WARMEMO` `SEOUL-FOLK` `SEOUL-PALACE-MUSEUM` `SEOUL-MUCH` | ☐ | ☐ | ☐ |
+| Seoul History Museum / Gyeonghuigung / Craft Art / Urbanism Hall | Gwanghwamun, Anguk, City Hall | ✅ Official pages: main History Museum, Gyeonghuigung grounds, Craft Art Museum, and Hall of Urbanism are free; some special/rental shows can be paid. `SEOUL-HISTORY` `SEOUL-GYEONGHUIGUNG` `SEOUL-CRAFT` `SEOUL-URBAN-ARCH` | ☐ | ☐ | ☐ |
+| SeMA extra venues / Seosomun Shrine / BOK / Library | Changsin, Dobong, Geumcheon, Pyeongchang, Seosomun, Namdaemun, City Hall | ✅ Official pages: remaining SeMA venues, Seosomun Shrine Museum, BOK Money Museum, and Seoul Library reading are free. Farther branches are optional. `SEOUL-SEMA-PHOTO` `SEOUL-SEMA-NJP` `SEOUL-SEMA-WEST` `SEOUL-SEMA-ARCHIVE` `SEOUL-SEOSOMUN-SHRINE` `SEOUL-BOK` `SEOUL-LIBRARY` | ☐ | ☐ | ☐ |
+| Gugak Museum / Aviation Museum / Science Museum / Starfield Library | Seocho, Gangseo, Nowon, COEX | ✅ Official/operator pages: exhibition or browsing access is free; Aviation and Science keep some paid programs. Use only if already in that cluster. `SEOUL-GUGAK` `SEOUL-AVIATION` `SEOUL-SCIENCE` `SEOUL-STARFIELD-LIB` | ☐ | ☐ | ☐ |
+| MMCA Seoul late-hour free admission | Jongno MMCA Seoul | 🔄 Official English page: free Wed/Sat 18:00–21:00; daytime exhibitions remain paid. `SEOUL-MMCA-LATE` | ☐ | ☐ | ☐ |
+| Shinsegae / Hyundai / Lotte VISITKOREA vouchers | Department-store desks in Seoul (Shinsegae also Busan Centum City) | 🔄 Open the live KTO partner page; membership/desk/exclusions control redemption. `NATIONWIDE-SHINSEGAE-VK` `SEOUL-HYUNDAI-VK` `NATIONWIDE-LOTTE-VK` | ☐ | ☐ | ☐ |
 | Tongin Market coin lunchbox | Jongno, Seoul only | ✅ ₩10,000/20 coins (₩500 each; ₩5,000/10-coin minimum); go 11:00–14:00; closed Monday and **Sun Nov 15** | ☐ | ☐ | ☐ |
 | Lotte Mart Seoul Station tax refund | Seoul Station | ✅ For qualifying packaged goods ≥₩15,000; ⚠️ passport at checkout | ☐ | ☐ | ☐ |
 
@@ -63,6 +69,9 @@ The final third-city leg is flexible between **Cheonan and Daejeon**. Do not com
 | Deal or coupon | Location reality | What is current today | Plan | Confirmed in app/store | Used |
 | --- | --- | --- | --- | --- | --- |
 | Visit Busan Pass | Busan attractions/partners only | 🔄 Official scope: 40+ facilities + 150+ discount partners; check its live app/site before purchase. Earlier food-partner reports: Sulbing Gwangbok, Mipochip (2+ orders), P.ARK | ☐ | ☐ | ☐ |
+| Busan Museum / Marine Natural History Museum / UN Memorial Cemetery / UN Peace Memorial | Nam-gu Daeyeon and Dongnae | ✅ Official pages: admission free. UNMCK winter hours Oct–Apr 09:00–17:00 last entry 16:45; no food/slippers. UN Peace Memorial is a different hilltop site with free parking. `BUSAN-MUSEUM` `BUSAN-MARINE-NHM` `BUSAN-UNMCK` `BUSAN-UNPM` | ☐ | ☐ | ☐ |
+| Citizens Park History Hall / Dongnae Eupseong halls / Fisheries Science Museum | Busanjin, Dongnae, Gijang | ✅ Official city/district pages: all free. Imjin hall is inside Suan Station B1. Fisheries museum is a Gijang coastal detour. `BUSAN-CITIZEN-HIST` `BUSAN-DONGNAE-HALL` `BUSAN-IMJIN` `BUSAN-FSM` | ☐ | ☐ | ☐ |
+| Modern History Museum / Temporary Capital / Nurimaru / skywalks | Nampo, Seo-gu, Dongbaekseom, Oryukdo/Songdo/Cheongsapo | ✅ Official city and Visit Busan pages: admission/use free. Nurimaru closed first Monday of each month. `BUSAN-MODERN-HIST` `BUSAN-TEMP-CAPITAL` `BUSAN-NURIMARU` `BUSAN-ORYUKDO` | ☐ | ☐ | ☐ |
 | Busan Pay | Participating Busan merchants | ✅ Official city guide: 5–7% cashback at participating merchants; some QR payments add 3%; VBP purchase earns 5%. 🔄 Verify merchant/rate/cap in app; no cashback at malls/duty-free | ☐ | ☐ | ☐ |
 | IKEA Family | **IKEA Dongbusan**, Gijang (Busan metro) | ✅ Same membership terms; check restaurant opening hours before a special trip | ☐ | ☐ | ☐ |
 | Lotte Mart / E-Mart tax refund | Busan branches | ✅ Qualifying packaged goods ≥₩15,000; ⚠️ passport at checkout | ☐ | ☐ | ☐ |
