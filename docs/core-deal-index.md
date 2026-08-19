@@ -157,3 +157,30 @@ Twenty more records were promoted only after official city, museum, Visit Busan,
 | `BUSAN-CHEONGSAPO` | Cheongsapo Daritdol Observatory | Active | [Busan Guide](busan-guide.md) |
 | `SEOUL-SHINSEGAE-DF` | Shinsegae Duty Free VISITKOREA offers | Live Check | [Tourist Promotions](tourist-promotions.md) |
 | `SEOUL-COCORY` | COCORY COLOR 10% analysis | Live Check | [Tourist Promotions](tourist-promotions.md) |
+
+## 2026-08-19 third official Seoul/Busan expansion
+
+Twenty more records were promoted only after official city, museum, district, or operator visitor pages were opened. Manual links are in [Verification Log](verification-log.md#third-official-seoulbusan-expansion--2026-08-19).
+
+| Registry ID | Deal | Status | Read with |
+| --- | --- | --- | --- |
+| `SEOUL-SEMA-PHOTO` | SeMA Museum of Photography | Active | [City Research Hub](city-research-hub.md) |
+| `SEOUL-SEMA-NJP` | SeMA Nam June Paik House | Active | [City Research Hub](city-research-hub.md) |
+| `SEOUL-SEMA-WEST` | SeMA Seoseoul Museum of Art | Active | [City Research Hub](city-research-hub.md) |
+| `SEOUL-SEMA-ARCHIVE` | SeMA Art Archive regular admission | Active | [City Research Hub](city-research-hub.md) |
+| `SEOUL-HISTORY` | Seoul Museum of History main building | Active | [City Research Hub](city-research-hub.md) |
+| `SEOUL-URBAN-ARCH` | Seoul Hall of Urbanism and Architecture | Active | [City Research Hub](city-research-hub.md) |
+| `SEOUL-CRAFT` | Seoul Museum of Craft Art | Active | [City Research Hub](city-research-hub.md) |
+| `SEOUL-GYEONGHUIGUNG` | Gyeonghuigung Palace grounds | Active | [City Research Hub](city-research-hub.md) |
+| `SEOUL-SEOSOMUN-SHRINE` | Seosomun Shrine History Museum | Active | [City Research Hub](city-research-hub.md) |
+| `SEOUL-GUGAK` | National Gugak Center Gugak Museum | Active | [City Research Hub](city-research-hub.md) |
+| `SEOUL-STARFIELD-LIB` | Starfield Library COEX | Active | [City Research Hub](city-research-hub.md) |
+| `SEOUL-AVIATION` | National Aviation Museum exhibitions | Active | [City Research Hub](city-research-hub.md) |
+| `SEOUL-BOK` | Bank of Korea Money Museum | Active | [City Research Hub](city-research-hub.md) |
+| `SEOUL-SCIENCE` | Seoul Metropolitan Science Museum | Active | [City Research Hub](city-research-hub.md) |
+| `SEOUL-LIBRARY` | Seoul Metropolitan Library on-site reading | Active | [City Research Hub](city-research-hub.md) |
+| `BUSAN-UNPM` | UN Peace Memorial Hall | Active | [Busan Guide](busan-guide.md) |
+| `BUSAN-FSM` | National Fisheries Science Museum | Active | [Busan Guide](busan-guide.md) |
+| `BUSAN-CITIZEN-HIST` | Busan Citizens Park History Hall | Active | [Busan Guide](busan-guide.md) |
+| `BUSAN-DONGNAE-HALL` | Dongnae Eupseong History Hall | Active | [Busan Guide](busan-guide.md) |
+| `BUSAN-IMJIN` | Dongnae Eupseong Imjin War History Hall | Active | [Busan Guide](busan-guide.md) |

@@ -74,6 +74,11 @@ Busan is Korea's second city — seafood capital, coastal scenery, and food pric
 | **Temporary Capital Memorial Hall** | Seo-gu | Official city home: free; Tue–Sun 09:00–18:00 | `BUSAN-TEMP-CAPITAL` |
 | **Nurimaru APEC House** | Dongbaekseom | Official city page: free; 09:00–18:00 last entry 17:00; closed first Monday of each month | `BUSAN-NURIMARU` |
 | **Oryukdo / Songdo / Cheongsapo skywalks** | Nam-gu / Seo-gu / Haeundae | Official Visit Busan listing: 이용요금 무료; weather/maintenance closures | `BUSAN-ORYUKDO` `BUSAN-SONGDO-WALK` `BUSAN-CHEONGSAPO` |
+| **UN Peace Memorial Hall** | Nam-gu hill opposite UN cemetery | Official visitor page: admission and parking free; 10:00–18:00 last entry 17:30; closed Mondays and Seollal/Chuseok eve and day | `BUSAN-UNPM` |
+| **Citizens Park History Hall** | Busanjin / Citizens Park | Official city home: free; 09:00–18:00 Tue–Sun; closed Mondays and Jan 1 | `BUSAN-CITIZEN-HIST` |
+| **Dongnae Eupseong History Hall** | Dongnae next to Bokcheon | Official district page: free; 09:00–18:00; closed Mondays (next day if Monday is a holiday) and Jan 1 | `BUSAN-DONGNAE-HALL` |
+| **Imjin War History Hall** | Suan Station Line 4 B1 | Official district page: free; 10:00–19:00; closed Mondays; small subway museum | `BUSAN-IMJIN` |
+| **National Fisheries Science Museum** | Gijang | Official page: admission and parking free; 09:00–18:00 last entry 17:30 | `BUSAN-FSM` |
 
 ⚠️ Busan Museum of Art’s **main building is closed** for renovation. Only the free Lee Ufan Space is open until the museum confirms an autumn 2026 reopening. `BUSAN-MUSEUM-ART`
 

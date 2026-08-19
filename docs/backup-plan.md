@@ -17,8 +17,8 @@ If a deal fails, do not spend an hour troubleshooting it:
 
 | City | If a pass/coupon/booking fails | Normal local backup |
 | --- | --- | --- |
-| Seoul | DSP/Climate Card/booking/coupon | Walkable neighborhood cluster, T-money fares, free national museum (NMK/War Memorial/Folk/Palace/MUCH), guided walk, posted-price lunch special/budget diner |
-| Busan | VBP/Busan Pay/partner offer | Free museum cluster (Busan Museum, Marine Natural History, UN Memorial Cemetery, Maritime) or coast trail, normal metro/bus, dwaeji gukbap/milmyeon/local meal with visible price |
+| Seoul | DSP/Climate Card/booking/coupon | Walkable neighborhood cluster, T-money fares, free national/city museum (NMK/War Memorial/Folk/Palace/MUCH/History/Craft/SeMA/BOK), guided walk, posted-price lunch special/budget diner |
+| Busan | VBP/Busan Pay/partner offer | Free museum cluster (Busan Museum, Marine Natural History, UN Memorial Cemetery, UN Peace Memorial, Citizens Park History Hall, Dongnae halls, Maritime) or coast trail, normal metro/bus, dwaeji gukbap/milmyeon/local meal with visible price |
 | Cheonan | Tourism Taxi/City Tour | Normal transit to Independence Hall, free admission, route-adjacent meal with visible price |
 | Daejeon | City Tour/heritage reservation | National Science Museum, Currency Museum, DMA collection, ordinary metro/bus, nearby local meal |
 | Nationwide | Delivery credit/tax refund/brand coupon | Walk-in restaurant or nearby chain with a visible kiosk/menu price; buy goods only if wanted without a tax threshold |

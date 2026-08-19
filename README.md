@@ -89,7 +89,8 @@ The guide is organized around the actual route: **Incheon arrival → Seoul → 
 ## ✨ What's New (Official Seoul/Busan expansion — 2026-08-19)
 
 - **20 new core registry records** were added only after official government, museum, or Korea Tourism Organization pages were opened. Twelve are free Seoul/Busan admissions; eight are dated promotional discounts or live calendars. Manual-check URLs are in the [Verification Log](docs/verification-log.md#official-seoulbusan-expansion--2026-08-19).
-- **Not invented:** no November convenience 1+1 SKU list, no Yacht Tale/The Painters 2026 percentage, and no Hangang drone date inside the Oct 31–Nov 22 window were published as trip deals.
+- **Third official sweep (20 more records):** remaining SeMA venues, Seoul History Museum 본관, Gyeonghuigung, Craft Art Museum, Hall of Urbanism, Seosomun Shrine Museum, Gugak Museum, Starfield Library, Aviation Museum, BOK Money Museum, Seoul Science Museum, Seoul Library, UN Peace Memorial, Fisheries Science Museum, Citizens Park History Hall, and two Dongnae halls. Manual-check URLs are in the [Verification Log](docs/verification-log.md#third-official-seoulbusan-expansion--2026-08-19).
+- **Not invented:** no November convenience 1+1 SKU list, no Yacht Tale/The Painters 2026 percentage, and no Hangang drone date inside the Oct 31–Nov 22 window were published as trip deals. National Hangeul Museum was not added because the official Visit Seoul page says it is closed through late 2028.
 
 ## ✨ What's New (City deal audit — 2026-08-03)
 
