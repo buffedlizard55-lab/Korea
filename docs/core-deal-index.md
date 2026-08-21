@@ -2,7 +2,7 @@
 
 This page is the bridge while the guide completes its migration from scattered prose to one structured source of truth.
 
-> **Last verified: 2026-08-19** · Coverage mapping: [`data/claim-mapping.csv`](../data/claim-mapping.csv) · Canonical fields (status, source, recheck date, ID requirement, live-check flag, backup): [`data/deals.csv`](../data/deals.csv)
+> **Last verified: 2026-08-21** · Coverage mapping: [`data/claim-mapping.csv`](../data/claim-mapping.csv) · Canonical fields (status, source, recheck date, ID requirement, live-check flag, backup): [`data/deals.csv`](../data/deals.csv)
 
 ## How to use it
 
@@ -184,3 +184,63 @@ Twenty more records were promoted only after official city, museum, district, or
 | `BUSAN-CITIZEN-HIST` | Busan Citizens Park History Hall | Active | [Busan Guide](busan-guide.md) |
 | `BUSAN-DONGNAE-HALL` | Dongnae Eupseong History Hall | Active | [Busan Guide](busan-guide.md) |
 | `BUSAN-IMJIN` | Dongnae Eupseong Imjin War History Hall | Active | [Busan Guide](busan-guide.md) |
+
+
+## Official Seoul/Busan expansion — 2026-08-21
+
+Twenty additional records were promoted only after an official Seoul, national-museum, Busan, or Visit Busan page was opened. Each card links to the same manual-verification source recorded in `data/deals.csv`; Live Check means the official page confirms the mechanism but a session, renovation, or current notice still needs checking.
+
+| Registry ID | Deal | Status | Manual verification |
+| --- | --- | --- | --- |
+| `SEOUL-CHILD-PARK` | Seoul Children's Grand Park free park and zoo admission | Active | [Official source ↗](https://parks.seoul.go.kr/parks/detailView.do?pIdx=26) |
+| `SEOUL-BOTANIC-OUTDOOR` | Seoul Botanic Park outdoor zones | Active | [Official source ↗](https://culture.seoul.go.kr/night/sub/viewSpot/view.do?viewId=52&pageIndex=4&listType=list) |
+| `SEOUL-PUREUN` | Pureun Arboretum free entry | Active | [Official source ↗](https://parks.seoul.go.kr/template/sub/pureun.do) |
+| `SEOUL-ENERGY-DREAM` | Seoul Energy Dream Center free exhibitions | Active | [Official source ↗](https://energyinfo.seoul.go.kr/board/content?menu-id=Z110100&boardType=0001&boardNo=378) |
+| `SEOUL-UPCYCLING` | Seoul Upcycling Plaza free self-guided visit | Active | [Official source ↗](https://mediahub.seoul.go.kr/archives/2016935) |
+| `SEOUL-WATER-REUSE` | Seoul Water Recycling Experience Center | Live Check | [Official source ↗](https://mediahub.seoul.go.kr/archives/2018243) |
+| `SEOUL-NMK-CHILD` | National Museum of Korea Children's Museum | Live Check | [Official source ↗](https://www.museum.go.kr/ENG/contents/E0103000000.do) |
+| `SEOUL-HANBOK-GYEONGBOK` | Gyeongbokgung Palace hanbok free-admission rule | Active | [Official source ↗](https://royal.khs.go.kr/ENG/contents/E701000000.do) |
+| `SEOUL-FUTURE-LAB` | Seoul Future Lab free technology experiences | Live Check | [Official source ↗](https://mediahub.seoul.go.kr/archives/2017699) |
+| `SEOUL-GARDEN-SHOW-2026` | Seoul International Garden Show 2026 free admission | Active | [Official source ↗](https://mediahub.seoul.go.kr/archives/2018049) |
+| `BUSAN-MOCA` | Museum of Contemporary Art Busan permanent admission | Active | [Official source ↗](https://www.visitbusan.net/en/index.do?menuCd=DOM_000000301001001000&uc_seq=1671&lang_cd=en) |
+| `BUSAN-JEONGGWAN` | Jeonggwan Museum admission | Active | [Official source ↗](https://museum.busan.go.kr/jeonggwan/index) |
+| `BUSAN-TONGSINSA` | History Museum of Joseon Tongsinsa admission | Active | [Official source ↗](https://www.visitbusan.net/en/index.do?menuCd=DOM_000000301001001000&uc_seq=269&lang_cd=en) |
+| `BUSAN-SEOKDANG` | Seokdang Museum of Dong-A University admission | Active | [Official source ↗](https://www.visitbusan.net/en/index.do?menuCd=DOM_000000301001001000&uc_seq=274&lang_cd=en) |
+| `BUSAN-TAEJOON` | Park Tae-joon Museum admission | Live Check | [Official source ↗](https://www.visitbusan.net/en/index.do?menuCd=DOM_000000301001001000&uc_seq=1709&lang_cd=en) |
+| `BUSAN-MMCH-ANNEX` | Busan Modern and Contemporary History Museum Annex | Live Check | [Official source ↗](https://www.visitbusan.net/en/index.do?menuCd=DOM_000000301001001000&uc_seq=1444&lang_cd=en) |
+| `BUSAN-GAMCHEON` | Gamcheon Culture Village free entry | Active | [Official source ↗](https://www.visitbusan.net/en/index.do?menuCd=DOM_000000303011001000&uc_seq=365&lang_cd=en) |
+| `BUSAN-YONGDUSAN` | Yongdusan Park free grounds | Active | [Official source ↗](https://www.visitbusan.net/en/index.do?menuCd=DOM_000000301001001000&uc_seq=368&lang_cd=en) |
+| `BUSAN-YONGGUNGSA` | Haedong Yonggungsa Temple free admission | Active | [Official source ↗](https://visitbusan.net/en/index.do?menuCd=DOM_000000303011001000&uc_seq=261&lang_cd=en) |
+| `BUSAN-TAEJONGDAE` | Taejongdae Recreation Area free walking access | Active | [Official source ↗](https://www.visitbusan.net/en/index.do?menuCd=DOM_000000302002001000&uc_seq=1155&lang_cd=en) |
+
+Use the source link and the registry note together: the note explains the exact free-entry rule, reservation step, paid exclusion, or closure risk that was actually found.
+
+
+## Official Seoul/Busan expansion — 2026-08-21 second sweep
+
+Twenty further records were promoted only after an official Seoul Tourism, Seoul museum, Busan city, or Visit Busan page was opened. Free dates, recurring free-entry rules, and permanent free admission are kept separate in the registry notes; Live Check means a closure, construction notice, current exhibition, or operator schedule must still be checked.
+
+| Registry ID | Deal | Status | Manual verification |
+| --- | --- | --- | --- |
+| `SEOUL-BAEKJE-CHILDREN` | Seoul Baekje Children's Museum free admission | Live Check | [Official source ↗](https://english.visitseoul.net/attractions/SeoulBaekjeChildrensMuseum/ENPeenv2i) |
+| `SEOUL-HORIM-LAST-THU` | Horim Museum last-Thursday free admission | Live Check | [Official source ↗](https://english.visitseoul.net/attractions/Horim-Museum-Sinsa-Main-Building/ENP005546) |
+| `SEOUL-GYEOMJAE-FREE` | Gyeomjae Jeong Seon Art Museum free-admission days | Active | [Official source ↗](https://english.visitseoul.net/attractions/Gyeomjae-Jeong-Seon-Art-Museum/ENP001961) |
+| `SEOUL-BEAUTIFUL-TEA` | Beautiful Tea Museum free gallery admission | Active | [Official source ↗](https://english.visitseoul.net/attractions/Beautiful-Tea-Museum/ENP004467) |
+| `SEOUL-POLICE-MUSEUM` | Korean National Police Heritage Museum admission | Active | [Official source ↗](https://english.visitseoul.net/attractions/Korean-National-Police-Heritage-Museum/ENP020549) |
+| `SEOUL-WATERWORKS` | Seoul Waterworks Museum free admission | Live Check | [Official source ↗](https://english.visitseoul.net/partners-en/seoultour-articles/Seouls-Museums-Getting-to-Know-Seoul_/33309) |
+| `SEOUL-ELECTRICITY` | Electricity Museum free admission | Live Check | [Official source ↗](https://english.visitseoul.net/attractions/Electricity-Museum/ENP001958) |
+| `SEOUL-SEMA-NAM-CHOSUKJIN` | SeMA Nam-Seoul: Cho Sook Jin free exhibition | Active | [Official source ↗](https://sema.seoul.go.kr/kr/whatson/exhibition/detail?exNo=1556711) |
+| `SEOUL-SEMA-BUK-KWON` | SeMA Buk-Seoul: Kwon Byungjun free exhibition | Active | [Official source ↗](https://sema.seoul.go.kr/kr/whatson/exhibition/detail?exNo=1538201) |
+| `SEOUL-BAEKJE-MUSEUM` | Seoul Baekje Museum free admission | Live Check | [Official source ↗](https://baekjemuseum.seoul.go.kr/eng/) |
+| `BUSAN-SAMGWANGSA` | Samgwangsa Temple free admission | Active | [Official source ↗](https://visitbusan.net/en/index.do?menuCd=DOM_000000301001001000&uc_seq=347&lang_cd=en) |
+| `BUSAN-GEUMJEONGSAN` | Geumjeongsan Mountain free access | Active | [Official source ↗](https://visitbusan.net/en/index.do?menuCd=DOM_000000301001001000&uc_seq=396&lang_cd=en) |
+| `BUSAN-SEONAMSA` | Seonamsa Temple free admission | Active | [Official source ↗](https://www.visitbusan.net/en/index.do?menuCd=DOM_000000301001001000&uc_seq=458&lang_cd=en) |
+| `BUSAN-UNSUSA` | Unsusa Temple free admission | Active | [Official source ↗](https://www.visitbusan.net/en/index.do?menuCd=DOM_000000301001001000&uc_seq=459&lang_cd=en) |
+| `BUSAN-HWAMYEONG-ARBORETUM` | Hwamyeong Arboretum free admission | Active | [Official source ↗](https://www.visitbusan.net/en/index.do?menuCd=DOM_000000301001001000&uc_seq=457&lang_cd=en) |
+| `BUSAN-NORTH-PORT-HALL` | Busan North Port Redevelopment Promotion Hall | Active | [Official source ↗](https://www.visitbusan.net/en/index.do?menuCd=DOM_000000301001001000&uc_seq=2082&lang_cd=en) |
+| `BUSAN-BOKBYEONGSAN` | Bokbyeongsan Mountain Small Art Museum | Active | [Official source ↗](https://www.visitbusan.net/en/index.do?menuCd=DOM_000000302002001000&uc_seq=1401&lang_cd=en) |
+| `BUSAN-MANGYANG-EXHIBIT` | Mangyang-ro Mountainside Road Exhibition Hall | Active | [Official source ↗](https://www.visitbusan.net/en/index.do?menuCd=DOM_000000302002001000&uc_seq=1401&lang_cd=en) |
+| `BUSAN-HYUNDAI-MOTORSTUDIO` | Hyundai Motorstudio Busan free exhibition | Live Check | [Official source ↗](https://www.visitbusan.net/en/index.do?menuCd=DOM_000000301001001000&uc_seq=1322&lang_cd=en) |
+| `BUSAN-HUINNYEOL` | Huinnyeoul Culture Village free public access | Active | [Official source ↗](https://visitbusan.net/en/index.do?menuCd=DOM_000000301001001000&uc_seq=255&lang_cd=en) |
+
+The second sweep adds no unverified BOGO SKU or secondary-source claim. Use the source link and the registry note together.
