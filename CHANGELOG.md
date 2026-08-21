@@ -1,5 +1,10 @@
 # Changelog
 
+## 2026-08-21 — v5.8.0 Second official Seoul/Busan expansion (20 verified records)
+- Added **20 more Seoul/Busan records**: free museum days, free galleries, current free SeMA exhibitions, public cultural venues, temples, parks, and the North Port promotion hall.
+- Verified all new terms against official Seoul Tourism, Seoul museum, Busan city, or Visit Busan pages; no new secondary source or unsupported BOGO SKU was promoted.
+- Added manual links, use instructions, claim mappings, queue records, and line-by-line audit coverage for the expanded registry.
+
 ## 2026-08-21 — v5.7.0 Official Seoul/Busan expansion (20 verified records)
 - Added **20 new Seoul/Busan records**: free public parks, outdoor gardens, museums, reservation-based free experiences, the complete-hanbok palace rule, and a dated free garden show.
 - Every new row uses an official government, city, national museum, or Visit Busan source; every card now explains how to redeem/use it and what is excluded.
