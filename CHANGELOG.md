@@ -1,5 +1,11 @@
 # Changelog
 
+## 2026-08-21 — v5.7.0 Official Seoul/Busan expansion (20 verified records)
+- Added **20 new Seoul/Busan records**: free public parks, outdoor gardens, museums, reservation-based free experiences, the complete-hanbok palace rule, and a dated free garden show.
+- Every new row uses an official government, city, national museum, or Visit Busan source; every card now explains how to redeem/use it and what is excluded.
+- Added direct manual-verification links and exact terms to `docs/verification-log.md`; claim mappings and the discovery queue now cover all 126 registry records.
+- Flagged live-check records for reservations, renovation/partial opening, or current notices rather than presenting them as guaranteed entry.
+
 ## 2026-08-19 — v5.6.2 Third official Seoul/Busan expansion (20 more records)
 - **20 additional official records:** remaining SeMA venues, Seoul History Museum 본관, Gyeonghuigung, Craft Art Museum, Hall of Urbanism, Seosomun Shrine Museum, Gugak Museum, Starfield Library, Aviation Museum, BOK Money Museum, Seoul Science Museum, Seoul Library, UN Peace Memorial, Fisheries Science Museum, Citizens Park History Hall, and two Dongnae halls.
 - **Not added:** National Hangeul Museum is closed through late 2028 on the official Visit Seoul page; Unhyeongung fee was not captured on the operator page; no November convenience 1+1 SKUs; no Yacht Tale/The Painters 2026 percentages.
