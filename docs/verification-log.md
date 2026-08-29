@@ -771,3 +771,22 @@ Fifty records opened 2026-08-28. Official Fees: Free or Service Fees Free unless
 2. Sajik Forest of Light and Daehanmun Sunday hanbok need live November confirmation.
 3. Cheonggyecheon stream walk uses a KTO recreation description rather than a Fees field.
 4. Seoul Science Park page still shows a COVID limited-opening note.
+
+## Saturation check — 2026-08-28 (2 added, 50-count not filled)
+
+| Registry ID | Verbatim terms | Manual verification |
+| --- | --- | --- |
+| `BUSAN-SEOKBULSA` | Service Fees Free. Open all year always. | [Visit Busan](https://www.visitbusan.net/en/index.do?menuCd=DOM_000000301001001000&uc_seq=433&lang_cd=en) |
+| `BUSAN-BEOMEOSA-MUSEUM` | Service Fees Free. Tue-Sun 09:30-17:00 closed Monday. | [Visit Busan](https://visitbusan.net/index.do?lang_cd=en&menuCd=DOM_000000301001001000&uc_seq=2314) |
+
+### Not added (would be hallucination or out of scope)
+
+| Lead | Why |
+| --- | --- |
+| 48 extra parks/BOGO | No unused official Fees: Free / live coupon pages found that are not already in the 276-row registry |
+| JUMP VK 40-50% | Page last modified 2025-12-02; no 2026 validity |
+| Hangang Festival Fall 2026 | 17-25 Oct 2026 ends before 31 Oct arrival; Winter is 19-27 Dec |
+| MINIKHAN 10% + welcome pack | Gimpo-si pickup |
+| Seoulland up to 60% | Gwacheon, Gyeonggi |
+| Hwagyesa | No Fees line on KTO page |
+| Product-level BOGO | Still none |

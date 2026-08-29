@@ -1,5 +1,10 @@
 # Changelog
 
+## 2026-08-28 — v5.13.1 Saturation check (2 verified; 50-count not filled)
+- Added **2** remaining Visit Busan free temples (Seokbulsa; Beomeosa Seongbo Museum).
+- **Did not invent 48 more rows.** Official Seoul/Busan free museums, Hangang parks, city-tour partners, and VISITKOREA Exclusive Seoul/Busan partners are already in the registry. Remaining leads failed verification: JUMP coupon last modified 2025-12-02; Hangang Festival fall ends 25 Oct 2026; MINIKHAN is Gimpo; Seoulland is Gwacheon; Hwagyesa has no Fees line.
+- Still **no official product-level BOGO**.
+
 ## 2026-08-28 — v5.13.0 Fifth free-admission sweep (50 verified records)
 - Added **50 Seoul/Busan public parks, temples, plazas, and trails** whose official VISITKOREA, Visit Seoul, or Visit Busan pages list Fees: Free / Service Fees Free (Hangang districts, Hanyangdoseong trail, DDP plaza, Jogyesa/Bongeunsa/Beomeosa, Songjeong Beach, F1963 grounds, Marine City, Hoedong Reservoir, Cinema Center grounds, and related sites).
 - **Not added:** Marronnier Park and Nanji Hangang Park destination pages (no Fees line); Ahopsan Forest (₩5,000); National Hangeul Museum still closed.

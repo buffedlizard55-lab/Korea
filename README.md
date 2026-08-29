@@ -88,6 +88,10 @@ The guide is organized around the actual route: **Incheon arrival → Seoul → 
 
 ---
 
+## Search completeness (2026-08-28)
+
+A dedicated hunt for **50 more** Seoul/Busan free/BOGO/welcome/first-time rows **did not produce 50 new verified records**. Adding that many would require repeating Hangang parks, guessing Fees on pages that omit them, or copying expired/out-of-city coupons. **Two** remaining Visit Busan temples were added instead. See CHANGELOG v5.13.1.
+
 ## ✨ What's New (50 KTO/Visit Busan free sites — 2026-08-28 fifth sweep)
 
 - **50 more free public sites** with official Fees: Free or Service Fees Free lines: Hangang park districts, Hanyangdoseong trail, DDP plaza, Jogyesa/Bongeunsa/Beomeosa, Songjeong Beach, F1963 grounds, Marine City, Hoedong Reservoir, Busan Cinema Center grounds, Seoul Plaza, and related parks. Manual table: [Verification Log](docs/verification-log.md#seoulbusan-kto-free-sites--2026-08-28-fifth-sweep-50).

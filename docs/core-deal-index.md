@@ -411,3 +411,12 @@ Fifty Hangang parks, temples, plazas, and trails whose official VISITKOREA or Vi
 | `BUSAN-HOEDONG` | Hoedong Reservoir walking path free admission | Active | [Open source ↗](https://www.visitbusan.net/index.do?menuCd=DOM_000000301001001000&uc_seq=436&lang_cd=en) |
 | `BUSAN-CINEMA-CENTER` | Busan Cinema Center outdoor grounds free admission | Active | [Open source ↗](https://english.visitkorea.or.kr/enu/ATR/SI_EN_3_1_1_1.jsp?cid=2503886) |
 | `SEOUL-CHEONGGYE-STREAM` | Cheonggyecheon Stream walk public recreation | Active | [Open source ↗](https://english.visitkorea.or.kr/svc/contents/infoHtmlView.do?menuSn=219&vcontsId=136646) |
+
+## Remaining Visit Busan temples — 2026-08-28 saturation note
+
+A further 50-count sweep of official Seoul/Busan promo pages did **not** yield 50 new verified records without repeating parks or inventing BOGO. Two remaining Visit Busan **Service Fees Free** temples were added.
+
+| Registry ID | Deal | Status | Manual verification |
+| --- | --- | --- | --- |
+| `BUSAN-SEOKBULSA` | Seokbulsa Temple | Active | [Open source ↗](https://www.visitbusan.net/en/index.do?menuCd=DOM_000000301001001000&uc_seq=433&lang_cd=en) |
+| `BUSAN-BEOMEOSA-MUSEUM` | Beomeosa Seongbo Museum | Active | [Open source ↗](https://visitbusan.net/index.do?lang_cd=en&menuCd=DOM_000000301001001000&uc_seq=2314) |
