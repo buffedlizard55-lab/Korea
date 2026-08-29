@@ -1,5 +1,14 @@
 # Changelog
 
+## 2026-08-28 — v5.9.0 Promotion sweep and full registry audit (20 verified records)
+- Added **20 Seoul/Busan records** built around free, BOGO-adjacent, welcome/sign-up and first-time promotional terms: six KTO VISITKOREA partner offers (The Painters 30% + gift set, Jinyeon 20% + pouch, Rakkojae 10% `VK2026`, Wehome 5% `VK2026`, Motorstudio Seoul lounge, Busan Yacht Tale 20%/10%), three royal-palace free-admission rules (full hanbok at Changdeokgung/Deoksugung/Changgyeonggung, foreigners 18-and-under or 65-and-over, Culture Day), two free Seoul venues (Unhyeongung, Namsangol), the Lotte Tourist Membership sign-up, the Visit Busan Pass re-visit reward, and five Seoul/Busan city-tour partner discounts.
+- Registered the six new source domains in `data/source-policy.csv` and added visible `deal_id` rows plus per-record terms and manual links in `docs/core-deal-index.md` and `docs/verification-log.md`.
+- **Corrections, all visible:** `SEOUL-TOUR-TIGERBUS` 20% headline replaced with the published 10–25% day-of-boarding terms and moved off a redirecting domain; `SEOUL-SALEFESTA` source domain found serving an unrelated login page, so the record now cites the government briefing and holds at live-check; `NATIONWIDE-SHINSEGAE-VK` gained the omitted CHICOR voucher tier; `SEOUL-GARDEN-SHOW-2026` flagged as closing 2026-10-27, four days before arrival; three Busan lookout records de-shared onto the English official page with the Songdo Cloud Trails naming fix; `BUSAN-PASS-VBP` pointer to its dead event citation.
+- **Re-labelled 16 unsupported claims** in `docs/signup-welcome-deals.md` (8 KakaoTalk channel rows), `docs/verification-log.md` (4 cells), `docs/birthday-freebies.md` (2), `docs/us-tourist-action-plan.md` (1) and `docs/tourist-promotions.md` (1).
+- **Not added, with reasons recorded in the discovery queue:** Seoulland, SONO Busan properties, Motorstudio Goyang, Snoopy Garden (all outside Seoul/Busan), Welcome Week 2026, Seoul Beauty Week 2026, BOF 2026, the express-bus foreigner fare window, the 2025 Grand Sale offers, and 11 city-bus partner items gated on a paid same-day ticket. No official product-level BOGO for the trip window exists in any source opened.
+- New `docs/audit-2026-08-28.md` carries the line-by-line review of all 166 records, the verification method (including what the sandbox network could not prove), and **14 irregularities for review** such as the Culture Day contradiction between two official pages and 126 rows sharing one blanket recheck date.
+
+
 ## 2026-08-21 — v5.8.0 Second official Seoul/Busan expansion (20 verified records)
 - Added **20 more Seoul/Busan records**: free museum days, free galleries, current free SeMA exhibitions, public cultural venues, temples, parks, and the North Port promotion hall.
 - Verified all new terms against official Seoul Tourism, Seoul museum, Busan city, or Visit Busan pages; no new secondary source or unsupported BOGO SKU was promoted.

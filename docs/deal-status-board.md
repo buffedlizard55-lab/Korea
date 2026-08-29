@@ -2,7 +2,7 @@
 
 This is the beginner-facing view of the registry’s status system. It prevents a past promotion, a future announcement, or a source with unknown terms from being treated as a usable trip deal.
 
-> **Last verified: 2026-08-19** · Data source: [`data/deals.csv`](../data/deals.csv) · Quick filter: `python3 scripts/deal_registry.py --status active`
+> **Last verified: 2026-08-28** · Data source: [`data/deals.csv`](../data/deals.csv) · Quick filter: `python3 scripts/deal_registry.py --status active`
 
 ## Status meanings
 
@@ -19,7 +19,7 @@ This is the beginner-facing view of the registry’s status system. It prevents 
 
 ### 🟢 Active — worth putting on a draft itinerary
 
-- **Seoul:** Climate Card short-term passes; Seoul Guided Walking Tour; Tiger Bus same-day partner offer; National Museum of Korea; War Memorial; National Folk Museum; National Palace Museum; National Museum of Korean Contemporary History; SeMA Seosomun/Buk/Nam/Photo/Seoseoul/Art Archive/Nam June Paik House; Hanyangdoseong; Dongdaemun History; Gongpyeong; Gungisi; Dilkusha; Baek In-je outdoor visit; Gyeonggyojang; Cheonggyecheon Museum; Seoul Museum of Korean Folk Music; Seoul Museum of History; Gyeonghuigung; Craft Art Museum; Hall of Urbanism; Seosomun Shrine History Museum; Gugak Museum; Starfield Library; Aviation Museum exhibitions; Bank of Korea Money Museum; Seoul Science Museum; Seoul Metropolitan Library reading.
+- **Seoul:** Climate Card short-term passes; Seoul Guided Walking Tour; Tiger Bus same-day partner offer; National Museum of Korea; War Memorial; National Folk Museum; National Palace Museum; National Museum of Korean Contemporary History; SeMA Seosomun/Buk/Nam/Photo/Seoseoul/Art Archive/Nam June Paik House; Hanyangdoseong; Dongdaemun History; Gongpyeong; Gungisi; Dilkusha; Baek In-je outdoor visit; Gyeonggyojang; Cheonggyecheon Museum; Seoul Museum of Korean Folk Music; Seoul Museum of History; Gyeonghuigung; Craft Art Museum; Hall of Urbanism; Seosomun Shrine History Museum; Gugak Museum; Starfield Library; Aviation Museum exhibitions; Bank of Korea Money Museum; Seoul Science Museum; Seoul Metropolitan Library reading; Namsangol Hanok Village free entry with free guided tours (official page: closed Tuesday); Unhyeongung Palace free admission; palace free admission in a complete hanbok at Changdeokgung, Deoksugung and Changgyeonggung; palace free admission for foreign visitors aged 18 or under and 65 or over.
 - **Busan:** free regular museum admissions including Busan Museum, Modern History Museum, Temporary Capital Memorial, Marine Natural History Museum, UN Memorial Cemetery, UN Peace Memorial Hall, Nurimaru APEC House, Citizens Park History Hall, Dongnae Eupseong History Hall, Imjin War History Hall, National Fisheries Science Museum, and the three official free skywalks; Visit Busan Pass and Busan Pay systems *(both require live partner/merchant checks)*.
 - **Cheonan:** Tourism Taxi (through Dec. 31, first-come), City Tour, Independence Hall.
 - **Daejeon:** City Tour (through Nov. 29), free heritage program (through Nov.), National Science Museum, DMA Collection Highlights (through Dec. 20).
@@ -33,12 +33,18 @@ This is the beginner-facing view of the registry’s status system. It prevents 
 - Cheong Wa Dae entry/registration system
 - Korea Sale Festa 2026 dates and partners
 - KakaoTalk coupons, delivery banners, department-store booklets, and convenience-store monthly products
+- VISITKOREA Exclusive partner coupons — `SEOUL-PAINTERS-VK`, `SEOUL-JINYEON-VK`, `SEOUL-RAKKOJAE-VK`, `SEOUL-WEHOME-VK`, `SEOUL-MOTORSTUDIO-LOUNGE-VK`, `BUSAN-YACHTTALE-VK` (code validity is confirmed only at booking)
+- City-tour bus partner discounts — `SEOUL-CITYBUS-SHILLA-DF`, `SEOUL-CITYBUS-LUGGAGELESS`, `SEOUL-CITYBUS-MOMSTOUCH-NAMSAN`, `BUSAN-CITYTOUR-SEALIFE`, `BUSAN-CITYTOUR-XTHESKY`, `BUSAN-CITYTOUR-ARTE-MUSEUM`, `BUSAN-CITYTOUR-BOKSOONDOGA` (all need a same-day paid boarding ticket and are non-combinable)
+- `SEOUL-LOTTE-TOURIST-MEMBERSHIP` benefit percentages and `BUSAN-VBP-REVISIT` reward amounts — the existence and window are official, the numbers are not
+- `SEOUL-PALACE-LASTWED-FREE` — two official pages disagree about which Wednesdays are free from 2026-04-01
 
 ### 📅 Future / ⛔ expired / 🚫 rejected
 
 | Deal | Status | Why |
 | --- | --- | --- |
-| Korea Sale Festa 2026 | 📅 Future | Official dates and partners are not published yet. Recheck in late September. |
+| Korea Sale Festa 2026 | 🔄 Live check | Dates still unpublished, and the festival domain now serves an unrelated login page (2026-08-28); recheck late September on the government briefing only. |
+| Seoulland 60% pass, SONO Busan properties, Motorstudio Goyang, Snoopy Garden | 🚫 Rejected for this list | Genuine KTO partner offers, but none is inside Seoul or Busan (Gwacheon, Goyang) or, for SONO, its Busan hotels are excluded from the coupon. Verified 2026-08-28. |
+| Seoul Welcome Week 2026, Seoul Beauty Week 2026, BOF 2026, express-bus foreigner fare | ⛔ Expired for this trip | Official dates are May 1–8, Aug 22–25, June 27–28 and Jun 15–Jul 14 2026 respectively — all before the Oct 31 arrival. |
 | 2026 Seoul Autumn Festival | 📅 Future until Sep 19 | Official SMG window is Sep 19–Nov 29; individual events may be free or ticketed. |
 | Donuimun History Museum | ⛔ Expired for this trip | Official annex page: closed 2025-09-01 through 2026-12-31. |
 | Daejeon 2026 summer 50% attraction tickets | ⛔ Expired for the trip | Use-by date is Oct. 31; it cannot cover November dates. |

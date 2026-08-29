@@ -244,3 +244,32 @@ Twenty further records were promoted only after an official Seoul Tourism, Seoul
 | `BUSAN-HUINNYEOL` | Huinnyeoul Culture Village free public access | Active | [Official source ↗](https://visitbusan.net/en/index.do?menuCd=DOM_000000301001001000&uc_seq=255&lang_cd=en) |
 
 The second sweep adds no unverified BOGO SKU or secondary-source claim. Use the source link and the registry note together.
+
+## Seoul/Busan promotions, sign-up offers and free admissions — 2026-08-28 sweep
+
+These 20 records were added after the official or operator page in the last column was opened on 2026-08-28. Free admission, discount percentages, promo codes and expiry dates below are quoted from that page; nothing here is inferred from a blog or an aggregator.
+
+| Registry ID | Deal | Status | Manual verification |
+| --- | --- | --- | --- |
+| `SEOUL-PAINTERS-VK` | The Painters Gwanghwamun VISITKOREA 30% + welcome gift | Live Check | [Open source ↗](https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=607&vcontsId=1589587) |
+| `SEOUL-JINYEON-VK` | Jinyeon Gugak performance VISITKOREA 20% + free pouch | Live Check | [Open source ↗](https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=607&vcontsId=1589738) |
+| `SEOUL-RAKKOJAE-VK` | Rakkojae Bukchon hanok stay VISITKOREA 10% code | Live Check | [Open source ↗](https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=607&vcontsId=1589688) |
+| `SEOUL-WEHOME-VK` | Wehome VISITKOREA 5% code and free airport welcome | Live Check | [Open source ↗](https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=607&vcontsId=1589636) |
+| `SEOUL-MOTORSTUDIO-LOUNGE-VK` | Hyundai Motorstudio Seoul VISITKOREA club lounge benefit | Live Check | [Open source ↗](https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=607&vcontsId=1590710) |
+| `SEOUL-HANBOK-PALACES-OTHER` | Hanbok free admission at Changdeokgung, Deoksugung, Changgyeonggung | Active | [Open source ↗](https://royal.khs.go.kr/ENG/contents/E701000000.do) |
+| `SEOUL-PALACE-AGE-FREE` | Palace free admission for foreign visitors 18 and under or 65 and over | Active | [Open source ↗](https://royal.khs.go.kr/ROYAL/contents/R703000000.do) |
+| `SEOUL-PALACE-LASTWED-FREE` | Palace free admission on Culture Day (last Wednesday per palace page) | Live Check | [Open source ↗](https://royal.khs.go.kr/ROYAL/contents/R703000000.do) |
+| `SEOUL-UNHYEONGUNG-FREE` | Unhyeongung Palace grounds admission | Active | [Open source ↗](https://english.visitseoul.net/attractions/unhyeongungpalace_/478) |
+| `SEOUL-NAMSANGOL-FREE` | Namsangol Hanok Village free entry and free permanent guided tours | Active | [Open source ↗](https://english.visitseoul.net/walking-tour/General-Information/ENN015020) |
+| `SEOUL-LOTTE-TOURIST-MEMBERSHIP` | Lotte Tourist Membership Card sign-up benefits | Live Check | [Open source ↗](https://global.lotteshopping.com/eng/main) |
+| `SEOUL-CITYBUS-SHILLA-DF` | Shilla Duty Free benefit with Seoul City Tour Bus ticket | Live Check | [Open source ↗](https://www.seoulcitybus.com/en/discounts) |
+| `SEOUL-CITYBUS-LUGGAGELESS` | Luggage Less storage discount with Seoul City Tour Bus ticket | Live Check | [Open source ↗](https://www.seoulcitybus.com/en/discounts) |
+| `SEOUL-CITYBUS-MOMSTOUCH-NAMSAN` | Mom's Touch N Seoul Tower 10% off with bus ticket | Live Check | [Open source ↗](https://www.seoulcitybus.com/en/discounts) |
+| `BUSAN-YACHTTALE-VK` | Yacht Tale Busan VISITKOREA booking discount | Live Check | [Open source ↗](https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=607&vcontsId=1589743) |
+| `BUSAN-VBP-REVISIT` | Visit Busan Pass re-visit reward promotion | Live Check | [Open source ↗](https://www.visitbusanpass.com/reVisitBusanPass) |
+| `BUSAN-CITYTOUR-SEALIFE` | SEA LIFE Busan Aquarium discount with Busan City Tour ticket | Live Check | [Open source ↗](https://www.citytourbusan.com/en2/04discount/02.php) |
+| `BUSAN-CITYTOUR-XTHESKY` | Busan X-the-Sky observatory 25% off with Busan City Tour ticket | Live Check | [Open source ↗](https://www.citytourbusan.com/en2/04discount/02.php) |
+| `BUSAN-CITYTOUR-ARTE-MUSEUM` | Arte Museum Busan discounted admission with Busan City Tour ticket | Live Check | [Open source ↗](https://www.citytourbusan.com/en2/04discount/02.php) |
+| `BUSAN-CITYTOUR-BOKSOONDOGA` | Boksoondoga makgeolli 50% off with Busan City Tour ticket | Live Check | [Open source ↗](https://www.citytourbusan.com/en2/04discount/02.php) |
+
+Every record keeps a live check: promo codes are entered at booking, coupon barcodes are downloaded on the day, and the two city-tour partner pages gate their discounts on a same-day boarding ticket.

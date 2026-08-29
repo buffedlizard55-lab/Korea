@@ -81,17 +81,25 @@ The guide is organized around the actual route: **Incheon arrival → Seoul → 
 | 🍱 [`docs/everyday-savings.md`](docs/everyday-savings.md) | All-You-Can-Eat (`무한리필`) BBQ/Buffets, **budget burger & meal chains**, Tongin Market Coin Lunchbox, Convenience 1+1/2+1 & Hypermarket Tax Refund | Everyday meals |
 | 🕵️ [`docs/verification-log.md`](docs/verification-log.md) | Every claim and source, with access dates and confidence/tourist accessibility ratings + **Link Audit** | Trust check |
 | 🔍 [`docs/audit-2026-08-18.md`](docs/audit-2026-08-18.md) | **Independent external audit** — line-by-line re-verification against primary sources; 6 corrections, 1 downgrade, 1 structural fix | Verify the verifier |
+| 🔍 [`docs/audit-2026-08-28.md`](docs/audit-2026-08-28.md) | **2026-08-28 line-by-line audit** of all 166 registry records — verification method, 20 promotions added, 8 corrections, 14 open irregularities | Verify the latest sweep |
 | 🔍 [`docs/audit-2026-08-21.md`](docs/audit-2026-08-21.md) | 2026-08-21 registry review — line-by-line field/source-tier check with irregularities flagged | Verify the latest batch |
 | 📝 [`docs/field-notes.md`](docs/field-notes.md) | **NEW:** In-trip log template — track prices paid, ID checks, and what worked; upgrades 🔴/🟡 → 🟢 | During the trip |
 | 📊 [`data/deal-tracker.csv`](data/deal-tracker.csv) | Blank live CSV tracker—one row per real redemption; see [`data/examples/deal-tracker-example.csv`](data/examples/deal-tracker-example.csv) for format | Counting your savings |
 
 ---
 
+## ✨ What's New (Promotion sweep + full line-by-line audit — 2026-08-28)
+
+- **20 more records (14 Seoul, 6 Busan)**, all aimed at the brief's promotional side rather than another set of free museums: six Korea Tourism Organization VISITKOREA partner offers with published codes and percentages, three royal-palace free-admission rules, two free-admission Seoul venues whose terms were previously unpublished, the Lotte Tourist Membership sign-up, the Visit Busan Pass re-visit reward, and five city-tour bus partner discounts. Every one was added only after opening the official or operator page quoted in `data/deals.csv`; manual links are in the [Verification Log](docs/verification-log.md#official-seoulbusan-promotion-sweep--2026-08-28).
+- **Nothing invented, and two earlier refusals closed honestly:** the Yacht Tale percentage, The Painters offer and the Unhyeongung fee that the 2026-08-19 sweep declined to publish are now recorded because official pages for all three were found. **No true product-level BOGO** exists for foreign tourists in Oct 31–Nov 22, 2026 in any source opened during ten verification rounds — the free-gift-with-purchase offers that come closest are labelled as such.
+- **Rejected with reasons, so they are not re-hunted:** Seoulland (Gwacheon, outside Seoul/Busan), SONO Hotels (its two Busan properties are excluded from the coupon), Motorstudio Goyang, Seoul Welcome Week (May 1–8), Seoul Beauty Week (Aug 22–25), BOF 2026 (June 27–28), the express-bus foreigner fare window (Jun 15–Jul 14) and Wehome's expired Busan code.
+- **Corrections, not silent edits:** the Tiger Bus "20% partner offer" headline, a hijacked festival source domain, an over-complete Shinsegae coupon list, a garden show that ends before arrival, three Busan lookouts sharing one Korean citation and a dead pass-event citation were all fixed in place, and 16 unsupported 🟢 claims in the guides were re-labelled 🟡/🔴. The 14 open questions are in the [2026-08-28 audit](docs/audit-2026-08-28.md).
+
 ## ✨ What's New (Official Seoul/Busan expansion — 2026-08-19)
 
 - **20 new core registry records** were added only after official government, museum, or Korea Tourism Organization pages were opened. Twelve are free Seoul/Busan admissions; eight are dated promotional discounts or live calendars. Manual-check URLs are in the [Verification Log](docs/verification-log.md#official-seoulbusan-expansion--2026-08-19).
 - **Third official sweep (20 more records):** remaining SeMA venues, Seoul History Museum 본관, Gyeonghuigung, Craft Art Museum, Hall of Urbanism, Seosomun Shrine Museum, Gugak Museum, Starfield Library, Aviation Museum, BOK Money Museum, Seoul Science Museum, Seoul Library, UN Peace Memorial, Fisheries Science Museum, Citizens Park History Hall, and two Dongnae halls. Manual-check URLs are in the [Verification Log](docs/verification-log.md#third-official-seoulbusan-expansion--2026-08-19).
-- **Not invented:** no November convenience 1+1 SKU list, no Yacht Tale/The Painters 2026 percentage, and no Hangang drone date inside the Oct 31–Nov 22 window were published as trip deals. National Hangeul Museum was not added because the official Visit Seoul page says it is closed through late 2028.
+- **Not invented (as of that sweep):** no November convenience 1+1 SKU list, no Yacht Tale/The Painters 2026 percentage, and no Hangang drone date inside the Oct 31–Nov 22 window were published as trip deals. *(Update 2026-08-28: official KTO partner pages for Yacht Tale and The Painters were later found and those two records plus the Unhyeongung fee are now registered; the convenience-store SKU list still does not exist that far ahead.)* National Hangeul Museum was not added because the official Visit Seoul page says it is closed through late 2028.
 
 ## ✨ What's New (City deal audit — 2026-08-03)
 
