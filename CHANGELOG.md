@@ -1,5 +1,11 @@
 # Changelog
 
+## 2026-08-28 — v5.13.0 Fifth free-admission sweep (50 verified records)
+- Added **50 Seoul/Busan public parks, temples, plazas, and trails** whose official VISITKOREA, Visit Seoul, or Visit Busan pages list Fees: Free / Service Fees Free (Hangang districts, Hanyangdoseong trail, DDP plaza, Jogyesa/Bongeunsa/Beomeosa, Songjeong Beach, F1963 grounds, Marine City, Hoedong Reservoir, Cinema Center grounds, and related sites).
+- **Not added:** Marronnier Park and Nanji Hangang Park destination pages (no Fees line); Ahopsan Forest (₩5,000); National Hangeul Museum still closed.
+- **Flags:** Bugaksan hours omit November; Sajik Forest of Light and Daehanmun Sunday hanbok need live-check; Cheonggyecheon stream walk uses a KTO recreation description rather than a Fees field.
+- Still **no official product-level BOGO**.
+
 ## 2026-08-28 — v5.12.0 Fourth free-admission sweep (20 verified records)
 - Added **20 Seoul/Busan free public sites** whose official VISITKOREA destination pages list Fees: Free (Seoullo 7017, World Cup Park, Namsan Park grounds, Tapgol, Ttukseom Hangang, Banpo Seoraeseom, Bukchon Cultural Center, Independence Park grounds, Montmartre Park, Jingwansa, HiKR Ground, Royal Guard Changing Ceremony, Cheonggyecheon Old Books Street, Ssamzigil, Gwangalli Beach, Millak Waterfront Park, Dongbaekseom trail, Nakdong Eco-Center, Geumgang Park grounds, Dalmaji Road).
 - **Not added:** National Hangeul Museum (officially closed for fire restoration and expansion). N Seoul Tower, Namsan cable, Geumgang cable, Seodaemun Prison Museum, and Some Sevit remain paid and were not labelled free.

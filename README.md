@@ -88,6 +88,11 @@ The guide is organized around the actual route: **Incheon arrival → Seoul → 
 
 ---
 
+## ✨ What's New (50 KTO/Visit Busan free sites — 2026-08-28 fifth sweep)
+
+- **50 more free public sites** with official Fees: Free or Service Fees Free lines: Hangang park districts, Hanyangdoseong trail, DDP plaza, Jogyesa/Bongeunsa/Beomeosa, Songjeong Beach, F1963 grounds, Marine City, Hoedong Reservoir, Busan Cinema Center grounds, Seoul Plaza, and related parks. Manual table: [Verification Log](docs/verification-log.md#seoulbusan-kto-free-sites--2026-08-28-fifth-sweep-50).
+- Still **no official product-level BOGO**. Bugaksan hours skip November — confirm before hiking.
+
 ## ✨ What's New (KTO free parks and halls — 2026-08-28 fourth sweep)
 
 - **20 more free public sites** whose official VISITKOREA pages list Fees: Free, including Seoullo 7017, World Cup Park, Namsan Park grounds (not the tower), Tapgol Park, Hangang islets, HiKR Ground, the Royal Guard Changing Ceremony, Gwangalli Beach, Dongbaekseom trail, Nakdong Eco-Center, Geumgang Park grounds (cable paid), and Dalmaji Road. Manual table: [Verification Log](docs/verification-log.md#seoulbusan-kto-free-admission-sites--2026-08-28-fourth-sweep).

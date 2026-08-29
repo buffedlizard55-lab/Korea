@@ -354,3 +354,60 @@ Twenty public parks, trails, temples, and KTO visitor halls whose official VISIT
 | `BUSAN-NAKONG-ECO` | Nakdong Estuary Eco-Center | Active | [Open source ↗](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=91004) |
 | `BUSAN-GEUMGANG-PARK` | Geumgang Park grounds | Active | [Open source ↗](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=86363) |
 | `BUSAN-DALMAJI` | Dalmaji Road | Active | [Open source ↗](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=112002) |
+
+## Seoul/Busan KTO free sites — 2026-08-28 fifth sweep (50)
+
+Fifty Hangang parks, temples, plazas, and trails whose official VISITKOREA or Visit Seoul/Visit Busan pages list Fees: Free or Service Fees Free. Paid add-ons (cable, skating, Ahopsan Forest, cinema tickets) are excluded.
+
+| Registry ID | Deal | Status | Manual verification |
+| --- | --- | --- | --- |
+| `SEOUL-MANGWON-HANGANG` | Mangwon Hangang Park free admission | Active | [Open source ↗](https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?menuSn=351&vcontsId=91202) |
+| `SEOUL-JAMWON-HANGANG` | Jamwon Hangang Park free admission | Active | [Open source ↗](https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=91930) |
+| `SEOUL-JAMSIL-HANGANG` | Jamsil Hangang Park free admission | Active | [Open source ↗](https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?menuSn=351&vcontsId=91632) |
+| `SEOUL-ICHON-HANGANG` | Ichon Hangang Park free admission | Active | [Open source ↗](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=91800) |
+| `SEOUL-YANGHWA-HANGANG` | Yanghwa Hangang Park free admission | Active | [Open source ↗](https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=91221) |
+| `SEOUL-GWANGNARU-HANGANG` | Gwangnaru Hangang Park free admission | Active | [Open source ↗](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=80362&menuSn=351) |
+| `SEOUL-BANPO-HANGANG` | Banpo Hangang Park free admission | Active | [Open source ↗](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=91983) |
+| `SEOUL-HANYANG-TRAIL` | Hanyangdoseong city-wall trail free admission | Active | [Open source ↗](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=136593) |
+| `SEOUL-SEONYUDO` | Seonyudo Park free admission | Active | [Open source ↗](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=175826) |
+| `SEOUL-NODEUL` | Nodeul Island free admission | Active | [Open source ↗](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=34334) |
+| `SEOUL-YEOUIDO-PARK` | Yeouido Park inland lawn free admission | Active | [Open source ↗](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=110577) |
+| `SEOUL-JEONGDONG-OBS` | Jeongdong Observatory free admission | Active | [Open source ↗](https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=69685) |
+| `SEOUL-NAMSAN-BOTANIC` | Namsan Outdoor Botanical Garden free admission | Active | [Open source ↗](https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=80961) |
+| `SEOUL-INWANGSAN` | Inwangsan Mountain trail free admission | Active | [Open source ↗](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=85681) |
+| `SEOUL-BUGAKSAN` | Bugaksan Mountain trail free admission | Live-Check | [Open source ↗](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=90662) |
+| `SEOUL-DOBONGSAN` | Dobongsan Mountain trail free admission | Active | [Open source ↗](https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=80867) |
+| `SEOUL-PALGAKJEONG` | Bugak Skyway Palgakjeong Pavilion free admission | Active | [Open source ↗](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=76679) |
+| `SEOUL-DONGDAEMUN-PARK` | Dongdaemun History and Culture Park grounds free admission | Active | [Open source ↗](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=75906&menuSn=351) |
+| `SEOUL-DDP-PLAZA` | Dongdaemun Design Plaza grounds free admission | Active | [Open source ↗](https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=67162) |
+| `SEOUL-SCIENCE-PARK` | Seoul Science Park education campus free admission | Live-Check | [Open source ↗](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=81476&menuSn=351) |
+| `SEOUL-HYOCHANG` | Hyochang Park free admission | Active | [Open source ↗](https://english.visitseoul.net/nature/Hyochang-Park_/39738) |
+| `SEOUL-INWANG-SHELTER` | Inwangsan Shelter in the Woods free admission | Active | [Open source ↗](https://english.visitseoul.net/area/2024-iwsshelter/ENPqsaooa) |
+| `SEOUL-HANGANG-PLAY` | Hangang Play Place Ttukseom free general admission | Active | [Open source ↗](https://english.visitseoul.net/area/HangangPlayPlace/ENPqb6ctu) |
+| `SEOUL-SEOSOMUN-PARK` | Seosomun Historical Park grounds free admission | Active | [Open source ↗](https://english.visitseoul.net/attractions/seosomun-historical-park_/30157) |
+| `SEOUL-YONGSAN-FAMILY` | Yongsan Family Park free admission | Active | [Open source ↗](https://english.visitkorea.or.kr/enu/ATR/SI_EN_3_6.jsp?cid=2514566) |
+| `SEOUL-BUDDHIST-MUSEUM` | Central Buddhist Museum at Jogyesa free admission | Active | [Open source ↗](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=183557) |
+| `SEOUL-PALACE-TOUR-EN` | Royal palace free English guided tours | Live-Check | [Open source ↗](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=124533) |
+| `SEOUL-JOGYESA` | Jogyesa Temple Seoul free admission | Active | [Open source ↗](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=111552&menuSn=351) |
+| `SEOUL-BONGEUNSA` | Bongeunsa Temple Gangnam free admission | Active | [Open source ↗](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=104722) |
+| `SEOUL-SAJIK-LIGHT` | Sajik Forest of Light free admission | Live-Check | [Open source ↗](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=217718) |
+| `SEOUL-DAEHANMUN-HANBOK` | Deoksugung Daehanmun Sunday free hanbok photo | Live-Check | [Open source ↗](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=129527) |
+| `SEOUL-HEUNGINJIMUN` | Heunginjimun Dongdaemun Gate exterior free viewing | Active | [Open source ↗](https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=110658) |
+| `BUSAN-BEOMEOSA` | Beomeosa Temple free admission | Active | [Open source ↗](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=111223) |
+| `BUSAN-HWANGNYEONG` | Hwangnyeongsan Mountain trail free admission | Active | [Open source ↗](https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=77390) |
+| `BUSAN-GEUMJEONG-FORT` | Geumjeongsanseong Fortress free admission | Active | [Open source ↗](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=111743) |
+| `BUSAN-GWANGALLI-THEME` | Gwangalli Beach Theme Street free walking access | Active | [Open source ↗](https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=189755) |
+| `BUSAN-GREEN-RAIL` | Haeundae Green Railway walking trail free admission | Active | [Open source ↗](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=172690) |
+| `BUSAN-TRAVEL-LOUNGE` | Busan Travel Lounge rest and info free admission | Active | [Open source ↗](https://visitbusan.net/index.do?lang_cd=en&menuCd=DOM_000000301001001000&uc_seq=1900) |
+| `BUSAN-SONGJEONG-BEACH` | Songjeong Beach free access | Active | [Open source ↗](https://www.visitbusan.net/en/index.do?menuCd=DOM_000000301001001000&uc_seq=280&lang_cd=en) |
+| `BUSAN-CITIZENS-PARK` | Busan Citizens Park grounds free admission | Active | [Open source ↗](https://www.visitbusan.net/en/index.do?menuCd=DOM_000000302002001000&uc_seq=1186&lang_cd=en) |
+| `BUSAN-SEUNGHAKSAN` | Seunghaksan Mountain trail free admission | Active | [Open source ↗](https://visitbusan.net/index.do?lang_cd=en&menuCd=DOM_000000302002001000&uc_seq=1019) |
+| `BUSAN-EULSUKDO-PARK` | Eulsukdo Migratory Bird Park outdoor free access | Active | [Open source ↗](https://visitbusan.net/index.do?lang_cd=en&menuCd=DOM_000000302002001000&uc_seq=1019) |
+| `BUSAN-SUYEONG-SAJEOK` | Suyeong Sajeok Park free admission | Active | [Open source ↗](https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=81400) |
+| `SEOUL-PLAZA` | Seoul Plaza free admission | Active | [Open source ↗](https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=107522) |
+| `BUSAN-MARINE-CITY` | Marine City Haeundae streetscape free access | Active | [Open source ↗](https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=60310) |
+| `BUSAN-F1963` | F1963 culture factory grounds free admission | Active | [Open source ↗](https://www.visitbusan.net/en/index.do?menuCd=DOM_000000301001001000&uc_seq=372&lang_cd=en) |
+| `BUSAN-CINE-ROAD` | Busan Cine Road free walking access | Active | [Open source ↗](https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=184378) |
+| `BUSAN-HOEDONG` | Hoedong Reservoir walking path free admission | Active | [Open source ↗](https://www.visitbusan.net/index.do?menuCd=DOM_000000301001001000&uc_seq=436&lang_cd=en) |
+| `BUSAN-CINEMA-CENTER` | Busan Cinema Center outdoor grounds free admission | Active | [Open source ↗](https://english.visitkorea.or.kr/enu/ATR/SI_EN_3_1_1_1.jsp?cid=2503886) |
+| `SEOUL-CHEONGGYE-STREAM` | Cheonggyecheon Stream walk public recreation | Active | [Open source ↗](https://english.visitkorea.or.kr/svc/contents/infoHtmlView.do?menuSn=219&vcontsId=136646) |

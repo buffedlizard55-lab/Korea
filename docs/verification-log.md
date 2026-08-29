@@ -699,3 +699,75 @@ Twenty destination pages opened on 2026-08-28. Each official Fees line is Free. 
 1. World Cup Park hours change by month; November is 6:30-19:00 on the KTO page.
 2. Guard-changing ceremony needs a live timetable check; KTO lists Fees Free but not the November clock.
 3. HiKR Ground floors 2-4 close Mondays.
+
+## Seoul/Busan KTO free sites — 2026-08-28 fifth sweep (50)
+
+Fifty records opened 2026-08-28. Official Fees: Free or Service Fees Free unless noted.
+
+| Registry ID | Terms excerpt | Manual verification |
+| --- | --- | --- |
+| `SEOUL-MANGWON-HANGANG` | Official VISITKOREA destination page: Fees Free. Mapo-gu Hangang district. Outdoor pool and water sports are separately paid. Distinct from World Cup Park. Verified 2026-08-28. | [source](https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?menuSn=351&vcontsId=91202) |
+| `SEOUL-JAMWON-HANGANG` | Official VISITKOREA destination page: Fees Free. Seocho-gu Hangang district. Parking available. Verified 2026-08-28. | [source](https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=91930) |
+| `SEOUL-JAMSIL-HANGANG` | Official VISITKOREA destination page: Fees Free. Parking 1000 won first 30 minutes. Distinct from Olympic Park. Verified 2026-08-28. | [source](https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?menuSn=351&vcontsId=91632) |
+| `SEOUL-ICHON-HANGANG` | Official VISITKOREA destination page: Fees Free. Parking 1000 won first 30 minutes. Hangang Art Park sculptures sit in this district. Verified 2026-08-28. | [source](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=91800) |
+| `SEOUL-YANGHWA-HANGANG` | Official VISITKOREA destination page: Fees Free. Yeongdeungpo-gu. Use this park for Seonyudo parking. Verified 2026-08-28. | [source](https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=91221) |
+| `SEOUL-GWANGNARU-HANGANG` | Official VISITKOREA destination page: Fees Free. Reed habitat and bird area. Parking 4 lots. Verified 2026-08-28. | [source](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=80362&menuSn=351) |
+| `SEOUL-BANPO-HANGANG` | Official VISITKOREA destination page: Fees Free. Distinct from Banpo Seoraeseom islet. Moonlight Rainbow Fountain is seasonal and not assumed for November. Some Sevit is paid. Veri | [source](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=91983) |
+| `SEOUL-HANYANG-TRAIL` | Official VISITKOREA highlight: Admission Free. Naksan Heunginjimun Namsan Inwangsan sections open 24 hr except a Namsan hotel stretch 09:00-18:00. Sungnyemun section November-Febru | [source](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=136593) |
+| `SEOUL-SEONYUDO` | Official VISITKOREA destination page: Fees Free (separate fees apply to programs). November-March hours 09:00-21:00 on the older KTO listing. Park at Yanghwa Hangang. Verified 2026 | [source](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=175826) |
+| `SEOUL-NODEUL` | Official VISITKOREA destination page: Fees Free. Closed Mondays January 1 Seollal and Chuseok. Parking paid. Bookstores and paid shows on the island are separate. Verified 2026-08- | [source](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=34334) |
+| `SEOUL-YEOUIDO-PARK` | Official VISITKOREA destination page: Fees Free. Parking not available. Distinct from Yeouido Hangang Park riverside. Verified 2026-08-28. | [source](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=110577) |
+| `SEOUL-JEONGDONG-OBS` | Official VISITKOREA destination page: Fees Free. 15 Deoksugung-gil Jung-gu. Confirm live hours at the Seoul 120 desk. Verified 2026-08-28. | [source](https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=69685) |
+| `SEOUL-NAMSAN-BOTANIC` | Official VISITKOREA destination page: Fees Free. Distinct from Namsan Park grounds and from paid N Seoul Tower. Verified 2026-08-28. | [source](https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=80961) |
+| `SEOUL-INWANGSAN` | Official VISITKOREA destination page: Fees Free. City-wall hike; check weather and trail closures. Verified 2026-08-28. | [source](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=85681) |
+| `SEOUL-BUGAKSAN` | Official VISITKOREA destination page: Fees Free. Hours listed March-April and September-October 07:00-18:00; May-August 07:00-19:00; December-February 09:00-17:00. ⚠️ IRREGULARITY: | [source](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=90662) |
+| `SEOUL-DOBONGSAN` | Official VISITKOREA destination page: Fees Free. Open all year. Part of Bukhansan National Park northern side. Distinct from the Bukhansan listing. Check knps closures. Verified 20 | [source](https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=80867) |
+| `SEOUL-PALGAKJEONG` | Official VISITKOREA destination page: Fees Free. Viewpoint pavilion. Cafe and parking are separate. Verified 2026-08-28. | [source](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=76679) |
+| `SEOUL-DONGDAEMUN-PARK` | Official VISITKOREA destination page: Fees Free. Outdoor park around DDP; museums inside are already listed separately. Verified 2026-08-28. | [source](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=75906&menuSn=351) |
+| `SEOUL-DDP-PLAZA` | Official VISITKOREA destination page: Fees Free (fees vary by event and experience program). Do not treat ticketed Design Miami or museum shows as free. Verified 2026-08-28. | [source](https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=67162) |
+| `SEOUL-SCIENCE-PARK` | Official VISITKOREA destination page: Fees Free. Page still carries a COVID limited-opening note. Distinct from Seoul Metropolitan Science Museum. Recheck operator hours before rou | [source](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=81476&menuSn=351) |
+| `SEOUL-HYOCHANG` | Official Visit Seoul page: Fee Free admission. Open year-round daily. Independence memorials on site; treat as a park not a ticketed museum. Verified 2026-08-28. | [source](https://english.visitseoul.net/nature/Hyochang-Park_/39738) |
+| `SEOUL-INWANG-SHELTER` | Official Visit Seoul page: Fee Free admission. Hours 10:00-17:00 Tue-Sun; closed Monday Seollal Chuseok. Cheongun-dong. Verified 2026-08-28. | [source](https://english.visitseoul.net/area/2024-iwsshelter/ENPqsaooa) |
+| `SEOUL-HANGANG-PLAY` | Official Visit Seoul page: Fee General admission is free. Ttukseom Jabeolle 1F. Paid workshops are separate. Verified 2026-08-28. | [source](https://english.visitseoul.net/area/HangangPlayPlace/ENPqb6ctu) |
+| `SEOUL-SEOSOMUN-PARK` | Official Visit Seoul page: Fee Free admission. 5 Chilpae-ro Jung-gu. Distinct from Seosomun Shrine History Museum indoor halls. Verified 2026-08-28. | [source](https://english.visitseoul.net/attractions/seosomun-historical-park_/30157) |
+| `SEOUL-YONGSAN-FAMILY` | Official VISITKOREA Ichon-dong guide: Yongsan Family Park admission Free; open all year 24/7. Next to National Museum of Korea. Verified 2026-08-28. | [source](https://english.visitkorea.or.kr/enu/ATR/SI_EN_3_6.jsp?cid=2514566) |
+| `SEOUL-BUDDHIST-MUSEUM` | Official VISITKOREA culture page: Admission Free. Museum 10:00-18:00 closed Mondays. Note: page says free all year except summer vacation; November is in season. Temple-stay progra | [source](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=183557) |
+| `SEOUL-PALACE-TOUR-EN` | Official VISITKOREA page: Gyeongbokgung Changdeokgung Deoksugung Changgyeonggung and Jongmyo offer free guided tours in English Japanese Chinese. Palace admission is still required | [source](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=124533) |
+| `SEOUL-JOGYESA` | Official VISITKOREA destination page: Fees Free. Parking paid. Temple-stay and craft programs are separate. Verified 2026-08-28. | [source](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=111552&menuSn=351) |
+| `SEOUL-BONGEUNSA` | Official VISITKOREA destination page: Fees Free. 531 Bongeunsa-ro Gangnam-gu next to COEX. Temple-stay paid. Verified 2026-08-28. | [source](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=104722) |
+| `SEOUL-SAJIK-LIGHT` | Official VISITKOREA destination page: Fees Free. Parking within Sajik Park. ⚠️ Confirm the installation is still running in November 2026; treat as live-check not a guaranteed nigh | [source](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=217718) |
+| `SEOUL-DAEHANMUN-HANBOK` | Official VISITKOREA hanbok-programs page (dated 2026-01-27): free on-site Sunday 10:30-15:30 at Daehanmun; cannot enter the palace in this free costume. Weather/protest cancellatio | [source](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=129527) |
+| `SEOUL-HEUNGINJIMUN` | Official VISITKOREA destination page: Fees Free. Outdoor historic gate; not an interior museum. Verified 2026-08-28. | [source](https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=110658) |
+| `BUSAN-BEOMEOSA` | Official VISITKOREA destination page: Fees Free. 250 Beomeosa-ro Geumjeong-gu. Temple-stay paid. Pair with Geumjeongsan trails. Verified 2026-08-28. | [source](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=111223) |
+| `BUSAN-HWANGNYEONG` | Official VISITKOREA destination page: Fees Free. Nam-gu viewpoint above Gwangalli. Verified 2026-08-28. | [source](https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=77390) |
+| `BUSAN-GEUMJEONG-FORT` | Official VISITKOREA destination page: Fees Free. Fortress walls distinct from the Geumjeongsan mountain listing. Verified 2026-08-28. | [source](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=111743) |
+| `BUSAN-GWANGALLI-THEME` | Official VISITKOREA destination page: Fees Free. Street along Gwangalli; shops posted-price. Verified 2026-08-28. | [source](https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=189755) |
+| `BUSAN-GREEN-RAIL` | Official VISITKOREA destination page: Fees Free. Facility fees Beach Train 7000 won Sky Capsule 50000 won are NOT this deal. Visit Busan also lists the trail as Free with payment r | [source](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=172690) |
+| `BUSAN-TRAVEL-LOUNGE` | Official Visit Busan page: Service Fees Free. Hours Everyday 09:00-18:00 with 12:00-13:00 break. 38 Daeyeong-ro 243beon-gil Dong-gu. Luggage storage and meeting rooms listed as tra | [source](https://visitbusan.net/index.do?lang_cd=en&menuCd=DOM_000000301001001000&uc_seq=1900) |
+| `BUSAN-SONGJEONG-BEACH` | Official Visit Busan page: Service Fees Free. Open all year. Hours line 09:00-18:00. 62 Songjeonghaebyeon-ro Haeundae-gu. Surf schools are paid. Verified 2026-08-28. | [source](https://www.visitbusan.net/en/index.do?menuCd=DOM_000000301001001000&uc_seq=280&lang_cd=en) |
+| `BUSAN-CITIZENS-PARK` | Official Visit Busan page: Service Fees Free. Hours 05:00-24:00. Distinct from the History Hall already listed as BUSAN-CITIZEN-HIST. Parking paid. Verified 2026-08-28. | [source](https://www.visitbusan.net/en/index.do?menuCd=DOM_000000302002001000&uc_seq=1186&lang_cd=en) |
+| `BUSAN-SEUNGHAKSAN` | Official Visit Busan autumn-sky page: Service Fees Free; open all year at all times. Seunghaksan San 45-1 Dangni-dong Saha-gu. Verified 2026-08-28. | [source](https://visitbusan.net/index.do?lang_cd=en&menuCd=DOM_000000302002001000&uc_seq=1019) |
+| `BUSAN-EULSUKDO-PARK` | Official Visit Busan page: Service Fees Free. 1209-1 Hadan-dong Saha-gu. Distinct from Nakdong Eco-Center indoor halls. Verified 2026-08-28. | [source](https://visitbusan.net/index.do?lang_cd=en&menuCd=DOM_000000302002001000&uc_seq=1019) |
+| `BUSAN-SUYEONG-SAJEOK` | Official VISITKOREA destination page: Fees Free. Historic park in Suyeong-gu near Gwangalli. Verified 2026-08-28. | [source](https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=81400) |
+| `SEOUL-PLAZA` | Official VISITKOREA destination page: Fees Free. City Hall lawn. Winter skating rink is separately ticketed and is not this deal. Verified 2026-08-28. | [source](https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=107522) |
+| `BUSAN-MARINE-CITY` | Official VISITKOREA destination page: Fees Free. Open 24 hr all year. Parking listed Free. Cafes and yacht tours are posted-price. Verified 2026-08-28. | [source](https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=60310) |
+| `BUSAN-F1963` | Official Visit Busan page: Service Fees Free (parking fee and product purchase fee separate). Hours 09:00-21:00 differ by store. Do not treat shops or paid shows as free. Verified  | [source](https://www.visitbusan.net/en/index.do?menuCd=DOM_000000301001001000&uc_seq=372&lang_cd=en) |
+| `BUSAN-CINE-ROAD` | Official VISITKOREA destination page: Fees Free. Parking not available. Haeundae film street. Verified 2026-08-28. | [source](https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=184378) |
+| `BUSAN-HOEDONG` | Official Visit Busan page: Service Fees Free. Open all year always. Ahopsan Forest on a related page is KRW 5000 and is NOT this deal. Verified 2026-08-28. | [source](https://www.visitbusan.net/index.do?menuCd=DOM_000000301001001000&uc_seq=436&lang_cd=en) |
+| `BUSAN-CINEMA-CENTER` | Official VISITKOREA destination page: Fees Free (Separate fees may apply to programs). Indoor cinematheque and BIFF tickets are paid. Verified 2026-08-28. | [source](https://english.visitkorea.or.kr/enu/ATR/SI_EN_3_1_1_1.jsp?cid=2503886) |
+| `SEOUL-CHEONGGYE-STREAM` | Official VISITKOREA festive-atmosphere page describes Cheonggyecheon as a landmark open to the public for recreational purposes with no admission charge stated for the stream walk. | [source](https://english.visitkorea.or.kr/svc/contents/infoHtmlView.do?menuSn=219&vcontsId=136646) |
+
+### Not added
+| Lead | Why |
+| --- | --- |
+| Marronnier Park KTO destination | Hours only; no Fees line |
+| Nanji Hangang Park KTO destination | No Fees field; camping/water sports paid |
+| Ahopsan Forest | Visit Busan lists KRW 5000 |
+| National Hangeul Museum | Still closed for restoration |
+| Product-level BOGO | Still none |
+
+### Irregularities
+1. Bugaksan hours omit November.
+2. Sajik Forest of Light and Daehanmun Sunday hanbok need live November confirmation.
+3. Cheonggyecheon stream walk uses a KTO recreation description rather than a Fees field.
+4. Seoul Science Park page still shows a COVID limited-opening note.
