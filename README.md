@@ -88,6 +88,11 @@ The guide is organized around the actual route: **Incheon arrival → Seoul → 
 
 ---
 
+## ✨ What's New (City-tour partner discounts — 2026-08-28 third sweep)
+
+- **20 promotional discounts** copied from the official [Seoul City Tour Bus discounts](https://www.seoulcitybus.com/en/discounts) and [Busan City Tour discounts](https://www.citytourbusan.com/en2/04discount/02.php) pages: Baby Shark 20 percent, Starfield up to 25 percent plus a free cushion at 100000 won spend, 8Seconds 5 percent, Rainreport/YESEYESEE/MLB/Owl's/Gwanho/Hansang/ZAMSHH 10 percent, Ganga 15 percent, Theatre des Lumieres 20 percent, Off-beauty trial kit, Ryan Holiday 30 percent, Kidzania 20-30 percent, Ryu's/Coffee Voice 10 percent, Casabusano 10/5 percent, and a free drink at 20000 won spend. Every row needs a same-day bus ticket. Manual table: [Verification Log](docs/verification-log.md#seoulbusan-city-tour-partner-discounts--2026-08-28-third-sweep).
+- Still **no official product-level BOGO** for foreign tourists in the trip window.
+
 ## ✨ What's New (Free parks, beaches and venues — 2026-08-28 second sweep)
 
 - **20 more Seoul/Busan records** added only after the official Visit Seoul or Visit Busan page was opened: Leeum M1 (always free) plus free digital-guide rental with passport, Cheongwadae Sarangchae, Children's Folk Museum, Naksan Park, Gwanghwamun Square, Olympic Park, Bukhansan, Cheonggye Soul Ocean free media art through 2026-12-31, Yeouido Hangang Park, Hangang Art Park, Maeheon Citizens Forest, Seoul Forest, Haeundae/Dadaepo/Songdo beaches, Igidae trail, Amnam Park, Hwamyeong Eco Park, and Dadaepo Beach Park. Manual links are in the [Verification Log](docs/verification-log.md#official-seoulbusan-free-parks-beaches-and-venues--2026-08-28-second-sweep).

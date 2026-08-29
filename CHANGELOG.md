@@ -1,5 +1,10 @@
 # Changelog
 
+## 2026-08-28 — v5.11.0 City-tour partner discount sweep (20 verified records)
+- Added **20 Seoul/Busan promotional discounts** copied from the official Seoul City Tour Bus affiliate page and the official Busan City Tour discount page. All require a same-day boarding ticket (Seoul) or BUTI bracelet shown before purchase (Busan). Gift-with-purchase rows are labelled as such, not as BOGO.
+- **Not added:** Skyline Luge (Gijang), Songdo cable car (English page mislabels the row as BUSAN AR CRUSE), Hotel Adella rooms, surf-school 10 percent (November swimming season is over), Korea Tour Card adult fare that is **higher** than the normal adult fare.
+- **Irregularities flagged:** Busan English page still mislabels venues; Korea Tour Card adult 18000 vs normal 15000; night-view tour excluded from all Busan partner discounts.
+
 ## 2026-08-28 — v5.10.0 Second free-admission sweep (20 verified records)
 - Added **20 Seoul/Busan records** after opening the official Visit Seoul or Visit Busan page for each: Leeum M1 free collection plus free digital-guide rental with passport, Cheongwadae Sarangchae, Children's Folk Museum, Naksan Park, Gwanghwamun Square, Olympic Park, Bukhansan, Cheonggye Soul Ocean (May 15–Dec 31 2026), Yeouido Hangang Park, Hangang Art Park, Maeheon Citizens Forest, Seoul Forest, Haeundae/Dadaepo/Songdo beaches, Igidae Coastal Trail, Amnam Park, Hwamyeong Eco Park, and Dadaepo Beach Park.
 - **Not added:** N Seoul Tower VISITKOREA bundle (2025 event page, no 2026 validity window), Gwanghwamun Outdoor Library 2024 (ended 2024-11-10), Dadaepo Sunset Fountain (season ends September), Songdo cable car, Skyline Luge (paid, Gijang), Jagalchi (fees differ by store), National Hangeul Museum (prior official listing closed through 2028).

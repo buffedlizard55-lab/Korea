@@ -611,3 +611,48 @@ Twenty records were promoted only after the official Visit Seoul or Visit Busan 
 2. Bukhansan last-entry hours vs 24-hour trail reality — re-open knps.or.kr in the week of travel.
 3. Haeundae Hours line 09:00-18:00 vs an open shoreline — do not treat it as a lockout.
 4. Leeum FAQ still says "As of 2025" on a page edited 2026-07-31.
+
+## Seoul/Busan city-tour partner discounts — 2026-08-28 third sweep
+
+Twenty promotional rows copied from the operator pages opened on 2026-08-28. Same-day boarding is required. Gift-with-purchase is not labelled BOGO.
+
+| Registry ID | Verbatim terms | Manual verification |
+| --- | --- | --- |
+| `SEOUL-CITYBUS-BABYSHARK` | 20 percent off admission with a same-day boarding pass. Near DDP. | [Seoul City Tour discounts](https://www.seoulcitybus.com/en/discounts) |
+| `SEOUL-CITYBUS-STARFIELD-25` | Up to 25 percent off across cafes, restaurants, and lifestyle brands. Gwanghwamun. | same |
+| `SEOUL-CITYBUS-STARFIELD-GIFT` | Spend 100000 won plus, free WAKEMAKE Seamless Wear Cushion. | same |
+| `SEOUL-CITYBUS-8SECONDS` | Extra 5 percent Off All Items. 20 Seoul locations. Myeong-dong. | same |
+| `SEOUL-CITYBUS-RAINREPORT` | 10 percent off all menu items at both branches. Near Changdeokgung. | same |
+| `SEOUL-CITYBUS-YESEYESEE` | Extra 10 percent Off All Items. Myeong-dong. | same |
+| `SEOUL-CITYBUS-OFFBEAUTY` | Free gift: Bless Moon Trial Kit 30 days gif. Insa-dong/Bukchon. | same |
+| `SEOUL-CITYBUS-MLB` | 10 percent Off, not valid at other stores, TAG limit 1000000 KRW. Hannam. | same |
+| `SEOUL-CITYBUS-OWLS` | 10 percent off all menu items. N Seoul Tower. | same |
+| `SEOUL-CITYBUS-GWANHO` | 10 percent discount. Halal Certified Lamb. Gwanghwamun. | same |
+| `SEOUL-CITYBUS-GANGA` | 15 percent discount; alcohol and promotion set menus excluded. Gwanghwamun. | same |
+| `SEOUL-CITYBUS-ZAMSHH` | 10 percent discount. Myeong-dong. | same |
+| `SEOUL-CITYBUS-HANSANG` | 10 percent off. Hotel Koreana 2F. Gwanghwamun. | same |
+| `SEOUL-CITYBUS-LUMIERES` | 20 percent off when paying on-site after presenting the ticket. | same |
+| `BUSAN-CITYTOUR-RYAN` | 30 percent off ticket, up to 3 accompanying people. Haeundae. | [Busan City Tour discounts](https://www.citytourbusan.com/en2/04discount/02.php) |
+| `BUSAN-CITYTOUR-KIDZANIA` | 20 percent morning / 30 percent off-site, up to 4 people. Centum City. | same |
+| `BUSAN-CITYTOUR-RYUS` | 10 percent discount on usage fee. BIFF Square. | same |
+| `BUSAN-CITYTOUR-KPOP` | Free drinks (KRW 4500) when purchasing KRW 20000 or more. Gwangalli. | same |
+| `BUSAN-CITYTOUR-COFFEEVOICE` | 10 percent off drinks. Songdo. | same |
+| `BUSAN-CITYTOUR-CASABUSANO` | 10 percent drinks / 5 percent bakery. Multiple branches. | same |
+
+### Not added
+
+| Lead | Why |
+| --- | --- |
+| Skyline Luge 10 percent | Gijang-gun; keep out of the core Seoul/Busan walkable list |
+| Songdo cable 2000 won off | English page titles the row BUSAN AR CRUSE |
+| Hotel Adella 10 percent rooms | Accommodation coupon, not a walk-in F&B/attraction promo for this list |
+| Surf schools 10 percent | November is outside the listed 2-hour lesson season |
+| Korea Tour Card adult 18000 won | Higher than the normal 15000 won adult fare on the same table |
+| Product-level BOGO | Still none |
+
+### Irregularities
+
+1. Busan English affiliate page still mislabels venues (Postman, Skyline Rouge, BUSAN AR CRUSE).
+2. Korea Tour Card adult fare on the Busan page is 18000 won vs normal 15000 won.
+3. Night-view tour is excluded from every Busan partner discount.
+4. Off-beauty gift has no spend or stock line.

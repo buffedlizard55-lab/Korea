@@ -300,3 +300,30 @@ Twenty more records were added only after the official Visit Seoul or Visit Busa
 | `BUSAN-AMNAM-PARK` | Amnam Park and Songdo Coast Bollegil Trail | Active | [Open source ↗](https://www.visitbusan.net/en/index.do?menuCd=DOM_000000301001001000&uc_seq=326&lang_cd=en) |
 | `BUSAN-HWAMYEONG-ECO` | Hwamyeong Eco Park | Active | [Open source ↗](https://www.visitbusan.net/en/index.do?menuCd=DOM_000000302008001000&uc_seq=1157&lang_cd=en) |
 | `BUSAN-DADAEP-PARK` | Dadaepo Beach Park | Active | [Open source ↗](https://www.visitbusan.net/index.do?menuCd=DOM_000000301001001000&uc_seq=1718&lang_cd=en) |
+
+## Seoul/Busan city-tour partner discounts — 2026-08-28 third sweep
+
+Twenty promotional discounts copied from the official Seoul City Tour Bus and Busan City Tour affiliate pages. All require a **same-day boarding ticket** (Seoul) or BUTI bracelet shown **before purchase** (Busan). Night-view Busan tours are excluded. These are not walk-in coupons.
+
+| Registry ID | Deal | Status | Manual verification |
+| --- | --- | --- | --- |
+| `SEOUL-CITYBUS-BABYSHARK` | Baby Shark The Experience 20 percent off | Live Check | [Open source ↗](https://www.seoulcitybus.com/en/discounts) |
+| `SEOUL-CITYBUS-STARFIELD-25` | Starfield Avenue Gran Seoul up to 25 percent off | Live Check | [Open source ↗](https://www.seoulcitybus.com/en/discounts) |
+| `SEOUL-CITYBUS-STARFIELD-GIFT` | Starfield free WAKEMAKE cushion at 100000 won | Live Check | [Open source ↗](https://www.seoulcitybus.com/en/discounts) |
+| `SEOUL-CITYBUS-8SECONDS` | 8Seconds extra 5 percent off | Live Check | [Open source ↗](https://www.seoulcitybus.com/en/discounts) |
+| `SEOUL-CITYBUS-RAINREPORT` | Rainreport 10 percent off menu | Live Check | [Open source ↗](https://www.seoulcitybus.com/en/discounts) |
+| `SEOUL-CITYBUS-YESEYESEE` | YESEYESEE extra 10 percent off | Live Check | [Open source ↗](https://www.seoulcitybus.com/en/discounts) |
+| `SEOUL-CITYBUS-OFFBEAUTY` | Off-beauty free Bless Moon trial kit | Live Check | [Open source ↗](https://www.seoulcitybus.com/en/discounts) |
+| `SEOUL-CITYBUS-MLB` | MLB Hannam Flagship 10 percent off | Live Check | [Open source ↗](https://www.seoulcitybus.com/en/discounts) |
+| `SEOUL-CITYBUS-OWLS` | Owl's Cutlet N Seoul Tower 10 percent off | Live Check | [Open source ↗](https://www.seoulcitybus.com/en/discounts) |
+| `SEOUL-CITYBUS-GWANHO` | Gwanho lamb 10 percent off | Live Check | [Open source ↗](https://www.seoulcitybus.com/en/discounts) |
+| `SEOUL-CITYBUS-GANGA` | Ganga Mugyo 15 percent off | Live Check | [Open source ↗](https://www.seoulcitybus.com/en/discounts) |
+| `SEOUL-CITYBUS-ZAMSHH` | ZAMSHH 10 percent off | Live Check | [Open source ↗](https://www.seoulcitybus.com/en/discounts) |
+| `SEOUL-CITYBUS-HANSANG` | Gwanghwamun Hansang 10 percent off | Live Check | [Open source ↗](https://www.seoulcitybus.com/en/discounts) |
+| `SEOUL-CITYBUS-LUMIERES` | Theatre des Lumieres 20 percent off on-site | Live Check | [Open source ↗](https://www.seoulcitybus.com/en/discounts) |
+| `BUSAN-CITYTOUR-RYAN` | Ryan Holiday in Busan 30 percent off | Live Check | [Open source ↗](https://www.citytourbusan.com/en2/04discount/02.php) |
+| `BUSAN-CITYTOUR-KIDZANIA` | Kidzania Busan 20-30 percent off | Live Check | [Open source ↗](https://www.citytourbusan.com/en2/04discount/02.php) |
+| `BUSAN-CITYTOUR-RYUS` | Ryu's coffee bar 10 percent off | Live Check | [Open source ↗](https://www.citytourbusan.com/en2/04discount/02.php) |
+| `BUSAN-CITYTOUR-KPOP` | K-pop World Champion free drink at 20000 won | Live Check | [Open source ↗](https://www.citytourbusan.com/en2/04discount/02.php) |
+| `BUSAN-CITYTOUR-COFFEEVOICE` | Coffee Voice 10 percent off drinks | Live Check | [Open source ↗](https://www.citytourbusan.com/en2/04discount/02.php) |
+| `BUSAN-CITYTOUR-CASABUSANO` | Casabusano 10 percent drinks / 5 percent bakery | Live Check | [Open source ↗](https://www.citytourbusan.com/en2/04discount/02.php) |
