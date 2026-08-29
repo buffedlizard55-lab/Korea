@@ -1,5 +1,10 @@
 # Changelog
 
+## 2026-08-28 — v5.12.0 Fourth free-admission sweep (20 verified records)
+- Added **20 Seoul/Busan free public sites** whose official VISITKOREA destination pages list Fees: Free (Seoullo 7017, World Cup Park, Namsan Park grounds, Tapgol, Ttukseom Hangang, Banpo Seoraeseom, Bukchon Cultural Center, Independence Park grounds, Montmartre Park, Jingwansa, HiKR Ground, Royal Guard Changing Ceremony, Cheonggyecheon Old Books Street, Ssamzigil, Gwangalli Beach, Millak Waterfront Park, Dongbaekseom trail, Nakdong Eco-Center, Geumgang Park grounds, Dalmaji Road).
+- **Not added:** National Hangeul Museum (officially closed for fire restoration and expansion). N Seoul Tower, Namsan cable, Geumgang cable, Seodaemun Prison Museum, and Some Sevit remain paid and were not labelled free.
+- Still **no official product-level BOGO**.
+
 ## 2026-08-28 — v5.11.0 City-tour partner discount sweep (20 verified records)
 - Added **20 Seoul/Busan promotional discounts** copied from the official Seoul City Tour Bus affiliate page and the official Busan City Tour discount page. All require a same-day boarding ticket (Seoul) or BUTI bracelet shown before purchase (Busan). Gift-with-purchase rows are labelled as such, not as BOGO.
 - **Not added:** Skyline Luge (Gijang), Songdo cable car (English page mislabels the row as BUSAN AR CRUSE), Hotel Adella rooms, surf-school 10 percent (November swimming season is over), Korea Tour Card adult fare that is **higher** than the normal adult fare.

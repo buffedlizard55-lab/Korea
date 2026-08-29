@@ -656,3 +656,46 @@ Twenty promotional rows copied from the operator pages opened on 2026-08-28. Sam
 2. Korea Tour Card adult fare on the Busan page is 18000 won vs normal 15000 won.
 3. Night-view tour is excluded from every Busan partner discount.
 4. Off-beauty gift has no spend or stock line.
+
+## Seoul/Busan KTO free-admission sites — 2026-08-28 fourth sweep
+
+Twenty destination pages opened on 2026-08-28. Each official Fees line is Free. Paid add-ons are called out in notes.
+
+| Registry ID | Verbatim terms | Manual verification |
+| --- | --- | --- |
+| `SEOUL-SEOULLO-7017` | Admission: Free. Open 24 hr. | [VISITKOREA](https://english.visitkorea.or.kr/enu/ATR/SI_EN_3_6.jsp?cid=2829579) |
+| `SEOUL-WORLD-CUP-PARK` | Fees Free. November 6:30-19:00. | [VISITKOREA](https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=107540) |
+| `SEOUL-NAMSAN-PARK` | Fees Free. Parking paid. Tower/cable not included. | [VISITKOREA](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=110622) |
+| `SEOUL-TAPGOL-PARK` | Fees Free. | [VISITKOREA](https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=104563) |
+| `SEOUL-TTUKSEOM-HANGANG` | Fees Free. | [VISITKOREA](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=90908) |
+| `SEOUL-BANPO-SEORAESEOM` | Fees Free. | [VISITKOREA](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=81505&menuSn=351) |
+| `SEOUL-BUKCHON-CULTURAL` | Fees Free (Fee may apply to experience programs). | [VISITKOREA](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=97933) |
+| `SEOUL-INDEPENDENCE-PARK` | Fees Free (park). Prison museum paid separately. | [VISITKOREA](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=81455) |
+| `SEOUL-MONTMARTRE-PARK` | Fees Free. | [VISITKOREA](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=69718&menuSn=351) |
+| `SEOUL-JINGWANSA` | Fees Free. 09:00-18:00. | [VISITKOREA](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=89135) |
+| `SEOUL-HIKR-GROUND` | Admission fee: Free (Paid programs notified separately). | [VISITKOREA HiKR](https://english.visitkorea.or.kr/svc/sp/hikr) |
+| `SEOUL-GUARD-CHANGE` | Fees Free. | [VISITKOREA](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=104589) |
+| `SEOUL-CHEONGGYE-BOOKS` | Fees Free. | [VISITKOREA](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=186516) |
+| `SEOUL-SSAMZIGIL` | Fees Free; fee may apply to certain experience programs. | [VISITKOREA](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=44678) |
+| `BUSAN-GWANGALLI-BEACH` | Fees Free. Open 24 hr. | [VISITKOREA](https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=111074) |
+| `BUSAN-MILLAK-PARK` | Fees Free. | [VISITKOREA](https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=84959) |
+| `BUSAN-DONGBAEKSEOM` | Fees Free. Open 24 hrs. | [VISITKOREA](https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=81541) |
+| `BUSAN-NAKONG-ECO` | Fees Free. Closed Mondays and January 1. | [VISITKOREA](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=91004) |
+| `BUSAN-GEUMGANG-PARK` | Admission Free. Cable car separately priced. | [VISITKOREA](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=86363) |
+| `BUSAN-DALMAJI` | Fees Free. | [VISITKOREA](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=112002) |
+
+### Not added
+
+| Lead | Why |
+| --- | --- |
+| National Hangeul Museum | Official English home: closed for fire restoration and expansion |
+| N Seoul Tower / Namsan cable | Paid; only park grounds are free |
+| Seodaemun Prison History Museum | Adults 3000 won; only the surrounding park is free |
+| Geumgang Park cable car | Adults round-trip 11000 won |
+| Product-level BOGO | Still none |
+
+### Irregularities
+
+1. World Cup Park hours change by month; November is 6:30-19:00 on the KTO page.
+2. Guard-changing ceremony needs a live timetable check; KTO lists Fees Free but not the November clock.
+3. HiKR Ground floors 2-4 close Mondays.

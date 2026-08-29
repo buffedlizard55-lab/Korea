@@ -327,3 +327,30 @@ Twenty promotional discounts copied from the official Seoul City Tour Bus and Bu
 | `BUSAN-CITYTOUR-KPOP` | K-pop World Champion free drink at 20000 won | Live Check | [Open source ↗](https://www.citytourbusan.com/en2/04discount/02.php) |
 | `BUSAN-CITYTOUR-COFFEEVOICE` | Coffee Voice 10 percent off drinks | Live Check | [Open source ↗](https://www.citytourbusan.com/en2/04discount/02.php) |
 | `BUSAN-CITYTOUR-CASABUSANO` | Casabusano 10 percent drinks / 5 percent bakery | Live Check | [Open source ↗](https://www.citytourbusan.com/en2/04discount/02.php) |
+
+## Seoul/Busan KTO free-admission sites — 2026-08-28 fourth sweep
+
+Twenty public parks, trails, temples, and KTO visitor halls whose official VISITKOREA destination pages list **Fees: Free**. Cable cars, prison museum, Some Sevit, and paid programs are excluded.
+
+| Registry ID | Deal | Status | Manual verification |
+| --- | --- | --- | --- |
+| `SEOUL-SEOULLO-7017` | Seoullo 7017 sky garden | Active | [Open source ↗](https://english.visitkorea.or.kr/enu/ATR/SI_EN_3_6.jsp?cid=2829579) |
+| `SEOUL-WORLD-CUP-PARK` | World Cup Park cluster | Active | [Open source ↗](https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=107540) |
+| `SEOUL-NAMSAN-PARK` | Namsan Park grounds | Active | [Open source ↗](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=110622) |
+| `SEOUL-TAPGOL-PARK` | Tapgol Park | Active | [Open source ↗](https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=104563) |
+| `SEOUL-TTUKSEOM-HANGANG` | Ttukseom Hangang Park | Active | [Open source ↗](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=90908) |
+| `SEOUL-BANPO-SEORAESEOM` | Banpo Seoraeseom Island | Active | [Open source ↗](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=81505&menuSn=351) |
+| `SEOUL-BUKCHON-CULTURAL` | Bukchon Cultural Center | Active | [Open source ↗](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=97933) |
+| `SEOUL-INDEPENDENCE-PARK` | Seodaemun Independence Park grounds | Active | [Open source ↗](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=81455) |
+| `SEOUL-MONTMARTRE-PARK` | Montmartre Park Seocho | Active | [Open source ↗](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=69718&menuSn=351) |
+| `SEOUL-JINGWANSA` | Jingwansa Temple | Active | [Open source ↗](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=89135) |
+| `SEOUL-HIKR-GROUND` | HiKR Ground | Active | [Open source ↗](https://english.visitkorea.or.kr/svc/sp/hikr) |
+| `SEOUL-GUARD-CHANGE` | Royal Guard Changing Ceremony | Active | [Open source ↗](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=104589) |
+| `SEOUL-CHEONGGYE-BOOKS` | Cheonggyecheon Old Books Street | Active | [Open source ↗](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=186516) |
+| `SEOUL-SSAMZIGIL` | Ssamzigil Insadong | Active | [Open source ↗](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=44678) |
+| `BUSAN-GWANGALLI-BEACH` | Gwangalli Beach | Active | [Open source ↗](https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=111074) |
+| `BUSAN-MILLAK-PARK` | Millak Waterfront Park | Active | [Open source ↗](https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=84959) |
+| `BUSAN-DONGBAEKSEOM` | Dongbaekseom Island trail | Active | [Open source ↗](https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=81541) |
+| `BUSAN-NAKONG-ECO` | Nakdong Estuary Eco-Center | Active | [Open source ↗](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=91004) |
+| `BUSAN-GEUMGANG-PARK` | Geumgang Park grounds | Active | [Open source ↗](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=86363) |
+| `BUSAN-DALMAJI` | Dalmaji Road | Active | [Open source ↗](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=112002) |
