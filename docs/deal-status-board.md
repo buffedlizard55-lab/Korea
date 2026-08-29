@@ -37,6 +37,7 @@ This is the beginner-facing view of the registry’s status system. It prevents 
 - City-tour bus partner discounts — `SEOUL-CITYBUS-SHILLA-DF`, `SEOUL-CITYBUS-LUGGAGELESS`, `SEOUL-CITYBUS-MOMSTOUCH-NAMSAN`, `BUSAN-CITYTOUR-SEALIFE`, `BUSAN-CITYTOUR-XTHESKY`, `BUSAN-CITYTOUR-ARTE-MUSEUM`, `BUSAN-CITYTOUR-BOKSOONDOGA` (all need a same-day paid boarding ticket and are non-combinable)
 - `SEOUL-LOTTE-TOURIST-MEMBERSHIP` benefit percentages and `BUSAN-VBP-REVISIT` reward amounts — the existence and window are official, the numbers are not
 - `SEOUL-PALACE-LASTWED-FREE` — two official pages disagree about which Wednesdays are free from 2026-04-01
+- `SEOUL-NFM-CHILD` session hours and `SEOUL-BUKHANSAN` last-entry / fire-season closures
 
 ### 📅 Future / ⛔ expired / 🚫 rejected
 

@@ -88,6 +88,11 @@ The guide is organized around the actual route: **Incheon arrival → Seoul → 
 
 ---
 
+## ✨ What's New (Free parks, beaches and venues — 2026-08-28 second sweep)
+
+- **20 more Seoul/Busan records** added only after the official Visit Seoul or Visit Busan page was opened: Leeum M1 (always free) plus free digital-guide rental with passport, Cheongwadae Sarangchae, Children's Folk Museum, Naksan Park, Gwanghwamun Square, Olympic Park, Bukhansan, Cheonggye Soul Ocean free media art through 2026-12-31, Yeouido Hangang Park, Hangang Art Park, Maeheon Citizens Forest, Seoul Forest, Haeundae/Dadaepo/Songdo beaches, Igidae trail, Amnam Park, Hwamyeong Eco Park, and Dadaepo Beach Park. Manual links are in the [Verification Log](docs/verification-log.md#official-seoulbusan-free-parks-beaches-and-venues--2026-08-28-second-sweep).
+- **Still no official product-level BOGO** for foreign tourists in the Oct 31–Nov 22 2026 window. Cable cars, paid indoor museums, parking, and the Dadaepo fountain (ends September) were excluded, not silently counted as free.
+
 ## ✨ What's New (Promotion sweep + full line-by-line audit — 2026-08-28)
 
 - **20 more records (14 Seoul, 6 Busan)**, all aimed at the brief's promotional side rather than another set of free museums: six Korea Tourism Organization VISITKOREA partner offers with published codes and percentages, three royal-palace free-admission rules, two free-admission Seoul venues whose terms were previously unpublished, the Lotte Tourist Membership sign-up, the Visit Busan Pass re-visit reward, and five city-tour bus partner discounts. Every one was added only after opening the official or operator page quoted in `data/deals.csv`; manual links are in the [Verification Log](docs/verification-log.md#official-seoulbusan-promotion-sweep--2026-08-28).

@@ -1,5 +1,10 @@
 # Changelog
 
+## 2026-08-28 — v5.10.0 Second free-admission sweep (20 verified records)
+- Added **20 Seoul/Busan records** after opening the official Visit Seoul or Visit Busan page for each: Leeum M1 free collection plus free digital-guide rental with passport, Cheongwadae Sarangchae, Children's Folk Museum, Naksan Park, Gwanghwamun Square, Olympic Park, Bukhansan, Cheonggye Soul Ocean (May 15–Dec 31 2026), Yeouido Hangang Park, Hangang Art Park, Maeheon Citizens Forest, Seoul Forest, Haeundae/Dadaepo/Songdo beaches, Igidae Coastal Trail, Amnam Park, Hwamyeong Eco Park, and Dadaepo Beach Park.
+- **Not added:** N Seoul Tower VISITKOREA bundle (2025 event page, no 2026 validity window), Gwanghwamun Outdoor Library 2024 (ended 2024-11-10), Dadaepo Sunset Fountain (season ends September), Songdo cable car, Skyline Luge (paid, Gijang), Jagalchi (fees differ by store), National Hangeul Museum (prior official listing closed through 2028).
+- **Irregularities flagged:** palace Culture Day last-Wednesday vs every-Wednesday contradiction remains open; Bukhansan last-entry hours need a November trail-closure check; Haeundae "09:00–18:00" is the tourist-office line not a beach lockout.
+
 ## 2026-08-28 — v5.9.0 Promotion sweep and full registry audit (20 verified records)
 - Added **20 Seoul/Busan records** built around free, BOGO-adjacent, welcome/sign-up and first-time promotional terms: six KTO VISITKOREA partner offers (The Painters 30% + gift set, Jinyeon 20% + pouch, Rakkojae 10% `VK2026`, Wehome 5% `VK2026`, Motorstudio Seoul lounge, Busan Yacht Tale 20%/10%), three royal-palace free-admission rules (full hanbok at Changdeokgung/Deoksugung/Changgyeonggung, foreigners 18-and-under or 65-and-over, Culture Day), two free Seoul venues (Unhyeongung, Namsangol), the Lotte Tourist Membership sign-up, the Visit Busan Pass re-visit reward, and five Seoul/Busan city-tour partner discounts.
 - Registered the six new source domains in `data/source-policy.csv` and added visible `deal_id` rows plus per-record terms and manual links in `docs/core-deal-index.md` and `docs/verification-log.md`.

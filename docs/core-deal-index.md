@@ -2,7 +2,7 @@
 
 This page is the bridge while the guide completes its migration from scattered prose to one structured source of truth.
 
-> **Last verified: 2026-08-21** · Coverage mapping: [`data/claim-mapping.csv`](../data/claim-mapping.csv) · Canonical fields (status, source, recheck date, ID requirement, live-check flag, backup): [`data/deals.csv`](../data/deals.csv)
+> **Last verified: 2026-08-28** · Coverage mapping: [`data/claim-mapping.csv`](../data/claim-mapping.csv) · Canonical fields (status, source, recheck date, ID requirement, live-check flag, backup): [`data/deals.csv`](../data/deals.csv)
 
 ## How to use it
 
@@ -273,3 +273,30 @@ These 20 records were added after the official or operator page in the last colu
 | `BUSAN-CITYTOUR-BOKSOONDOGA` | Boksoondoga makgeolli 50% off with Busan City Tour ticket | Live Check | [Open source ↗](https://www.citytourbusan.com/en2/04discount/02.php) |
 
 Every record keeps a live check: promo codes are entered at booking, coupon barcodes are downloaded on the day, and the two city-tour partner pages gate their discounts on a same-day boarding ticket.
+
+## Official Seoul/Busan free parks, beaches and venues — 2026-08-28 second sweep
+
+Twenty more records were added only after the official Visit Seoul or Visit Busan page in the last column was opened. Parks and beaches are free-admission deals, not coupons. Cable cars, paid museums inside parks, parking, and out-of-season fountain shows are excluded in the notes.
+
+| Registry ID | Deal | Status | Manual verification |
+| --- | --- | --- | --- |
+| `SEOUL-LEEUM-M1-FREE` | Leeum Museum of Art M1 permanent collection | Active | [Open source ↗](https://english.visitseoul.net/attractions/Leeum-Samsung-Museum-of-Art/ENP001232) |
+| `SEOUL-LEEUM-GUIDE-FREE` | Leeum digital guide free rental with passport | Active | [Open source ↗](https://english.visitseoul.net/attractions/Leeum-Samsung-Museum-of-Art/ENP001232) |
+| `SEOUL-SARANGCHAE-FREE` | Cheongwadae Sarangchae | Active | [Open source ↗](https://english.visitseoul.net/attractions/Cheongwadae-Sarangchae/ENP006007) |
+| `SEOUL-NFM-CHILD` | National Folk Museum Children's Folk Museum | Live Check | [Open source ↗](https://english.visitseoul.net/attractions/childrens-folk-museum_/5132) |
+| `SEOUL-NAKSAN-PARK` | Naksan Park and city-wall trail | Active | [Open source ↗](https://english.visitseoul.net/dongdaemunarea/Naksan-Park_/3702) |
+| `SEOUL-GWANGHWAMUN-SQUARE` | Gwanghwamun Square | Active | [Open source ↗](https://english.visitseoul.net/attractions/Gwanghwamun-Square/ENP001899) |
+| `SEOUL-OLYMPIC-PARK` | Olympic Park grounds and sculpture park | Active | [Open source ↗](https://english.visitseoul.net/nature/Olympic-Park/ENP002139) |
+| `SEOUL-BUKHANSAN` | Bukhansan National Park trail access | Live Check | [Open source ↗](https://english.visitseoul.net/attractions/BukhansanNationalPark_/371) |
+| `SEOUL-CHEONGGYE-SOUL-OCEAN` | Cheonggye Soul Ocean free nighttime media art | Active | [Open source ↗](https://english.visitseoul.net/exhibition/CheonggyeSoulOcean/ENP20kefn) |
+| `SEOUL-YEOUIDO-HANGANG` | Yeouido Hangang Park | Active | [Open source ↗](https://english.visitseoul.net/nature/Yeouido-Hangang-Park-Girls%E2%80%99-Generation-Forest/ENP012993) |
+| `SEOUL-HANGANG-ART` | Hangang Art Park outdoor artworks | Active | [Open source ↗](https://english.visitseoul.net/other/Hangang-Art-Park/ENP035118) |
+| `SEOUL-MAEHEON-FOREST` | Maeheon Citizens Forest | Active | [Open source ↗](https://english.visitseoul.net/attractions/yangjaecitizensforest_/2160) |
+| `SEOUL-SEOUL-FOREST` | Seoul Forest park | Active | [Open source ↗](https://english.visitseoul.net/nature/Seoul-Forest/ENP001838) |
+| `BUSAN-HAEUNDAE-BEACH` | Haeundae Beach | Active | [Open source ↗](https://visitbusan.net/index.do?lang_cd=en&menuCd=DOM_000000301001001000&uc_seq=373) |
+| `BUSAN-DADAEP-BEACH` | Dadaepo Beach | Active | [Open source ↗](https://visitbusan.net/index.do?menuCd=DOM_000000301001001000&uc_seq=366&lang_cd=en) |
+| `BUSAN-SONGDO-BEACH` | Songdo Beach shoreline | Active | [Open source ↗](https://visitbusan.net/index.do?lang_cd=en&menuCd=DOM_000000301001001000&uc_seq=286) |
+| `BUSAN-IGIDAE` | Igidae Coastal Trail | Active | [Open source ↗](https://www.visitbusan.net/en/index.do?menuCd=DOM_000000302002001000&uc_seq=323&lang_cd=en) |
+| `BUSAN-AMNAM-PARK` | Amnam Park and Songdo Coast Bollegil Trail | Active | [Open source ↗](https://www.visitbusan.net/en/index.do?menuCd=DOM_000000301001001000&uc_seq=326&lang_cd=en) |
+| `BUSAN-HWAMYEONG-ECO` | Hwamyeong Eco Park | Active | [Open source ↗](https://www.visitbusan.net/en/index.do?menuCd=DOM_000000302008001000&uc_seq=1157&lang_cd=en) |
+| `BUSAN-DADAEP-PARK` | Dadaepo Beach Park | Active | [Open source ↗](https://www.visitbusan.net/index.do?menuCd=DOM_000000301001001000&uc_seq=1718&lang_cd=en) |

@@ -565,3 +565,49 @@ Recorded so a later sweep does not rediscover and re-litigate them. Each was che
 | Seoul Beauty Week 2026 free entry with registration | [Official SMG release](https://english.seoul.go.kr/k-beauty-rises-to-second-globally-seoul-beauty-week-to-drive-the-industrys-next-phase-of-growth/) | Ran Aug 22-25 2026 |
 | Busan One Asia Festival (BOF) 2026 and the NOL BOF + Visit Busan Pass package | [NamuWiki event history](https://en.namu.wiki/w/%EB%B6%80%EC%82%B0%EC%9B%90%EC%95%84%EC%8B%9C%EC%95%84%ED%8E%98%EC%8A%BC%ED%8B%B0%EB%B2%8C) | BOF moved to June 27-28 2026; the still-live package listing is stale for this trip |
 | Product-level 1+1 / BOGO SKU in Seoul or Busan with current official terms | Official KTO hub, both city-tour partner pages, brand channels | None found. The closest verified offers are free-gift-with-purchase items (Painters gift set, Jinyeon pouch, Starfield cushion at 100,000 won spend) and are recorded as such, not as BOGO |
+
+## Official Seoul/Busan free parks, beaches and venues — 2026-08-28 second sweep
+
+Twenty records were promoted only after the official Visit Seoul or Visit Busan page was opened on 2026-08-28. Terms below are copied from those pages. No blog or aggregator was used as the source.
+
+| Registry ID | Verified terms | Manual verification link |
+| --- | --- | --- |
+| `SEOUL-LEEUM-M1-FREE` | Fee Always Free: M1. Combined M1/M2/M3 20000 won. Reservation system; max 4 people; 14 days ahead. | [Visit Seoul Leeum](https://english.visitseoul.net/attractions/Leeum-Samsung-Museum-of-Art/ENP001232) |
+| `SEOUL-LEEUM-GUIDE-FREE` | Digital guides borrowed free of charge with passport or resident card; EN/KO/ZH/JA. | [same Leeum FAQ](https://english.visitseoul.net/attractions/Leeum-Samsung-Museum-of-Art/ENP001232) |
+| `SEOUL-SARANGCHAE-FREE` | Fee Free admission. Closed Tuesdays and January 1. Distinct from Cheong Wa Dae grounds booking. | [Visit Seoul Sarangchae](https://english.visitseoul.net/attractions/Cheongwadae-Sarangchae/ENP006007) |
+| `SEOUL-NFM-CHILD` | Fee Free admission. 50 people / 30-minute sessions; hours vary by month. Closed Mondays. | [Visit Seoul Children's Folk Museum](https://english.visitseoul.net/attractions/childrens-folk-museum_/5132) |
+| `SEOUL-NAKSAN-PARK` | Fee Free admission. Park 24 hours. Exhibition Hall 09:00-18:00. | [Visit Seoul Naksan Park](https://english.visitseoul.net/dongdaemunarea/Naksan-Park_/3702) |
+| `SEOUL-GWANGHWAMUN-SQUARE` | Fee Free admission. Open 24 hours as a city square. | [Visit Seoul Gwanghwamun Square](https://english.visitseoul.net/attractions/Gwanghwamun-Square/ENP001899) |
+| `SEOUL-OLYMPIC-PARK` | Fee Free admission. Pedestrian 05:00-22:00. Parking paid. SOMA museum separate. | [Visit Seoul Olympic Park](https://english.visitseoul.net/nature/Olympic-Park/ENP002139) |
+| `SEOUL-BUKHANSAN` | Fee Free admission. Last entry summer 16:00 winter 15:00. Recheck KNPS closures. | [Visit Seoul Bukhansan](https://english.visitseoul.net/attractions/BukhansanNationalPark_/371) |
+| `SEOUL-CHEONGGYE-SOUL-OCEAN` | May 15 2026-Dec 31 2026. Free. Daily 18:00-22:00 (Jun-Aug 19:00-22:00). Closed in heavy rain. | [Visit Seoul Cheonggye Soul Ocean](https://english.visitseoul.net/exhibition/CheonggyeSoulOcean/ENP20kefn) |
+| `SEOUL-YEOUIDO-HANGANG` | Fee Free admission. 24 hours. No-fishing zone. Pool is a separate paid summer facility. | [Visit Seoul Yeouido Hangang Park](https://english.visitseoul.net/nature/Yeouido-Hangang-Park-Girls%E2%80%99-Generation-Forest/ENP012993) |
+| `SEOUL-HANGANG-ART` | Fee Free admission. Always open. Yeouido and Ichon parks. | [Visit Seoul Hangang Art Park](https://english.visitseoul.net/other/Hangang-Art-Park/ENP035118) |
+| `SEOUL-MAEHEON-FOREST` | Fee Free admission. 00:00-24:00 daily. | [Visit Seoul Maeheon Citizens Forest](https://english.visitseoul.net/attractions/yangjaecitizensforest_/2160) |
+| `SEOUL-SEOUL-FOREST` | Fee Free admission. Park 24 hours. Insect Garden winter 11:00-16:00 closed Mondays. Butterfly Garden closed November. | [Visit Seoul Seoul Forest](https://english.visitseoul.net/nature/Seoul-Forest/ENP001838) |
+| `BUSAN-HAEUNDAE-BEACH` | Service Fees Free. Address 264 Haeundaehaebyeon-ro. | [Visit Busan Haeundae Beach](https://visitbusan.net/index.do?lang_cd=en&menuCd=DOM_000000301001001000&uc_seq=373) |
+| `BUSAN-DADAEP-BEACH` | Service Fees Free except parking. Fountain show ends September so it is out of season for this trip. | [Visit Busan Dadaepo Beach](https://visitbusan.net/index.do?menuCd=DOM_000000301001001000&uc_seq=366&lang_cd=en) |
+| `BUSAN-SONGDO-BEACH` | Service Fees Free. 06:00-23:00. Cable car is paid and is not this deal. | [Visit Busan Songdo Beach](https://visitbusan.net/index.do?lang_cd=en&menuCd=DOM_000000301001001000&uc_seq=286) |
+| `BUSAN-IGIDAE` | Service Fees Free. Open all year. 4.7 km trail. | [Visit Busan Igidae Coastal Trail](https://www.visitbusan.net/en/index.do?menuCd=DOM_000000302002001000&uc_seq=323&lang_cd=en) |
+| `BUSAN-AMNAM-PARK` | Service Fees Free. Open all year always. Suspension bridge listed elsewhere as 1000 won is not this deal. | [Visit Busan Amnam Park](https://www.visitbusan.net/en/index.do?menuCd=DOM_000000301001001000&uc_seq=326&lang_cd=en) |
+| `BUSAN-HWAMYEONG-ECO` | Eco Park free of charge; bicycle rental paid. 06:00-21:00. Luge on the same page is paid and not promoted. | [Visit Busan Hwamyeong Eco Park](https://www.visitbusan.net/en/index.do?menuCd=DOM_000000302008001000&uc_seq=1157&lang_cd=en) |
+| `BUSAN-DADAEP-PARK` | Service Fees Free. Open all year. Distinct from the sandy beach listing. | [Visit Busan Dadaepo Beach Park](https://www.visitbusan.net/index.do?menuCd=DOM_000000301001001000&uc_seq=1718&lang_cd=en) |
+
+### Flagged and not added
+
+| Lead | Why |
+| --- | --- |
+| N Seoul Tower VISITKOREA bundle | Official KTO page is a 2025 event; no 2026 validity window was published on the page opened. |
+| Gwanghwamun Outdoor Library 2024 | Event dates Apr 18-Nov 10 2024. |
+| Dadaepo Sunset Fountain | Official beach page: End of April-End of September. |
+| Songdo overwater cable car | Paid; the beach row excludes it. |
+| Jagalchi Market | Official shopping page: Service Fees Differs by store. |
+| National Hangeul Museum | Prior official Visit Seoul listing closed through late 2028; 2026-08-28 fetch of the current attraction URL returned HTTP 500. |
+| Product-level BOGO | Still none on official Seoul/Busan pages opened this sweep. |
+
+### Irregularities for review
+
+1. Palace Culture Day last-Wednesday vs every-Wednesday (unchanged from the 2026-08-28 audit).
+2. Bukhansan last-entry hours vs 24-hour trail reality — re-open knps.or.kr in the week of travel.
+3. Haeundae Hours line 09:00-18:00 vs an open shoreline — do not treat it as a lockout.
+4. Leeum FAQ still says "As of 2025" on a page edited 2026-07-31.
