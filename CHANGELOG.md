@@ -1,5 +1,40 @@
 # Changelog
 
+## 2026-08-28 — v5.13.1 Saturation check (2 verified; 50-count not filled)
+- Added **2** remaining Visit Busan free temples (Seokbulsa; Beomeosa Seongbo Museum).
+- **Did not invent 48 more rows.** Official Seoul/Busan free museums, Hangang parks, city-tour partners, and VISITKOREA Exclusive Seoul/Busan partners are already in the registry. Remaining leads failed verification: JUMP coupon last modified 2025-12-02; Hangang Festival fall ends 25 Oct 2026; MINIKHAN is Gimpo; Seoulland is Gwacheon; Hwagyesa has no Fees line.
+- Still **no official product-level BOGO**.
+
+## 2026-08-28 — v5.13.0 Fifth free-admission sweep (50 verified records)
+- Added **50 Seoul/Busan public parks, temples, plazas, and trails** whose official VISITKOREA, Visit Seoul, or Visit Busan pages list Fees: Free / Service Fees Free (Hangang districts, Hanyangdoseong trail, DDP plaza, Jogyesa/Bongeunsa/Beomeosa, Songjeong Beach, F1963 grounds, Marine City, Hoedong Reservoir, Cinema Center grounds, and related sites).
+- **Not added:** Marronnier Park and Nanji Hangang Park destination pages (no Fees line); Ahopsan Forest (₩5,000); National Hangeul Museum still closed.
+- **Flags:** Bugaksan hours omit November; Sajik Forest of Light and Daehanmun Sunday hanbok need live-check; Cheonggyecheon stream walk uses a KTO recreation description rather than a Fees field.
+- Still **no official product-level BOGO**.
+
+## 2026-08-28 — v5.12.0 Fourth free-admission sweep (20 verified records)
+- Added **20 Seoul/Busan free public sites** whose official VISITKOREA destination pages list Fees: Free (Seoullo 7017, World Cup Park, Namsan Park grounds, Tapgol, Ttukseom Hangang, Banpo Seoraeseom, Bukchon Cultural Center, Independence Park grounds, Montmartre Park, Jingwansa, HiKR Ground, Royal Guard Changing Ceremony, Cheonggyecheon Old Books Street, Ssamzigil, Gwangalli Beach, Millak Waterfront Park, Dongbaekseom trail, Nakdong Eco-Center, Geumgang Park grounds, Dalmaji Road).
+- **Not added:** National Hangeul Museum (officially closed for fire restoration and expansion). N Seoul Tower, Namsan cable, Geumgang cable, Seodaemun Prison Museum, and Some Sevit remain paid and were not labelled free.
+- Still **no official product-level BOGO**.
+
+## 2026-08-28 — v5.11.0 City-tour partner discount sweep (20 verified records)
+- Added **20 Seoul/Busan promotional discounts** copied from the official Seoul City Tour Bus affiliate page and the official Busan City Tour discount page. All require a same-day boarding ticket (Seoul) or BUTI bracelet shown before purchase (Busan). Gift-with-purchase rows are labelled as such, not as BOGO.
+- **Not added:** Skyline Luge (Gijang), Songdo cable car (English page mislabels the row as BUSAN AR CRUSE), Hotel Adella rooms, surf-school 10 percent (November swimming season is over), Korea Tour Card adult fare that is **higher** than the normal adult fare.
+- **Irregularities flagged:** Busan English page still mislabels venues; Korea Tour Card adult 18000 vs normal 15000; night-view tour excluded from all Busan partner discounts.
+
+## 2026-08-28 — v5.10.0 Second free-admission sweep (20 verified records)
+- Added **20 Seoul/Busan records** after opening the official Visit Seoul or Visit Busan page for each: Leeum M1 free collection plus free digital-guide rental with passport, Cheongwadae Sarangchae, Children's Folk Museum, Naksan Park, Gwanghwamun Square, Olympic Park, Bukhansan, Cheonggye Soul Ocean (May 15–Dec 31 2026), Yeouido Hangang Park, Hangang Art Park, Maeheon Citizens Forest, Seoul Forest, Haeundae/Dadaepo/Songdo beaches, Igidae Coastal Trail, Amnam Park, Hwamyeong Eco Park, and Dadaepo Beach Park.
+- **Not added:** N Seoul Tower VISITKOREA bundle (2025 event page, no 2026 validity window), Gwanghwamun Outdoor Library 2024 (ended 2024-11-10), Dadaepo Sunset Fountain (season ends September), Songdo cable car, Skyline Luge (paid, Gijang), Jagalchi (fees differ by store), National Hangeul Museum (prior official listing closed through 2028).
+- **Irregularities flagged:** palace Culture Day last-Wednesday vs every-Wednesday contradiction remains open; Bukhansan last-entry hours need a November trail-closure check; Haeundae "09:00–18:00" is the tourist-office line not a beach lockout.
+
+## 2026-08-28 — v5.9.0 Promotion sweep and full registry audit (20 verified records)
+- Added **20 Seoul/Busan records** built around free, BOGO-adjacent, welcome/sign-up and first-time promotional terms: six KTO VISITKOREA partner offers (The Painters 30% + gift set, Jinyeon 20% + pouch, Rakkojae 10% `VK2026`, Wehome 5% `VK2026`, Motorstudio Seoul lounge, Busan Yacht Tale 20%/10%), three royal-palace free-admission rules (full hanbok at Changdeokgung/Deoksugung/Changgyeonggung, foreigners 18-and-under or 65-and-over, Culture Day), two free Seoul venues (Unhyeongung, Namsangol), the Lotte Tourist Membership sign-up, the Visit Busan Pass re-visit reward, and five Seoul/Busan city-tour partner discounts.
+- Registered the six new source domains in `data/source-policy.csv` and added visible `deal_id` rows plus per-record terms and manual links in `docs/core-deal-index.md` and `docs/verification-log.md`.
+- **Corrections, all visible:** `SEOUL-TOUR-TIGERBUS` 20% headline replaced with the published 10–25% day-of-boarding terms and moved off a redirecting domain; `SEOUL-SALEFESTA` source domain found serving an unrelated login page, so the record now cites the government briefing and holds at live-check; `NATIONWIDE-SHINSEGAE-VK` gained the omitted CHICOR voucher tier; `SEOUL-GARDEN-SHOW-2026` flagged as closing 2026-10-27, four days before arrival; three Busan lookout records de-shared onto the English official page with the Songdo Cloud Trails naming fix; `BUSAN-PASS-VBP` pointer to its dead event citation.
+- **Re-labelled 16 unsupported claims** in `docs/signup-welcome-deals.md` (8 KakaoTalk channel rows), `docs/verification-log.md` (4 cells), `docs/birthday-freebies.md` (2), `docs/us-tourist-action-plan.md` (1) and `docs/tourist-promotions.md` (1).
+- **Not added, with reasons recorded in the discovery queue:** Seoulland, SONO Busan properties, Motorstudio Goyang, Snoopy Garden (all outside Seoul/Busan), Welcome Week 2026, Seoul Beauty Week 2026, BOF 2026, the express-bus foreigner fare window, the 2025 Grand Sale offers, and 11 city-bus partner items gated on a paid same-day ticket. No official product-level BOGO for the trip window exists in any source opened.
+- New `docs/audit-2026-08-28.md` carries the line-by-line review of all 166 records, the verification method (including what the sandbox network could not prove), and **14 irregularities for review** such as the Culture Day contradiction between two official pages and 126 rows sharing one blanket recheck date.
+
+
 ## 2026-08-21 — v5.8.0 Second official Seoul/Busan expansion (20 verified records)
 - Added **20 more Seoul/Busan records**: free museum days, free galleries, current free SeMA exhibitions, public cultural venues, temples, parks, and the North Port promotion hall.
 - Verified all new terms against official Seoul Tourism, Seoul museum, Busan city, or Visit Busan pages; no new secondary source or unsupported BOGO SKU was promoted.

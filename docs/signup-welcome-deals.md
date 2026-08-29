@@ -28,18 +28,20 @@ Instead of downloading native Korean apps that block US phone numbers with `본�
 
 | Brand | Search this in KakaoTalk | Coupon style | Confidence |
 | --- | --- | --- | --- |
-| Burger King | `@버거킹` | Combo upgrades, ₩1,000–3,000 off sets | 🟢 |
-| KFC Korea | `@KFC코리아` | Bucket discounts, combo upgrades | 🟢 |
-| Lotteria | `@롯데리아` | Bulgogi/shrimp burger barcodes | 🟢 |
-| Baskin Robbins | `@배스킨라빈스` | Monthly coupons, 1+1 scoops | 🟢 |
-| Dunkin | `@던킨` | 1+1 drinks/donuts | 🟢 |
-| Paris Baguette | `@파리바게뜨` | Bakery/cake discount coupons | 🟢 |
-| Tous Les Jours | `@뚜레쥬르` | Bakery discount coupons | 🟢 |
+| Burger King | `@버거킹` | Combo upgrades, ₩1,000–3,000 off sets | 🟡 in-app check |
+| KFC Korea | `@KFC코리아` | Bucket discounts, combo upgrades | 🟡 in-app check |
+| Lotteria | `@롯데리아` | Bulgogi/shrimp burger barcodes | 🟡 in-app check |
+| Baskin Robbins | `@배스킨라빈스` | Monthly coupons, 1+1 scoops | 🟡 in-app check |
+| Dunkin | `@던킨` | 1+1 drinks/donuts | 🟡 in-app check |
+| Paris Baguette | `@파리바게뜨` | Bakery/cake discount coupons | 🟡 in-app check |
+| Tous Les Jours | `@뚜레쥬르` | Bakery discount coupons | 🟡 in-app check |
 | Nene Chicken | `@네네치킨` | ₩3,000–7,000 off events (app-member caveats) | 🟢 [channel](https://pf.kakao.com/_xnWtrd) |
 | BBQ Chicken | `@BBQ치킨` | App-driven "half chicken more" promos | 🟡 [asiae](https://www.asiae.co.kr/article/2026051321122045703) |
-| Mom's Touch | `@맘스터치` | New-menu/combos (walk-in set is cheap anyway) | 🟢 |
+| Mom's Touch | `@맘스터치` | New-menu/combos (walk-in set is cheap anyway) | 🟡 in-app check |
 | Kyochon Chicken | search `교촌치킨` | Seasonal chicken coupons | 🟡 (verify exact ID in-app) |
 | Gong cha | search `공차` | Drink coupons | 🟡 (verify exact ID in-app) |
+
+> ⚠️ **Review change, 2026-08-28:** the eight rows above that carried no source link previously wore a 🟢 official badge. Following a KakaoTalk brand channel is real and free, but no official English page publishes these coupon values, the offers rotate monthly, and several need app membership or `본인인증`. They are now marked 🟡 in-app check, meaning: confirm the live coupon inside KakaoTalk on the day before planning around it. Nene Chicken and BBQ keep their 🟢/🟡 links because those pages were opened.
 | Mega / Compose / Paik's Coffee | search `메가커피` / `컴포즈커피` / `빽다방` | Drink promos (prices are already ~₩1,500–2,000) | 🟡 (verify exact ID in-app) |
 
 > ⚠️ **Note:** brand channel IDs occasionally change. If a search doesn't find the exact `@` ID above, search the **brand name** (e.g., "교촌치킨") and pick the channel with the **verified (파란 체크) badge**. All channels work from a US KakaoTalk account — no Korean phone needed.

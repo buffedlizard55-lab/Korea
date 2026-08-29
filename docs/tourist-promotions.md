@@ -127,7 +127,7 @@ These platforms sell discounted Korean restaurant vouchers, celebratory birthday
 
 | Platform | Food-Deal Highlights for US Citizens | Link | Trust & ID Check |
 | --- | --- | --- | --- |
-| **Klook** | • **Shuttle Delivery e-gift vouchers at an exclusive discount** (check current % at booking)<br>• Premium Korean BBQ (Hanwoo beef) & high-end seafood buffets<br>• Periodic app promo codes for first-time bookers | [Shuttle voucher](https://www.klook.com/activity/120381-food-delivery-in-korea/) · [Korea dining](https://www.klook.com/en-SG/destination/35-south-korea/) | 🟢 **100% Tourist**<br>*(Show QR code voucher; zero ID check)* |
+| **Klook** | • **Shuttle Delivery e-gift vouchers at an exclusive discount** (check current % at booking)<br>• Premium Korean BBQ (Hanwoo beef) & high-end seafood buffets<br>• Periodic app promo codes for first-time bookers | [Shuttle voucher](https://www.klook.com/activity/120381-food-delivery-in-korea/) · [Korea dining](https://www.klook.com/en-SG/destination/35-south-korea/) | 🟡 **Tourist-friendly**<br>*(Show the QR voucher; the platform listing reports no ID check, which the venue itself does not publish — confirm at pickup)* |
 | **Creatrip** | • English food guides with exclusive partner-store discount coupons (Myeongdong, Hongdae, Gangnam cafes & BBQ spots) | <https://www.creatrip.com> | 🟡 Partner discounts |
 | **KKday** | • Discounted Seoul & Busan dining tickets; celebratory cake pre-orders | <https://www.kkday.com> | 🟡 QR code redemption |
 | **Trazy** | • Local food market experiences, brewery tours, and seasonal dining promotions | <https://www.trazy.com> | 🟡 English-first platform |
